@@ -1,0 +1,1409 @@
+{
+    "work": {
+        "id": "a92ad8ad-34f4-3af3-b708-c6100eed2bc5",
+        "type": "Song",
+        "title": "Misery",
+        "language": "eng",
+        "iswc": "T-010.163.369-5",
+        "iswc-list": [
+            "T-010.163.369-5"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000218 009 23"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "33237"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "75383658"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78200377200"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "24.644"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357960"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357960"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "210557"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3352688"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009503996"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "65 780 503 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "009760600"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "17059H"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0M2-6190-9"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "648369-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "63961"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11269649"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965940"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000078937"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "430157234"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02257043"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9262684"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243330"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "3877901"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6281655"
+            },
+            {
+                "attribute": "Key",
+                "value": "C major"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "996416"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "begin": "1963-01-26",
+                "end": "1963-01-26",
+                "ended": "true",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "begin": "1963-01-26",
+                "end": "1963-01-26",
+                "ended": "true",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "5dfaee65-164e-43d4-b43b-381439541fdd",
+                "direction": "backward",
+                "label": {
+                    "id": "5dfaee65-164e-43d4-b43b-381439541fdd",
+                    "type": "Publisher",
+                    "name": "Gil Music Corporation",
+                    "sort-name": "Gil Music Corporation"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "49375f06-59e2-4c94-93ac-ac0c6df52151",
+                "direction": "backward",
+                "label": {
+                    "id": "49375f06-59e2-4c94-93ac-ac0c6df52151",
+                    "type": "Publisher",
+                    "name": "MCA Music",
+                    "sort-name": "MCA Music",
+                    "disambiguation": "not for release label use! this is a music publisher, ASCAP-affiliated"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2c44d9d-171a-4432-a95a-59d298704019",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "b2c44d9d-171a-4432-a95a-59d298704019",
+                    "title": "Misery (studio outtake / take 1)",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2a5bc77-7abd-44cb-903b-806b2b7bdf90",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "c2a5bc77-7abd-44cb-903b-806b2b7bdf90",
+                    "title": "Misery (studio outtake / take 7)",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46ef1c55-7ae1-43a2-965e-8710d7148db9",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "46ef1c55-7ae1-43a2-965e-8710d7148db9",
+                    "title": "Misery (take 1 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3d3745f-51e3-4f59-afca-da1988c8f369",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "f3d3745f-51e3-4f59-afca-da1988c8f369",
+                    "title": "Misery (take 1: 1963-02-11)",
+                    "length": "115253"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "349d6ebd-9561-429d-98c8-3f01801e2fd9",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "349d6ebd-9561-429d-98c8-3f01801e2fd9",
+                    "title": "Misery (take 2 - False Start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea2d818a-f656-483b-8a5b-19c8754b7eff",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "ea2d818a-f656-483b-8a5b-19c8754b7eff",
+                    "title": "Misery (take 3 - False Start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1cd3040-5e92-407a-8610-4788ec319527",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "f1cd3040-5e92-407a-8610-4788ec319527",
+                    "title": "Misery (take 4 - False Start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9079d424-af20-47f0-a2b6-bacc914e3b7a",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "9079d424-af20-47f0-a2b6-bacc914e3b7a",
+                    "title": "Misery (take 5 - False Start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e595043f-7b19-47d8-8298-638cfa1c5d2a",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "e595043f-7b19-47d8-8298-638cfa1c5d2a",
+                    "title": "Misery (take 6 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42540af7-aeba-4448-ad2b-212be021bb9c",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "42540af7-aeba-4448-ad2b-212be021bb9c",
+                    "title": "Misery (take 7 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14490861-7de8-43e4-8b56-4b1986a37631",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "14490861-7de8-43e4-8b56-4b1986a37631",
+                    "title": "Misery (take 8 - False Start)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9e0df0a-92a5-418b-89ed-edf6a07eb9a5",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "c9e0df0a-92a5-418b-89ed-edf6a07eb9a5",
+                    "title": "Misery (takes 2-6)",
+                    "length": "289666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ba41eb2-5338-4107-a6c4-5b0c52d20555",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-11",
+                "ended": "true",
+                "recording": {
+                    "id": "7ba41eb2-5338-4107-a6c4-5b0c52d20555",
+                    "title": "Misery (takes 7-8)",
+                    "length": "140746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ea68619-c8c8-494c-9ea1-4f52bc390bf5",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "0ea68619-c8c8-494c-9ea1-4f52bc390bf5",
+                    "title": "Misery",
+                    "length": "110000",
+                    "disambiguation": "1980 Capitol stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd80145d-f897-4469-a7d5-cedc6d83b816",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "cd80145d-f897-4469-a7d5-cedc6d83b816",
+                    "title": "Misery",
+                    "length": "108547",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c91fd146-01cb-4673-b653-d0845c05e164",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "c91fd146-01cb-4673-b653-d0845c05e164",
+                    "title": "Misery",
+                    "length": "111000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5b2c4ce-4c7d-4fa9-99ab-96cc10e767f1",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "b5b2c4ce-4c7d-4fa9-99ab-96cc10e767f1",
+                    "title": "Misery",
+                    "length": "105000",
+                    "disambiguation": "alternate mono mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d3354d9-badc-44b8-8a92-c9f3508485c0",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "8d3354d9-badc-44b8-8a92-c9f3508485c0",
+                    "title": "Misery (RM take 16)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe7680c5-d969-47cc-9fe6-2331624d2a3c",
+                "direction": "backward",
+                "begin": "1963-02-11",
+                "end": "1963-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "fe7680c5-d969-47cc-9fe6-2331624d2a3c",
+                    "title": "Misery (RS take 16)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e2a7ecc-e445-4bb1-a62f-4756c69dcd7d",
+                "direction": "backward",
+                "begin": "1963-03-06",
+                "end": "1963-03-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3e2a7ecc-e445-4bb1-a62f-4756c69dcd7d",
+                    "title": "Misery",
+                    "length": "109573",
+                    "disambiguation": "live, 1963\u201003\u201006: Playhouse Theatre, Manchester, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe980bd5-c0a0-4189-82ad-c6c762551e45",
+                "direction": "backward",
+                "begin": "1963-03-06",
+                "end": "1963-03-06",
+                "ended": "true",
+                "recording": {
+                    "id": "fe980bd5-c0a0-4189-82ad-c6c762551e45",
+                    "title": "Misery (1963-03-06)",
+                    "length": "133466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc6f4041-1b4b-4453-a698-7edc8844b2cb",
+                "direction": "backward",
+                "begin": "1963-03-06",
+                "end": "1963-03-06",
+                "ended": "true",
+                "recording": {
+                    "id": "bc6f4041-1b4b-4453-a698-7edc8844b2cb",
+                    "title": "Misery (1963-03-06)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a33162bf-f3fa-4e3f-84fc-6780b7c0ffed",
+                "direction": "backward",
+                "begin": "1963-03-16",
+                "end": "1963-03-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a33162bf-f3fa-4e3f-84fc-6780b7c0ffed",
+                    "title": "Misery",
+                    "length": "105800",
+                    "disambiguation": "live, 1963\u201003\u201016: Broadcasting House, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3342268-c52a-485d-8297-b3ca8e09427c",
+                "direction": "backward",
+                "begin": "1963-03-16",
+                "end": "1963-03-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e3342268-c52a-485d-8297-b3ca8e09427c",
+                    "title": "Misery",
+                    "length": "156333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3d51a9a-f542-4d65-af95-22202e5d12ea",
+                "direction": "backward",
+                "begin": "1963-03-16",
+                "end": "1963-03-16",
+                "ended": "true",
+                "recording": {
+                    "id": "d3d51a9a-f542-4d65-af95-22202e5d12ea",
+                    "title": "Misery (1963-03-16)",
+                    "length": "108013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "feacdbf9-406c-457d-af06-0e39c7c351d4",
+                "direction": "backward",
+                "begin": "1963-03-16",
+                "end": "1963-03-16",
+                "ended": "true",
+                "recording": {
+                    "id": "feacdbf9-406c-457d-af06-0e39c7c351d4",
+                    "title": "Misery (1963-03-16)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a9afb3c-7513-456b-8867-de6f0f51b735",
+                "direction": "backward",
+                "recording": {
+                    "id": "9a9afb3c-7513-456b-8867-de6f0f51b735",
+                    "title": "Misery",
+                    "length": "106000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f0552a7-56ed-42c0-a79e-2b09405308bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9f0552a7-56ed-42c0-a79e-2b09405308bb",
+                    "title": "Misery",
+                    "length": "133000",
+                    "disambiguation": "live, 1963\u201003\u201006: Playhouse Theatre, Manchester, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "117dcf10-7baa-4e42-ab86-e76981ce3009",
+                "direction": "backward",
+                "recording": {
+                    "id": "117dcf10-7baa-4e42-ab86-e76981ce3009",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "999438bf-461a-43ec-af31-d999b21875bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "999438bf-461a-43ec-af31-d999b21875bb",
+                    "title": "Misery",
+                    "length": "106000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "217e1e46-ec7b-480e-9df3-669229e62b85",
+                "direction": "backward",
+                "recording": {
+                    "id": "217e1e46-ec7b-480e-9df3-669229e62b85",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "768351a1-94c8-4290-a0f2-608bd2967e04",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "768351a1-94c8-4290-a0f2-608bd2967e04",
+                    "title": "Misery",
+                    "length": "109000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53ee7276-a236-44bc-b3a9-612c72d3a753",
+                "direction": "backward",
+                "recording": {
+                    "id": "53ee7276-a236-44bc-b3a9-612c72d3a753",
+                    "title": "Misery",
+                    "length": "110640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f7bc489-2934-4fe8-a632-b3b539d1aafe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3f7bc489-2934-4fe8-a632-b3b539d1aafe",
+                    "title": "Misery",
+                    "length": "122000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8c3bc00-9180-4f1a-8012-fab9b577bed6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8c3bc00-9180-4f1a-8012-fab9b577bed6",
+                    "title": "Misery",
+                    "length": "116267"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b91f7f4-6251-4181-9b77-cc4db93d7a50",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8b91f7f4-6251-4181-9b77-cc4db93d7a50",
+                    "title": "Misery",
+                    "length": "99800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5cb109e0-0b46-4b0a-b0af-d31ea1ecd2f4",
+                "direction": "backward",
+                "recording": {
+                    "id": "5cb109e0-0b46-4b0a-b0af-d31ea1ecd2f4",
+                    "title": "Misery",
+                    "length": "109773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea428255-505b-473b-b19a-33f800f3058a",
+                "direction": "backward",
+                "recording": {
+                    "id": "ea428255-505b-473b-b19a-33f800f3058a",
+                    "title": "Misery",
+                    "length": "300666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cdb0cb0-92bb-4237-8862-3cd9c0b7383f",
+                "direction": "backward",
+                "recording": {
+                    "id": "3cdb0cb0-92bb-4237-8862-3cd9c0b7383f",
+                    "title": "Misery",
+                    "length": "111333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15184dcc-449b-435a-b560-3a86fa7e19f7",
+                "direction": "backward",
+                "recording": {
+                    "id": "15184dcc-449b-435a-b560-3a86fa7e19f7",
+                    "title": "Misery",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32fc40a2-028c-49c8-a5b5-f8b22f706607",
+                "direction": "backward",
+                "recording": {
+                    "id": "32fc40a2-028c-49c8-a5b5-f8b22f706607",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "469bb8b4-2e71-4643-8ff5-ac81d56cf7ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "469bb8b4-2e71-4643-8ff5-ac81d56cf7ae",
+                    "title": "Misery",
+                    "length": "110000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b29307e8-1fbd-467a-93d3-83df5045189d",
+                "direction": "backward",
+                "recording": {
+                    "id": "b29307e8-1fbd-467a-93d3-83df5045189d",
+                    "title": "Misery",
+                    "length": "114093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "116cc07a-ffec-4245-b325-b2c1924b92c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "116cc07a-ffec-4245-b325-b2c1924b92c1",
+                    "title": "Misery",
+                    "length": "110000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1608411-fae7-425f-a312-1730755412c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a1608411-fae7-425f-a312-1730755412c1",
+                    "title": "Misery"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ad64de3-dc82-474e-96d6-7de7163d5efe",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ad64de3-dc82-474e-96d6-7de7163d5efe",
+                    "title": "Misery"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b1e2612-bf0a-471f-ac0c-c89b8a22252b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3b1e2612-bf0a-471f-ac0c-c89b8a22252b",
+                    "title": "Misery"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5df0a8e5-7b56-4e8a-bed4-7e5ef94006c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "5df0a8e5-7b56-4e8a-bed4-7e5ef94006c7",
+                    "title": "Misery",
+                    "length": "110000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9586ee20-8cf5-4b77-9e12-6ab31bd259ec",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9586ee20-8cf5-4b77-9e12-6ab31bd259ec",
+                    "title": "Misery",
+                    "length": "113266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0293ead4-1615-41d8-a0c5-d365b5785992",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0293ead4-1615-41d8-a0c5-d365b5785992",
+                    "title": "Misery",
+                    "length": "104666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b72ef69-8b99-4825-baa1-2ce8bd02d837",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1b72ef69-8b99-4825-baa1-2ce8bd02d837",
+                    "title": "Misery",
+                    "length": "99000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99cf31f6-857b-458d-b9f0-83f51ec8cd55",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "99cf31f6-857b-458d-b9f0-83f51ec8cd55",
+                    "title": "Misery",
+                    "length": "199226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e36ef53e-60ca-4788-833c-87f80927f4d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e36ef53e-60ca-4788-833c-87f80927f4d0",
+                    "title": "Misery"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "259a53c3-159e-4ffe-bc01-810b71687152",
+                "direction": "backward",
+                "recording": {
+                    "id": "259a53c3-159e-4ffe-bc01-810b71687152",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba79f518-4192-4cf1-8445-e3fd6d75e144",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba79f518-4192-4cf1-8445-e3fd6d75e144",
+                    "title": "Misery",
+                    "length": "90000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5145b461-e6f2-482d-b92e-0d9a71a6b7ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5145b461-e6f2-482d-b92e-0d9a71a6b7ac",
+                    "title": "Misery",
+                    "length": "125852"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48894897-b2e7-4825-88da-88d0bb1944ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "48894897-b2e7-4825-88da-88d0bb1944ab",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a629e2b1-af43-4796-af03-7db31b224a6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "a629e2b1-af43-4796-af03-7db31b224a6b",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a24e9904-063a-4a05-8dbc-f989310c66c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a24e9904-063a-4a05-8dbc-f989310c66c6",
+                    "title": "Misery",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10ebe5ab-328c-4ef6-98e5-85c64c97fe7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "10ebe5ab-328c-4ef6-98e5-85c64c97fe7f",
+                    "title": "Misery"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3435356f-ba45-42f4-a1b3-29eed45e706d",
+                "direction": "backward",
+                "recording": {
+                    "id": "3435356f-ba45-42f4-a1b3-29eed45e706d",
+                    "title": "Misery",
+                    "length": "408000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bb3b8a6-5b6a-43b8-915e-ed7f82b99ef4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2bb3b8a6-5b6a-43b8-915e-ed7f82b99ef4",
+                    "title": "Misery",
+                    "length": "113000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91c397b8-a577-4bf8-ba24-1a915bcef66f",
+                "direction": "backward",
+                "recording": {
+                    "id": "91c397b8-a577-4bf8-ba24-1a915bcef66f",
+                    "title": "Misery",
+                    "length": "112000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25f4061c-9cb0-43c0-a5ab-93a4a7b6acbf",
+                "direction": "backward",
+                "recording": {
+                    "id": "25f4061c-9cb0-43c0-a5ab-93a4a7b6acbf",
+                    "title": "Misery (mono)",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de201b7d-269a-4a57-b395-4fecca1476f4",
+                "direction": "backward",
+                "recording": {
+                    "id": "de201b7d-269a-4a57-b395-4fecca1476f4",
+                    "title": "Misery (take 1)",
+                    "length": "109000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49672067-c48c-4b0d-a359-2b687f0d600b",
+                "direction": "backward",
+                "recording": {
+                    "id": "49672067-c48c-4b0d-a359-2b687f0d600b",
+                    "title": "Misery (take 1)",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a627d431-64c1-4221-afe9-401615f64940",
+                "direction": "backward",
+                "recording": {
+                    "id": "a627d431-64c1-4221-afe9-401615f64940",
+                    "title": "Misery (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d891ea77-f3a2-457a-9313-fd139138654d",
+                "direction": "backward",
+                "recording": {
+                    "id": "d891ea77-f3a2-457a-9313-fd139138654d",
+                    "title": "Misery (take 1)",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19cab494-5c64-4ded-a537-f68693222044",
+                "direction": "backward",
+                "recording": {
+                    "id": "19cab494-5c64-4ded-a537-f68693222044",
+                    "title": "Misery (take 1)",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2afa1348-1099-4e1c-8feb-e8ea5711da17",
+                "direction": "backward",
+                "recording": {
+                    "id": "2afa1348-1099-4e1c-8feb-e8ea5711da17",
+                    "title": "Misery (take 2 & 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c75fa58-a53d-4ff4-ae0b-d1bd5b6e26b4",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c75fa58-a53d-4ff4-ae0b-d1bd5b6e26b4",
+                    "title": "Misery (take 2, 3, 4, 5, 6)",
+                    "length": "298493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1b51b47-f5b2-415c-b19d-3377ae57645e",
+                "direction": "backward",
+                "recording": {
+                    "id": "c1b51b47-f5b2-415c-b19d-3377ae57645e",
+                    "title": "Misery (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e1e9a97-1de9-40fc-939b-6d1f26005748",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e1e9a97-1de9-40fc-939b-6d1f26005748",
+                    "title": "Misery (take 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9734da3e-0483-4229-a21a-524268fc48c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "9734da3e-0483-4229-a21a-524268fc48c3",
+                    "title": "Misery (take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f05dd3ce-793c-4d32-8334-de574b3c7895",
+                "direction": "backward",
+                "recording": {
+                    "id": "f05dd3ce-793c-4d32-8334-de574b3c7895",
+                    "title": "Misery (take 5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2617223-6c89-4a7f-82d4-3c5610d21c14",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2617223-6c89-4a7f-82d4-3c5610d21c14",
+                    "title": "Misery (take 6)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6370d59-f6ce-47b4-b867-b28de5c534fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "d6370d59-f6ce-47b4-b867-b28de5c534fb",
+                    "title": "Misery (take 6)",
+                    "length": "113213"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ca4d5f6-2b7a-44d8-a1b5-8a38e5443129",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ca4d5f6-2b7a-44d8-a1b5-8a38e5443129",
+                    "title": "Misery (take 7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d531f62b-bf9a-4827-bfe8-426d7e8814e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "d531f62b-bf9a-4827-bfe8-426d7e8814e3",
+                    "title": "Misery (take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ff12d6d-4026-409d-a258-8307e10b191e",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ff12d6d-4026-409d-a258-8307e10b191e",
+                    "title": "Misery (takes 1-6)",
+                    "length": "408573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88f9a074-d955-4755-befb-36cd9565d0fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "88f9a074-d955-4755-befb-36cd9565d0fd",
+                    "title": "Misery (takes 2\u20136)",
+                    "length": "291000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe17658a-e11b-4b8b-aa9e-90ce66e2c331",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe17658a-e11b-4b8b-aa9e-90ce66e2c331",
+                    "title": "Misery (takes 2/3/4/5/6)",
+                    "length": "291000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1b33af4-de5f-41f3-8be8-309d8b47eb07",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1b33af4-de5f-41f3-8be8-309d8b47eb07",
+                    "title": "Misery (takes 7, 8)",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e80bbac5-e1a3-4db5-ac48-5d85c2dc634c",
+                "direction": "backward",
+                "recording": {
+                    "id": "e80bbac5-e1a3-4db5-ac48-5d85c2dc634c",
+                    "title": "Misery (takes 7/8)",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14b206b1-9598-47e7-9022-2566b69ba547",
+                "direction": "backward",
+                "recording": {
+                    "id": "14b206b1-9598-47e7-9022-2566b69ba547",
+                    "title": "Mistery",
+                    "length": "109146"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100443",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-misery-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/3635",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=3",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q783912",
+                "direction": "backward"
+            }
+        ]
+    }
+}

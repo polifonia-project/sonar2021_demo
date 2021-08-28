@@ -1,0 +1,643 @@
+{
+    "work": {
+        "id": "5dbea680-ae2f-30ad-bcb0-178270584d23",
+        "type": "Song",
+        "title": "The Preacher",
+        "language": "eng",
+        "iswc": "T-901.295.250-0",
+        "iswc-list": [
+            "T-901.295.250-0"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Preacher",
+                "alias": "Preacher"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
+                "direction": "backward",
+                "artist": {
+                    "id": "d185d986-ee96-4fd3-bd61-8c848a4765b6",
+                    "type": "Person",
+                    "name": "Horace Silver",
+                    "sort-name": "Silver, Horace"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "3b451321-9cd1-470f-8e41-02b6ad8e7135",
+                "direction": "backward",
+                "artist": {
+                    "id": "3b451321-9cd1-470f-8e41-02b6ad8e7135",
+                    "type": "Person",
+                    "name": "Babs Gonzales",
+                    "sort-name": "Gonzales, Babs"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7ff468d-f263-41a4-b644-a935f9290f1c",
+                "direction": "backward",
+                "begin": "1955-02-06",
+                "end": "1955-02-06",
+                "ended": "true",
+                "recording": {
+                    "id": "c7ff468d-f263-41a4-b644-a935f9290f1c",
+                    "title": "The Preacher",
+                    "length": "258066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8d25fff-0104-47c5-a427-0fb800ef3c7e",
+                "direction": "backward",
+                "begin": "1956-02-18",
+                "end": "1956-02-18",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e8d25fff-0104-47c5-a427-0fb800ef3c7e",
+                    "title": "The Preacher",
+                    "length": "274906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c181698b-53f6-43b6-9a99-27ee7cd44707",
+                "direction": "backward",
+                "begin": "1956-08-04",
+                "end": "1956-08-04",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c181698b-53f6-43b6-9a99-27ee7cd44707",
+                    "title": "The Preacher",
+                    "length": "706000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "497fde5d-1c4e-48b3-801c-ad79d6d7dc2f",
+                "direction": "backward",
+                "begin": "1956-08-04",
+                "end": "1956-08-04",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "497fde5d-1c4e-48b3-801c-ad79d6d7dc2f",
+                    "title": "The Preacher",
+                    "length": "720000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3628e06-7983-48b7-9533-6a247db0d915",
+                "direction": "backward",
+                "begin": "1957-06",
+                "end": "1957-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b3628e06-7983-48b7-9533-6a247db0d915",
+                    "title": "The Preacher",
+                    "length": "447000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "256609ae-4d12-4703-98a4-92b9a27864b6",
+                "direction": "backward",
+                "begin": "1957-12-05",
+                "end": "1957-12-05",
+                "ended": "true",
+                "recording": {
+                    "id": "256609ae-4d12-4703-98a4-92b9a27864b6",
+                    "title": "The Preacher",
+                    "length": "390266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6199a39-c87f-4efb-a716-ca1f6d96251c",
+                "direction": "backward",
+                "begin": "1961-11-17",
+                "end": "1961-11-17",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b6199a39-c87f-4efb-a716-ca1f6d96251c",
+                    "title": "The Preacher",
+                    "length": "317000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98c2c0e4-deae-486a-85ae-c3fff073071d",
+                "direction": "backward",
+                "begin": "1963-01-15",
+                "end": "1963-01-15",
+                "ended": "true",
+                "recording": {
+                    "id": "98c2c0e4-deae-486a-85ae-c3fff073071d",
+                    "title": "The Preacher"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c24528d-eb3a-474f-b64f-991c919d083f",
+                "direction": "backward",
+                "begin": "1963-03-15",
+                "end": "1963-03-20",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3c24528d-eb3a-474f-b64f-991c919d083f",
+                    "title": "The Preacher",
+                    "length": "376626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c24528d-eb3a-474f-b64f-991c919d083f",
+                "direction": "backward",
+                "begin": "1963-03-15",
+                "end": "1963-03-20",
+                "ended": "true",
+                "recording": {
+                    "id": "3c24528d-eb3a-474f-b64f-991c919d083f",
+                    "title": "The Preacher",
+                    "length": "376626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c24528d-eb3a-474f-b64f-991c919d083f",
+                "direction": "backward",
+                "begin": "1963-03",
+                "end": "1963-03",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3c24528d-eb3a-474f-b64f-991c919d083f",
+                    "title": "The Preacher",
+                    "length": "376626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a20dcbc4-f251-4652-aee2-ef1e49a4d1bb",
+                "direction": "backward",
+                "begin": "1965-07-28",
+                "end": "1965-07-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a20dcbc4-f251-4652-aee2-ef1e49a4d1bb",
+                    "title": "The Preacher",
+                    "length": "270866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8918249c-781f-44d2-b07f-9cc818dad00a",
+                "direction": "backward",
+                "begin": "1967-12-15",
+                "end": "1968-02-19",
+                "ended": "true",
+                "recording": {
+                    "id": "8918249c-781f-44d2-b07f-9cc818dad00a",
+                    "title": "Preacher",
+                    "length": "180160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ce99c1f-fd89-4fdb-b6b9-7818ca23748d",
+                "direction": "backward",
+                "begin": "1969-10-29",
+                "end": "1969-10-29",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9ce99c1f-fd89-4fdb-b6b9-7818ca23748d",
+                    "title": "The Preacher",
+                    "length": "417266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaa72e1a-5bfe-4146-a7fa-558a4b88582d",
+                "direction": "backward",
+                "begin": "1993-12-24",
+                "end": "1993-12-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "aaa72e1a-5bfe-4146-a7fa-558a4b88582d",
+                    "title": "The Preacher",
+                    "length": "351666",
+                    "disambiguation": "live, 1993-12-24/25: Kirin Plaza, Osaka, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a3b9641-9dcf-4013-b7fb-1a27488585c2",
+                "direction": "backward",
+                "begin": "1998-05-27",
+                "end": "1998-05-27",
+                "ended": "true",
+                "recording": {
+                    "id": "2a3b9641-9dcf-4013-b7fb-1a27488585c2",
+                    "title": "The Preacher",
+                    "length": "345000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "415f7991-040c-4c90-ba93-9f4e44d745e9",
+                "direction": "backward",
+                "begin": "1998-11",
+                "end": "1998-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "415f7991-040c-4c90-ba93-9f4e44d745e9",
+                    "title": "The Preacher",
+                    "length": "390000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94463122-9cc2-4d00-982b-a904872ba4a3",
+                "direction": "backward",
+                "begin": "2011",
+                "end": "2011",
+                "ended": "true",
+                "recording": {
+                    "id": "94463122-9cc2-4d00-982b-a904872ba4a3",
+                    "title": "The Preacher",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4aad012-4c3f-4c10-9790-33e361775da9",
+                "direction": "backward",
+                "recording": {
+                    "id": "b4aad012-4c3f-4c10-9790-33e361775da9",
+                    "title": "Preacher",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37bfd45a-5299-42e6-a66a-654e912933a4",
+                "direction": "backward",
+                "recording": {
+                    "id": "37bfd45a-5299-42e6-a66a-654e912933a4",
+                    "title": "The Preacher",
+                    "length": "304106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0766a4a6-c06a-4002-a489-4b955e71f27b",
+                "direction": "backward",
+                "recording": {
+                    "id": "0766a4a6-c06a-4002-a489-4b955e71f27b",
+                    "title": "The Preacher",
+                    "length": "138960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaeafc51-e4bb-4bb1-b98c-7a3bb90c9389",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "aaeafc51-e4bb-4bb1-b98c-7a3bb90c9389",
+                    "title": "The Preacher",
+                    "length": "258533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e81abd31-1dbe-4992-8e32-53040685b242",
+                "direction": "backward",
+                "recording": {
+                    "id": "e81abd31-1dbe-4992-8e32-53040685b242",
+                    "title": "The Preacher",
+                    "length": "141040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69b4fdb6-f00a-4377-9cf8-c693395ec204",
+                "direction": "backward",
+                "recording": {
+                    "id": "69b4fdb6-f00a-4377-9cf8-c693395ec204",
+                    "title": "The Preacher",
+                    "length": "279000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e506e77f-f068-4988-8b91-0ef53e472f22",
+                "direction": "backward",
+                "recording": {
+                    "id": "e506e77f-f068-4988-8b91-0ef53e472f22",
+                    "title": "The Preacher",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c6e82c0-1a03-41f1-a4c2-5e6277fcd654",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2c6e82c0-1a03-41f1-a4c2-5e6277fcd654",
+                    "title": "The Preacher",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "012a6b37-df04-450a-9040-f6dbf8468fb2",
+                "direction": "backward",
+                "recording": {
+                    "id": "012a6b37-df04-450a-9040-f6dbf8468fb2",
+                    "title": "The Preacher",
+                    "length": "298744"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "333a5518-9ce1-4c62-a027-d7dcfecd8c18",
+                "direction": "backward",
+                "recording": {
+                    "id": "333a5518-9ce1-4c62-a027-d7dcfecd8c18",
+                    "title": "The Preacher",
+                    "length": "310000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40b30adc-4827-45fb-abbb-c136e0007475",
+                "direction": "backward",
+                "recording": {
+                    "id": "40b30adc-4827-45fb-abbb-c136e0007475",
+                    "title": "The Preacher",
+                    "length": "237000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c673bf7-785e-4979-90b8-ff450387ca9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c673bf7-785e-4979-90b8-ff450387ca9c",
+                    "title": "The Preacher",
+                    "length": "299000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55e69424-e350-4539-86fd-c0bf0e41a0d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "55e69424-e350-4539-86fd-c0bf0e41a0d8",
+                    "title": "The Preacher",
+                    "length": "305226"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "e2b05069-278b-4558-8186-8b5ca06b3aeb",
+                "direction": "forward",
+                "work": {
+                    "id": "e2b05069-278b-4558-8186-8b5ca06b3aeb",
+                    "type": "Song",
+                    "title": "Dr\u00f4le de r\u00eave",
+                    "language": "fra",
+                    "disambiguation": "The Preacher"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "48403ee8-f04c-41eb-a0c4-a2d7e3f0a5ac",
+                "ordering-key": "6",
+                "direction": "backward",
+                "work": {
+                    "id": "48403ee8-f04c-41eb-a0c4-a2d7e3f0a5ac",
+                    "title": "Struttin\u2019 With Some Barbecue Medley",
+                    "language": "zxx"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "9e542469-1e3d-485c-bb03-e61fc57afbf8",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "9e542469-1e3d-485c-bb03-e61fc57afbf8",
+                    "type": "Song",
+                    "title": "Jazzbasilli",
+                    "language": "fin"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "1c2000ba-3be6-43d9-995b-a7b353ab549d",
+                "direction": "forward",
+                "work": {
+                    "id": "1c2000ba-3be6-43d9-995b-a7b353ab549d",
+                    "type": "Song",
+                    "title": "A Crazy Romance"
+                }
+            }
+        ]
+    }
+}

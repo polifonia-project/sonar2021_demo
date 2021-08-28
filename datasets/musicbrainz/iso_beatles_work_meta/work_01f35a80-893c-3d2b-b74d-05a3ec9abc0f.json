@@ -1,0 +1,560 @@
+{
+    "work": {
+        "id": "01f35a80-893c-3d2b-b74d-05a3ec9abc0f",
+        "type": "Song",
+        "title": "All I\u2019ve Got to Do",
+        "language": "eng",
+        "iswc": "T-010.068.557-1",
+        "iswc-list": [
+            "T-010.068.557-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000078 592 69"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "361"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100007000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "24.434"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "3175163"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "3175163"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "211240"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3351053"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "008871475"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "60 213 580 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014194500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "01143N"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "63738"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11228915"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2926574"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000255889"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02750392"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "1038844"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243365"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "3875201"
+            },
+            {
+                "attribute": "ACDAM ID",
+                "value": "938994"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5029796"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "310093931"
+            },
+            {
+                "attribute": "Key",
+                "value": "E major"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "631695-001"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "begin": "1963-09",
+                "end": "1963-09",
+                "ended": "true",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "begin": "1963-09",
+                "end": "1963-09",
+                "ended": "true",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58335aed-d0c1-4716-bf82-23c5633f4dbe",
+                "direction": "backward",
+                "begin": "1963-09-11",
+                "end": "1963-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "58335aed-d0c1-4716-bf82-23c5633f4dbe",
+                    "title": "All I've Got To Do (RS15 Take 15)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3129b2ee-03fe-477c-92f7-e275b96f5071",
+                "direction": "backward",
+                "begin": "1963-09-11",
+                "end": "1963-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "3129b2ee-03fe-477c-92f7-e275b96f5071",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "125000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a75df5f-5dd0-42c5-ad14-a86cb970dc83",
+                "direction": "backward",
+                "begin": "1963-09-11",
+                "end": "1963-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "9a75df5f-5dd0-42c5-ad14-a86cb970dc83",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "128000",
+                    "disambiguation": "1964 Capitol stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0071f77-86d0-4b0d-a36d-44c8af14dbe8",
+                "direction": "backward",
+                "begin": "1963-09-11",
+                "end": "1963-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "c0071f77-86d0-4b0d-a36d-44c8af14dbe8",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "125000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7930ce60-c70f-45c2-bc1a-bde37a094267",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7930ce60-c70f-45c2-bc1a-bde37a094267",
+                    "title": "All I've Got to Do",
+                    "length": "134800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cc06ae8-35f0-4d24-9e82-9ff08070e9f5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9cc06ae8-35f0-4d24-9e82-9ff08070e9f5",
+                    "title": "All I've Got to Do",
+                    "length": "222866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34063769-748c-4cbc-8627-8c6642b2774f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "34063769-748c-4cbc-8627-8c6642b2774f",
+                    "title": "All I've Got to Do",
+                    "length": "266346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b57981c9-11f8-48ec-9d5b-4e13f656a9e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "b57981c9-11f8-48ec-9d5b-4e13f656a9e6",
+                    "title": "All I've Got to Do",
+                    "length": "123640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc467434-9543-49fe-a7f6-994529fc0931",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fc467434-9543-49fe-a7f6-994529fc0931",
+                    "title": "All I've Got to Do",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfa567b2-9634-4a57-8909-df90a6f6c6ec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cfa567b2-9634-4a57-8909-df90a6f6c6ec",
+                    "title": "All I've Got to Do",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c845439d-988b-4ad6-9955-cdab2551324b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c845439d-988b-4ad6-9955-cdab2551324b",
+                    "title": "All I've Got to Do",
+                    "length": "122000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ec8bb1c-480e-46d5-97fc-3ebee03c84c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6ec8bb1c-480e-46d5-97fc-3ebee03c84c4",
+                    "title": "All I've Got to Do",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa7b34b0-3089-4289-a269-e705c9c647b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa7b34b0-3089-4289-a269-e705c9c647b9",
+                    "title": "All I've Got to Do",
+                    "length": "122706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5cafbece-6a2b-4682-a220-24c480a8c764",
+                "direction": "backward",
+                "recording": {
+                    "id": "5cafbece-6a2b-4682-a220-24c480a8c764",
+                    "title": "All I've Got To Do (RM15 Take 15)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3addabe2-8a0d-4aeb-b0e4-705aa3419d5b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3addabe2-8a0d-4aeb-b0e4-705aa3419d5b",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c099fd0-15e6-4217-8aa6-017a2529b032",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0c099fd0-15e6-4217-8aa6-017a2529b032",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "180626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9db1da77-f032-419e-811f-2b0a845d9b53",
+                "direction": "backward",
+                "recording": {
+                    "id": "9db1da77-f032-419e-811f-2b0a845d9b53",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "123480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ccf1516-af2a-4213-b7be-4c2da81cdf1b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ccf1516-af2a-4213-b7be-4c2da81cdf1b",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "123346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bfdfa2b1-8747-4a63-bd00-3426ba92b6b3",
+                "direction": "backward",
+                "recording": {
+                    "id": "bfdfa2b1-8747-4a63-bd00-3426ba92b6b3",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "120533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "751486df-2b47-48f5-9c4c-7cd6f43fc75b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "751486df-2b47-48f5-9c4c-7cd6f43fc75b",
+                    "title": "All I\u2019ve Got to Do",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7c0a5d4-c9b0-4811-84a3-3993b6ffb5e6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e7c0a5d4-c9b0-4811-84a3-3993b6ffb5e6",
+                    "title": "All I\u2019ve Got to Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100424",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10789",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=4817",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2421251",
+                "direction": "backward"
+            }
+        ]
+    }
+}

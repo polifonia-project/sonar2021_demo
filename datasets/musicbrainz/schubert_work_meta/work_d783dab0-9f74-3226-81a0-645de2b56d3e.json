@@ -1,0 +1,1951 @@
+{
+    "work": {
+        "id": "d783dab0-9f74-3226-81a0-645de2b56d3e",
+        "type": "Song",
+        "title": "Erlk\u00f6nig, D. 328",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Deutsch 328",
+                "alias": "Deutsch 328"
+            },
+            {
+                "sort-name": "Erlk\u00f6nig, D 328",
+                "alias": "Erlk\u00f6nig, D 328"
+            },
+            {
+                "sort-name": "Schubert, D. 328",
+                "alias": "Schubert, D. 328"
+            },
+            {
+                "sort-name": "Schubert, Opus 1",
+                "alias": "Schubert, Opus 1"
+            },
+            {
+                "sort-name": "Wer reitet so sp\u00e4t",
+                "alias": "Wer reitet so sp\u00e4t"
+            },
+            {
+                "locale": "ja",
+                "sort-name": "\u307e\u304a\u3046",
+                "type": "Work name",
+                "primary": "primary",
+                "alias": "\u9b54\u738b"
+            }
+        ],
+        "alias-count": 6,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1815",
+                "end": "1815",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "f66b7fa3-1731-40ec-a2d9-710aa9e07c5d",
+                "direction": "backward",
+                "begin": "1782",
+                "end": "1782",
+                "ended": "true",
+                "artist": {
+                    "id": "f66b7fa3-1731-40ec-a2d9-710aa9e07c5d",
+                    "type": "Person",
+                    "name": "Johann Wolfgang von Goethe",
+                    "sort-name": "Goethe, Johann Wolfgang von"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "242a687e-9abd-4c8c-a26f-849262515184",
+                "direction": "backward",
+                "begin": "1821",
+                "end": "1821",
+                "ended": "true",
+                "label": {
+                    "id": "242a687e-9abd-4c8c-a26f-849262515184",
+                    "type": "Publisher",
+                    "name": "Cappi & Diabelli",
+                    "sort-name": "Cappi & Diabelli"
+                }
+            }
+        ],
+        "place-relation-list": [
+            {
+                "type": "premiere",
+                "type-id": "a4d2a7cb-365b-4b90-b52f-29469edf8ac0",
+                "target": "8a70d4f6-f360-4f06-a1fa-f6a62c8604a3",
+                "direction": "backward",
+                "begin": "1821-03-07",
+                "end": "1821-03-07",
+                "ended": "true",
+                "place": {
+                    "id": "8a70d4f6-f360-4f06-a1fa-f6a62c8604a3",
+                    "type": "Venue",
+                    "name": "Theater am K\u00e4rntnertor",
+                    "coordinates": {
+                        "latitude": "48.203904",
+                        "longitude": "16.369876"
+                    }
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f307dad-81aa-410c-8302-036614c2d8df",
+                "direction": "backward",
+                "begin": "1906",
+                "end": "1906",
+                "ended": "true",
+                "recording": {
+                    "id": "3f307dad-81aa-410c-8302-036614c2d8df",
+                    "title": "Erlk\u00f6nig D328",
+                    "length": "255533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad847c5d-39fa-4f3b-840d-44dafbf77537",
+                "direction": "backward",
+                "begin": "1930-03-03",
+                "end": "1930-03-03",
+                "ended": "true",
+                "recording": {
+                    "id": "ad847c5d-39fa-4f3b-840d-44dafbf77537",
+                    "title": "Erlk\u00f6nig D328 (1997 Remastered Version)",
+                    "length": "211466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2383a16e-a775-4c95-876d-11805e6c9701",
+                "direction": "backward",
+                "begin": "1930",
+                "end": "1930",
+                "ended": "true",
+                "recording": {
+                    "id": "2383a16e-a775-4c95-876d-11805e6c9701",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "211706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ab8d914-576b-4c32-bf99-9485dc2685f9",
+                "direction": "backward",
+                "begin": "1932-11-16",
+                "end": "1932-11-16",
+                "ended": "true",
+                "recording": {
+                    "id": "6ab8d914-576b-4c32-bf99-9485dc2685f9",
+                    "title": "Erlkonig, Op. 1, D. 328",
+                    "length": "302346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7628ab01-3b39-4c42-9ca4-403abcd7d2d6",
+                "direction": "backward",
+                "begin": "1933",
+                "end": "1933",
+                "ended": "true",
+                "recording": {
+                    "id": "7628ab01-3b39-4c42-9ca4-403abcd7d2d6",
+                    "title": "Erlk\u00f6nig",
+                    "length": "250000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fcda114c-fcf6-40de-8b79-14e953d436c0",
+                "direction": "backward",
+                "begin": "1934",
+                "end": "1934",
+                "ended": "true",
+                "recording": {
+                    "id": "fcda114c-fcf6-40de-8b79-14e953d436c0",
+                    "title": "Erlk\u00f6nig, D. 328 (french version)",
+                    "length": "224226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00a559da-173c-49ea-b32c-d2aae2728f97",
+                "direction": "backward",
+                "begin": "1936-10-20",
+                "end": "1936-10-20",
+                "ended": "true",
+                "recording": {
+                    "id": "00a559da-173c-49ea-b32c-d2aae2728f97",
+                    "title": "Der Erlk\u00f6nig, D. 328",
+                    "length": "233640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1049847e-9817-4c4a-ad4d-8770a65ffb4a",
+                "direction": "backward",
+                "begin": "1936-10-20",
+                "end": "1936-10-20",
+                "ended": "true",
+                "recording": {
+                    "id": "1049847e-9817-4c4a-ad4d-8770a65ffb4a",
+                    "title": "Erlk\u00f6nig D328 (1997 - Remaster)",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9f604f8-b0b1-430d-b89d-90795df133e2",
+                "direction": "backward",
+                "begin": "1936-11-20",
+                "end": "1936-11-20",
+                "ended": "true",
+                "recording": {
+                    "id": "d9f604f8-b0b1-430d-b89d-90795df133e2",
+                    "title": "Erlk\u00f6nig",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aff9471c-3cda-4cf7-af29-04bdb88a3581",
+                "direction": "backward",
+                "begin": "1937-11-05",
+                "end": "1937-11-05",
+                "ended": "true",
+                "recording": {
+                    "id": "aff9471c-3cda-4cf7-af29-04bdb88a3581",
+                    "title": "Erlk\u00f6nig D328 (1997 - Remaster)",
+                    "length": "227493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70e424bf-02e9-41f2-bc95-ee08b8cdc1ec",
+                "direction": "backward",
+                "begin": "1937",
+                "end": "1937",
+                "ended": "true",
+                "recording": {
+                    "id": "70e424bf-02e9-41f2-bc95-ee08b8cdc1ec",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "227346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fff9ee58-4a2b-4570-bcee-7053cd981494",
+                "direction": "backward",
+                "begin": "1939",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "fff9ee58-4a2b-4570-bcee-7053cd981494",
+                    "title": "Erlk\u00f6nig",
+                    "length": "228000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9fc5878-1bb2-4238-9cc4-47fa405535fc",
+                "direction": "backward",
+                "begin": "1941",
+                "end": "1941",
+                "ended": "true",
+                "recording": {
+                    "id": "b9fc5878-1bb2-4238-9cc4-47fa405535fc",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "231426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67796935-c8e7-4eaa-b7e4-965db7ba143a",
+                "direction": "backward",
+                "begin": "1944",
+                "end": "1944",
+                "ended": "true",
+                "recording": {
+                    "id": "67796935-c8e7-4eaa-b7e4-965db7ba143a",
+                    "title": "Der Erlk\u00f6nig, D 328",
+                    "length": "232000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95fdb2e2-fa7a-4884-a66a-4a4af630f0ae",
+                "direction": "backward",
+                "begin": "1951-10-03",
+                "end": "1951-10-07",
+                "ended": "true",
+                "recording": {
+                    "id": "95fdb2e2-fa7a-4884-a66a-4a4af630f0ae",
+                    "title": "Der Erlk\u00f6nig, D. 328",
+                    "length": "262226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfa56de7-caa8-4ddf-aff4-1c8aa0d38e2d",
+                "direction": "backward",
+                "begin": "1954",
+                "end": "1954",
+                "ended": "true",
+                "recording": {
+                    "id": "dfa56de7-caa8-4ddf-aff4-1c8aa0d38e2d",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "259000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed736f01-0d4f-495b-a8a3-3128549ffc4c",
+                "direction": "backward",
+                "begin": "1956-03-21",
+                "end": "1956-03-23",
+                "ended": "true",
+                "recording": {
+                    "id": "ed736f01-0d4f-495b-a8a3-3128549ffc4c",
+                    "title": "Erik\u00f6nig, D. 328",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "348028b1-2305-4cb3-b905-56607f6bb4fa",
+                "direction": "backward",
+                "begin": "1958-05-23",
+                "end": "1958-05-24",
+                "ended": "true",
+                "recording": {
+                    "id": "348028b1-2305-4cb3-b905-56607f6bb4fa",
+                    "title": "Der Erlk\u00f6nig, D. 328",
+                    "length": "243760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b831fe85-e727-4014-94ae-6b4e21ac6b71",
+                "direction": "backward",
+                "begin": "1961-11-28",
+                "end": "1961-11-30",
+                "ended": "true",
+                "recording": {
+                    "id": "b831fe85-e727-4014-94ae-6b4e21ac6b71",
+                    "title": "Erlk\u00f6nig, D.328",
+                    "length": "235786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "273c90ae-2a27-4790-a03b-2172ed135e25",
+                "direction": "backward",
+                "begin": "1966-04-21",
+                "end": "1966-04-29",
+                "ended": "true",
+                "recording": {
+                    "id": "273c90ae-2a27-4790-a03b-2172ed135e25",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "228440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "896e62e2-1f52-42bb-86a0-52140957aa95",
+                "direction": "backward",
+                "begin": "1968-02",
+                "end": "1968-02",
+                "ended": "true",
+                "recording": {
+                    "id": "896e62e2-1f52-42bb-86a0-52140957aa95",
+                    "title": "Erlk\u00f6nig, D 328",
+                    "length": "258506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51a1b79b-72d4-411c-a070-6b95131b6eff",
+                "direction": "backward",
+                "begin": "1970",
+                "end": "1970",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "51a1b79b-72d4-411c-a070-6b95131b6eff",
+                    "title": "Der Erlk\u00f6nig, D 328",
+                    "length": "263000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6649641-38e2-4e7f-97a2-d1dcb004c031",
+                "direction": "backward",
+                "begin": "1974-09",
+                "end": "1974-09",
+                "ended": "true",
+                "recording": {
+                    "id": "b6649641-38e2-4e7f-97a2-d1dcb004c031",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "261000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8de172fb-d880-4ce8-8c8b-9a93ae568824",
+                "direction": "backward",
+                "begin": "1982-03",
+                "end": "1982-03",
+                "ended": "true",
+                "recording": {
+                    "id": "8de172fb-d880-4ce8-8c8b-9a93ae568824",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "265000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3ceca79-0b33-427a-8492-3d3f0d95fee5",
+                "direction": "backward",
+                "begin": "1987-06-16",
+                "end": "1987-06-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e3ceca79-0b33-427a-8492-3d3f0d95fee5",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "245266",
+                    "disambiguation": "Recorded at the Schubertiade, Hohenems Festival, Feldkirch, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a912528-5a4f-448d-91e8-02583bfe48b9",
+                "direction": "backward",
+                "begin": "1989-05-29",
+                "end": "1989-05-31",
+                "ended": "true",
+                "recording": {
+                    "id": "9a912528-5a4f-448d-91e8-02583bfe48b9",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "254000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7b27ca3-a5ba-4a34-8ead-ca08ac1ca9fb",
+                "direction": "backward",
+                "begin": "1989",
+                "end": "1989",
+                "ended": "true",
+                "recording": {
+                    "id": "e7b27ca3-a5ba-4a34-8ead-ca08ac1ca9fb",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "265893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c23ebbc-53ed-4f64-8044-f42ae03a29ca",
+                "direction": "backward",
+                "begin": "1993",
+                "end": "1994",
+                "ended": "true",
+                "recording": {
+                    "id": "5c23ebbc-53ed-4f64-8044-f42ae03a29ca",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c70d97b9-7a4d-45f0-aa3b-f79056f1ffc5",
+                "direction": "backward",
+                "begin": "1994-02",
+                "end": "1994-02",
+                "ended": "true",
+                "recording": {
+                    "id": "c70d97b9-7a4d-45f0-aa3b-f79056f1ffc5",
+                    "title": "Erlk\u00f6nig, D 328",
+                    "length": "264533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8a314ac-a896-4dea-900c-d866c925abfc",
+                "direction": "backward",
+                "begin": "1996-02",
+                "end": "1996-03",
+                "ended": "true",
+                "recording": {
+                    "id": "c8a314ac-a896-4dea-900c-d866c925abfc",
+                    "title": "Der Erlk\u00f6nig D328 op. 1",
+                    "length": "260000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c57c4938-0be5-483f-aa2f-cd11379a44f7",
+                "direction": "backward",
+                "begin": "1996-05",
+                "end": "1996-05",
+                "ended": "true",
+                "recording": {
+                    "id": "c57c4938-0be5-483f-aa2f-cd11379a44f7",
+                    "title": "Erlk\u00f6nig",
+                    "length": "248506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d1827da-4a62-408f-a66a-b9b22c75c7bc",
+                "direction": "backward",
+                "begin": "2003-01",
+                "end": "2003-01",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d1827da-4a62-408f-a66a-b9b22c75c7bc",
+                    "title": "Erlk\u00f6nig",
+                    "length": "215000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a25d899-417f-4aed-a9dc-84c160a1533f",
+                "direction": "backward",
+                "begin": "2008-06-19",
+                "end": "2008-06-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6a25d899-417f-4aed-a9dc-84c160a1533f",
+                    "title": "Erlk\u00f6nig D. 328 - Opus 1",
+                    "length": "254000",
+                    "disambiguation": "Sch\u00f6ne/Cepeda; 2008-06-19: Berlin"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05aac8a4-3691-4eb8-a028-072df95de5d9",
+                "direction": "backward",
+                "begin": "2008",
+                "end": "2008",
+                "ended": "true",
+                "recording": {
+                    "id": "05aac8a4-3691-4eb8-a028-072df95de5d9",
+                    "title": "Der Erlk\u00f6nig",
+                    "length": "259000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3bfd96a-8e75-4cf1-9ec7-3e6816467218",
+                "direction": "backward",
+                "begin": "2010-02-01",
+                "end": "2010-02-03",
+                "ended": "true",
+                "recording": {
+                    "id": "f3bfd96a-8e75-4cf1-9ec7-3e6816467218",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "262186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1aa79d6-5bca-49a4-973c-5c29f6be73d8",
+                "direction": "backward",
+                "begin": "2016-11-28",
+                "end": "2016-12-02",
+                "ended": "true",
+                "recording": {
+                    "id": "f1aa79d6-5bca-49a4-973c-5c29f6be73d8",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "251533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "053ed3a5-d2ea-464e-a53e-a248e6dcc40f",
+                "direction": "backward",
+                "recording": {
+                    "id": "053ed3a5-d2ea-464e-a53e-a248e6dcc40f",
+                    "title": "\"Erlk\u00f6nig\"",
+                    "length": "243600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "954eeb71-2fb4-4c18-9528-8df5cf21e771",
+                "direction": "backward",
+                "recording": {
+                    "id": "954eeb71-2fb4-4c18-9528-8df5cf21e771",
+                    "title": "\"Erlk\u00f6nig\", op. 1",
+                    "length": "245040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9fe3410e-0284-41d9-9d04-f1a9838a956e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9fe3410e-0284-41d9-9d04-f1a9838a956e",
+                    "title": "Ausgew\u00e4hlte Lieder: Der Erlk\u00f6nig (D 367) \u201eWer reitet so sp\u00e4t durch Nacht und Wind\u201c",
+                    "length": "249106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87ebf4ea-011f-42f1-825f-e1edc58e566c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "87ebf4ea-011f-42f1-825f-e1edc58e566c",
+                    "title": "Der Erlk\u00f6nig",
+                    "length": "296000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f6a128f-04ad-4c39-8175-0626e45a23fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f6a128f-04ad-4c39-8175-0626e45a23fd",
+                    "title": "Der Erlk\u00f6nig",
+                    "length": "271866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29757390-300d-4e6b-9df7-db789091611e",
+                "direction": "backward",
+                "recording": {
+                    "id": "29757390-300d-4e6b-9df7-db789091611e",
+                    "title": "Der Erlk\u00f6nig",
+                    "length": "247266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9396269b-6d18-4ef4-844a-52ab5a4b16b6",
+                "direction": "backward",
+                "recording": {
+                    "id": "9396269b-6d18-4ef4-844a-52ab5a4b16b6",
+                    "title": "Der Erlk\u00f6nig D. 238",
+                    "length": "258000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "340b31dd-863c-4e82-ac46-b9d8eb033516",
+                "direction": "backward",
+                "recording": {
+                    "id": "340b31dd-863c-4e82-ac46-b9d8eb033516",
+                    "title": "Erikonig, D. 328",
+                    "length": "237923"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57689c35-e5fa-4939-b304-5a509ce48b47",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "57689c35-e5fa-4939-b304-5a509ce48b47",
+                    "title": "Erlking (3 of 8)",
+                    "length": "21986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4d2357f-c45b-4980-8adb-06c24da4f6c3",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a4d2357f-c45b-4980-8adb-06c24da4f6c3",
+                    "title": "Erlking (4 of 8)",
+                    "length": "17466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e74db9b-7382-42a2-a97f-f815d2ea3b02",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3e74db9b-7382-42a2-a97f-f815d2ea3b02",
+                    "title": "Erlking (5 of 8)",
+                    "length": "28973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c190c046-30ce-4715-ba11-6e32e5cd77bc",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "c190c046-30ce-4715-ba11-6e32e5cd77bc",
+                    "title": "Erlking (6 of 8)",
+                    "length": "11106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24fd67f3-450b-40af-b355-3e7c328b3041",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "24fd67f3-450b-40af-b355-3e7c328b3041",
+                    "title": "Erlking (7 of 8)",
+                    "length": "12733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a53b9234-1384-4c04-8ab7-85a705876e61",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a53b9234-1384-4c04-8ab7-85a705876e61",
+                    "title": "Erlking (8 of 8)",
+                    "length": "38267"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad76dd7c-ddef-4b42-95bb-ad45d005745c",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ad76dd7c-ddef-4b42-95bb-ad45d005745c",
+                    "title": "Erlking (Erlk\u00f6nig), D. 328, Part 1",
+                    "length": "88693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "452ef9d3-dca6-4198-b56a-cd8958e1eb0d",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "452ef9d3-dca6-4198-b56a-cd8958e1eb0d",
+                    "title": "Erlking (Erlk\u00f6nig), D. 328, Part 2",
+                    "length": "23360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b44b2e78-6b69-4bbd-8956-41fbc27e22ce",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b44b2e78-6b69-4bbd-8956-41fbc27e22ce",
+                    "title": "Erlkonig",
+                    "length": "56866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3abd8905-e7c9-4396-9ad8-23b8b9bd7139",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3abd8905-e7c9-4396-9ad8-23b8b9bd7139",
+                    "title": "Erlk\u00f6nig",
+                    "length": "275040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58016b73-13a4-4a78-a55c-060dd737928f",
+                "direction": "backward",
+                "recording": {
+                    "id": "58016b73-13a4-4a78-a55c-060dd737928f",
+                    "title": "Erlk\u00f6nig",
+                    "length": "252840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2525faff-1d1d-438d-9361-e9b49633923a",
+                "direction": "backward",
+                "recording": {
+                    "id": "2525faff-1d1d-438d-9361-e9b49633923a",
+                    "title": "Erlk\u00f6nig",
+                    "length": "244333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "563848b7-fd77-4db6-9be0-f6fa37f56833",
+                "direction": "backward",
+                "recording": {
+                    "id": "563848b7-fd77-4db6-9be0-f6fa37f56833",
+                    "title": "Erlk\u00f6nig",
+                    "length": "266200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a0844c5-f407-420a-98a0-8f1b58656524",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a0844c5-f407-420a-98a0-8f1b58656524",
+                    "title": "Erlk\u00f6nig",
+                    "length": "230000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb736080-3e44-4aba-9d04-fd917e9ab831",
+                "direction": "backward",
+                "recording": {
+                    "id": "fb736080-3e44-4aba-9d04-fd917e9ab831",
+                    "title": "Erlk\u00f6nig",
+                    "length": "264200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "427511b8-17ed-4660-8403-0d6a6c43eec1",
+                "direction": "backward",
+                "recording": {
+                    "id": "427511b8-17ed-4660-8403-0d6a6c43eec1",
+                    "title": "Erlkonig (The Erlking)",
+                    "length": "244733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9572933-e1a8-4afd-8249-7db30262ddb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "b9572933-e1a8-4afd-8249-7db30262ddb5",
+                    "title": "Erlk\u00f6nig D328 (2004 Digital Remaster)",
+                    "length": "242520"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a0d2775-8f20-4846-9771-ad19c616bbfa",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a0d2775-8f20-4846-9771-ad19c616bbfa",
+                    "title": "Erlk\u00f6nig D328 (Goethe)",
+                    "length": "262000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "242f5990-5fb0-4468-87df-8b3baccb04a5",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "242f5990-5fb0-4468-87df-8b3baccb04a5",
+                    "title": "Erlkonig Part 2",
+                    "length": "7866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5457d4c-2e64-4eef-979d-8f82888ce1f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b5457d4c-2e64-4eef-979d-8f82888ce1f0",
+                    "title": "Erlkonig Part 3",
+                    "length": "25706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ebf4944-8410-47ae-8f6e-f9b5590a71b8",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2ebf4944-8410-47ae-8f6e-f9b5590a71b8",
+                    "title": "Erlkonig Part 4",
+                    "length": "23760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51656f92-3b19-437c-b1d2-9b054f8c50f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "51656f92-3b19-437c-b1d2-9b054f8c50f6",
+                    "title": "Erlkonig Part 5",
+                    "length": "83200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45ce340f-b747-46f3-a851-0365318199a8",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "45ce340f-b747-46f3-a851-0365318199a8",
+                    "title": "Erlkonig Part 6",
+                    "length": "59333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17e65883-2623-4bf8-9311-b82895343077",
+                "direction": "backward",
+                "recording": {
+                    "id": "17e65883-2623-4bf8-9311-b82895343077",
+                    "title": "Erlk\u00f6nig, D 328",
+                    "length": "240706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "753477bf-2457-4817-aefe-efa310d10eac",
+                "direction": "backward",
+                "recording": {
+                    "id": "753477bf-2457-4817-aefe-efa310d10eac",
+                    "title": "Erlk\u00f6nig, D 328",
+                    "length": "257466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da2836da-0d93-4897-a044-bf367286cf18",
+                "direction": "backward",
+                "recording": {
+                    "id": "da2836da-0d93-4897-a044-bf367286cf18",
+                    "title": "Erlk\u00f6nig, D 328",
+                    "length": "262240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaf0054d-4e48-4d41-b48a-de493f2709ce",
+                "direction": "backward",
+                "recording": {
+                    "id": "aaf0054d-4e48-4d41-b48a-de493f2709ce",
+                    "title": "Erlk\u00f6nig, D 328 (Wer reitet so sp\u00e4t)",
+                    "length": "261360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c06358d-2f9f-4924-af46-cf66bbaf6843",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c06358d-2f9f-4924-af46-cf66bbaf6843",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "249560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4800c17e-5f13-428d-9faf-b143eb97e80f",
+                "direction": "backward",
+                "recording": {
+                    "id": "4800c17e-5f13-428d-9faf-b143eb97e80f",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "228000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a68d9b66-3599-4f35-a0fd-04e3b07623f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a68d9b66-3599-4f35-a0fd-04e3b07623f6",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "260760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fe6787b-7175-420d-ba49-76b94f0f37a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "4fe6787b-7175-420d-ba49-76b94f0f37a5",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "228493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bab43003-c45f-4965-bc9d-d69f7da60098",
+                "direction": "backward",
+                "recording": {
+                    "id": "bab43003-c45f-4965-bc9d-d69f7da60098",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "length": "250333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4771734f-d76c-407f-b9a8-972b4c4a384d",
+                "direction": "backward",
+                "recording": {
+                    "id": "4771734f-d76c-407f-b9a8-972b4c4a384d",
+                    "title": "Erlkonig, D. 328 (2011 Digital Remaster)",
+                    "length": "248053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9e90d90-93ad-4c9d-b731-4aedf9bc7eaf",
+                "direction": "backward",
+                "recording": {
+                    "id": "e9e90d90-93ad-4c9d-b731-4aedf9bc7eaf",
+                    "title": "Erlk\u00f6nig, D. 328, op. 1",
+                    "length": "254000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8570b482-9610-4393-98a5-9194cffb33f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "8570b482-9610-4393-98a5-9194cffb33f5",
+                    "title": "Erlk\u00f6nig, D328",
+                    "length": "267773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c99179c4-640a-4051-ac4e-6774a3e48b04",
+                "direction": "backward",
+                "recording": {
+                    "id": "c99179c4-640a-4051-ac4e-6774a3e48b04",
+                    "title": "Erlk\u00f6nig, D328",
+                    "length": "259493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d513cfb2-8125-4142-846f-3c43a561bd9b",
+                "direction": "backward",
+                "recording": {
+                    "id": "d513cfb2-8125-4142-846f-3c43a561bd9b",
+                    "title": "Erlk\u00f6nig, D328",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bd99344-7679-44c7-9cc6-96bd7dff0ce0",
+                "direction": "backward",
+                "recording": {
+                    "id": "8bd99344-7679-44c7-9cc6-96bd7dff0ce0",
+                    "title": "Erlk\u00f6nig, D328",
+                    "length": "253333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0aa8f70-5332-43b0-bb9d-6310628c6b72",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0aa8f70-5332-43b0-bb9d-6310628c6b72",
+                    "title": "Erlk\u00f6nig, op. 1 D.328: Wer reitet so sp\u00e4t",
+                    "length": "260000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80fe709b-a263-4709-97c6-6787c0a290f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "80fe709b-a263-4709-97c6-6787c0a290f5",
+                    "title": "Erlk\u00f6nig, op. 1, D. 328",
+                    "length": "242133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ccc45dc-b6bc-46cd-b721-62d65c87a81c",
+                "direction": "backward",
+                "recording": {
+                    "id": "2ccc45dc-b6bc-46cd-b721-62d65c87a81c",
+                    "title": "Erlk\u00f6nig, op. 1, D. 328",
+                    "length": "257046"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1db3bff7-e1cb-4f53-8864-292b5b1004a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "1db3bff7-e1cb-4f53-8864-292b5b1004a6",
+                    "title": "Erlk\u00f6nig, op. 1, D.328",
+                    "length": "238506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e7f6dda-5daa-4ea6-8df5-169459b8f514",
+                "direction": "backward",
+                "recording": {
+                    "id": "3e7f6dda-5daa-4ea6-8df5-169459b8f514",
+                    "title": "Erlk\u00f6nig, opus 1, D 328",
+                    "length": "272440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69bdd0b2-a317-4a08-81ab-9757bc7bc69d",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "69bdd0b2-a317-4a08-81ab-9757bc7bc69d",
+                    "title": "Erlk\u00f6nig, Part 1 (baritone: Thomas Quasthoff, piano: Charles Spencer)",
+                    "length": "55600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e29d22e2-4157-49cc-b534-72d54d5de5bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e29d22e2-4157-49cc-b534-72d54d5de5bb",
+                    "title": "Erlk\u00f6nig, Part 2 (baritone: Thomas Quasthoff, piano: Charles Spencer)",
+                    "length": "7893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e09bd3b8-5f78-476c-972d-d8318123377d",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e09bd3b8-5f78-476c-972d-d8318123377d",
+                    "title": "Erlk\u00f6nig, Part 3 (baritone: Thomas Quasthoff, piano: Charles Spencer)",
+                    "length": "25346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85da794c-6993-4be0-a5c8-2d4b311077d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "85da794c-6993-4be0-a5c8-2d4b311077d6",
+                    "title": "Erlk\u00f6nig, Part 4 (baritone: Thomas Quasthoff, piano: Charles Spencer)",
+                    "length": "21453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6843127-94c0-4abb-be30-3cea0b44cd43",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b6843127-94c0-4abb-be30-3cea0b44cd43",
+                    "title": "Erlk\u00f6nig, Part 5 (baritone: Thomas Quasthoff, piano: Charles Spencer)",
+                    "length": "39466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56d94065-73b4-4af6-ab33-d1700f89d37b",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "56d94065-73b4-4af6-ab33-d1700f89d37b",
+                    "title": "Erlk\u00f6nig, Part 6 (baritone: Thomas Quasthoff, piano: Charles Spencer)",
+                    "length": "93493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edb0e8c4-aca9-4fb4-8582-4f6b7ab568b4",
+                "direction": "backward",
+                "recording": {
+                    "id": "edb0e8c4-aca9-4fb4-8582-4f6b7ab568b4",
+                    "title": "Lieder (Can\u00e7\u00f5es): Erlk\u00f6nig, D.328",
+                    "length": "260800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9350cda9-ace1-4863-a3fe-9316cd7b16c4",
+                "direction": "backward",
+                "recording": {
+                    "id": "9350cda9-ace1-4863-a3fe-9316cd7b16c4",
+                    "title": "Lieder: Erlk\u00f6nig",
+                    "length": "261000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71359d58-39d8-4fd0-a2c6-3577ef02a66b",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "71359d58-39d8-4fd0-a2c6-3577ef02a66b",
+                    "title": "The Devil",
+                    "length": "332280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "855c4fe9-22df-430e-96b7-6fada1f7dae7",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "855c4fe9-22df-430e-96b7-6fada1f7dae7",
+                    "title": "The Devil #2",
+                    "length": "182880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "367a08f2-4410-4335-bbb3-0598d439108e",
+                "direction": "backward",
+                "recording": {
+                    "id": "367a08f2-4410-4335-bbb3-0598d439108e",
+                    "title": "The Erl-King",
+                    "length": "258600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98e1e4ea-a26c-4483-bdb1-8d24fe48be45",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "98e1e4ea-a26c-4483-bdb1-8d24fe48be45",
+                    "title": "The Erlking",
+                    "length": "249666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84dfaf42-b352-4086-97f1-d19bad046043",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "84dfaf42-b352-4086-97f1-d19bad046043",
+                    "title": "The Erlking",
+                    "length": "318000",
+                    "disambiguation": "Zelkowicz",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fb1c3b6-8f01-48fc-a275-e0fc122920f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4fb1c3b6-8f01-48fc-a275-e0fc122920f2",
+                    "title": "\u30c0\u30fc\u30af\u2606",
+                    "length": "119093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04e5febd-02a0-4ce1-95c3-a845cc8bd0d0",
+                "direction": "backward",
+                "recording": {
+                    "id": "04e5febd-02a0-4ce1-95c3-a845cc8bd0d0",
+                    "title": "\u5929\u4f7f\u306e\u6b4c\u58f0 \u9b54\u738b",
+                    "length": "24933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b482e0c9-0439-468d-98d9-4a1ad2e32fbd",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b482e0c9-0439-468d-98d9-4a1ad2e32fbd",
+                    "title": "\u5f71\u306e\u8a98\u3044",
+                    "length": "53746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5a8ef7c-e610-4737-a820-0700dbbebd61",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a5a8ef7c-e610-4737-a820-0700dbbebd61",
+                    "title": "\u843d\u65e5",
+                    "length": "67653"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5f5944c-852e-4f87-8b9d-744fd5f340b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f5f5944c-852e-4f87-8b9d-744fd5f340b0",
+                    "title": "\u95c7\u306e\u8a98\u3044",
+                    "length": "182346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7eb6cd83-1c4e-425a-bc23-cf3dba42c852",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "7eb6cd83-1c4e-425a-bc23-cf3dba42c852",
+                    "title": "\u9b54\u738b",
+                    "length": "84000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0642add5-411a-4491-aaf2-1d1a6d0b90d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0642add5-411a-4491-aaf2-1d1a6d0b90d7",
+                    "title": "\u9b54\u738b\uff13\u2606",
+                    "length": "124360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "246",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 328",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Erlk%C3%B6nig,_D.328_(Op.1)_(Schubert,_Franz)",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1134417",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "34efa283-d9f6-4a5a-85e9-a8d1379eaaf3",
+                "direction": "forward",
+                "work": {
+                    "id": "34efa283-d9f6-4a5a-85e9-a8d1379eaaf3",
+                    "type": "Song",
+                    "title": "Im wundersch\u00f6nen Monat Mai: Dreimal sieben Lieder nach Schubert und Schumann: Der Erlk\u00f6nig",
+                    "language": "deu"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "4485458c-aa3e-4816-9539-b758a4f3d023",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "4485458c-aa3e-4816-9539-b758a4f3d023",
+                    "type": "Song",
+                    "title": "The Erlking",
+                    "language": "eng",
+                    "disambiguation": "HLW"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "9ee2d07e-bcb6-42af-a0db-88fcb1fca7f7",
+                "direction": "forward",
+                "work": {
+                    "id": "9ee2d07e-bcb6-42af-a0db-88fcb1fca7f7",
+                    "title": "Erlk\u00f6nig, S. 557a",
+                    "language": "zxx",
+                    "disambiguation": "for piano solo, Liszt"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "881ce157-2d00-3696-bb4d-41f14c1ee86d",
+                "direction": "forward",
+                "work": {
+                    "id": "881ce157-2d00-3696-bb4d-41f14c1ee86d",
+                    "title": "Erlk\u00f6nig, S. 558 Nr. 4",
+                    "language": "zxx",
+                    "disambiguation": "for piano solo, Liszt"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "7dac1867-0fdd-4fb1-942d-05cba7dce0ea",
+                "direction": "forward",
+                "work": {
+                    "id": "7dac1867-0fdd-4fb1-942d-05cba7dce0ea",
+                    "title": "Ballade, op. 34",
+                    "language": "zxx"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "880ab57f-4510-48f7-bbc8-a506dc770fbf",
+                "direction": "forward",
+                "work": {
+                    "id": "880ab57f-4510-48f7-bbc8-a506dc770fbf",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "language": "deu",
+                    "disambiguation": "for soprano, violin, cello and accordion, Cavanna"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "c3f3695d-8b19-3a92-b427-5a4dc594ea37",
+                "direction": "backward",
+                "work": {
+                    "id": "c3f3695d-8b19-3a92-b427-5a4dc594ea37",
+                    "type": "Poem",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "disambiguation": "Goethe\u2019s poem"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "df15adf2-5e73-4ab8-a8a2-2b6eee12e509",
+                "direction": "forward",
+                "work": {
+                    "id": "df15adf2-5e73-4ab8-a8a2-2b6eee12e509",
+                    "title": "Grand Caprice sur \u00ab Le Roi des aulnes \u00bb de Franz Schubert, op. 26",
+                    "language": "zxx"
+                }
+            },
+            {
+                "type": "orchestration",
+                "type-id": "dd372cb2-5f4d-4dcd-868e-7564782f460b",
+                "target": "4aca3a84-2043-3690-8fd7-5adae775878c",
+                "direction": "forward",
+                "work": {
+                    "id": "4aca3a84-2043-3690-8fd7-5adae775878c",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "language": "deu",
+                    "disambiguation": "orchestrated by Berlioz"
+                }
+            },
+            {
+                "type": "orchestration",
+                "type-id": "dd372cb2-5f4d-4dcd-868e-7564782f460b",
+                "target": "1080da7b-826e-31c1-a902-583a55a7dd7e",
+                "direction": "forward",
+                "work": {
+                    "id": "1080da7b-826e-31c1-a902-583a55a7dd7e",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "language": "deu",
+                    "disambiguation": "orchestrated by Reger"
+                }
+            },
+            {
+                "type": "orchestration",
+                "type-id": "dd372cb2-5f4d-4dcd-868e-7564782f460b",
+                "target": "33e01834-7083-4ceb-9082-8d7463a7178f",
+                "direction": "forward",
+                "work": {
+                    "id": "33e01834-7083-4ceb-9082-8d7463a7178f",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig, S. 375 no. 4",
+                    "language": "deu",
+                    "disambiguation": "orchestrated by Liszt"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "a20ed07b-be6c-446a-9b0d-356e502f0bda",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "a20ed07b-be6c-446a-9b0d-356e502f0bda",
+                    "type": "Song",
+                    "title": "Le Roi des aulnes",
+                    "language": "fra"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "079db42c-15eb-4a4e-89f1-d04891a3f075",
+                "direction": "forward",
+                "work": {
+                    "id": "079db42c-15eb-4a4e-89f1-d04891a3f075",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "disambiguation": "Herman van Veen"
+                }
+            }
+        ],
+        "tag-list": [
+            {
+                "count": "1",
+                "name": "classical"
+            },
+            {
+                "count": "1",
+                "name": "vocal music"
+            }
+        ]
+    }
+}

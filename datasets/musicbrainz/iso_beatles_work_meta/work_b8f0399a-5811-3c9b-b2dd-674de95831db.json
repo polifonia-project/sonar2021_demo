@@ -1,0 +1,684 @@
+{
+    "work": {
+        "id": "b8f0399a-5811-3c9b-b2dd-674de95831db",
+        "title": "Savoy Truffle",
+        "language": "eng",
+        "iswc": "T-010.098.671-7",
+        "iswc-list": [
+            "T-010.098.671-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000047 448 99"
+            },
+            {
+                "attribute": "SPAC ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "10328"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12411636"
+            },
+            {
+                "attribute": "SOBODAYCOM ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78201870600"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "56.909"
+            },
+            {
+                "attribute": "SGACEDOM ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "712981"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "712981"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "1154619"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3968066"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "051664389"
+            },
+            {
+                "attribute": "SACIM ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "68 124 130 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004965200"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "A0EBOT500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "3022GP"
+            },
+            {
+                "attribute": "NICAUTOR ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0S0-0464-0"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "528825-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1171425"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315985"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000098681"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "490275655"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02294493"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9396888"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5298682"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "18144301"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6325145"
+            },
+            {
+                "attribute": "AEI ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5018127"
+            },
+            {
+                "attribute": "AACIMH ID",
+                "value": "5018127"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2eb16581-560c-4a4d-82af-6f33e38fffad",
+                "direction": "backward",
+                "begin": "1968-10-03",
+                "end": "1968-10-14",
+                "ended": "true",
+                "recording": {
+                    "id": "2eb16581-560c-4a4d-82af-6f33e38fffad",
+                    "title": "Savoy Truffle",
+                    "length": "175640",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "afe8d526-32a8-482b-9859-9970c1a08e8b",
+                "direction": "backward",
+                "begin": "1968-10-03",
+                "end": "1968-10-14",
+                "ended": "true",
+                "recording": {
+                    "id": "afe8d526-32a8-482b-9859-9970c1a08e8b",
+                    "title": "Savoy Truffle",
+                    "length": "174440",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58d01704-4896-44cc-9402-f760cae162bc",
+                "direction": "backward",
+                "begin": "1968-10-03",
+                "end": "1968-10-14",
+                "ended": "true",
+                "recording": {
+                    "id": "58d01704-4896-44cc-9402-f760cae162bc",
+                    "title": "Savoy Truffle",
+                    "length": "174080",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7e1e39f-cab3-47da-8199-2477d830b414",
+                "direction": "backward",
+                "begin": "1968-10-03",
+                "end": "1968-10-14",
+                "ended": "true",
+                "recording": {
+                    "id": "a7e1e39f-cab3-47da-8199-2477d830b414",
+                    "title": "Savoy Truffle (5.1 mix)",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b108b15-6973-44a5-aa9d-632adc91fd61",
+                "direction": "backward",
+                "begin": "1968-10-03",
+                "end": "1968-10-14",
+                "ended": "true",
+                "recording": {
+                    "id": "4b108b15-6973-44a5-aa9d-632adc91fd61",
+                    "title": "Savoy Truffle (instrumental backing track)",
+                    "length": "176973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f63acc7d-f157-4996-b0e5-de2633bc9236",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f63acc7d-f157-4996-b0e5-de2633bc9236",
+                    "title": "Savoy Truffle",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5764b1b2-6f03-4e3d-87c4-3e6e77e8c5d8",
+                "direction": "backward",
+                "begin": "2009-02",
+                "end": "2009-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5764b1b2-6f03-4e3d-87c4-3e6e77e8c5d8",
+                    "title": "Savoy Truffle",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b583c595-f863-41a5-8436-6537ce5e6d8a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b583c595-f863-41a5-8436-6537ce5e6d8a",
+                    "title": "Savoy Truffle",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b891bb7e-a29d-4915-9917-72d78369333c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b891bb7e-a29d-4915-9917-72d78369333c",
+                    "title": "Savoy Truffle",
+                    "length": "178517",
+                    "disambiguation": "live, 2014-09-28: Fonda Theater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "055ac82e-c751-4faf-871e-cd8fbdd1ff63",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "055ac82e-c751-4faf-871e-cd8fbdd1ff63",
+                    "title": "Savoy Truffle",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50e44d11-4d7f-4875-b892-d634fc5dd772",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "50e44d11-4d7f-4875-b892-d634fc5dd772",
+                    "title": "Savoy Truffle",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d5cc9b9-ab22-4064-9c10-a5431ea49da0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d5cc9b9-ab22-4064-9c10-a5431ea49da0",
+                    "title": "Savoy Truffle",
+                    "length": "175026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e1ad184-fe36-4839-8cb9-69baa709f6cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6e1ad184-fe36-4839-8cb9-69baa709f6cf",
+                    "title": "Savoy Truffle",
+                    "length": "119000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "870e14ae-7e67-48bd-baaa-e0525c1436f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "870e14ae-7e67-48bd-baaa-e0525c1436f6",
+                    "title": "Savoy Truffle",
+                    "length": "241000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abf7e96b-9270-48a5-b7da-57a102aab170",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "abf7e96b-9270-48a5-b7da-57a102aab170",
+                    "title": "Savoy Truffle",
+                    "length": "605000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c23395d-2e61-47f4-8b1f-8f4c23c7962a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c23395d-2e61-47f4-8b1f-8f4c23c7962a",
+                    "title": "Savoy Truffle",
+                    "length": "195880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6aa1a95f-4bf2-4cc1-bf4d-486d38c2fd57",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6aa1a95f-4bf2-4cc1-bf4d-486d38c2fd57",
+                    "title": "Savoy Truffle",
+                    "length": "175000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f234de2c-50a5-406b-a45d-66b739ac0e46",
+                "direction": "backward",
+                "recording": {
+                    "id": "f234de2c-50a5-406b-a45d-66b739ac0e46",
+                    "title": "Savoy Truffle"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f761cc6-4ede-4517-90b0-8f27c3458bf7",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f761cc6-4ede-4517-90b0-8f27c3458bf7",
+                    "title": "Savoy Truffle"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7992307d-420e-49f2-8ffe-7d3b7314fc31",
+                "direction": "backward",
+                "recording": {
+                    "id": "7992307d-420e-49f2-8ffe-7d3b7314fc31",
+                    "title": "Savoy Truffle",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39848508-b39a-4f97-bad4-5916ec51194a",
+                "direction": "backward",
+                "recording": {
+                    "id": "39848508-b39a-4f97-bad4-5916ec51194a",
+                    "title": "Savoy Truffle",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee90d9b0-3422-4a30-ac26-ad939efc1f58",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee90d9b0-3422-4a30-ac26-ad939efc1f58",
+                    "title": "Savoy Truffle",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0e01f4d-9ab6-4e40-a6e4-ce10ed672c9d",
+                "direction": "backward",
+                "recording": {
+                    "id": "a0e01f4d-9ab6-4e40-a6e4-ce10ed672c9d",
+                    "title": "Savoy Truffle",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd5045c0-f0b5-447f-becc-46447ae2b8c2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bd5045c0-f0b5-447f-becc-46447ae2b8c2",
+                    "title": "Savoy Truffle",
+                    "length": "167666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c27f8333-fc00-49ba-95f6-8a7418d3d241",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c27f8333-fc00-49ba-95f6-8a7418d3d241",
+                    "title": "Savoy Truffle",
+                    "length": "186586"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f467dff-9125-49fc-909e-dc76f1045afd",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f467dff-9125-49fc-909e-dc76f1045afd",
+                    "title": "Savoy Truffle (RM6 take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d41b808e-a8bc-436c-b672-38da43131d1b",
+                "direction": "backward",
+                "recording": {
+                    "id": "d41b808e-a8bc-436c-b672-38da43131d1b",
+                    "title": "Savoy Truffle (RS2 Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d65db14-46ea-407d-8b36-a4aaa8340f87",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d65db14-46ea-407d-8b36-a4aaa8340f87",
+                    "title": "Savoy Truffle (take 1, RM6)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-savoy-truffle-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/29859",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=172",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1875036",
+                "direction": "backward"
+            }
+        ]
+    }
+}

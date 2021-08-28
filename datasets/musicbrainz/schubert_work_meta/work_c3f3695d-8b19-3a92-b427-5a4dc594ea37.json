@@ -1,0 +1,428 @@
+{
+    "work": {
+        "id": "c3f3695d-8b19-3a92-b427-5a4dc594ea37",
+        "type": "Poem",
+        "title": "Erlk\u00f6nig",
+        "language": "deu",
+        "disambiguation": "Goethe\u2019s poem",
+        "alias-list": [
+            {
+                "sort-name": "Der Erlk\u00f6nig",
+                "alias": "Der Erlk\u00f6nig"
+            },
+            {
+                "sort-name": "Erlking",
+                "alias": "Erlking"
+            },
+            {
+                "sort-name": "Le Roi des aulnes",
+                "alias": "Le Roi des aulnes"
+            },
+            {
+                "sort-name": "\u0413\u043e\u0440\u0441\u043a\u0438 \u0446\u0430\u0440",
+                "alias": "\u0413\u043e\u0440\u0441\u043a\u0438 \u0446\u0430\u0440"
+            },
+            {
+                "sort-name": "\u041b\u0435\u0441\u043d\u043e\u0439 \u0446\u0430\u0440\u044c",
+                "alias": "\u041b\u0435\u0441\u043d\u043e\u0439 \u0446\u0430\u0440\u044c"
+            },
+            {
+                "sort-name": "\u05e9\u05e8 \u05d4\u05d9\u05e2\u05e8",
+                "alias": "\u05e9\u05e8 \u05d4\u05d9\u05e2\u05e8"
+            },
+            {
+                "sort-name": "\u9b54\u738b",
+                "alias": "\u9b54\u738b"
+            },
+            {
+                "sort-name": "\ub9c8\uc655",
+                "alias": "\ub9c8\uc655"
+            }
+        ],
+        "alias-count": 8,
+        "artist-relation-list": [
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "f66b7fa3-1731-40ec-a2d9-710aa9e07c5d",
+                "direction": "backward",
+                "begin": "1782",
+                "end": "1782",
+                "ended": "true",
+                "artist": {
+                    "id": "f66b7fa3-1731-40ec-a2d9-710aa9e07c5d",
+                    "type": "Person",
+                    "name": "Johann Wolfgang von Goethe",
+                    "sort-name": "Goethe, Johann Wolfgang von"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e7a7d14-f601-4fed-80ff-e66e7f5e565d",
+                "direction": "backward",
+                "begin": "1939",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "2e7a7d14-f601-4fed-80ff-e66e7f5e565d",
+                    "title": "Erlk\u00f6nig",
+                    "length": "237000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eeef8896-3ab1-4312-a819-3f07938d8e0e",
+                "direction": "backward",
+                "begin": "1953",
+                "end": "1953",
+                "ended": "true",
+                "recording": {
+                    "id": "eeef8896-3ab1-4312-a819-3f07938d8e0e",
+                    "title": "Erlk\u00f6nig",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be1e50d9-7503-4112-972e-22ecf4706bd4",
+                "direction": "backward",
+                "begin": "2017-03-16",
+                "end": "2017-03-16",
+                "ended": "true",
+                "recording": {
+                    "id": "be1e50d9-7503-4112-972e-22ecf4706bd4",
+                    "title": "Erlk\u00f6nig, D328, arr. Liszt",
+                    "length": "270613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fca8828-d91d-4122-9fe0-d60f4f9f9059",
+                "direction": "backward",
+                "recording": {
+                    "id": "5fca8828-d91d-4122-9fe0-d60f4f9f9059",
+                    "title": "Der Erlk\u00f6nig",
+                    "length": "139200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63a5ec6d-17ee-4c1e-8f6c-5060ce1abe7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "63a5ec6d-17ee-4c1e-8f6c-5060ce1abe7f",
+                    "title": "Erlk\u00f6nig",
+                    "length": "110773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e805411a-e132-44a3-91a9-4b1ed859c3be",
+                "direction": "backward",
+                "recording": {
+                    "id": "e805411a-e132-44a3-91a9-4b1ed859c3be",
+                    "title": "Erlk\u00f6nig",
+                    "length": "106800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7eca1f1-d80a-4911-9e95-8ed98b005ed1",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7eca1f1-d80a-4911-9e95-8ed98b005ed1",
+                    "title": "Erlk\u00f6nig",
+                    "length": "90186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39a41948-b0fc-4ba9-8d18-2c04c2a03f13",
+                "direction": "backward",
+                "recording": {
+                    "id": "39a41948-b0fc-4ba9-8d18-2c04c2a03f13",
+                    "title": "Erlk\u00f6nig",
+                    "length": "106840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eff3fc3f-5622-42e9-bde3-9a5e352f2824",
+                "direction": "backward",
+                "recording": {
+                    "id": "eff3fc3f-5622-42e9-bde3-9a5e352f2824",
+                    "title": "Goethe: Erlk\u00f6nig",
+                    "length": "200053"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q684469",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "808ecafb-f414-457c-9141-e9755a93affb",
+                "direction": "forward",
+                "work": {
+                    "id": "808ecafb-f414-457c-9141-e9755a93affb",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "iswc": "T-802.859.684-2",
+                    "iswc-list": [
+                        "T-802.859.684-2"
+                    ],
+                    "disambiguation": "Leichenwetter"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "d783dab0-9f74-3226-81a0-645de2b56d3e",
+                "direction": "forward",
+                "work": {
+                    "id": "d783dab0-9f74-3226-81a0-645de2b56d3e",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig, D. 328",
+                    "language": "deu"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "59ce2d15-760d-4e24-988a-f4be5d3a3b7f",
+                "direction": "forward",
+                "work": {
+                    "id": "59ce2d15-760d-4e24-988a-f4be5d3a3b7f",
+                    "type": "Song",
+                    "title": "Der Erlk\u00f6nig",
+                    "language": "deu",
+                    "iswc": "T-801.826.923-4",
+                    "iswc-list": [
+                        "T-801.826.923-4"
+                    ],
+                    "disambiguation": "Reichel, original lyrics"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "56a30adc-a743-4bf7-a906-701b6d0ca7ad",
+                "direction": "forward",
+                "work": {
+                    "id": "56a30adc-a743-4bf7-a906-701b6d0ca7ad",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "iswc": "T-802.246.276-7",
+                    "iswc-list": [
+                        "T-802.246.276-7"
+                    ],
+                    "disambiguation": "Abrogation"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "3418e8a4-0104-49dc-9a4c-b96abf11bf7d",
+                "direction": "forward",
+                "work": {
+                    "id": "3418e8a4-0104-49dc-9a4c-b96abf11bf7d",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig, op. 1 no. 3",
+                    "language": "deu"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "e4717ab2-6ee9-4f92-8dd1-f1892baa1654",
+                "direction": "forward",
+                "work": {
+                    "id": "e4717ab2-6ee9-4f92-8dd1-f1892baa1654",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "disambiguation": "Zelter"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "f42a5675-ca46-430a-8bfc-65d83d79ad13",
+                "direction": "forward",
+                "work": {
+                    "id": "f42a5675-ca46-430a-8bfc-65d83d79ad13",
+                    "type": "Song",
+                    "title": "Dalai Lama",
+                    "language": "deu",
+                    "iswc": "T-801.628.121-4",
+                    "iswc-list": [
+                        "T-801.628.121-4"
+                    ],
+                    "disambiguation": "Rammstein"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "c8d1da6b-0291-49a0-a011-53fb9c90412d",
+                "direction": "forward",
+                "work": {
+                    "id": "c8d1da6b-0291-49a0-a011-53fb9c90412d",
+                    "type": "Song",
+                    "title": "Der Erlk\u00f6nig",
+                    "language": "deu",
+                    "iswc": "T-802.122.452-3",
+                    "iswc-list": [
+                        "T-802.122.452-3"
+                    ],
+                    "disambiguation": "Hypnotic Grooves, German"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "c59eb86b-9687-3bcc-a3c2-105da6255fe0",
+                "direction": "forward",
+                "work": {
+                    "id": "c59eb86b-9687-3bcc-a3c2-105da6255fe0",
+                    "type": "Song",
+                    "title": "Sechs deutsche Lieder, op. 154: IV. Erlk\u00f6nig",
+                    "language": "deu"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "a42e51e6-192e-4858-b527-03014a7914ce",
+                "direction": "forward",
+                "work": {
+                    "id": "a42e51e6-192e-4858-b527-03014a7914ce",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "disambiguation": "Reichardt"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "99810039-e5a4-4d06-ab39-f83f7bce6405",
+                "direction": "forward",
+                "work": {
+                    "id": "99810039-e5a4-4d06-ab39-f83f7bce6405",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "iswc": "T-802.297.778-3",
+                    "iswc-list": [
+                        "T-802.297.778-3"
+                    ],
+                    "disambiguation": "JDD"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "b482d02b-2057-4831-9ae2-8807ed3bf269",
+                "direction": "forward",
+                "work": {
+                    "id": "b482d02b-2057-4831-9ae2-8807ed3bf269",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "disambiguation": "JDD"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "5ba8ec6e-30e1-41f0-8260-0c09276aaf9e",
+                "direction": "forward",
+                "work": {
+                    "id": "5ba8ec6e-30e1-41f0-8260-0c09276aaf9e",
+                    "type": "Song",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "iswc": "T-801.505.753-2",
+                    "iswc-list": [
+                        "T-801.505.753-2"
+                    ],
+                    "disambiguation": "Dracul"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "3c6c0b37-2ab0-4e9d-aa02-d9c77752d00e",
+                "direction": "backward",
+                "work": {
+                    "id": "3c6c0b37-2ab0-4e9d-aa02-d9c77752d00e",
+                    "title": "Erlk\u00f6nigs Tochter",
+                    "language": "deu"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "54a32ec7-c3c3-4bb2-ba59-f8e016e75864",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "54a32ec7-c3c3-4bb2-ba59-f8e016e75864",
+                    "type": "Poem",
+                    "title": "Der K\u00f6nig Erl",
+                    "language": "deu"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "6d61bf4c-bc9c-400f-8877-de6640e825ea",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "6d61bf4c-bc9c-400f-8877-de6640e825ea",
+                    "title": "Erlk\u00f6nig",
+                    "language": "deu",
+                    "disambiguation": "EAV"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,823 @@
+{
+    "work": {
+        "id": "ba8adcd2-537e-3204-a427-86b391e40469",
+        "type": "Song",
+        "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+        "language": "eng",
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1396b63-10a7-4e45-ac24-c8e130581862",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "a1396b63-10a7-4e45-ac24-c8e130581862",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise) (take 8)",
+                    "length": "116067"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f424e666-a02e-4e52-9257-93574f6f67a0",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "f424e666-a02e-4e52-9257-93574f6f67a0",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "79000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b432fe4-1580-4f53-93ea-01b4009fc075",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "4b432fe4-1580-4f53-93ea-01b4009fc075",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "80600",
+                    "disambiguation": "2017 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61f3b135-e4e3-4aad-b25d-14343bfc5999",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "61f3b135-e4e3-4aad-b25d-14343bfc5999",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "78893",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f87472d-2c3c-42ba-ba35-d76b58362375",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "2f87472d-2c3c-42ba-ba35-d76b58362375",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "87173",
+                    "disambiguation": "take 5 with Paul's guide vocal"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7dce1cb-cb2a-4e3f-b213-75855d40e760",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "f7dce1cb-cb2a-4e3f-b213-75855d40e760",
+                    "title": "Sgt. Pepper's (Reprise) / The End",
+                    "disambiguation": "live, 2002: USA Tour",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76fde8fc-9563-4d52-90d8-5f17a48b24e1",
+                "direction": "backward",
+                "begin": "2003-06-01",
+                "end": "2003-06-01",
+                "ended": "true",
+                "recording": {
+                    "id": "76fde8fc-9563-4d52-90d8-5f17a48b24e1",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise) / The End",
+                    "disambiguation": "live, 2003-06-01: King's Dock, Liverpool, UK"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec288f0a-71c4-4965-8349-d8dc29be306a",
+                "direction": "backward",
+                "begin": "2005-09-22",
+                "end": "2005-09-22",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ec288f0a-71c4-4965-8349-d8dc29be306a",
+                    "title": "Sgt Pepper's (reprise) / Abbey Road Jam / The End",
+                    "disambiguation": "live, 2005-09-22: Wachovia Center, Philadelphia, PA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5161882-f176-4d3c-8b76-f6cb20936868",
+                "direction": "backward",
+                "begin": "2005-10-26",
+                "end": "2005-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b5161882-f176-4d3c-8b76-f6cb20936868",
+                    "title": "Sgt. Pepper's (reprise) / The End",
+                    "disambiguation": "live, 2005-10-26: Xcel Energy Center, St. Paul, MN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b46237f0-00b0-449a-b75f-35b554f19d6e",
+                "direction": "backward",
+                "begin": "2016-10",
+                "end": "2016-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b46237f0-00b0-449a-b75f-35b554f19d6e",
+                    "title": "Sgt Pepper's Lonely Hearts Club Hand (reprise)",
+                    "length": "136000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d63e756-c4ea-4721-8acf-4676a364a2a4",
+                "direction": "backward",
+                "begin": "2018-12-05",
+                "end": "2018-12-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0d63e756-c4ea-4721-8acf-4676a364a2a4",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "71235",
+                    "disambiguation": "live, 2018-12-05: Wiener Stadthalle, Wien, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5228e69-3cb7-4bc2-9855-a43ed49ba822",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d5228e69-3cb7-4bc2-9855-a43ed49ba822",
+                    "title": "Polythene Pam / She Came in Through the Bathroom Window / Nowhere Man / Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "310000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "953f4eda-5347-470e-8b36-e74208b0bcfd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "953f4eda-5347-470e-8b36-e74208b0bcfd",
+                    "title": "Sgt Pepper's Lonely Hearts Club Band (Reprise)",
+                    "length": "97280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc99e102-91e9-4750-9a2b-a771bc138752",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bc99e102-91e9-4750-9a2b-a771bc138752",
+                    "title": "Sgt Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfc8374e-04ba-4534-a954-27eb7551ed3a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dfc8374e-04ba-4534-a954-27eb7551ed3a",
+                    "title": "Sgt. Pepper (reprise)",
+                    "length": "73773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33b44a1f-7736-4b4c-a34b-68c0dee9027e",
+                "direction": "backward",
+                "recording": {
+                    "id": "33b44a1f-7736-4b4c-a34b-68c0dee9027e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "287000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d056580e-a065-47d7-9b74-d36e538c05c0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d056580e-a065-47d7-9b74-d36e538c05c0",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "107000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9185d5f6-97ec-460a-b3b6-184e49e6b263",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9185d5f6-97ec-460a-b3b6-184e49e6b263",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "97000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "326ba8bb-15bb-4481-964b-0152ee8525ea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "326ba8bb-15bb-4481-964b-0152ee8525ea",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "64133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f67868ef-44c6-4fa6-98e7-1a3276f129e7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f67868ef-44c6-4fa6-98e7-1a3276f129e7",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "83000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd54a2ce-27c1-4e55-8be2-3d9d75851cad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dd54a2ce-27c1-4e55-8be2-3d9d75851cad",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "80040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21c95499-3e27-4514-9405-9bd0e73152c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "21c95499-3e27-4514-9405-9bd0e73152c6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29c0d15d-6630-4ada-990a-dae71d31db0c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "29c0d15d-6630-4ada-990a-dae71d31db0c",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "80253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51ead3f7-0532-4df0-a8cd-bd2e4380bfb6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "51ead3f7-0532-4df0-a8cd-bd2e4380bfb6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "96000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7aabf58a-5132-4358-b9ff-36fa21f91036",
+                "direction": "backward",
+                "recording": {
+                    "id": "7aabf58a-5132-4358-b9ff-36fa21f91036",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "104000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b35d6788-283e-4644-8884-8262ee6973d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b35d6788-283e-4644-8884-8262ee6973d1",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "78000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52c310f5-1f7c-4109-9647-d92dd0429152",
+                "direction": "backward",
+                "recording": {
+                    "id": "52c310f5-1f7c-4109-9647-d92dd0429152",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a40145bd-4170-4823-b713-2194cebcff4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a40145bd-4170-4823-b713-2194cebcff4e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+                    "length": "78000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b9aa871-1e7c-42cd-9d40-c99515ece5c5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7b9aa871-1e7c-42cd-9d40-c99515ece5c5",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band / With a Little Help From My Friends / Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "380160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69375187-5152-4166-a701-98b8e8875c33",
+                "direction": "backward",
+                "recording": {
+                    "id": "69375187-5152-4166-a701-98b8e8875c33",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band/Reprise (mono version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d36ffc1-8dc5-4499-ac40-540dd3173930",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d36ffc1-8dc5-4499-ac40-540dd3173930",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "82000",
+                    "disambiguation": "Love version, 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a04c8a2e-86ca-4349-b51f-014c444b7e66",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a04c8a2e-86ca-4349-b51f-014c444b7e66",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "155ce420-d12b-4007-85d7-6c7f3f62b930",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "155ce420-d12b-4007-85d7-6c7f3f62b930",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "315928"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f9a5d9c-1224-49c4-8026-4386109742a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f9a5d9c-1224-49c4-8026-4386109742a7",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "75000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cab6b72a-5064-4a96-a145-c0aa6ac82c59",
+                "direction": "backward",
+                "recording": {
+                    "id": "cab6b72a-5064-4a96-a145-c0aa6ac82c59",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "82000",
+                    "disambiguation": "Love version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90784861-3b66-45ba-8d3a-980e09a7e1e8",
+                "direction": "backward",
+                "recording": {
+                    "id": "90784861-3b66-45ba-8d3a-980e09a7e1e8",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise) (speech and take 8)",
+                    "length": "116066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2d97bd8-eba5-4811-9071-ecb36480153c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2d97bd8-eba5-4811-9071-ecb36480153c",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise) (speech and take 8)",
+                    "length": "119160"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-sgt-peppers-lonely-hearts-club-band-reprise-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1134",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=118",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2276129",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "c6402058-011c-30d1-8189-6d8eedebfed2",
+                "direction": "backward",
+                "work": {
+                    "id": "c6402058-011c-30d1-8189-6d8eedebfed2",
+                    "type": "Song",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "language": "eng",
+                    "iswc": "T-010.971.514-1",
+                    "iswc-list": [
+                        "T-010.971.514-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

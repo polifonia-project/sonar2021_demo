@@ -1,0 +1,1234 @@
+{
+    "work": {
+        "id": "11e85456-1ece-3226-8524-47b6eeca616c",
+        "title": "Piggies",
+        "language": "eng",
+        "iswc": "T-010.098.631-9",
+        "iswc-list": [
+            "T-010.098.631-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000171 074 18"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "9021"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12373016"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78201869800"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "702.931"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "708373"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "708373"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "281766"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "2308785"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "019374576"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "67 026 320 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004964100"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "1786DT"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0P0-0982-8"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "528636-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1170376"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "24507333"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315983"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000090831"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "460239198"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00827185"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "10644384"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9527998"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5089840"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "17108002"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6325143"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5031512"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e7a9bda-1694-4d95-a627-22390a52d8f7",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "5e7a9bda-1694-4d95-a627-22390a52d8f7",
+                    "title": "Piggies",
+                    "length": "121000",
+                    "disambiguation": "Esher session"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9a95116-88f1-44ac-82c8-33e9bc685f50",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "e9a95116-88f1-44ac-82c8-33e9bc685f50",
+                    "title": "Piggies",
+                    "length": "125787",
+                    "disambiguation": "Esher demo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aca77d1e-3303-4d62-bd90-0e976c3a9f72",
+                "direction": "backward",
+                "begin": "1968-09-19",
+                "end": "1968-09-20",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "aca77d1e-3303-4d62-bd90-0e976c3a9f72",
+                    "title": "Piggies (take 12 / instrumental backing track)",
+                    "length": "130093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d9457bf-7371-4ee7-a717-ddd6ec614357",
+                "direction": "backward",
+                "begin": "1968-09-19",
+                "end": "1968-10-10",
+                "ended": "true",
+                "recording": {
+                    "id": "7d9457bf-7371-4ee7-a717-ddd6ec614357",
+                    "title": "Piggies",
+                    "length": "124306",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a8af375-57de-4edc-b367-64eeee131997",
+                "direction": "backward",
+                "begin": "1968-09-19",
+                "end": "1968-10-10",
+                "ended": "true",
+                "recording": {
+                    "id": "1a8af375-57de-4edc-b367-64eeee131997",
+                    "title": "Piggies",
+                    "length": "123000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9506a3df-d210-43ba-9d50-30bf45e650ae",
+                "direction": "backward",
+                "begin": "1968-09-19",
+                "end": "1968-10-10",
+                "ended": "true",
+                "recording": {
+                    "id": "9506a3df-d210-43ba-9d50-30bf45e650ae",
+                    "title": "Piggies",
+                    "length": "124333",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a925ab31-8311-4f67-8ff9-b5c9fec81054",
+                "direction": "backward",
+                "begin": "1968-09-19",
+                "end": "1968-10-10",
+                "ended": "true",
+                "recording": {
+                    "id": "a925ab31-8311-4f67-8ff9-b5c9fec81054",
+                    "title": "Piggies (5.1 mix)",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c2a9732-4741-499f-ba24-5163fcf0899d",
+                "direction": "backward",
+                "begin": "1991-12",
+                "end": "1991-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6c2a9732-4741-499f-ba24-5163fcf0899d",
+                    "title": "Piggies",
+                    "length": "176000",
+                    "disambiguation": "live, 1991-12: Osaka and Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b23ae9d-d450-46b0-ae07-955ebb3ff699",
+                "direction": "backward",
+                "begin": "1991-12",
+                "end": "1991-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8b23ae9d-d450-46b0-ae07-955ebb3ff699",
+                    "title": "Piggies (5.1 mix)",
+                    "length": "176000",
+                    "disambiguation": "live, 1991-12: Osaka and Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f94c8f89-e099-4db9-a4a0-16a86a01e266",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f94c8f89-e099-4db9-a4a0-16a86a01e266",
+                    "title": "Piggies",
+                    "length": "119000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3610b5e3-8a98-430c-bc53-54c632b3b93c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3610b5e3-8a98-430c-bc53-54c632b3b93c",
+                    "title": "Introduction / Piggies",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ef5b2d5-db47-4381-9bad-d14e744ee6d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ef5b2d5-db47-4381-9bad-d14e744ee6d8",
+                    "title": "Piggies",
+                    "length": "184000",
+                    "disambiguation": "live, 1992-04-06: Royal Albert Hall, London, UK"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c478c4c3-2351-4fcc-8c8d-c99a1e4b8dea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c478c4c3-2351-4fcc-8c8d-c99a1e4b8dea",
+                    "title": "Piggies",
+                    "length": "126693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5342a778-5cb3-4a4e-b61a-c325de180c97",
+                "direction": "backward",
+                "recording": {
+                    "id": "5342a778-5cb3-4a4e-b61a-c325de180c97",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97f4e770-c4d5-458a-b457-125c3c589694",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97f4e770-c4d5-458a-b457-125c3c589694",
+                    "title": "Piggies",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2443641-a328-4a86-a1cc-76e84defde36",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d2443641-a328-4a86-a1cc-76e84defde36",
+                    "title": "Piggies",
+                    "length": "211066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb2cffde-5369-43b3-9bfc-231fcc2385a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb2cffde-5369-43b3-9bfc-231fcc2385a4",
+                    "title": "Piggies",
+                    "length": "95627"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb9954b9-e500-4d29-9582-b58430426b59",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "eb9954b9-e500-4d29-9582-b58430426b59",
+                    "title": "Piggies",
+                    "length": "119400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "901de1b4-aad6-4c04-af9f-a1323b735214",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "901de1b4-aad6-4c04-af9f-a1323b735214",
+                    "title": "Piggies",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86d7a43f-a519-4043-acd4-05f85ea2efe0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "86d7a43f-a519-4043-acd4-05f85ea2efe0",
+                    "title": "Piggies",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02ff3994-d630-4099-8113-4e3d82a10aa6",
+                "direction": "backward",
+                "recording": {
+                    "id": "02ff3994-d630-4099-8113-4e3d82a10aa6",
+                    "title": "Piggies",
+                    "disambiguation": "live, 1991-12-05: The International Exhibition Center, Nagoya, Japan"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31b5795d-7efe-49cf-affd-53dc4930e3a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "31b5795d-7efe-49cf-affd-53dc4930e3a9",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37e6fb62-06a5-4408-8b61-59bdd3b45ac3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "37e6fb62-06a5-4408-8b61-59bdd3b45ac3",
+                    "title": "Piggies",
+                    "disambiguation": "live, 1992: Royal Albert Hall, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9de2e0e8-2711-4fe5-ac0f-19087c7d9e04",
+                "direction": "backward",
+                "recording": {
+                    "id": "9de2e0e8-2711-4fe5-ac0f-19087c7d9e04",
+                    "title": "Piggies",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a65f0ba-29ac-4035-a138-53fd690adab8",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a65f0ba-29ac-4035-a138-53fd690adab8",
+                    "title": "Piggies",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d03c4b0-cb94-4857-a767-f0ddea7431ef",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d03c4b0-cb94-4857-a767-f0ddea7431ef",
+                    "title": "Piggies",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "453d205b-9b7e-46a3-aea7-0a1852557028",
+                "direction": "backward",
+                "recording": {
+                    "id": "453d205b-9b7e-46a3-aea7-0a1852557028",
+                    "title": "Piggies",
+                    "length": "123440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ef2545e-6aba-4090-97ab-e9311ad8a754",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ef2545e-6aba-4090-97ab-e9311ad8a754",
+                    "title": "Piggies",
+                    "length": "15000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4779d043-4f4c-45d6-b080-0cff017621c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4779d043-4f4c-45d6-b080-0cff017621c6",
+                    "title": "Piggies",
+                    "length": "125733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a1f56ff-9440-4288-b7e3-ea64820c1b2a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9a1f56ff-9440-4288-b7e3-ea64820c1b2a",
+                    "title": "Piggies",
+                    "length": "125600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99ecbc8e-08ff-4276-b2ee-7ac714a09d76",
+                "direction": "backward",
+                "recording": {
+                    "id": "99ecbc8e-08ff-4276-b2ee-7ac714a09d76",
+                    "title": "Piggies",
+                    "length": "127826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1802a132-cd41-45a8-9893-f5005b2fc6f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "1802a132-cd41-45a8-9893-f5005b2fc6f3",
+                    "title": "Piggies",
+                    "length": "125306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26cca577-bd2a-4969-aa1e-3e1ba92794bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "26cca577-bd2a-4969-aa1e-3e1ba92794bf",
+                    "title": "Piggies",
+                    "length": "125866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe5dfa40-e140-4d7b-a354-a029ea7472ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fe5dfa40-e140-4d7b-a354-a029ea7472ae",
+                    "title": "Piggies",
+                    "length": "472000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1eae2d4-22ee-45de-9765-de6d2fb7c906",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b1eae2d4-22ee-45de-9765-de6d2fb7c906",
+                    "title": "Piggies",
+                    "length": "121000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90f95798-49f0-4397-8fda-a5967af76eff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "90f95798-49f0-4397-8fda-a5967af76eff",
+                    "title": "Piggies",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07787b14-b82f-4e7c-a7a5-44a575e79eb4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "07787b14-b82f-4e7c-a7a5-44a575e79eb4",
+                    "title": "Piggies",
+                    "length": "185160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9cb3700-fc24-4250-adb4-6461d0d9b10b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d9cb3700-fc24-4250-adb4-6461d0d9b10b",
+                    "title": "Piggies",
+                    "length": "173186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7eb13600-73e7-4456-9ec1-2d769df7fb9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "7eb13600-73e7-4456-9ec1-2d769df7fb9c",
+                    "title": "Piggies",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e4cb086-4586-4c41-92c0-b66013e4312b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1e4cb086-4586-4c41-92c0-b66013e4312b",
+                    "title": "Piggies",
+                    "disambiguation": "live, 1991-12-17: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0c347f6-19aa-4881-bb23-9f428c1d3295",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0c347f6-19aa-4881-bb23-9f428c1d3295",
+                    "title": "Piggies",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13b7c3be-eb27-4f59-bd47-597e76c689a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "13b7c3be-eb27-4f59-bd47-597e76c689a7",
+                    "title": "Piggies",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3ddd3a4-8a2f-4c02-a723-06b5b06ffa6c",
+                "direction": "backward",
+                "recording": {
+                    "id": "b3ddd3a4-8a2f-4c02-a723-06b5b06ffa6c",
+                    "title": "Piggies",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9624cde-1efc-4cb2-9a89-2542b367f23a",
+                "direction": "backward",
+                "recording": {
+                    "id": "d9624cde-1efc-4cb2-9a89-2542b367f23a",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8af465a6-b84b-40b9-a0b9-acf560d8b574",
+                "direction": "backward",
+                "recording": {
+                    "id": "8af465a6-b84b-40b9-a0b9-acf560d8b574",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bba7975e-c45f-4838-a261-653ce15f3690",
+                "direction": "backward",
+                "recording": {
+                    "id": "bba7975e-c45f-4838-a261-653ce15f3690",
+                    "title": "Piggies",
+                    "length": "126119"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fc66ada-c2d0-4829-aeab-7de3ae092938",
+                "direction": "backward",
+                "recording": {
+                    "id": "6fc66ada-c2d0-4829-aeab-7de3ae092938",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36d01920-4cee-4228-af66-9baea12d2b8c",
+                "direction": "backward",
+                "recording": {
+                    "id": "36d01920-4cee-4228-af66-9baea12d2b8c",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0f80ee6-9296-4869-a308-8bf6c5ca7a59",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0f80ee6-9296-4869-a308-8bf6c5ca7a59",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a68b178b-986d-43e1-b7e5-269f7472bdee",
+                "direction": "backward",
+                "recording": {
+                    "id": "a68b178b-986d-43e1-b7e5-269f7472bdee",
+                    "title": "Piggies"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73430839-da31-46ff-af34-fc8390efc79a",
+                "direction": "backward",
+                "recording": {
+                    "id": "73430839-da31-46ff-af34-fc8390efc79a",
+                    "title": "Piggies",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67fe8bbe-5c19-4a39-be7f-3e6cbdb20ba6",
+                "direction": "backward",
+                "recording": {
+                    "id": "67fe8bbe-5c19-4a39-be7f-3e6cbdb20ba6",
+                    "title": "Piggies",
+                    "length": "138000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44f57179-dd14-4d0b-b478-f24f2a6bacc7",
+                "direction": "backward",
+                "recording": {
+                    "id": "44f57179-dd14-4d0b-b478-f24f2a6bacc7",
+                    "title": "Piggies",
+                    "length": "124360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "383ca7a5-ece3-4235-b702-9f5ee52e2e47",
+                "direction": "backward",
+                "recording": {
+                    "id": "383ca7a5-ece3-4235-b702-9f5ee52e2e47",
+                    "title": "Piggies",
+                    "length": "123106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fca6da3a-d4ce-442a-8b79-117420e9a2a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "fca6da3a-d4ce-442a-8b79-117420e9a2a3",
+                    "title": "Piggies (alternate mix)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3dd498ee-fde0-4501-b219-2ca24318a737",
+                "direction": "backward",
+                "recording": {
+                    "id": "3dd498ee-fde0-4501-b219-2ca24318a737",
+                    "title": "Piggies (Anthology mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52c084eb-ddfd-4204-9f74-a7205872dc35",
+                "direction": "backward",
+                "recording": {
+                    "id": "52c084eb-ddfd-4204-9f74-a7205872dc35",
+                    "title": "Piggies (demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c29082d-f728-494a-8b20-813f8cafe1fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c29082d-f728-494a-8b20-813f8cafe1fb",
+                    "title": "Piggies (demo) (Alt mix)",
+                    "length": "126853"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c0e8b0a-f46c-4e32-bece-b4b54590a20c",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c0e8b0a-f46c-4e32-bece-b4b54590a20c",
+                    "title": "Piggies (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5ed2132-9c61-4568-bc41-b6f4e9a9f69b",
+                "direction": "backward",
+                "recording": {
+                    "id": "e5ed2132-9c61-4568-bc41-b6f4e9a9f69b",
+                    "title": "Piggies (Esher demo)",
+                    "length": "126666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e973715-96ec-45e0-90ac-7a09348c8a62",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e973715-96ec-45e0-90ac-7a09348c8a62",
+                    "title": "Piggies (Esher demo)",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38aed60e-cb0d-4011-a876-9e95329cf0c5",
+                "direction": "backward",
+                "recording": {
+                    "id": "38aed60e-cb0d-4011-a876-9e95329cf0c5",
+                    "title": "Piggies (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55e8ba8e-7fc5-48ef-9dd6-240f4487cf47",
+                "direction": "backward",
+                "recording": {
+                    "id": "55e8ba8e-7fc5-48ef-9dd6-240f4487cf47",
+                    "title": "Piggies (mono)",
+                    "length": "122973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6c6f5ef-b73a-418e-a625-2498066f3aa3",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6c6f5ef-b73a-418e-a625-2498066f3aa3",
+                    "title": "Piggies (RM4 take 12)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92c408e4-9162-4675-ab04-79d14f6c1fc5",
+                "direction": "backward",
+                "recording": {
+                    "id": "92c408e4-9162-4675-ab04-79d14f6c1fc5",
+                    "title": "Piggies (RS3 Take 12)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba3ee02b-4493-4e8a-8b31-624538bde36f",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba3ee02b-4493-4e8a-8b31-624538bde36f",
+                    "title": "Piggies (take 12, RM4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13f89131-4c99-4ef0-8caa-ae48423c6639",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "13f89131-4c99-4ef0-8caa-ae48423c6639",
+                    "title": "Piggies (take unknown - Partial)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bc151e9-6880-4c21-9bdd-7b962359d3a8",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2bc151e9-6880-4c21-9bdd-7b962359d3a8",
+                    "title": "Piggies (Unused Overdub - Partial)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "711a9ba7-57ef-4160-bd3e-52b8b56652c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "711a9ba7-57ef-4160-bd3e-52b8b56652c4",
+                    "title": "Theme From \u00bbPiggies\u00ab",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-piggies-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/12398",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=158",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2331523",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "c336b959-13c9-44e1-839b-e0dbe9f42555",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "c336b959-13c9-44e1-839b-e0dbe9f42555",
+                    "type": "Song",
+                    "title": "S\u00f6ili",
+                    "language": "gsw"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

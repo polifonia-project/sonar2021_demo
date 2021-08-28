@@ -1,0 +1,4699 @@
+{
+    "work": {
+        "id": "6a79f7b5-771c-3897-9a28-46e139bfef90",
+        "type": "Song",
+        "title": "Kansas City",
+        "language": "eng",
+        "iswc": "T-010.434.450-4",
+        "iswc-list": [
+            "T-010.434.450-4",
+            "T-070.092.221-9",
+            "T-900.758.277-6"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SPA ID",
+                "value": "19125"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "10391888"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "865923"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "2347510"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "080387666"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 849 804 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001619700"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "2551CS"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "253459"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2626158"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "8841944"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6482476"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "13491510"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "92222"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000060271"
+            },
+            {
+                "attribute": "ARTISJUS ID",
+                "value": "4000131136"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "791903"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Loving, K.C.",
+                "alias": "K.C. Loving"
+            },
+            {
+                "sort-name": "KC Loving",
+                "alias": "KC Loving"
+            },
+            {
+                "sort-name": "Kansas City Loving",
+                "alias": "Kansas City Loving"
+            }
+        ],
+        "alias-count": 3,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "02f314c0-2136-4172-8ea0-07149c77c722",
+                "direction": "backward",
+                "begin": "1952",
+                "end": "1952",
+                "ended": "true",
+                "artist": {
+                    "id": "02f314c0-2136-4172-8ea0-07149c77c722",
+                    "type": "Person",
+                    "name": "Mike Stoller",
+                    "sort-name": "Stoller, Mike"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "24252d8a-38e7-4358-bfe7-70d845f156ba",
+                "direction": "backward",
+                "begin": "1952",
+                "end": "1952",
+                "ended": "true",
+                "artist": {
+                    "id": "24252d8a-38e7-4358-bfe7-70d845f156ba",
+                    "type": "Person",
+                    "name": "Jerry Leiber",
+                    "sort-name": "Leiber, Jerry"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "23825a59-028a-4b21-a2a5-0a99abc5c5dd",
+                "direction": "backward",
+                "label": {
+                    "id": "23825a59-028a-4b21-a2a5-0a99abc5c5dd",
+                    "type": "Publisher",
+                    "name": "EMI Music Ltd.",
+                    "sort-name": "EMI Music Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0444bf08-9619-41de-a650-7551debea562",
+                "direction": "backward",
+                "label": {
+                    "id": "0444bf08-9619-41de-a650-7551debea562",
+                    "type": "Publisher",
+                    "name": "Jerry Leiber Music",
+                    "sort-name": "Jerry Leiber Music"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b834d8a4-33f6-4bd8-becc-e402a59d1c88",
+                "direction": "backward",
+                "label": {
+                    "id": "b834d8a4-33f6-4bd8-becc-e402a59d1c88",
+                    "type": "Publisher",
+                    "name": "Mike Stoller Music",
+                    "sort-name": "Mike Stoller Music",
+                    "disambiguation": "ASCAP"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "925b7552-7cbd-4cf0-867c-7a908f63fa89",
+                "direction": "backward",
+                "label": {
+                    "id": "925b7552-7cbd-4cf0-867c-7a908f63fa89",
+                    "type": "Publisher",
+                    "name": "Peter Maurice Music Co. Ltd.",
+                    "sort-name": "Peter Maurice Music Co. Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "1bfeff53-8321-4156-9eb2-0c2396cb9cb3",
+                "direction": "backward",
+                "label": {
+                    "id": "1bfeff53-8321-4156-9eb2-0c2396cb9cb3",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Songs LLC",
+                    "sort-name": "Sony/ATV Songs LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdfaea94-27e8-4d62-a3b9-5fdf2832463d",
+                "direction": "backward",
+                "begin": "1955-09-13",
+                "end": "1955-09-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bdfaea94-27e8-4d62-a3b9-5fdf2832463d",
+                    "title": "Kansas City (SLP 2136 master - take 2)",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "603ae760-4b9d-49a1-977a-db0945b21fdb",
+                "direction": "backward",
+                "begin": "1955-09-13",
+                "end": "1955-09-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "603ae760-4b9d-49a1-977a-db0945b21fdb",
+                    "title": "Kansas City (take 1)",
+                    "length": "128826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00fe2c78-5968-4ca3-9a5e-0675afd3e117",
+                "direction": "backward",
+                "begin": "1959-12-02",
+                "end": "1959-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "00fe2c78-5968-4ca3-9a5e-0675afd3e117",
+                    "title": "Kansas City",
+                    "length": "191000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54646b0d-c291-4773-9552-4099631d3ef7",
+                "direction": "backward",
+                "begin": "1960-07-26",
+                "end": "1960-07-26",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54646b0d-c291-4773-9552-4099631d3ef7",
+                    "title": "Kansas City",
+                    "length": "149000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d797cc75-81fc-495d-8f5c-d2252a468f3a",
+                "direction": "backward",
+                "begin": "1961-04-14",
+                "end": "1961-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d797cc75-81fc-495d-8f5c-d2252a468f3a",
+                    "title": "Kansas City",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ddc50f8-71a8-46a7-9f1c-026e9c0951d5",
+                "direction": "backward",
+                "begin": "1962-04-30",
+                "end": "1962-04-30",
+                "ended": "true",
+                "recording": {
+                    "id": "2ddc50f8-71a8-46a7-9f1c-026e9c0951d5",
+                    "title": "Kansas City",
+                    "length": "234000",
+                    "disambiguation": "mono"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2fb07ea-21a9-4705-a4e5-a3afb394150a",
+                "direction": "backward",
+                "begin": "1962-04-30",
+                "end": "1962-04-30",
+                "ended": "true",
+                "recording": {
+                    "id": "c2fb07ea-21a9-4705-a4e5-a3afb394150a",
+                    "title": "Kansas City",
+                    "length": "233000",
+                    "disambiguation": "stereo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94a26c23-68a7-4de3-9ccf-dcec32425fa8",
+                "direction": "backward",
+                "begin": "1962",
+                "end": "1962",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "94a26c23-68a7-4de3-9ccf-dcec32425fa8",
+                    "title": "Kansas City",
+                    "length": "124000",
+                    "disambiguation": "live, 1962-12: Star Club, Hamburg, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c0a5cd7-756d-4409-981d-13f3613db877",
+                "direction": "backward",
+                "begin": "1962",
+                "end": "1962",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "2c0a5cd7-756d-4409-981d-13f3613db877",
+                    "title": "Kansas City/Rip It Up",
+                    "length": "143693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17a66886-73fb-4547-a04d-47bb372b8321",
+                "direction": "backward",
+                "begin": "1963-03",
+                "end": "1963-04",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "17a66886-73fb-4547-a04d-47bb372b8321",
+                    "title": "Kansas City",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6b5980b-9753-449e-abbd-65fba6464e0c",
+                "direction": "backward",
+                "begin": "1964-10-18",
+                "end": "1964-10-18",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b6b5980b-9753-449e-abbd-65fba6464e0c",
+                    "title": "Medley: Kansas City / Hey\u2010Hey\u2010Hey\u2010Hey!",
+                    "length": "153000",
+                    "disambiguation": "original stereo studio mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4cba562-088e-4367-b681-6f34fed9e9b5",
+                "direction": "backward",
+                "begin": "1964-10-18",
+                "end": "1964-10-18",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e4cba562-088e-4367-b681-6f34fed9e9b5",
+                    "title": "Medley: Kansas City / Hey\u2010Hey\u2010Hey\u2010Hey!",
+                    "length": "153000",
+                    "disambiguation": "original mono studio mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "353202e0-5f10-4cb8-ac65-7d56bdf1c46a",
+                "direction": "backward",
+                "begin": "1965-02-13",
+                "end": "1965-02-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "353202e0-5f10-4cb8-ac65-7d56bdf1c46a",
+                    "title": "Kansas City Loving",
+                    "length": "127800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c07d7654-bb77-4153-a49a-61ffd5640275",
+                "direction": "backward",
+                "begin": "1965",
+                "end": "1965",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c07d7654-bb77-4153-a49a-61ffd5640275",
+                    "title": "Kansas City",
+                    "length": "262693",
+                    "disambiguation": "live, 1965: England"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3ea8e7d-528c-4d82-9935-245174c38bc2",
+                "direction": "backward",
+                "begin": "1967-06-24",
+                "end": "1968-06-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c3ea8e7d-528c-4d82-9935-245174c38bc2",
+                    "title": "Kansas City",
+                    "length": "234333",
+                    "disambiguation": "live, 1967-06-2x: Apollo Theater, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40214797-568c-4238-afaf-50ca09d9e76c",
+                "direction": "backward",
+                "begin": "1967-09-13",
+                "end": "1967-09-13",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "40214797-568c-4238-afaf-50ca09d9e76c",
+                    "title": "Kansas City",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e589c52d-1d3b-4f0e-89e8-7f2dd1285f6d",
+                "direction": "backward",
+                "begin": "1968-08-26",
+                "end": "1968-08-26",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e589c52d-1d3b-4f0e-89e8-7f2dd1285f6d",
+                    "title": "Kansas City",
+                    "length": "253560",
+                    "disambiguation": "live, 1968-08-26: Memorial Auditorium, Dallas, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5296de6c-622b-4967-aed5-32cd88aa7402",
+                "direction": "backward",
+                "begin": "1969",
+                "end": "1969",
+                "ended": "true",
+                "recording": {
+                    "id": "5296de6c-622b-4967-aed5-32cd88aa7402",
+                    "title": "Kansas City",
+                    "length": "180600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30cd876a-f627-43f6-946f-9b64491fd7a5",
+                "direction": "backward",
+                "begin": "1972",
+                "end": "1972",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "30cd876a-f627-43f6-946f-9b64491fd7a5",
+                    "title": "Kansas City",
+                    "length": "211080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19fc8f3f-eed0-417a-a755-7f8a49f0654b",
+                "direction": "backward",
+                "begin": "1977-06-29",
+                "end": "1977-07-01",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "19fc8f3f-eed0-417a-a755-7f8a49f0654b",
+                    "title": "Kansas City",
+                    "length": "293000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7deafdb6-788a-4553-ba1f-508458467469",
+                "direction": "backward",
+                "begin": "1977",
+                "end": "1977",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7deafdb6-788a-4553-ba1f-508458467469",
+                    "title": "Kansas City",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77ffc975-66dd-41f7-aa94-becdcb16676b",
+                "direction": "backward",
+                "begin": "1981-02-05",
+                "end": "1981-02-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "77ffc975-66dd-41f7-aa94-becdcb16676b",
+                    "title": "Kansas City",
+                    "disambiguation": "live, 1981-02-05: Kemper Arena, Kansas City, MO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "203dcbfc-3ffd-46dd-b3d6-d3dfbec59fce",
+                "direction": "backward",
+                "begin": "1984-11-19",
+                "end": "1984-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "203dcbfc-3ffd-46dd-b3d6-d3dfbec59fce",
+                    "title": "Detroit Medley / Kansas City",
+                    "length": "649000",
+                    "disambiguation": "live, 1984-11-19: Kemper Arena, Kansas City, KS, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f31ba76-742b-4c96-9026-0097c330d795",
+                "direction": "backward",
+                "begin": "1984-11-19",
+                "end": "1984-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "2f31ba76-742b-4c96-9026-0097c330d795",
+                    "title": "Kansas City / Devil With a Blue Dress On",
+                    "length": "150493",
+                    "disambiguation": "live, 1984-11-19: Kemper Arena, Kansas City, MO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d49fcd8b-5a9a-40ed-9a26-3cf43c75d2bf",
+                "direction": "backward",
+                "begin": "1987-07-20",
+                "end": "1987-07-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "d49fcd8b-5a9a-40ed-9a26-3cf43c75d2bf",
+                    "title": "CHOBA B CCCP Medley, Part 1",
+                    "length": "645984"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f26be5eb-78ff-47f1-81f2-63df4ed5173a",
+                "direction": "backward",
+                "begin": "1987-07",
+                "end": "1987-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f26be5eb-78ff-47f1-81f2-63df4ed5173a",
+                    "title": "Kansas City",
+                    "length": "243000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ce150f8-f25a-44c2-9fb6-8f4da66a0243",
+                "direction": "backward",
+                "begin": "1988-02",
+                "end": "1988-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0ce150f8-f25a-44c2-9fb6-8f4da66a0243",
+                    "title": "Kansas City",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ded9b2fa-ee5f-4db2-9895-4977192a1312",
+                "direction": "backward",
+                "begin": "1992-05-23",
+                "end": "1992-05-23",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ded9b2fa-ee5f-4db2-9895-4977192a1312",
+                    "title": "Kansas City",
+                    "length": "252160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6780a07-6b9c-466b-a2ed-db0583b089ff",
+                "direction": "backward",
+                "begin": "1993-05-31",
+                "end": "1993-05-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d6780a07-6b9c-466b-a2ed-db0583b089ff",
+                    "title": "Kansas City",
+                    "length": "233666",
+                    "disambiguation": "live, 1993-05-31: Arrowhead Stadium, Kansas City, MO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ab3a0c1-6c75-4ff3-92c1-a8a53ea539b3",
+                "direction": "backward",
+                "begin": "1994-08-20",
+                "end": "1994-08-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2ab3a0c1-6c75-4ff3-92c1-a8a53ea539b3",
+                    "title": "The Wanderer / Kansas City",
+                    "length": "311000",
+                    "disambiguation": "live, 1994-08-20: Marz American Style, Long Branch, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82830760-a768-45fd-a293-1506f359f139",
+                "direction": "backward",
+                "begin": "1994-08-20",
+                "end": "1994-08-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "82830760-a768-45fd-a293-1506f359f139",
+                    "title": "The Wanderer / Kansas City",
+                    "length": "311327",
+                    "disambiguation": "live, 1994-08-20: Marz American Style, Long Branch, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e72ae336-573a-4b81-9c4b-cb9210324f58",
+                "direction": "backward",
+                "begin": "1994-08-20",
+                "end": "1994-08-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e72ae336-573a-4b81-9c4b-cb9210324f58",
+                    "title": "The Wanderer / Kansas City",
+                    "length": "379600",
+                    "disambiguation": "live, 1994-08-20: Marz American Style, Long Branch, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3387019b-ce8b-4027-9942-f0368c554228",
+                "direction": "backward",
+                "begin": "1995-01-13",
+                "end": "1995-01-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3387019b-ce8b-4027-9942-f0368c554228",
+                    "title": "Kansas City",
+                    "length": "223000",
+                    "disambiguation": "live; 1995-01-13: The Howard Stern Show: The Trump Plaza, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a2bf329-b877-435d-96ec-5c9e96f9f8a4",
+                "direction": "backward",
+                "begin": "1997-09-15",
+                "end": "1997-09-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8a2bf329-b877-435d-96ec-5c9e96f9f8a4",
+                    "title": "Kansas City",
+                    "length": "271000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c90c729-0ce3-4f08-9c47-b20bcc6599ca",
+                "direction": "backward",
+                "begin": "2002-09-24",
+                "end": "2002-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8c90c729-0ce3-4f08-9c47-b20bcc6599ca",
+                    "title": "Kansas City",
+                    "disambiguation": "live, 2002-09-24: Kemper Arena, Kansas City, MO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fae9791f-9ff0-4165-970a-f687a8db2f55",
+                "direction": "backward",
+                "begin": "2002-09-24",
+                "end": "2002-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fae9791f-9ff0-4165-970a-f687a8db2f55",
+                    "title": "Kansas City",
+                    "disambiguation": "live, 2002-09-24: Kemper Arena, Kansas City, MO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9ce18bb-8d03-4872-92c1-786e50a9d359",
+                "direction": "backward",
+                "begin": "2002-09-24",
+                "end": "2002-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e9ce18bb-8d03-4872-92c1-786e50a9d359",
+                    "title": "Kansas City",
+                    "length": "535000",
+                    "disambiguation": "live, 2002-09-24: Kemper Arena, Kansas City, MO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3998e10a-3d61-4115-96f1-d21719d9e708",
+                "ordering-key": "2",
+                "direction": "backward",
+                "begin": "2003-11-13",
+                "end": "2003-11-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "3998e10a-3d61-4115-96f1-d21719d9e708",
+                    "title": "I Like It Like That / Kansas City (Hamburg)",
+                    "length": "453000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c641d151-464b-4766-966e-373581675318",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c641d151-464b-4766-966e-373581675318",
+                    "title": "(a) Kansas City / (b) Hey, Hey, Hey, Hey"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "388499c6-b20d-4ea9-a471-1df87109dd49",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "388499c6-b20d-4ea9-a471-1df87109dd49",
+                    "title": "Goin' to Kansas City",
+                    "length": "192680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55e4fd17-bf91-4faf-b11a-790faca26e1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "55e4fd17-bf91-4faf-b11a-790faca26e1c",
+                    "title": "K.C. Loving",
+                    "length": "160000",
+                    "disambiguation": "1952-08-18"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54646b0d-c291-4773-9552-4099631d3ef7",
+                "direction": "backward",
+                "recording": {
+                    "id": "54646b0d-c291-4773-9552-4099631d3ef7",
+                    "title": "Kansas City",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34783560-d079-436f-8eb5-f1f1e71080e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "34783560-d079-436f-8eb5-f1f1e71080e1",
+                    "title": "Kansas City",
+                    "length": "135640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1253bebb-21d1-49a5-8540-eb0890a95bc4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1253bebb-21d1-49a5-8540-eb0890a95bc4",
+                    "title": "Kansas City",
+                    "length": "133000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d102cc94-59b2-4054-b1b3-7212d607c7cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d102cc94-59b2-4054-b1b3-7212d607c7cc",
+                    "title": "Kansas City",
+                    "length": "142840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26bb30c1-a5ce-4324-8a54-2707c0cb8225",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "26bb30c1-a5ce-4324-8a54-2707c0cb8225",
+                    "title": "Kansas City",
+                    "length": "144439",
+                    "disambiguation": "stereo"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f8737d8-09f4-4af6-b9b3-4402eef900ce",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6f8737d8-09f4-4af6-b9b3-4402eef900ce",
+                    "title": "Kansas City",
+                    "length": "197000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef0a01e2-bbc4-4769-97bc-8f5719d63bda",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ef0a01e2-bbc4-4769-97bc-8f5719d63bda",
+                    "title": "Kansas City",
+                    "length": "189933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eef153b3-c5e9-43a0-af18-19038939cffd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eef153b3-c5e9-43a0-af18-19038939cffd",
+                    "title": "Kansas City",
+                    "length": "247000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd1f84f6-97c8-4d09-96d2-91dbee8c997f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bd1f84f6-97c8-4d09-96d2-91dbee8c997f",
+                    "title": "Kansas City",
+                    "length": "196573",
+                    "disambiguation": "Re-recording"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6de5f1f4-40d7-4d82-8b51-919ba481f41f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6de5f1f4-40d7-4d82-8b51-919ba481f41f",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56dedb02-6747-459c-9783-36971576d94a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "56dedb02-6747-459c-9783-36971576d94a",
+                    "title": "Kansas City",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3dd8cacf-84b6-4b94-8181-3e669353dc04",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3dd8cacf-84b6-4b94-8181-3e669353dc04",
+                    "title": "Kansas City",
+                    "length": "163090"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3c75d05-dac6-4415-a047-e427bde89190",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d3c75d05-dac6-4415-a047-e427bde89190",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ea6f123-80e2-462c-b6a9-81c8c1983c24",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1ea6f123-80e2-462c-b6a9-81c8c1983c24",
+                    "title": "Kansas City",
+                    "length": "188000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e559f6d-5926-4ae8-bca2-9f2e502b87ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2e559f6d-5926-4ae8-bca2-9f2e502b87ee",
+                    "title": "Kansas City",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d36f0082-fdf8-4cc4-9256-81440e6fcdd5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d36f0082-fdf8-4cc4-9256-81440e6fcdd5",
+                    "title": "Kansas City",
+                    "length": "165893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03029943-148c-455f-a0a8-9b6650bcaf3c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "03029943-148c-455f-a0a8-9b6650bcaf3c",
+                    "title": "Kansas City",
+                    "length": "164120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c880d19-0137-4b5c-90e6-12aee3bcecdd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c880d19-0137-4b5c-90e6-12aee3bcecdd",
+                    "title": "Kansas City",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ea35054-aaa7-4aab-9184-5df0f0606ad5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ea35054-aaa7-4aab-9184-5df0f0606ad5",
+                    "title": "Kansas City",
+                    "length": "134520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84f40157-4a49-40c2-b34d-e187b0307ec6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "84f40157-4a49-40c2-b34d-e187b0307ec6",
+                    "title": "Kansas City",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da57833b-3dda-4ac6-8f78-62110fa454f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "da57833b-3dda-4ac6-8f78-62110fa454f2",
+                    "title": "Kansas City",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "811f3f76-9248-4bc8-9326-fec6c7123e0a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "811f3f76-9248-4bc8-9326-fec6c7123e0a",
+                    "title": "Kansas City",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ce33d98-907c-4d31-ba73-4b52eb8cf942",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4ce33d98-907c-4d31-ba73-4b52eb8cf942",
+                    "title": "Kansas City",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35a07bf4-23eb-428a-9014-93e2c23dbb83",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "35a07bf4-23eb-428a-9014-93e2c23dbb83",
+                    "title": "Kansas City",
+                    "length": "283051"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c402cd41-19d1-4944-a611-eb43b6cbf4ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c402cd41-19d1-4944-a611-eb43b6cbf4ef",
+                    "title": "Kansas City",
+                    "length": "100893",
+                    "disambiguation": "mono, edited"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c402353-0a26-4097-ad84-4147dbe0c2fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7c402353-0a26-4097-ad84-4147dbe0c2fd",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7ee7129-38a4-4655-a7b4-e8f0bb95c9e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "e7ee7129-38a4-4655-a7b4-e8f0bb95c9e9",
+                    "title": "Kansas City",
+                    "length": "330090",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee82dc6b-027b-4b41-966f-71036feba318",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee82dc6b-027b-4b41-966f-71036feba318",
+                    "title": "Kansas City",
+                    "length": "249600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83c6b04c-ccb1-4ae9-a442-233c6fa19227",
+                "direction": "backward",
+                "recording": {
+                    "id": "83c6b04c-ccb1-4ae9-a442-233c6fa19227",
+                    "title": "Kansas City",
+                    "length": "231000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e424f60-572c-4b44-9311-bd096dfee63e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0e424f60-572c-4b44-9311-bd096dfee63e",
+                    "title": "Kansas City",
+                    "length": "146573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16c79119-5869-42e9-ab9e-5454dacae225",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "16c79119-5869-42e9-ab9e-5454dacae225",
+                    "title": "Kansas City",
+                    "length": "329000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0bf1c3e-f05b-47b0-baaa-b678b5828637",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a0bf1c3e-f05b-47b0-baaa-b678b5828637",
+                    "title": "Kansas City",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8357df4e-b257-4d73-b935-61214c37b55a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8357df4e-b257-4d73-b935-61214c37b55a",
+                    "title": "Kansas City",
+                    "length": "76173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5677d201-e852-47ce-a4f8-71bf9bb87169",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5677d201-e852-47ce-a4f8-71bf9bb87169",
+                    "title": "Kansas City",
+                    "length": "59000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae5918f3-19dc-4ec1-a19c-aa2b68d9025e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ae5918f3-19dc-4ec1-a19c-aa2b68d9025e",
+                    "title": "Kansas City",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70820c84-4cba-4dcb-bc54-7fa509957327",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "70820c84-4cba-4dcb-bc54-7fa509957327",
+                    "title": "Kansas City",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70a5495e-9e8d-4f7b-a169-4297d7c88e6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "70a5495e-9e8d-4f7b-a169-4297d7c88e6b",
+                    "title": "Kansas City",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac46168f-80a6-4633-b041-e5b9f505ea06",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac46168f-80a6-4633-b041-e5b9f505ea06",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce38d59c-2616-4cc6-a4a5-72e6c62f8355",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ce38d59c-2616-4cc6-a4a5-72e6c62f8355",
+                    "title": "Kansas City",
+                    "length": "189653"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c2bb61f-8819-4360-9368-2404ea7f0ee0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c2bb61f-8819-4360-9368-2404ea7f0ee0",
+                    "title": "Kansas City",
+                    "length": "234333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a61b1f0b-ffe3-4b1c-882b-5e762e07f88c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a61b1f0b-ffe3-4b1c-882b-5e762e07f88c",
+                    "title": "Kansas City",
+                    "length": "448000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9525e375-4393-445f-8b65-3b853abfc8ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9525e375-4393-445f-8b65-3b853abfc8ee",
+                    "title": "Kansas City",
+                    "length": "232866",
+                    "disambiguation": "live, 1967-06: Apollo Theater, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ad51762-a72a-4e84-8de6-44f96118c2e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8ad51762-a72a-4e84-8de6-44f96118c2e1",
+                    "title": "Kansas City",
+                    "length": "164000",
+                    "disambiguation": "mono mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72337fb5-eee5-4d32-8bf7-b2b88b90e0c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "72337fb5-eee5-4d32-8bf7-b2b88b90e0c1",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be3e2eb3-7028-4c22-b8dd-1697365aa70b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "be3e2eb3-7028-4c22-b8dd-1697365aa70b",
+                    "title": "Kansas City",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "686f3294-7267-4ae5-a4cc-b6644145d065",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "686f3294-7267-4ae5-a4cc-b6644145d065",
+                    "title": "Kansas City",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90c5e921-37a8-4fa2-8091-a8e05fcc9725",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "90c5e921-37a8-4fa2-8091-a8e05fcc9725",
+                    "title": "Kansas City",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d92047e-899f-4ba2-b0c8-103f94f686c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8d92047e-899f-4ba2-b0c8-103f94f686c4",
+                    "title": "Kansas City",
+                    "length": "151800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72415240-c4a0-4417-bfe5-614c2f590c20",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "72415240-c4a0-4417-bfe5-614c2f590c20",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abbec892-9032-423c-9158-330923117745",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "abbec892-9032-423c-9158-330923117745",
+                    "title": "Kansas City",
+                    "length": "174466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ee71e42-50e1-46bb-b31e-258d931eff74",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ee71e42-50e1-46bb-b31e-258d931eff74",
+                    "title": "Kansas City",
+                    "length": "147933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5841b1e8-afd0-4070-9d86-fadfad38e94b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5841b1e8-afd0-4070-9d86-fadfad38e94b",
+                    "title": "Kansas City",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22476547-0160-4c07-b5ce-5338a6754d89",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "22476547-0160-4c07-b5ce-5338a6754d89",
+                    "title": "Kansas City",
+                    "length": "140000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22ae2417-cd1c-4bf3-b978-8eb1895d5626",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "22ae2417-cd1c-4bf3-b978-8eb1895d5626",
+                    "title": "Kansas City",
+                    "length": "149826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae574bc2-e07a-498a-911c-5ffd287d050a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ae574bc2-e07a-498a-911c-5ffd287d050a",
+                    "title": "Kansas City",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7aa99ea3-c457-4f2f-a21b-4e3db58dd216",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7aa99ea3-c457-4f2f-a21b-4e3db58dd216",
+                    "title": "Kansas City",
+                    "length": "152600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2685fc27-1167-4401-9d58-ff9f3371d2f5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2685fc27-1167-4401-9d58-ff9f3371d2f5",
+                    "title": "Kansas City",
+                    "length": "141106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7c8a6c5-cb65-4597-b344-3d33919b5e0d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b7c8a6c5-cb65-4597-b344-3d33919b5e0d",
+                    "title": "Kansas City",
+                    "length": "143000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71507720-23d5-4e33-ad02-4e2ccbdda9c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "71507720-23d5-4e33-ad02-4e2ccbdda9c9",
+                    "title": "Kansas City",
+                    "length": "142573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66f4a4cf-2476-419f-9a69-3f7633defc2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "66f4a4cf-2476-419f-9a69-3f7633defc2e",
+                    "title": "Kansas City",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7056fc4-23db-4400-b86f-3f7ee1192b58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7056fc4-23db-4400-b86f-3f7ee1192b58",
+                    "title": "Kansas City",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "046a123d-a660-4895-b38f-f485ba62f307",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "046a123d-a660-4895-b38f-f485ba62f307",
+                    "title": "Kansas City",
+                    "length": "144000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cce79f64-e687-4036-8064-dfcb90a1ca09",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cce79f64-e687-4036-8064-dfcb90a1ca09",
+                    "title": "Kansas City",
+                    "length": "172626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba7146e6-ccc4-41e9-89a1-9c2ac8a08a0f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba7146e6-ccc4-41e9-89a1-9c2ac8a08a0f",
+                    "title": "Kansas City",
+                    "length": "238240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d97cb7f-5553-4860-a1e2-334ed6799ecd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d97cb7f-5553-4860-a1e2-334ed6799ecd",
+                    "title": "Kansas City",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d13993e6-a75f-4c52-9f97-83c198d8db68",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d13993e6-a75f-4c52-9f97-83c198d8db68",
+                    "title": "Kansas City",
+                    "length": "155226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bf3f9dc-6157-4fb0-b8ae-8f00a330228b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5bf3f9dc-6157-4fb0-b8ae-8f00a330228b",
+                    "title": "Kansas City",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6398e8be-a715-45e2-832a-1e3b8cf64fc6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6398e8be-a715-45e2-832a-1e3b8cf64fc6",
+                    "title": "Kansas City",
+                    "length": "268000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2270038-6c71-4cc2-b2e6-119a680622f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c2270038-6c71-4cc2-b2e6-119a680622f9",
+                    "title": "Kansas City",
+                    "length": "153000",
+                    "disambiguation": "stereo"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cb80158-4bf0-4813-971d-3a46c16657ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7cb80158-4bf0-4813-971d-3a46c16657ae",
+                    "title": "Kansas City",
+                    "length": "158373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85551b55-8d75-4f76-8fec-caeaa1fefee8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "85551b55-8d75-4f76-8fec-caeaa1fefee8",
+                    "title": "Kansas City",
+                    "length": "167000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92499047-e9f9-4e9e-b3f6-b6081073dc78",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "92499047-e9f9-4e9e-b3f6-b6081073dc78",
+                    "title": "Kansas City",
+                    "length": "211333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfb4d6e6-ed1e-43fc-abeb-160b30a7f3ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cfb4d6e6-ed1e-43fc-abeb-160b30a7f3ba",
+                    "title": "Kansas City",
+                    "length": "182000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29034b1d-ca95-4947-9036-78c36244d3f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "29034b1d-ca95-4947-9036-78c36244d3f9",
+                    "title": "Kansas City",
+                    "length": "472040",
+                    "disambiguation": "live, 1979: Chicago, IL, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8660ad2-f434-45dc-a6ad-235f7127c727",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f8660ad2-f434-45dc-a6ad-235f7127c727",
+                    "title": "Kansas City",
+                    "length": "569933",
+                    "disambiguation": "live, 1978-08: Harry Hope's, Cary, IL, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "246cd2c5-79f7-4bf9-a85d-9bbdc2c0da52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "246cd2c5-79f7-4bf9-a85d-9bbdc2c0da52",
+                    "title": "Kansas City",
+                    "length": "251733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7b6a591-1d67-4b1e-b5a4-205be31733a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e7b6a591-1d67-4b1e-b5a4-205be31733a4",
+                    "title": "Kansas City",
+                    "length": "584933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a88d473-20b6-40b7-a0c1-868cc70664d5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0a88d473-20b6-40b7-a0c1-868cc70664d5",
+                    "title": "Kansas City",
+                    "length": "292000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8af504b0-edf7-466a-bb0c-309eae2322ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8af504b0-edf7-466a-bb0c-309eae2322ac",
+                    "title": "Kansas City",
+                    "length": "285960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9e47446-53cd-4ec1-8e64-236510d1d886",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a9e47446-53cd-4ec1-8e64-236510d1d886",
+                    "title": "Kansas City",
+                    "length": "252506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb43a2a7-157e-421b-8337-7e88d6e46ad2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb43a2a7-157e-421b-8337-7e88d6e46ad2",
+                    "title": "Kansas City",
+                    "length": "224933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c002cd24-6859-4dbf-abcb-653423b24e06",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c002cd24-6859-4dbf-abcb-653423b24e06",
+                    "title": "Kansas City",
+                    "length": "235040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a399ac25-9376-4846-8d96-c32b366da20b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a399ac25-9376-4846-8d96-c32b366da20b",
+                    "title": "Kansas City",
+                    "length": "314000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52fe70c2-322d-42cd-a6e0-54749db04433",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "52fe70c2-322d-42cd-a6e0-54749db04433",
+                    "title": "Kansas City",
+                    "length": "175000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "098f298a-b02a-48e1-9895-b5d1b2e2d986",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "098f298a-b02a-48e1-9895-b5d1b2e2d986",
+                    "title": "Kansas City",
+                    "length": "282533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e51b54d1-e14d-4934-bbf9-b9e56a31259c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e51b54d1-e14d-4934-bbf9-b9e56a31259c",
+                    "title": "Kansas City",
+                    "length": "272760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "893e33bc-0c4b-4613-87da-280e6160ffdf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "893e33bc-0c4b-4613-87da-280e6160ffdf",
+                    "title": "Kansas City",
+                    "length": "206000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c18ddcb0-3bd8-4dc5-a0d2-c5d6914f51d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c18ddcb0-3bd8-4dc5-a0d2-c5d6914f51d3",
+                    "title": "Kansas City",
+                    "length": "317333",
+                    "disambiguation": "live, 1972: Joe's Place, Cambridge, MA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e0c3097-6dde-46cf-af7f-ea10e14f549d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4e0c3097-6dde-46cf-af7f-ea10e14f549d",
+                    "title": "Kansas City",
+                    "length": "230506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c2f4c25-6251-43b3-bd4e-efddbe5f4cf8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8c2f4c25-6251-43b3-bd4e-efddbe5f4cf8",
+                    "title": "Kansas City",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c61f223c-0ae5-42f8-8e25-d00cac165fbe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c61f223c-0ae5-42f8-8e25-d00cac165fbe",
+                    "title": "Kansas City",
+                    "length": "231360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75b9ba2e-8ef4-4784-8f89-3aa41095c470",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "75b9ba2e-8ef4-4784-8f89-3aa41095c470",
+                    "title": "Kansas City",
+                    "length": "226840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d7b38ca-4767-4d87-9296-c40492e6edd6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6d7b38ca-4767-4d87-9296-c40492e6edd6",
+                    "title": "Kansas City",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85437bc7-17ab-4cee-9aae-b15f6728d2dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "85437bc7-17ab-4cee-9aae-b15f6728d2dc",
+                    "title": "Kansas City",
+                    "length": "436000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb60d664-4cd0-4935-904c-ba21da0b9d73",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb60d664-4cd0-4935-904c-ba21da0b9d73",
+                    "title": "Kansas City",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "544862a6-8574-4c13-ad4e-943c918dbe57",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "544862a6-8574-4c13-ad4e-943c918dbe57",
+                    "title": "Kansas City",
+                    "length": "239774"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b037bb3-55be-4945-a47a-e90bf1758a58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9b037bb3-55be-4945-a47a-e90bf1758a58",
+                    "title": "Kansas City",
+                    "length": "131000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d1c48fd-d84c-4199-bfce-3ba301dc8b79",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6d1c48fd-d84c-4199-bfce-3ba301dc8b79",
+                    "title": "Kansas City",
+                    "length": "185632"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0bdacbd7-97ac-40e2-a878-0b6d20b8686e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0bdacbd7-97ac-40e2-a878-0b6d20b8686e",
+                    "title": "Kansas City",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06f9bce6-7206-43af-aa9d-4f27b83d73c7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "06f9bce6-7206-43af-aa9d-4f27b83d73c7",
+                    "title": "Kansas City",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d5f9838-3d18-423f-9117-f3a3e6c4e049",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d5f9838-3d18-423f-9117-f3a3e6c4e049",
+                    "title": "Kansas City",
+                    "length": "151466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a4e1580-21ce-4b46-a5bb-f032c41169aa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a4e1580-21ce-4b46-a5bb-f032c41169aa",
+                    "title": "Kansas City",
+                    "length": "132000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e25ac562-05a4-4111-94b9-09721c678279",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e25ac562-05a4-4111-94b9-09721c678279",
+                    "title": "Kansas City",
+                    "length": "128733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14cc08d3-5c50-4e5e-ac38-72a946b7104c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "14cc08d3-5c50-4e5e-ac38-72a946b7104c",
+                    "title": "Kansas City",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "add929ab-a048-4e38-ab17-f31171c34092",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "add929ab-a048-4e38-ab17-f31171c34092",
+                    "title": "Kansas City",
+                    "length": "221000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e659bec0-58a0-4d0a-97e0-8d9e6a4b22d8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e659bec0-58a0-4d0a-97e0-8d9e6a4b22d8",
+                    "title": "Kansas City",
+                    "length": "191480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "964ece54-86eb-49c3-8d60-ffbab4e7f1b1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "964ece54-86eb-49c3-8d60-ffbab4e7f1b1",
+                    "title": "Kansas City",
+                    "length": "161426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6570bd4b-69f3-4916-be63-77d9b2c8ce6c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6570bd4b-69f3-4916-be63-77d9b2c8ce6c",
+                    "title": "Kansas City",
+                    "length": "168453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ba53513-0473-47d6-955c-5ee428f14492",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ba53513-0473-47d6-955c-5ee428f14492",
+                    "title": "Kansas City",
+                    "length": "141546"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14718fb8-a375-4633-a4e6-bb82697c31a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "14718fb8-a375-4633-a4e6-bb82697c31a7",
+                    "title": "Kansas City",
+                    "length": "550773",
+                    "disambiguation": "live: Boston, MA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce80ab1d-2f9f-4387-a59f-f8cad9fc8b8c",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce80ab1d-2f9f-4387-a59f-f8cad9fc8b8c",
+                    "title": "Kansas City",
+                    "length": "253000",
+                    "disambiguation": "https://musicbrainz.org/release/b9184221-789a-4d5c-bf0e-e70b1e27e5ad"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d83cb689-9f12-4c32-9e5f-0f8b98c83943",
+                "direction": "backward",
+                "recording": {
+                    "id": "d83cb689-9f12-4c32-9e5f-0f8b98c83943",
+                    "title": "Kansas City",
+                    "length": "559000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b417f51-ff36-49d2-8468-5923b8d1e69d",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b417f51-ff36-49d2-8468-5923b8d1e69d",
+                    "title": "Kansas City",
+                    "length": "548000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ccece620-40bb-4cf7-b9df-c76fe9040710",
+                "direction": "backward",
+                "recording": {
+                    "id": "ccece620-40bb-4cf7-b9df-c76fe9040710",
+                    "title": "Kansas City",
+                    "length": "575013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e46f955-d03c-45c8-b52d-a779595a0153",
+                "direction": "backward",
+                "recording": {
+                    "id": "2e46f955-d03c-45c8-b52d-a779595a0153",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d316729-00c0-45de-8568-73305f64837c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d316729-00c0-45de-8568-73305f64837c",
+                    "title": "Kansas City",
+                    "length": "577306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f2c3f97-39e5-437b-bd96-0b659e45f3a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f2c3f97-39e5-437b-bd96-0b659e45f3a5",
+                    "title": "Kansas City",
+                    "length": "667000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddbd6cd3-d60b-44a1-b9f2-e2d94751b7a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "ddbd6cd3-d60b-44a1-b9f2-e2d94751b7a9",
+                    "title": "Kansas City",
+                    "length": "667000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e997fff4-4f6e-45aa-9205-57d0b8d0d988",
+                "direction": "backward",
+                "recording": {
+                    "id": "e997fff4-4f6e-45aa-9205-57d0b8d0d988",
+                    "title": "Kansas City",
+                    "length": "667000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbaf756f-ec84-4772-82c3-845824c8e859",
+                "direction": "backward",
+                "recording": {
+                    "id": "bbaf756f-ec84-4772-82c3-845824c8e859",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5444d8df-0061-4082-b082-d4d3da0ab8d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "5444d8df-0061-4082-b082-d4d3da0ab8d4",
+                    "title": "Kansas City",
+                    "length": "309000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b83cf483-284e-4ca9-9cd6-634b4efaa6c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "b83cf483-284e-4ca9-9cd6-634b4efaa6c0",
+                    "title": "Kansas City",
+                    "length": "138280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72885743-5239-4cc5-a1f5-71f0bc130146",
+                "direction": "backward",
+                "recording": {
+                    "id": "72885743-5239-4cc5-a1f5-71f0bc130146",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef585543-00d3-4746-ab35-b5bc8191702e",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef585543-00d3-4746-ab35-b5bc8191702e",
+                    "title": "Kansas City",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8b37ba2-4e3b-4084-8810-0a6f9787a473",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8b37ba2-4e3b-4084-8810-0a6f9787a473",
+                    "title": "Kansas City",
+                    "length": "162800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b000db00-05d1-4a29-ae94-da63f5dff309",
+                "direction": "backward",
+                "recording": {
+                    "id": "b000db00-05d1-4a29-ae94-da63f5dff309",
+                    "title": "Kansas City",
+                    "length": "140626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30249c8d-03cd-4f74-9844-46a70c9733a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "30249c8d-03cd-4f74-9844-46a70c9733a2",
+                    "title": "Kansas City",
+                    "length": "163426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5f3e700-a401-4a3b-8643-398fec759138",
+                "direction": "backward",
+                "recording": {
+                    "id": "b5f3e700-a401-4a3b-8643-398fec759138",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fa3c3ef-3818-407d-bad6-36b61faae6c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "4fa3c3ef-3818-407d-bad6-36b61faae6c1",
+                    "title": "Kansas City",
+                    "length": "136066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "befb308d-095a-442f-92f7-201c924f4a30",
+                "direction": "backward",
+                "recording": {
+                    "id": "befb308d-095a-442f-92f7-201c924f4a30",
+                    "title": "Kansas City",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a631a94-232e-4fa8-8836-10f6ccd64f43",
+                "direction": "backward",
+                "recording": {
+                    "id": "4a631a94-232e-4fa8-8836-10f6ccd64f43",
+                    "title": "Kansas City",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66842fb8-1f6c-43d9-85dc-800d346ae4e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "66842fb8-1f6c-43d9-85dc-800d346ae4e5",
+                    "title": "Kansas City",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "baffc295-b2d2-4742-9389-ef4d180545f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "baffc295-b2d2-4742-9389-ef4d180545f6",
+                    "title": "Kansas City",
+                    "length": "161546"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b617c194-d149-4dc9-9e1a-9a3fc9e3f2cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "b617c194-d149-4dc9-9e1a-9a3fc9e3f2cf",
+                    "title": "Kansas City",
+                    "length": "138000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "055e57b2-92f7-40cc-82d5-a70cfa0e3d39",
+                "direction": "backward",
+                "recording": {
+                    "id": "055e57b2-92f7-40cc-82d5-a70cfa0e3d39",
+                    "title": "Kansas City",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8816e498-0fee-4751-8295-1da3913c1f2e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8816e498-0fee-4751-8295-1da3913c1f2e",
+                    "title": "Kansas City",
+                    "length": "138280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "914a1e87-f469-4e37-ab52-5c1b2ccbc70f",
+                "direction": "backward",
+                "recording": {
+                    "id": "914a1e87-f469-4e37-ab52-5c1b2ccbc70f",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0c87951-fe43-4fe5-aa0c-898e1a184b20",
+                "direction": "backward",
+                "recording": {
+                    "id": "f0c87951-fe43-4fe5-aa0c-898e1a184b20",
+                    "title": "Kansas City",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ac92967-6917-42d3-b541-828d9b9b574e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ac92967-6917-42d3-b541-828d9b9b574e",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab41671a-e943-46cf-9981-1c8b01e59889",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab41671a-e943-46cf-9981-1c8b01e59889",
+                    "title": "Kansas City",
+                    "length": "145866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7dd79657-ef91-446e-b00d-17c8e8598437",
+                "direction": "backward",
+                "recording": {
+                    "id": "7dd79657-ef91-446e-b00d-17c8e8598437",
+                    "title": "Kansas City"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1b235d3-2706-4069-a5ef-cca49e219e15",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1b235d3-2706-4069-a5ef-cca49e219e15",
+                    "title": "Kansas City",
+                    "length": "144586"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bffa6731-a40c-4f15-ba59-fac3ea72c8cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "bffa6731-a40c-4f15-ba59-fac3ea72c8cb",
+                    "title": "Kansas City",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6071a0f-1bb4-4c17-b160-6b77927807a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "d6071a0f-1bb4-4c17-b160-6b77927807a8",
+                    "title": "Kansas City",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1f37b8d-16bd-4a17-b3e4-b9182e98727c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a1f37b8d-16bd-4a17-b3e4-b9182e98727c",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e1567ba-0993-404e-a3fb-b7766d640748",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7e1567ba-0993-404e-a3fb-b7766d640748",
+                    "title": "Kansas City",
+                    "length": "158974"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ac316dd-154f-45b1-813f-4e3bbb947a1c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5ac316dd-154f-45b1-813f-4e3bbb947a1c",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b94b800-4e3f-4467-8e01-fe961dee067f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2b94b800-4e3f-4467-8e01-fe961dee067f",
+                    "title": "Kansas City",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98e1e187-9a21-4d83-9c0b-df6272e95358",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98e1e187-9a21-4d83-9c0b-df6272e95358",
+                    "title": "Kansas City",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fea7ff89-e253-40ee-9425-e9acdeea0531",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fea7ff89-e253-40ee-9425-e9acdeea0531",
+                    "title": "Kansas City",
+                    "length": "144773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e532879-b456-4ea9-b5a2-d29080ee6cfe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e532879-b456-4ea9-b5a2-d29080ee6cfe",
+                    "title": "Kansas City",
+                    "length": "158000",
+                    "disambiguation": "stereo mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e3aa30c-9b8a-42db-8898-a32982025878",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7e3aa30c-9b8a-42db-8898-a32982025878",
+                    "title": "Kansas City",
+                    "length": "350000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddc92e5c-713a-460c-ab08-b03b78aa39c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ddc92e5c-713a-460c-ab08-b03b78aa39c4",
+                    "title": "Kansas City",
+                    "length": "167293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f99ead8e-a4f7-433c-be0e-ef26bf034eb4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f99ead8e-a4f7-433c-be0e-ef26bf034eb4",
+                    "title": "Kansas City"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "943fc62f-431a-4974-81b2-837051c2b638",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "943fc62f-431a-4974-81b2-837051c2b638",
+                    "title": "Kansas City",
+                    "length": "181866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "befedfed-3ed9-4d85-8c08-2557cdf24fd0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "befedfed-3ed9-4d85-8c08-2557cdf24fd0",
+                    "title": "Kansas City",
+                    "length": "188520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3390f2f5-cb20-4f2e-a06d-ad0fdd6ff842",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3390f2f5-cb20-4f2e-a06d-ad0fdd6ff842",
+                    "title": "Kansas City",
+                    "length": "468333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc8c7c15-2e3a-492c-b2da-062d373485c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc8c7c15-2e3a-492c-b2da-062d373485c9",
+                    "title": "Kansas City",
+                    "length": "234306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd74a7af-b2ba-4dce-8c36-bfe28fcb9464",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dd74a7af-b2ba-4dce-8c36-bfe28fcb9464",
+                    "title": "Kansas City",
+                    "length": "206000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fca6db7-5d7c-4000-a86a-19c793a0246f",
+                "direction": "backward",
+                "recording": {
+                    "id": "5fca6db7-5d7c-4000-a86a-19c793a0246f",
+                    "title": "Kansas City",
+                    "length": "162373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4558820f-ccea-4e8e-b654-4166210fcd97",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4558820f-ccea-4e8e-b654-4166210fcd97",
+                    "title": "Kansas City",
+                    "length": "204733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0359cc0a-d329-448a-b84a-a7da12d3f8c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0359cc0a-d329-448a-b84a-a7da12d3f8c8",
+                    "title": "Kansas City",
+                    "length": "265533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94c15b51-d162-45b7-aee8-10cbd5b5aa0f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "94c15b51-d162-45b7-aee8-10cbd5b5aa0f",
+                    "title": "Kansas City",
+                    "length": "153360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ba67fef-30d2-4ab3-b869-7e9259dffe1f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8ba67fef-30d2-4ab3-b869-7e9259dffe1f",
+                    "title": "Kansas City",
+                    "length": "141826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d0f34ff-d9b3-422c-85f5-508771d003ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d0f34ff-d9b3-422c-85f5-508771d003ba",
+                    "title": "Kansas City",
+                    "length": "141053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07b2095a-efe7-4eb4-becc-6015dc9d8f1f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "07b2095a-efe7-4eb4-becc-6015dc9d8f1f",
+                    "title": "Kansas City",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5de64342-1ee5-4c52-bce5-0e62a042ce8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5de64342-1ee5-4c52-bce5-0e62a042ce8b",
+                    "title": "Kansas City",
+                    "length": "143168"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97df7ba6-4f05-4eb7-9d86-a903ded85508",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97df7ba6-4f05-4eb7-9d86-a903ded85508",
+                    "title": "Kansas City",
+                    "length": "152720"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a68d7ee-ea52-4b3e-b8fd-e70ae3c1221f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0a68d7ee-ea52-4b3e-b8fd-e70ae3c1221f",
+                    "title": "Kansas City",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fceb880-67df-4713-a8f8-810d4acc0f62",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3fceb880-67df-4713-a8f8-810d4acc0f62",
+                    "title": "Kansas City",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bfe17765-e0ca-4afc-acda-ffa93f406f39",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bfe17765-e0ca-4afc-acda-ffa93f406f39",
+                    "title": "Kansas City (live)",
+                    "length": "151600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57e31d92-cab9-4f99-8427-a362c2317f64",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "57e31d92-cab9-4f99-8427-a362c2317f64",
+                    "title": "Kansas City (live)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63198f09-0382-4267-b975-d404d35a0f50",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "63198f09-0382-4267-b975-d404d35a0f50",
+                    "title": "Kansas City (Live)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "072cedc4-e77f-4463-9a40-7432f0b6011e",
+                "direction": "backward",
+                "recording": {
+                    "id": "072cedc4-e77f-4463-9a40-7432f0b6011e",
+                    "title": "Kansas City (re-channeled stereo)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ab5c7ee-60af-4a87-a5a1-528a17509b04",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "6ab5c7ee-60af-4a87-a5a1-528a17509b04",
+                    "title": "Kansas City / Hey Hey Hey Hey",
+                    "length": "136000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69e0307d-8aac-4bfe-bee8-bfd06d1dc0c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "69e0307d-8aac-4bfe-bee8-bfd06d1dc0c8",
+                    "title": "Kansas City / Hey-Hey-Hey-Hey",
+                    "length": "160466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f6b1498-4252-4a6c-860c-af3f86c88683",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "2f6b1498-4252-4a6c-860c-af3f86c88683",
+                    "title": "Kansas City / Hey, Hey, Hey, Hey",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dee4dfc9-111e-4b01-b3b6-7e93f5a82f28",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dee4dfc9-111e-4b01-b3b6-7e93f5a82f28",
+                    "title": "Kansas City Loving",
+                    "length": "127000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3ce63e9-8414-4fde-87a6-2662c2afa187",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "a3ce63e9-8414-4fde-87a6-2662c2afa187",
+                    "title": "The Wanderer / Kansas City",
+                    "length": "311000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0a372ce-c8db-4974-b195-ad5209a92fdd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f0a372ce-c8db-4974-b195-ad5209a92fdd",
+                    "title": "The Wanderer / Kansas City",
+                    "length": "380066",
+                    "disambiguation": "live, 1994-08-20: Marz American Style, Long Branch, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10583",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=1174",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1723915",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "9fb65b65-66b4-4721-9ea4-be5ff6e850d2",
+                "ordering-key": "1",
+                "direction": "backward",
+                "work": {
+                    "id": "9fb65b65-66b4-4721-9ea4-be5ff6e850d2",
+                    "type": "Song",
+                    "title": "Kansas City Hey Hey Hey",
+                    "language": "eng"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "9fb65b65-66b4-4721-9ea4-be5ff6e850d2",
+                "direction": "forward",
+                "work": {
+                    "id": "9fb65b65-66b4-4721-9ea4-be5ff6e850d2",
+                    "type": "Song",
+                    "title": "Kansas City Hey Hey Hey",
+                    "language": "eng"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "61c78ce6-1076-4cd8-ae54-706cb179768a",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "61c78ce6-1076-4cd8-ae54-706cb179768a",
+                    "type": "Song",
+                    "title": "Equestrian Wasteland",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "18774ebd-b3d1-419f-8551-75ff6285f115",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "18774ebd-b3d1-419f-8551-75ff6285f115",
+                    "type": "Song",
+                    "title": "Kansas City",
+                    "language": "deu",
+                    "disambiguation": "german lyrics"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

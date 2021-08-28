@@ -1,0 +1,120 @@
+{
+    "work": {
+        "id": "43cd2fbe-fbff-4254-9116-db48a5f6c53a",
+        "type": "Song",
+        "title": "Ihr Grab, D. 736",
+        "language": "deu",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1822",
+                "end": "1822",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "ec8f3006-f49a-4cf9-b666-e2d23a7ec067",
+                "direction": "backward",
+                "artist": {
+                    "id": "ec8f3006-f49a-4cf9-b666-e2d23a7ec067",
+                    "type": "Person",
+                    "name": "Richard Roos",
+                    "sort-name": "Roos, Richard"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52d57434-53f4-4d41-b810-912927c1ce5d",
+                "direction": "backward",
+                "begin": "1934",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "52d57434-53f4-4d41-b810-912927c1ce5d",
+                    "title": "Ihr Grab, D. 736",
+                    "length": "243333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ad21418-1748-490e-a153-73e93fb8e59d",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "2ad21418-1748-490e-a153-73e93fb8e59d",
+                    "title": "Ihr Grab, D. 736",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4be2f4b-28a5-446d-bfc9-3deb9ad85259",
+                "direction": "backward",
+                "begin": "1995",
+                "end": "1996",
+                "ended": "true",
+                "recording": {
+                    "id": "f4be2f4b-28a5-446d-bfc9-3deb9ad85259",
+                    "title": "Ihr Grab, D. 736",
+                    "length": "241000"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "559",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 736",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002392607",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Ihr_Grab,_D.736_(Schubert,_Franz)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

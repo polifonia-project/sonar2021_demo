@@ -1,0 +1,120 @@
+{
+    "work": {
+        "id": "10762634-6366-42a3-bcde-527209709e29",
+        "type": "Song",
+        "title": "Der Blumenbrief, D. 622",
+        "language": "deu",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1818-08",
+                "end": "1818-08",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "ed177327-88b0-49dc-a664-eb29733c0f97",
+                "direction": "backward",
+                "artist": {
+                    "id": "ed177327-88b0-49dc-a664-eb29733c0f97",
+                    "type": "Person",
+                    "name": "Aloys Wilhelm Schreiber",
+                    "sort-name": "Schreiber, Aloys Wilhelm"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7561b527-64c0-446a-8a35-5a7f33afc9c3",
+                "direction": "backward",
+                "begin": "1943",
+                "end": "1943",
+                "ended": "true",
+                "recording": {
+                    "id": "7561b527-64c0-446a-8a35-5a7f33afc9c3",
+                    "title": "Der Blumenbrief",
+                    "length": "184000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "501c9b7c-2145-4a2f-b911-39411f97417e",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "501c9b7c-2145-4a2f-b911-39411f97417e",
+                    "title": "Der Blumenbrief, D. 622",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4b66792-4510-48af-b10d-2be2382974fa",
+                "direction": "backward",
+                "begin": "1992-10-21",
+                "end": "1992-10-23",
+                "ended": "true",
+                "recording": {
+                    "id": "b4b66792-4510-48af-b10d-2be2382974fa",
+                    "title": "Der Blumenbrief, D. 622",
+                    "length": "124000"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "471",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 622",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002370918",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Der_Blumenbrief,_D.622_(Schubert,_Franz)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4478 @@
+{
+    "work": {
+        "id": "ef40e997-8a14-3c84-b371-5afc76e0626b",
+        "type": "Song",
+        "title": "I Am the Walrus",
+        "language": "eng",
+        "iswc": "T-010.433.864-8",
+        "iswc-list": [
+            "T-010.433.864-8"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 211 57"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5271"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "10310497"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100158400"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "52.029"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1566000"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1566000"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "218306"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3254542"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "010679303"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "22 851 869 11"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 151 138 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004966500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "06374L"
+            },
+            {
+                "attribute": "LatinNet ID",
+                "value": "5467"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0I1-3320-8"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634517-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "20678"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2400883"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "9957689"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000238748"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390222490"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01893317"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9396114"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243751"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "13511001"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "94cd6321-7413-4457-86a7-332def8200f5",
+                "direction": "backward",
+                "label": {
+                    "id": "94cd6321-7413-4457-86a7-332def8200f5",
+                    "type": "Publisher",
+                    "name": "ATV (Northern Songs Catalog)",
+                    "sort-name": "ATV (Northern Songs Catalog)"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c2af0dd5-a406-481e-a415-748ee7d4e29d",
+                "direction": "backward",
+                "label": {
+                    "id": "c2af0dd5-a406-481e-a415-748ee7d4e29d",
+                    "type": "Publisher",
+                    "name": "Music Corporation of America, Inc.",
+                    "sort-name": "Music Corporation of America, Inc.",
+                    "disambiguation": "BMI-affiliated music publisher of MCA Records, Inc.?"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76ac8b38-88c3-40c2-8dcc-76f0e8339bfc",
+                "direction": "backward",
+                "begin": "1967-08-24",
+                "end": "1967-09-27",
+                "ended": "true",
+                "recording": {
+                    "id": "76ac8b38-88c3-40c2-8dcc-76f0e8339bfc",
+                    "title": "I Am the Walrus",
+                    "length": "279000",
+                    "disambiguation": "mono studio mix edit"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4265b1cb-721a-4dd0-9186-470edc3202f8",
+                "direction": "backward",
+                "begin": "1967-08-24",
+                "end": "1967-09-27",
+                "ended": "true",
+                "recording": {
+                    "id": "4265b1cb-721a-4dd0-9186-470edc3202f8",
+                    "title": "I Am the Walrus",
+                    "length": "273000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3eb7efbb-8717-4034-a698-109c70798524",
+                "direction": "backward",
+                "begin": "1967-08-24",
+                "end": "1967-09-27",
+                "ended": "true",
+                "recording": {
+                    "id": "3eb7efbb-8717-4034-a698-109c70798524",
+                    "title": "I Am the Walrus",
+                    "length": "276000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5335dda3-9f27-4d39-884a-ca78d0b6f887",
+                "direction": "backward",
+                "begin": "1967-08-24",
+                "end": "1967-09-27",
+                "ended": "true",
+                "recording": {
+                    "id": "5335dda3-9f27-4d39-884a-ca78d0b6f887",
+                    "title": "I Am the Walrus",
+                    "length": "277000",
+                    "disambiguation": "1967 Capitol stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f12f5416-4e81-4402-bf64-b26c84c2e1ee",
+                "direction": "backward",
+                "begin": "1967-09-05",
+                "end": "1967-09-05",
+                "ended": "true",
+                "recording": {
+                    "id": "f12f5416-4e81-4402-bf64-b26c84c2e1ee",
+                    "title": "I Am the Walrus",
+                    "length": "241866",
+                    "disambiguation": "take 16"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8a16326-e6df-42c3-8557-8f915f662a65",
+                "direction": "backward",
+                "begin": "1994-02",
+                "end": "1994-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f8a16326-e6df-42c3-8557-8f915f662a65",
+                    "title": "I Am the Walrus (live)",
+                    "length": "390040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f247ea1-9f3c-40c6-8111-043a55b73304",
+                "direction": "backward",
+                "begin": "1994-06",
+                "end": "1994-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6f247ea1-9f3c-40c6-8111-043a55b73304",
+                    "title": "I Am the Walrus (Live Glasgow Cathouse June '94)",
+                    "length": "494266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfd32905-788e-4b22-ba51-765127072450",
+                "direction": "backward",
+                "begin": "1994-06",
+                "end": "1994-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cfd32905-788e-4b22-ba51-765127072450",
+                    "title": "I Am the Walrus (live Glasgow Cathouse June \u201994)",
+                    "length": "495000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "74f2a3e0-39df-4fae-84c0-f246b1981008",
+                "direction": "backward",
+                "begin": "1994-06",
+                "end": "1994-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "74f2a3e0-39df-4fae-84c0-f246b1981008",
+                    "title": "I Am the Walrus (live Glasgow Cathouse June \u201994)",
+                    "length": "498333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0d405ab-4568-4b69-bdb8-9d880f40fba3",
+                "direction": "backward",
+                "begin": "1994-06",
+                "end": "1994-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c0d405ab-4568-4b69-bdb8-9d880f40fba3",
+                    "title": "I Am the Walrus (live, 1994-06: Glasgow Cathouse)",
+                    "length": "494906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d794f9fe-8b51-4eaa-8645-bccde713ba86",
+                "direction": "backward",
+                "begin": "1994-10-15",
+                "end": "1994-10-15",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "d794f9fe-8b51-4eaa-8645-bccde713ba86",
+                    "title": "Seizing the Day: 3. Noel Calls the Shots: 1.3 I Am the Walrus (clip)",
+                    "length": "90000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b7413ba-25f4-462f-a993-56a7e636fdf5",
+                "direction": "backward",
+                "begin": "1994-12-10",
+                "end": "1994-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0b7413ba-25f4-462f-a993-56a7e636fdf5",
+                    "title": "I Am the Walrus",
+                    "length": "136000",
+                    "disambiguation": "live, 1994-12-10: London, England"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28f8f62d-735b-419f-8b45-853909b30d7b",
+                "direction": "backward",
+                "begin": "1994-12-10",
+                "end": "1994-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "28f8f62d-735b-419f-8b45-853909b30d7b",
+                    "title": "I Am the Walrus",
+                    "length": "231000",
+                    "disambiguation": "live, 1994-12-10: Later... with Jools Holland",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b19e47dd-b2ff-45fc-9b08-4d1ffddf3150",
+                "direction": "backward",
+                "begin": "1994-12-14",
+                "end": "1994-12-14",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b19e47dd-b2ff-45fc-9b08-4d1ffddf3150",
+                    "title": "I Am the Walrus (Maida Vale Studios, 14.12.94)",
+                    "length": "432000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "826733ff-7e00-456e-bcc9-4ea40ac67749",
+                "direction": "backward",
+                "begin": "1994-12-15",
+                "end": "1994-12-15",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "826733ff-7e00-456e-bcc9-4ea40ac67749",
+                    "title": "I Am the Walrus",
+                    "length": "427800",
+                    "disambiguation": "live, 1994-12-15: Maida Vale Studio, Evening Session Radio One, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6dbb4ffa-98b8-490e-a60a-f73ee6151ec6",
+                "direction": "backward",
+                "begin": "1995-04-17",
+                "end": "1995-04-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6dbb4ffa-98b8-490e-a60a-f73ee6151ec6",
+                    "title": "I Am the Walrus",
+                    "length": "593653"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c70386a-706f-42c5-a861-2f9973670521",
+                "direction": "backward",
+                "begin": "1996-08-10",
+                "end": "1996-08-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c70386a-706f-42c5-a861-2f9973670521",
+                    "title": "I Am the Walrus",
+                    "disambiguation": "live, 1996-08-10: Knebworth Park, Stevenage, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78d26c4e-482a-4e58-937b-7b7ace26528b",
+                "direction": "backward",
+                "begin": "1996-08",
+                "end": "1996-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "78d26c4e-482a-4e58-937b-7b7ace26528b",
+                    "title": "I Am the Walrus",
+                    "disambiguation": "live, 1996\u201008: Knebworth Festival, Knebworth House, Knebworth, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02676fef-ae82-4e1b-ba6c-02a75a12683d",
+                "direction": "backward",
+                "begin": "2001",
+                "end": "2001",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "02676fef-ae82-4e1b-ba6c-02a75a12683d",
+                    "title": "Walrus",
+                    "length": "441000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17713161-48fc-4a5a-b57f-82dfa26ec70d",
+                "direction": "backward",
+                "begin": "2002-02-23",
+                "end": "2002-02-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "17713161-48fc-4a5a-b57f-82dfa26ec70d",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4687286a-3350-4573-9643-5f2c7e5c9025",
+                "direction": "backward",
+                "begin": "2002-09-01",
+                "end": "2002-09-01",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4687286a-3350-4573-9643-5f2c7e5c9025",
+                    "title": "I Am the Walrus",
+                    "length": "372000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e1cf43d-7cce-4cd1-a05a-f5f8f943ff97",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e1cf43d-7cce-4cd1-a05a-f5f8f943ff97",
+                    "title": "I Am the Walrus",
+                    "length": "269973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6961cae-c1a5-4f38-9fac-1774b83d3ac8",
+                "direction": "backward",
+                "begin": "2005-09-07",
+                "end": "2005-09-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b6961cae-c1a5-4f38-9fac-1774b83d3ac8",
+                    "title": "I Am the Walrus",
+                    "length": "276000",
+                    "disambiguation": "live, 2005-09-07: The Howard Stern Show, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35047c06-348b-4d51-9761-fc982114beb9",
+                "direction": "backward",
+                "begin": "2006-05-25",
+                "end": "2006-05-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "35047c06-348b-4d51-9761-fc982114beb9",
+                    "title": "I Am the Walrus",
+                    "length": "282000",
+                    "disambiguation": "live, 2006-05-25: Blossom Music Center, Cuyahoga Falls, OH, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55bacb88-9594-4c46-b9de-494d56ba6ee7",
+                "direction": "backward",
+                "begin": "2007-01-20",
+                "end": "2007-01-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "55bacb88-9594-4c46-b9de-494d56ba6ee7",
+                    "title": "I Am the Walrus",
+                    "length": "282000",
+                    "disambiguation": "live, 2007-01-20: Billy Bob's, Fort Worth, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3161b93-9d41-4444-ad4e-007c3fe758d8",
+                "direction": "backward",
+                "begin": "2008-11",
+                "end": "2008-11",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f3161b93-9d41-4444-ad4e-007c3fe758d8",
+                    "title": "I Am the Walrus",
+                    "length": "285000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6da3704b-f6ff-4bd8-baf4-134604665f38",
+                "direction": "backward",
+                "begin": "2008-11",
+                "end": "2008-11",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6da3704b-f6ff-4bd8-baf4-134604665f38",
+                    "title": "I Am the Walrus",
+                    "length": "270733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c61d8d3-4012-491c-942e-727c4390f83b",
+                "direction": "backward",
+                "begin": "2010-06-29",
+                "end": "2010-06-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3c61d8d3-4012-491c-942e-727c4390f83b",
+                    "title": "I Am the Walrus",
+                    "length": "428000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "023f3e97-4552-4c32-925c-9ad674951fba",
+                "direction": "backward",
+                "begin": "2014-10-31",
+                "end": "2014-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "023f3e97-4552-4c32-925c-9ad674951fba",
+                    "title": "I Am the Walrus",
+                    "length": "444107"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1fefb0a-f05b-4049-b3d5-e825033d6422",
+                "direction": "backward",
+                "begin": "2016-06-25",
+                "end": "2016-06-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a1fefb0a-f05b-4049-b3d5-e825033d6422",
+                    "title": "I Am the Walrus",
+                    "length": "388000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "717d9fd5-e219-436b-8e0b-9b945f60fd4f",
+                "direction": "backward",
+                "begin": "2016-07-08",
+                "end": "2016-07-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "717d9fd5-e219-436b-8e0b-9b945f60fd4f",
+                    "title": "I Am the Walrus",
+                    "length": "438000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2354c8d7-3f6d-485d-9ea5-38b9f01e49ce",
+                "direction": "backward",
+                "begin": "2017-07-29",
+                "end": "2017-07-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2354c8d7-3f6d-485d-9ea5-38b9f01e49ce",
+                    "title": "I Am the Walrus",
+                    "length": "431000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b88309b-feab-40a3-90fe-3b6d5f160dea",
+                "direction": "backward",
+                "begin": "2017-07-29",
+                "end": "2017-07-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0b88309b-feab-40a3-90fe-3b6d5f160dea",
+                    "title": "I Am the Walrus",
+                    "length": "428480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7300153c-e58c-4f3c-b673-ec3625041485",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7300153c-e58c-4f3c-b673-ec3625041485",
+                    "title": "I Am a Walrus",
+                    "length": "395000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8eca0b0-db20-4cca-a164-3231d93468d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a8eca0b0-db20-4cca-a164-3231d93468d4",
+                    "title": "I Am a Walrus",
+                    "length": "200000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f78caee-383e-4713-b14e-1e9d26de5845",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2f78caee-383e-4713-b14e-1e9d26de5845",
+                    "title": "I Am the Walrus",
+                    "length": "243906",
+                    "disambiguation": "live, 1995-10-31: Universal Ampitheater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ed3d503-79f4-411d-80c0-4cf17eadd4bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ed3d503-79f4-411d-80c0-4cf17eadd4bb",
+                    "title": "I Am the Walrus",
+                    "length": "468000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bff48289-930f-41c5-beb3-31a75ea166a9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bff48289-930f-41c5-beb3-31a75ea166a9",
+                    "title": "I Am the Walrus",
+                    "length": "288000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "615b78a1-6dab-4c3a-ba4a-077c69dfc876",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "615b78a1-6dab-4c3a-ba4a-077c69dfc876",
+                    "title": "I Am the Walrus",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4bfdd06-c419-42c6-8f73-745f8603e091",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4bfdd06-c419-42c6-8f73-745f8603e091",
+                    "title": "I Am the Walrus",
+                    "length": "210000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37bf41a2-51e1-4944-959e-af80a31177ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "37bf41a2-51e1-4944-959e-af80a31177ae",
+                    "title": "I Am the Walrus",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1ba896a-e3a1-40af-be1c-ae1f285e37f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c1ba896a-e3a1-40af-be1c-ae1f285e37f6",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d55dc1ce-dd47-480b-9584-85a5a536c0fe",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d55dc1ce-dd47-480b-9584-85a5a536c0fe",
+                    "title": "I Am the Walrus",
+                    "length": "214000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e39fb99-2fb2-427b-9de0-46c4b726ef2b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5e39fb99-2fb2-427b-9de0-46c4b726ef2b",
+                    "title": "I Am the Walrus",
+                    "length": "528000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31e866ef-2c56-4723-b1f7-fe1c7d205654",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "31e866ef-2c56-4723-b1f7-fe1c7d205654",
+                    "title": "I Am the Walrus",
+                    "length": "226000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e05930c-6a7a-4aff-abd7-df1718656041",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0e05930c-6a7a-4aff-abd7-df1718656041",
+                    "title": "I Am the Walrus",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51b54577-cccd-4315-a8d1-7e134b1c8a22",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "51b54577-cccd-4315-a8d1-7e134b1c8a22",
+                    "title": "I Am the Walrus",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e454a32-d555-40c8-813d-f495ef033ee2",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e454a32-d555-40c8-813d-f495ef033ee2",
+                    "title": "I Am the Walrus",
+                    "length": "220000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49421bb5-1dc8-4d78-965f-fd5b89016c47",
+                "direction": "backward",
+                "recording": {
+                    "id": "49421bb5-1dc8-4d78-965f-fd5b89016c47",
+                    "title": "I Am the Walrus",
+                    "length": "291066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "079d0075-2ddf-4c81-80b5-bc6f0402c495",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "079d0075-2ddf-4c81-80b5-bc6f0402c495",
+                    "title": "I Am the Walrus",
+                    "length": "275000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae33c812-7561-4bd3-9a89-1c880193e58c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ae33c812-7561-4bd3-9a89-1c880193e58c",
+                    "title": "I Am the Walrus",
+                    "length": "216573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b79ee2c-2204-4435-9105-80e034c29cd2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2b79ee2c-2204-4435-9105-80e034c29cd2",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "790f317b-80c7-474f-ad89-96d8a4137a55",
+                "direction": "backward",
+                "recording": {
+                    "id": "790f317b-80c7-474f-ad89-96d8a4137a55",
+                    "title": "I Am the Walrus",
+                    "length": "268000",
+                    "disambiguation": "Love version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1736259-4d04-40c5-9774-781e27b0cf9b",
+                "direction": "backward",
+                "recording": {
+                    "id": "b1736259-4d04-40c5-9774-781e27b0cf9b",
+                    "title": "I Am the Walrus",
+                    "length": "272000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d41383e-dbc9-420a-8adf-96e78cdedee4",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d41383e-dbc9-420a-8adf-96e78cdedee4",
+                    "title": "I Am the Walrus",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5769daf5-9169-40d6-ab41-878d6e158a0c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5769daf5-9169-40d6-ab41-878d6e158a0c",
+                    "title": "I Am the Walrus"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34cd1dda-bdb1-4d84-9e0a-b53a69bb47a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "34cd1dda-bdb1-4d84-9e0a-b53a69bb47a6",
+                    "title": "I Am the Walrus",
+                    "length": "275000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82dd89ba-5af5-454b-a74f-59aa0a1c8f1b",
+                "direction": "backward",
+                "recording": {
+                    "id": "82dd89ba-5af5-454b-a74f-59aa0a1c8f1b",
+                    "title": "I Am the Walrus",
+                    "length": "280000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a1842ca-9690-4808-9224-0c9f66bdca99",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9a1842ca-9690-4808-9224-0c9f66bdca99",
+                    "title": "I Am the Walrus",
+                    "length": "237401"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8646eadb-8d56-4254-b97c-73a90125c361",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8646eadb-8d56-4254-b97c-73a90125c361",
+                    "title": "I Am the Walrus",
+                    "length": "275000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5b76f31-dd67-48af-94a9-05050541d204",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e5b76f31-dd67-48af-94a9-05050541d204",
+                    "title": "I Am the Walrus",
+                    "length": "352000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8151123-5269-4d4d-97d3-0f537ef22c93",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d8151123-5269-4d4d-97d3-0f537ef22c93",
+                    "title": "I Am the Walrus",
+                    "length": "260000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55da9ada-6edc-412f-ba0c-c17b9762646c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "55da9ada-6edc-412f-ba0c-c17b9762646c",
+                    "title": "I Am the Walrus",
+                    "length": "385493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a9e5df4-b64b-437d-b509-864c39d5c4df",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1a9e5df4-b64b-437d-b509-864c39d5c4df",
+                    "title": "I Am the Walrus",
+                    "length": "249000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5f0b22b-d2d3-4b5d-a0af-12fce8a6f429",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e5f0b22b-d2d3-4b5d-a0af-12fce8a6f429",
+                    "title": "I Am the Walrus",
+                    "length": "264000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73c007ee-cec9-43b8-91c4-1637abdcd37f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "73c007ee-cec9-43b8-91c4-1637abdcd37f",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1b92ec8-b283-4d40-83f6-6984f0971996",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c1b92ec8-b283-4d40-83f6-6984f0971996",
+                    "title": "I Am the Walrus",
+                    "length": "232120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "026ef729-36f6-4ae5-8af7-b730a1ecb870",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "026ef729-36f6-4ae5-8af7-b730a1ecb870",
+                    "title": "I Am the Walrus",
+                    "length": "249000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26c2ced9-6585-40bc-ab30-b6fc0cecbe31",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "26c2ced9-6585-40bc-ab30-b6fc0cecbe31",
+                    "title": "I Am the Walrus",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84f93678-2348-4b9b-92b6-bf7fcbd277bd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "84f93678-2348-4b9b-92b6-bf7fcbd277bd",
+                    "title": "I Am the Walrus",
+                    "length": "98000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bf2f14c-d61e-45ed-8bd4-36ac5b74706c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8bf2f14c-d61e-45ed-8bd4-36ac5b74706c",
+                    "title": "I Am the Walrus",
+                    "length": "249653"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3b3ee81-6a81-45d6-abda-b9abaf613e6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b3b3ee81-6a81-45d6-abda-b9abaf613e6b",
+                    "title": "I Am the Walrus",
+                    "length": "226493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90bfd5cb-f552-45b7-b647-7bf511777d63",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "90bfd5cb-f552-45b7-b647-7bf511777d63",
+                    "title": "I Am the Walrus",
+                    "length": "195265"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efcd09b6-d856-47e8-81d4-f047ec6bb728",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "efcd09b6-d856-47e8-81d4-f047ec6bb728",
+                    "title": "I Am the Walrus",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebea51b3-323e-491a-8212-c0f8b2328604",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ebea51b3-323e-491a-8212-c0f8b2328604",
+                    "title": "I Am the Walrus",
+                    "length": "281426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cbb0cc6-9f46-47b5-895a-2c867607fc80",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3cbb0cc6-9f46-47b5-895a-2c867607fc80",
+                    "title": "I Am the Walrus",
+                    "length": "428800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f39f4b79-be6a-4161-b3dd-3f357bc85e8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f39f4b79-be6a-4161-b3dd-3f357bc85e8b",
+                    "title": "I Am the Walrus",
+                    "length": "215400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "861aebff-75e8-4dee-85b5-2ac1623eac6d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "861aebff-75e8-4dee-85b5-2ac1623eac6d",
+                    "title": "I Am the Walrus",
+                    "length": "251760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba85be79-9890-419d-8c18-3ad6ea92fe99",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba85be79-9890-419d-8c18-3ad6ea92fe99",
+                    "title": "I Am the Walrus",
+                    "length": "352000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d224614-a27f-497a-9717-f7dad78d4c75",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0d224614-a27f-497a-9717-f7dad78d4c75",
+                    "title": "I Am the Walrus",
+                    "length": "271600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b530b29d-60df-460d-95ba-78ace82f1049",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b530b29d-60df-460d-95ba-78ace82f1049",
+                    "title": "I Am the Walrus",
+                    "length": "287000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28fdfd5c-f59f-4adc-85c4-463e387c469c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "28fdfd5c-f59f-4adc-85c4-463e387c469c",
+                    "title": "I Am the Walrus",
+                    "length": "365133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d8be2fd-92c9-4232-bf7c-53da9f51f468",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3d8be2fd-92c9-4232-bf7c-53da9f51f468",
+                    "title": "I Am the Walrus",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37cd96f8-a726-43a2-acbe-b727a53f4da9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "37cd96f8-a726-43a2-acbe-b727a53f4da9",
+                    "title": "I Am the Walrus",
+                    "length": "305867"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e32c627-eda7-4f00-bea6-2bdbfeaae0e8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1e32c627-eda7-4f00-bea6-2bdbfeaae0e8",
+                    "title": "I Am the Walrus",
+                    "length": "259000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba0b6c61-9b5a-40ec-a69a-3bc609a6c692",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba0b6c61-9b5a-40ec-a69a-3bc609a6c692",
+                    "title": "I Am the Walrus",
+                    "length": "219000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a4ac3ac-2099-4524-8dce-2c083bafe0fc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0a4ac3ac-2099-4524-8dce-2c083bafe0fc",
+                    "title": "I Am the Walrus",
+                    "length": "168240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79fd792b-4cab-4d59-ab2d-3a0eb7fdeb59",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "79fd792b-4cab-4d59-ab2d-3a0eb7fdeb59",
+                    "title": "I Am the Walrus",
+                    "length": "273493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "652b9c9d-dab5-4013-a733-7167639e478f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "652b9c9d-dab5-4013-a733-7167639e478f",
+                    "title": "I Am the Walrus",
+                    "length": "363000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec13b042-5ed3-47d1-8e0f-ff755dace782",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ec13b042-5ed3-47d1-8e0f-ff755dace782",
+                    "title": "I Am the Walrus",
+                    "length": "277000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2125ed38-18b4-4f68-9f03-141c63f708dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2125ed38-18b4-4f68-9f03-141c63f708dc",
+                    "title": "I Am the Walrus",
+                    "length": "253600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36613106-d4d0-49ce-ac9f-78df9aeff91e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "36613106-d4d0-49ce-ac9f-78df9aeff91e",
+                    "title": "I Am the Walrus",
+                    "length": "249306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf608b9c-d739-43eb-ba7f-9b64fac92fbf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cf608b9c-d739-43eb-ba7f-9b64fac92fbf",
+                    "title": "I Am the Walrus",
+                    "length": "236000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9928927-4227-4e94-970e-4f36f7ad8ba1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c9928927-4227-4e94-970e-4f36f7ad8ba1",
+                    "title": "I Am the Walrus",
+                    "length": "280160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18b99088-f474-473a-9346-faff286a4a94",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "18b99088-f474-473a-9346-faff286a4a94",
+                    "title": "I Am the Walrus",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fe4961b-1037-47eb-8a73-286238ca2290",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3fe4961b-1037-47eb-8a73-286238ca2290",
+                    "title": "I Am the Walrus",
+                    "length": "348000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f350729-f481-4b21-81fe-fefec3f898d2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5f350729-f481-4b21-81fe-fefec3f898d2",
+                    "title": "I Am the Walrus",
+                    "length": "253466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8690b81-147b-48aa-870f-2be0b69200ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a8690b81-147b-48aa-870f-2be0b69200ba",
+                    "title": "I Am the Walrus",
+                    "length": "216093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b18a691a-1589-4e14-82bb-8e8c0bead6b4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b18a691a-1589-4e14-82bb-8e8c0bead6b4",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5fd06e2-a41a-4136-bdfe-c728d62d9c39",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c5fd06e2-a41a-4136-bdfe-c728d62d9c39",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a588db2-23b8-482f-ad93-7fa303d3e1f4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3a588db2-23b8-482f-ad93-7fa303d3e1f4",
+                    "title": "I Am the Walrus",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9aeb5bb2-7033-4249-8535-f9948ce4d06c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9aeb5bb2-7033-4249-8535-f9948ce4d06c",
+                    "title": "I Am the Walrus",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "774f5b7b-a0e7-48c0-b90f-3a4e05f85a44",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "774f5b7b-a0e7-48c0-b90f-3a4e05f85a44",
+                    "title": "I Am the Walrus",
+                    "length": "120295"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae989f2e-f423-4cac-84f6-bb6984e79794",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ae989f2e-f423-4cac-84f6-bb6984e79794",
+                    "title": "I Am the Walrus",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6b201c1-60e2-4f42-b7f4-576c67186424",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c6b201c1-60e2-4f42-b7f4-576c67186424",
+                    "title": "I Am the Walrus",
+                    "length": "447000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a497739-2b7e-4295-9d90-c7d392a3de0c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8a497739-2b7e-4295-9d90-c7d392a3de0c",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55b668a3-9e35-48c0-89a9-c9c4da87c44a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "55b668a3-9e35-48c0-89a9-c9c4da87c44a",
+                    "title": "I Am the Walrus",
+                    "length": "455000",
+                    "disambiguation": "live, 1995-11-04: Earls Court, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8194c5f9-0335-4424-80f9-b7405f37bdef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8194c5f9-0335-4424-80f9-b7405f37bdef",
+                    "title": "I Am the Walrus",
+                    "length": "493040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88acb9d2-520d-475e-86a5-20df9ce351fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "88acb9d2-520d-475e-86a5-20df9ce351fa",
+                    "title": "I Am the Walrus",
+                    "length": "481067"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc6f5d06-990c-4dab-89fe-9e5567241688",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bc6f5d06-990c-4dab-89fe-9e5567241688",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca11dd73-d9d9-4570-b344-3aa02200cfc1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ca11dd73-d9d9-4570-b344-3aa02200cfc1",
+                    "title": "I Am the Walrus",
+                    "length": "604000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f70c7e8a-7e02-4b67-8f8a-f5e1cfb4b12d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f70c7e8a-7e02-4b67-8f8a-f5e1cfb4b12d",
+                    "title": "I Am the Walrus",
+                    "length": "406000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14418897-6767-422e-b4b0-033812e1617f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "14418897-6767-422e-b4b0-033812e1617f",
+                    "title": "I Am the Walrus",
+                    "disambiguation": "live, 1996-04-27: Maine Road Football Ground, Manchester, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88cd7245-e3ea-48bd-9636-6beea62700c5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "88cd7245-e3ea-48bd-9636-6beea62700c5",
+                    "title": "I Am the Walrus",
+                    "length": "435000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b69edf33-11de-47bb-b578-c3a0c76331c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b69edf33-11de-47bb-b578-c3a0c76331c8",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab950b87-4415-4db3-a9ed-56e3307ee1fc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ab950b87-4415-4db3-a9ed-56e3307ee1fc",
+                    "title": "I Am the Walrus",
+                    "length": "233973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "199659c9-3255-4f47-b5de-aaa493bdbf86",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "199659c9-3255-4f47-b5de-aaa493bdbf86",
+                    "title": "I Am the Walrus",
+                    "length": "471907"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da2e1fc7-96b2-4a26-854d-c5157b478cb2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "da2e1fc7-96b2-4a26-854d-c5157b478cb2",
+                    "title": "I Am the Walrus",
+                    "length": "496000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4336ec6-700d-45d8-ad9e-064789112197",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a4336ec6-700d-45d8-ad9e-064789112197",
+                    "title": "I Am the Walrus",
+                    "length": "244800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "403c5bba-d903-40b5-ba08-d4e82172c816",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "403c5bba-d903-40b5-ba08-d4e82172c816",
+                    "title": "I Am the Walrus",
+                    "length": "433000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8bb28e6-5c52-4838-93a1-474ae075185c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8bb28e6-5c52-4838-93a1-474ae075185c",
+                    "title": "I Am the Walrus",
+                    "length": "258520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a6f7e4b-b1ba-4de3-91c6-9d1b6ea2b2cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a6f7e4b-b1ba-4de3-91c6-9d1b6ea2b2cc",
+                    "title": "I Am the Walrus",
+                    "length": "272000",
+                    "disambiguation": "1980 Capitol stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "895ad775-47ee-43ca-b63f-d401d4ca055b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "895ad775-47ee-43ca-b63f-d401d4ca055b",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7d80180-e4b3-4dfe-b339-20eadc54fbc0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c7d80180-e4b3-4dfe-b339-20eadc54fbc0",
+                    "title": "I Am the Walrus",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66c6eaa2-252a-420d-85e4-a4bca437d750",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "66c6eaa2-252a-420d-85e4-a4bca437d750",
+                    "title": "I Am the Walrus",
+                    "length": "187000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1022f21-b994-493c-8c36-5e4aacc9a093",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b1022f21-b994-493c-8c36-5e4aacc9a093",
+                    "title": "I Am the Walrus",
+                    "length": "226000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cac8219-67c8-41ea-8b0c-64cb20241ef4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8cac8219-67c8-41ea-8b0c-64cb20241ef4",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1323896-5e33-488f-b050-6a49bfbfb708",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b1323896-5e33-488f-b050-6a49bfbfb708",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f69f83c-f5e9-4789-95a7-329b083040d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6f69f83c-f5e9-4789-95a7-329b083040d7",
+                    "title": "I Am the Walrus",
+                    "length": "608000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eca766e2-a67b-4df0-95e2-1a426e9d65ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "eca766e2-a67b-4df0-95e2-1a426e9d65ef",
+                    "title": "I Am the Walrus",
+                    "length": "379000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7319d27-9f73-47cd-b0a9-a33df948486e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f7319d27-9f73-47cd-b0a9-a33df948486e",
+                    "title": "I Am the Walrus",
+                    "length": "478000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "432cbba9-208a-4092-af08-7360978eb854",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "432cbba9-208a-4092-af08-7360978eb854",
+                    "title": "I Am the Walrus",
+                    "length": "368000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a65431c4-0578-4676-aae0-9bdb01d35cb2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a65431c4-0578-4676-aae0-9bdb01d35cb2",
+                    "title": "I Am the Walrus",
+                    "length": "324000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e9dccc7-c742-48cb-800e-ef3524e3688a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4e9dccc7-c742-48cb-800e-ef3524e3688a",
+                    "title": "I Am the Walrus",
+                    "length": "237000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17df4133-f3cc-450c-bec4-6c6788dfa2ea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "17df4133-f3cc-450c-bec4-6c6788dfa2ea",
+                    "title": "I Am the Walrus",
+                    "length": "494000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c03e7919-63c9-4827-8014-442daae06e0a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c03e7919-63c9-4827-8014-442daae06e0a",
+                    "title": "I Am the Walrus",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73b8bdae-4b2d-48a2-9eae-f03ef7b53133",
+                "direction": "backward",
+                "recording": {
+                    "id": "73b8bdae-4b2d-48a2-9eae-f03ef7b53133",
+                    "title": "I Am the Walrus",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "278b077a-cbd6-4336-bf37-54ce766ff9d0",
+                "direction": "backward",
+                "recording": {
+                    "id": "278b077a-cbd6-4336-bf37-54ce766ff9d0",
+                    "title": "I Am the Walrus",
+                    "length": "274000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3042c18-b4b5-4d3f-a595-0d7a7e9015e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3042c18-b4b5-4d3f-a595-0d7a7e9015e6",
+                    "title": "I Am the Walrus",
+                    "length": "268000",
+                    "disambiguation": "Love version, 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "343686ac-6891-496c-8ac0-441e6f17c37e",
+                "direction": "backward",
+                "recording": {
+                    "id": "343686ac-6891-496c-8ac0-441e6f17c37e",
+                    "title": "I Am the Walrus",
+                    "length": "276000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "432dfa56-3f49-4d64-aef1-40dab4fd2fe7",
+                "direction": "backward",
+                "recording": {
+                    "id": "432dfa56-3f49-4d64-aef1-40dab4fd2fe7",
+                    "title": "I Am the Walrus",
+                    "length": "291142"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81135816-fed0-4158-9fda-107d9e861a94",
+                "direction": "backward",
+                "recording": {
+                    "id": "81135816-fed0-4158-9fda-107d9e861a94",
+                    "title": "I Am the Walrus"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b74d717-73a2-47af-9370-74e49ea03357",
+                "direction": "backward",
+                "recording": {
+                    "id": "9b74d717-73a2-47af-9370-74e49ea03357",
+                    "title": "I Am the Walrus",
+                    "length": "279000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5df05147-adba-4b28-a637-e9d8cdc65fc4",
+                "direction": "backward",
+                "recording": {
+                    "id": "5df05147-adba-4b28-a637-e9d8cdc65fc4",
+                    "title": "I Am the Walrus",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7afa172-21fe-46f7-817c-0531e42780eb",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7afa172-21fe-46f7-817c-0531e42780eb",
+                    "title": "I Am the Walrus",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2519c67-b8fc-4954-a573-25e6d02ca201",
+                "direction": "backward",
+                "recording": {
+                    "id": "e2519c67-b8fc-4954-a573-25e6d02ca201",
+                    "title": "I Am the Walrus",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cd28dc7-ef80-4cbe-b140-7fb7fd43fba9",
+                "direction": "backward",
+                "recording": {
+                    "id": "8cd28dc7-ef80-4cbe-b140-7fb7fd43fba9",
+                    "title": "I Am the Walrus",
+                    "length": "279000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a9f82e0-d886-4ccf-aca9-d63b91d46129",
+                "direction": "backward",
+                "recording": {
+                    "id": "7a9f82e0-d886-4ccf-aca9-d63b91d46129",
+                    "title": "I Am the Walrus",
+                    "length": "276506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96035209-bf05-4933-894c-5e69eb733329",
+                "direction": "backward",
+                "recording": {
+                    "id": "96035209-bf05-4933-894c-5e69eb733329",
+                    "title": "I Am the Walrus",
+                    "length": "272000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b106656f-c241-44e6-a12f-42ec40473304",
+                "direction": "backward",
+                "recording": {
+                    "id": "b106656f-c241-44e6-a12f-42ec40473304",
+                    "title": "I Am the Walrus",
+                    "length": "278000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f38586d9-cade-41ad-b6f5-a8e0fc324fa8",
+                "direction": "backward",
+                "recording": {
+                    "id": "f38586d9-cade-41ad-b6f5-a8e0fc324fa8",
+                    "title": "I Am the Walrus",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2870d039-954d-45c3-b664-d51c102b7b1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "2870d039-954d-45c3-b664-d51c102b7b1c",
+                    "title": "I Am the Walrus",
+                    "length": "113400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "470d9726-14fd-45aa-91d9-abd76715ed5b",
+                "direction": "backward",
+                "recording": {
+                    "id": "470d9726-14fd-45aa-91d9-abd76715ed5b",
+                    "title": "I Am the Walrus",
+                    "length": "242000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e90e170b-30d4-474e-9d5c-b18f1bcd9a86",
+                "direction": "backward",
+                "recording": {
+                    "id": "e90e170b-30d4-474e-9d5c-b18f1bcd9a86",
+                    "title": "I Am the Walrus",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eae8451c-e893-465e-93a5-7e347de66997",
+                "direction": "backward",
+                "recording": {
+                    "id": "eae8451c-e893-465e-93a5-7e347de66997",
+                    "title": "I Am the Walrus",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "151093df-bf8b-4ff1-8b2a-903c429368d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "151093df-bf8b-4ff1-8b2a-903c429368d2",
+                    "title": "I Am the Walrus",
+                    "length": "269000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45cb307b-5c2b-4296-894c-adee221bc946",
+                "direction": "backward",
+                "recording": {
+                    "id": "45cb307b-5c2b-4296-894c-adee221bc946",
+                    "title": "I Am the Walrus",
+                    "length": "256000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef81f8ff-50eb-4729-ab44-b7e5eab4a754",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef81f8ff-50eb-4729-ab44-b7e5eab4a754",
+                    "title": "I Am the Walrus",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbbc9bd8-3a49-4fb8-a079-3ef4fb32b90d",
+                "direction": "backward",
+                "recording": {
+                    "id": "dbbc9bd8-3a49-4fb8-a079-3ef4fb32b90d",
+                    "title": "I Am the Walrus",
+                    "length": "259893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b9747cd-a0fe-469e-afb0-a3930dbe6193",
+                "direction": "backward",
+                "recording": {
+                    "id": "5b9747cd-a0fe-469e-afb0-a3930dbe6193",
+                    "title": "I Am the Walrus",
+                    "length": "269000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0541e580-35c2-47f5-a846-cf83f8df91ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0541e580-35c2-47f5-a846-cf83f8df91ac",
+                    "title": "I Am the Walrus",
+                    "length": "452000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bd9deba-049d-4765-87ab-0b7693c60681",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bd9deba-049d-4765-87ab-0b7693c60681",
+                    "title": "I Am the Walrus",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09bba7bb-5752-4992-a7bb-13303ebc9af7",
+                "direction": "backward",
+                "recording": {
+                    "id": "09bba7bb-5752-4992-a7bb-13303ebc9af7",
+                    "title": "I Am the Walrus",
+                    "length": "594000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9a72b51-7b6e-48d1-9b9a-f4638d977382",
+                "direction": "backward",
+                "recording": {
+                    "id": "f9a72b51-7b6e-48d1-9b9a-f4638d977382",
+                    "title": "I Am the Walrus"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e306df1-405b-447e-8009-0671dce31980",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4e306df1-405b-447e-8009-0671dce31980",
+                    "title": "I Am the Walrus",
+                    "length": "544000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbc52b6a-b5aa-49a6-a9ce-1c3e1f9e0a4b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cbc52b6a-b5aa-49a6-a9ce-1c3e1f9e0a4b",
+                    "title": "I Am the Walrus"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7330ad7d-fe48-4b33-9b9b-6e3987497366",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7330ad7d-fe48-4b33-9b9b-6e3987497366",
+                    "title": "I Am the Walrus",
+                    "length": "624000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13e054bb-9c71-43f8-8891-2b6acc5cedb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "13e054bb-9c71-43f8-8891-2b6acc5cedb5",
+                    "title": "I Am the Walrus",
+                    "length": "473000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22e82dc0-6b9c-4de0-873e-ed13215d4d13",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "22e82dc0-6b9c-4de0-873e-ed13215d4d13",
+                    "title": "I Am the Walrus",
+                    "length": "418000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b605e826-9c67-4ea1-b4c9-ff517ed9b58d",
+                "direction": "backward",
+                "recording": {
+                    "id": "b605e826-9c67-4ea1-b4c9-ff517ed9b58d",
+                    "title": "I Am the Walrus",
+                    "length": "511000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92edcb55-7e6a-4b2c-b733-1c739468731b",
+                "direction": "backward",
+                "recording": {
+                    "id": "92edcb55-7e6a-4b2c-b733-1c739468731b",
+                    "title": "I Am The Walrus"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf06f170-b914-4318-931f-fa1072ad63f4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bf06f170-b914-4318-931f-fa1072ad63f4",
+                    "title": "I Am The Walrus",
+                    "length": "169000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "895f14b7-3bab-4221-a434-d1743c545651",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "895f14b7-3bab-4221-a434-d1743c545651",
+                    "title": "I Am the Walrus (\"No You're Not\", Said Little Nicola)",
+                    "length": "305000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81b16a0a-863c-43cf-8a46-7c0486411240",
+                "direction": "backward",
+                "recording": {
+                    "id": "81b16a0a-863c-43cf-8a46-7c0486411240",
+                    "title": "I Am the Walrus (1967-09)",
+                    "length": "265346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67272790-eb31-4ff7-90c3-5f89b4661a49",
+                "direction": "backward",
+                "recording": {
+                    "id": "67272790-eb31-4ff7-90c3-5f89b4661a49",
+                    "title": "I Am the Walrus (alternate Stereo version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3e18d5b-1ab5-4afa-aa4c-bf69a10c334c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3e18d5b-1ab5-4afa-aa4c-bf69a10c334c",
+                    "title": "I Am the Walrus (composite version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2200895-17ed-4933-b419-c9cbaf17a44b",
+                "direction": "backward",
+                "recording": {
+                    "id": "e2200895-17ed-4933-b419-c9cbaf17a44b",
+                    "title": "I Am the Walrus (demo mix without Overdubs for Acetate)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea9a8014-54f7-4db1-83b6-849cf84ee37a",
+                "direction": "backward",
+                "recording": {
+                    "id": "ea9a8014-54f7-4db1-83b6-849cf84ee37a",
+                    "title": "I Am The Walrus (Edit Of RM23 Take 17)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb7dc5c4-dddc-4640-b009-ef101c2e60e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "cb7dc5c4-dddc-4640-b009-ef101c2e60e4",
+                    "title": "I Am The Walrus (Edit Of RS6/7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cf0048d-04bd-4678-95ca-5a4424b406f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "1cf0048d-04bd-4678-95ca-5a4424b406f0",
+                    "title": "I Am The Walrus (Edit Of RS25/7 Take 17)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "899b7ae7-f24e-4ecb-abeb-98c79bdc556d",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "899b7ae7-f24e-4ecb-abeb-98c79bdc556d",
+                    "title": "I Am the Walrus (instrumental take 9)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f83bd9d-f68b-4c49-8c6d-eee2742dcd50",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9f83bd9d-f68b-4c49-8c6d-eee2742dcd50",
+                    "title": "I Am the Walrus (instrumental)",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95d2926c-33c4-4446-8633-53e4e5805101",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "95d2926c-33c4-4446-8633-53e4e5805101",
+                    "title": "I Am the Walrus (King Lear Fragment)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8583012c-8b79-463b-8744-0d78d91b53fe",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8583012c-8b79-463b-8744-0d78d91b53fe",
+                    "title": "I Am the Walrus (live at Nassau Coliseum, Uniondale, NY 3/25/88)",
+                    "length": "216573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b19350c1-172a-438a-a979-67f4963c9dea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b19350c1-172a-438a-a979-67f4963c9dea",
+                    "title": "I Am the Walrus (live)",
+                    "length": "500426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b97d07a3-3ac8-493d-b9d2-01ed0b4aa278",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b97d07a3-3ac8-493d-b9d2-01ed0b4aa278",
+                    "title": "I Am the Walrus (live)",
+                    "length": "496440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35eefd30-5c7a-4e4f-b55a-5540328b798f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "35eefd30-5c7a-4e4f-b55a-5540328b798f",
+                    "title": "I Am the Walrus (live)",
+                    "length": "491453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4604ff02-0376-43d5-9728-a8814cccacc4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4604ff02-0376-43d5-9728-a8814cccacc4",
+                    "title": "I Am the Walrus (live)",
+                    "length": "497000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d81feb7b-d3a0-4c3c-adc6-4d14a6c09071",
+                "direction": "backward",
+                "recording": {
+                    "id": "d81feb7b-d3a0-4c3c-adc6-4d14a6c09071",
+                    "title": "I Am the Walrus (mono)",
+                    "length": "275573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "099c2ccb-2fdc-45e6-b54d-abfba4168e82",
+                "direction": "backward",
+                "recording": {
+                    "id": "099c2ccb-2fdc-45e6-b54d-abfba4168e82",
+                    "title": "I Am the Walrus (mono)",
+                    "length": "275000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4011b80-bca0-4ecc-92e8-15307ee146d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4011b80-bca0-4ecc-92e8-15307ee146d2",
+                    "title": "I Am the Walrus (Mono)",
+                    "length": "276293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ea573e0-dea6-4ef2-83ae-5671fe90dcf5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7ea573e0-dea6-4ef2-83ae-5671fe90dcf5",
+                    "title": "I Am the Walrus (Oasis Sing the Beatles)",
+                    "length": "431227"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22ea0aa9-1607-4679-9029-dfc1db18df3b",
+                "direction": "backward",
+                "recording": {
+                    "id": "22ea0aa9-1607-4679-9029-dfc1db18df3b",
+                    "title": "I Am the Walrus (Rehearsal)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "460c075d-812f-4162-ae11-83e988913808",
+                "direction": "backward",
+                "recording": {
+                    "id": "460c075d-812f-4162-ae11-83e988913808",
+                    "title": "I Am The Walrus (RM??)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d47bfe7-468a-4b74-899f-b184b3f0429a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d47bfe7-468a-4b74-899f-b184b3f0429a",
+                    "title": "I Am The Walrus (RM23)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcabeada-de30-486e-b10d-dfa14afa5d30",
+                "direction": "backward",
+                "recording": {
+                    "id": "dcabeada-de30-486e-b10d-dfa14afa5d30",
+                    "title": "I Am the Walrus (Rough mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40314617-789f-48da-ba31-590dbed81081",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "40314617-789f-48da-ba31-590dbed81081",
+                    "title": "I Am the Walrus (single A-Side)",
+                    "length": "322000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af1f762e-848e-4f06-93f7-6f0ad640fa11",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af1f762e-848e-4f06-93f7-6f0ad640fa11",
+                    "title": "I Am the Walrus (single version)",
+                    "length": "319000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f090879-ab38-4451-bc84-28ff0fcd3fe5",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f090879-ab38-4451-bc84-28ff0fcd3fe5",
+                    "title": "I Am the Walrus (stereo)",
+                    "length": "276453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d24f84c-8941-462b-8b30-51d63679950b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d24f84c-8941-462b-8b30-51d63679950b",
+                    "title": "I Am the Walrus (Stereo)",
+                    "length": "276680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27af1bad-47cd-4295-b5e3-d63fade4c363",
+                "direction": "backward",
+                "recording": {
+                    "id": "27af1bad-47cd-4295-b5e3-d63fade4c363",
+                    "title": "I Am the Walrus (take 7 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b429de36-1d06-410d-9ceb-8b12880bb4e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "b429de36-1d06-410d-9ceb-8b12880bb4e9",
+                    "title": "I Am the Walrus (take 7, monitor mix)",
+                    "length": "111506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6427825b-ede2-4ec8-a34e-d4352a72d9db",
+                "direction": "backward",
+                "recording": {
+                    "id": "6427825b-ede2-4ec8-a34e-d4352a72d9db",
+                    "title": "I Am the Walrus (take 7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95082b2d-9ae6-4434-a455-115d65a67b07",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "95082b2d-9ae6-4434-a455-115d65a67b07",
+                    "title": "I Am the Walrus (take 8 - False Start)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6a64dff-a488-447b-be3d-30092f700dd9",
+                "direction": "backward",
+                "recording": {
+                    "id": "e6a64dff-a488-447b-be3d-30092f700dd9",
+                    "title": "I Am the Walrus (take 9 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40d10ff0-f6aa-4b84-8b72-d14af4280aac",
+                "direction": "backward",
+                "recording": {
+                    "id": "40d10ff0-f6aa-4b84-8b72-d14af4280aac",
+                    "title": "I Am the Walrus (take 9)",
+                    "length": "252000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4edba883-4a0a-44bb-b84e-2a9d5c53b494",
+                "direction": "backward",
+                "recording": {
+                    "id": "4edba883-4a0a-44bb-b84e-2a9d5c53b494",
+                    "title": "I Am the Walrus (take 9)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7adcdb2f-98c2-4d90-89bf-5f23962d02ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "7adcdb2f-98c2-4d90-89bf-5f23962d02ae",
+                    "title": "I Am the Walrus (take 9)",
+                    "length": "258000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "051a5d54-367b-4c98-a86e-3ce78112b441",
+                "direction": "backward",
+                "recording": {
+                    "id": "051a5d54-367b-4c98-a86e-3ce78112b441",
+                    "title": "I Am the Walrus (take 17 RM4 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1fc82f9-c4a1-471d-8f9a-03c5a0cee035",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1fc82f9-c4a1-471d-8f9a-03c5a0cee035",
+                    "title": "I Am the Walrus (take 17)",
+                    "length": "284733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec520adb-1565-4436-8480-c20e08ce8620",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec520adb-1565-4436-8480-c20e08ce8620",
+                    "title": "I Am the Walrus (Takes 16+17 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4b9241f-fa10-4a7b-a906-630d16fbbeaa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a4b9241f-fa10-4a7b-a906-630d16fbbeaa",
+                    "title": "I'm the Walrus",
+                    "length": "212000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4ea2402-0adf-469e-996c-3aa3973ea533",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d4ea2402-0adf-469e-996c-3aa3973ea533",
+                    "title": "I'm The Walrus (27.09.1967)",
+                    "length": "274000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34218d45-722c-42c3-a6e8-3cc077229fe1",
+                "direction": "backward",
+                "recording": {
+                    "id": "34218d45-722c-42c3-a6e8-3cc077229fe1",
+                    "title": "I'm the Walrus (takes 7 & 8 breakdowns and take 9 complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "106ac28b-a417-4e98-bcb8-32221b9a1181",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "106ac28b-a417-4e98-bcb8-32221b9a1181",
+                    "title": "I\u2019m the Walrus",
+                    "length": "223293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "855aa482-630e-4834-b3df-1fbe1b48bc8b",
+                "direction": "backward",
+                "recording": {
+                    "id": "855aa482-630e-4834-b3df-1fbe1b48bc8b",
+                    "title": "I\u2019m the Walrus (take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf89a040-e3b9-4dde-8a4d-9bacd8049edf",
+                "direction": "backward",
+                "recording": {
+                    "id": "bf89a040-e3b9-4dde-8a4d-9bacd8049edf",
+                    "title": "I\u2019m the Walrus (take 9)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cf701a3-b91c-4700-8a69-6d36fd8a725e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9cf701a3-b91c-4700-8a69-6d36fd8a725e",
+                    "title": "I\u2019m the Walrus (take 16)",
+                    "length": "256533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c356b32-2f83-4354-af79-74671f947b5e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c356b32-2f83-4354-af79-74671f947b5e",
+                    "title": "I\u00b4m The Walrus (Watching The Wheels)",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec17add0-2b9f-4323-ae48-a4d9dc0c99f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ec17add0-2b9f-4323-ae48-a4d9dc0c99f8",
+                    "title": "Kaleidoscope Eyes Medley: With a Little Help From My Friends / Ob-La-Di, Ob-La-Da / Sgt. Pepper\u00b4s Lonely Hearts Club Band / I Am the Walrus",
+                    "length": "406186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a002c1b-aaa8-45bc-a713-66cbf1e324cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "3a002c1b-aaa8-45bc-a713-66cbf1e324cc",
+                    "title": "Paperback Walrus",
+                    "length": "240000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ab92025-588f-4851-be24-c3f2f0a227cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "9ab92025-588f-4851-be24-c3f2f0a227cf",
+                    "title": "The Tribute: Sgt. Pepper's Lonely Hearts Club Band / Lucy in the Sky With Diamonds / Magical Mystery Tour / I Am the Walrus / Strawberry Fields Forever",
+                    "length": "449933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9b8f658-00d6-4c9f-bfee-3dd78fdd2566",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e9b8f658-00d6-4c9f-bfee-3dd78fdd2566",
+                    "title": "The Walrus",
+                    "length": "318000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-i-am-the-walrus-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/961",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=138",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1138639",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "8e45204d-b1c0-4696-a6fd-9f39cb434571",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "8e45204d-b1c0-4696-a6fd-9f39cb434571",
+                    "type": "Song",
+                    "title": "I Am the Walmart",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "b9aedfc1-b071-4918-841d-ff1bdf0f50ae",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "b9aedfc1-b071-4918-841d-ff1bdf0f50ae",
+                    "type": "Song",
+                    "title": "Ich bin das Walross",
+                    "language": "deu"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "work": {
+        "id": "a030da9f-1ec7-4776-a6cf-b43f978a7e8f",
+        "type": "Song",
+        "title": "Bikini",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "cc1588e1-5ba3-45a6-b80c-b31035c89339",
+                "direction": "backward",
+                "begin": "1948-03-29",
+                "end": "1948-03-29",
+                "ended": "true",
+                "artist": {
+                    "id": "cc1588e1-5ba3-45a6-b80c-b31035c89339",
+                    "type": "Person",
+                    "name": "Dexter Gordon",
+                    "sort-name": "Gordon, Dexter"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5c9ca7e-ba9f-4ebf-8609-f4dc24339594",
+                "direction": "backward",
+                "begin": "1947-06-12",
+                "end": "1947-06-12",
+                "ended": "true",
+                "recording": {
+                    "id": "b5c9ca7e-ba9f-4ebf-8609-f4dc24339594",
+                    "title": "Bikini",
+                    "length": "217800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c50b0a40-56bb-4b2b-ba11-cecf57fac8cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "c50b0a40-56bb-4b2b-ba11-cecf57fac8cf",
+                    "title": "Bikini"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7f70209-b42a-4385-a3fa-58b006efe8b4",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7f70209-b42a-4385-a3fa-58b006efe8b4",
+                    "title": "Bikini",
+                    "length": "218000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54dcae8e-7717-4531-9d22-917e61af2d03",
+                "direction": "backward",
+                "recording": {
+                    "id": "54dcae8e-7717-4531-9d22-917e61af2d03",
+                    "title": "Bikini",
+                    "length": "216666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41ff15b3-77ae-4a29-8abc-0b3cb27801c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "41ff15b3-77ae-4a29-8abc-0b3cb27801c0",
+                    "title": "Bikini",
+                    "length": "214933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "256d1ce3-5ece-436e-b475-4987761f95af",
+                "direction": "backward",
+                "recording": {
+                    "id": "256d1ce3-5ece-436e-b475-4987761f95af",
+                    "title": "Bikini",
+                    "length": "219026"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1869 @@
+{
+    "work": {
+        "id": "b2be878e-12f4-3ce1-85e0-6b84d07ea43c",
+        "type": "Song",
+        "title": "Ellens Gesang III, op. 52 no. 6, D. 839 \u201cAve Maria\u201d",
+        "language": "deu",
+        "disambiguation": "Schubert's song, not the Bach/Gounod work",
+        "alias-list": [
+            {
+                "sort-name": "Ave Maria",
+                "alias": "Ave Maria"
+            },
+            {
+                "locale": "de",
+                "sort-name": "Ave Maria \"Ellens Gesang III\", op. 52 Nr. 6 D. 839",
+                "type": "Work name",
+                "primary": "primary",
+                "alias": "Ave Maria \"Ellens Gesang III\", op. 52 Nr. 6 D. 839"
+            },
+            {
+                "sort-name": "Ave Maria (doppelpedalharfe)",
+                "alias": "Ave Maria (doppelpedalharfe)"
+            },
+            {
+                "sort-name": "Ave Maria in A Major",
+                "alias": "Ave Maria in A Major"
+            },
+            {
+                "sort-name": "Ellens Gesang III D 839 - Ave Maria",
+                "alias": "Ellens Gesang III D 839 - Ave Maria"
+            },
+            {
+                "sort-name": "Ellens Gesang III, D 839",
+                "alias": "Ellens Gesang III, D 839"
+            },
+            {
+                "sort-name": "Ellens Gesang, D. 839 Op. 52/6: Act III. Hymne \"Ave Maria\" (Andie Jungfrau)",
+                "alias": "Ellens Gesang, D. 839 Op. 52/6: Act III. Hymne \"Ave Maria\" (Andie Jungfrau)"
+            },
+            {
+                "sort-name": "Ellens dritter Gesang",
+                "alias": "Ellens dritter Gesang"
+            }
+        ],
+        "alias-count": 8,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1825",
+                "end": "1825",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "627f5ca8-c745-4e1c-a646-facdfe1cabdf",
+                "direction": "backward",
+                "artist": {
+                    "id": "627f5ca8-c745-4e1c-a646-facdfe1cabdf",
+                    "type": "Person",
+                    "name": "Sir Walter Scott",
+                    "sort-name": "Scott, Walter, Sir",
+                    "disambiguation": "19th-century Scottish author"
+                }
+            },
+            {
+                "type": "translator",
+                "type-id": "da6c5d8a-ce13-474d-9375-61feb29039a5",
+                "target": "faffc2ee-095f-4934-8f4c-065ed22c7587",
+                "direction": "backward",
+                "artist": {
+                    "id": "faffc2ee-095f-4934-8f4c-065ed22c7587",
+                    "type": "Person",
+                    "name": "Adam Storck",
+                    "sort-name": "Storck, Adam"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41ebbd35-265e-4b85-ac25-609274904caf",
+                "direction": "backward",
+                "begin": "1898-10-11",
+                "end": "1898-10-11",
+                "ended": "true",
+                "recording": {
+                    "id": "41ebbd35-265e-4b85-ac25-609274904caf",
+                    "title": "Ave Maria (Ellens Gesang III)",
+                    "length": "118026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6d89fe1-9386-4c88-8766-aaaaba490587",
+                "direction": "backward",
+                "begin": "1924",
+                "end": "1924",
+                "ended": "true",
+                "recording": {
+                    "id": "a6d89fe1-9386-4c88-8766-aaaaba490587",
+                    "title": "Ave Maria",
+                    "length": "156706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2dd6e26-d22c-42ab-b23b-d104acd1b915",
+                "direction": "backward",
+                "begin": "1933",
+                "end": "1945",
+                "ended": "true",
+                "recording": {
+                    "id": "d2dd6e26-d22c-42ab-b23b-d104acd1b915",
+                    "title": "Ave Maria, D. 839",
+                    "length": "277173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01ec6f97-588a-435a-8a91-8f54195e9c61",
+                "direction": "backward",
+                "begin": "1934",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "01ec6f97-588a-435a-8a91-8f54195e9c61",
+                    "title": "Ave Maria",
+                    "length": "174800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52e028ac-8a29-497b-8d3d-a117e0eab50e",
+                "direction": "backward",
+                "begin": "1936-02-04",
+                "end": "1936-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "52e028ac-8a29-497b-8d3d-a117e0eab50e",
+                    "title": "Ellens Gesang III (\u2019Ave Maria\u2019) D. 839, op. 52 no. 6",
+                    "length": "294866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3070befd-b06b-4e64-a27e-4f4e7f7d6762",
+                "direction": "backward",
+                "begin": "1936-07-07",
+                "end": "1936-07-07",
+                "ended": "true",
+                "recording": {
+                    "id": "3070befd-b06b-4e64-a27e-4f4e7f7d6762",
+                    "title": "Ave Maria, D 839",
+                    "length": "288000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6787b670-fc7d-400e-87e2-9a5e9d5c10df",
+                "direction": "backward",
+                "begin": "1956-03-21",
+                "end": "1956-03-23",
+                "ended": "true",
+                "recording": {
+                    "id": "6787b670-fc7d-400e-87e2-9a5e9d5c10df",
+                    "title": "Ave Maria, D. 839",
+                    "length": "426000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ec4ff68-ad33-4ae3-8e72-9a8d2eed2745",
+                "direction": "backward",
+                "begin": "1961-11-28",
+                "end": "1961-11-30",
+                "ended": "true",
+                "recording": {
+                    "id": "6ec4ff68-ad33-4ae3-8e72-9a8d2eed2745",
+                    "title": "Ave Maria, D. 839",
+                    "length": "439919"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b7aa79e-00d8-45ca-9e6d-0ef961a70e67",
+                "direction": "backward",
+                "begin": "1973-06",
+                "end": "1973-06",
+                "ended": "true",
+                "recording": {
+                    "id": "9b7aa79e-00d8-45ca-9e6d-0ef961a70e67",
+                    "title": "\"Ellens Gesang III\", D. 839",
+                    "length": "366000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c154de8-cabc-443c-aa88-c957db539f84",
+                "direction": "backward",
+                "begin": "1975-08",
+                "end": "1975-08",
+                "ended": "true",
+                "recording": {
+                    "id": "3c154de8-cabc-443c-aa88-c957db539f84",
+                    "title": "Ave Maria, D. 839",
+                    "length": "348000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7712c37-eadf-49fd-a3a0-0cf5d47c5012",
+                "direction": "backward",
+                "begin": "1976-10",
+                "end": "1976-10",
+                "ended": "true",
+                "recording": {
+                    "id": "c7712c37-eadf-49fd-a3a0-0cf5d47c5012",
+                    "title": "Ellens Gesang III: \"Ave Maria\", D. 839",
+                    "length": "464000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1a09668-3e78-4dd5-aea0-dc4a7be4e717",
+                "direction": "backward",
+                "begin": "1984-06",
+                "end": "1984-06",
+                "ended": "true",
+                "recording": {
+                    "id": "e1a09668-3e78-4dd5-aea0-dc4a7be4e717",
+                    "title": "Ave Maria Op 52, No. 6",
+                    "length": "212000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae747534-99d2-4fd5-845b-33152df65657",
+                "direction": "backward",
+                "begin": "1986-11-18",
+                "end": "1986-11-21",
+                "ended": "true",
+                "recording": {
+                    "id": "ae747534-99d2-4fd5-845b-33152df65657",
+                    "title": "Fr\u00e4ulein vom See, op. 52 Nr. 6: Ave Maria! Jungfrau mild",
+                    "length": "419040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7723b91c-9b16-4f2d-93b6-bd80f9ab01b3",
+                "direction": "backward",
+                "begin": "1987-06-16",
+                "end": "1987-06-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7723b91c-9b16-4f2d-93b6-bd80f9ab01b3",
+                    "title": "Ave Maria, D. 839",
+                    "length": "428000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b918ae25-2936-49a5-8afb-0c8f99340461",
+                "direction": "backward",
+                "begin": "1990-12-16",
+                "end": "1990-12-18",
+                "ended": "true",
+                "recording": {
+                    "id": "b918ae25-2936-49a5-8afb-0c8f99340461",
+                    "title": "Ellens Gesang III (Ave Maria), D. 839",
+                    "length": "374000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "222283bd-95d1-4aa3-92ab-fe340ccff2ec",
+                "direction": "backward",
+                "begin": "1992-09",
+                "end": "1992-09",
+                "ended": "true",
+                "recording": {
+                    "id": "222283bd-95d1-4aa3-92ab-fe340ccff2ec",
+                    "title": "Ellen's dritter Gesang, D. 839",
+                    "length": "363000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc05dfe8-ce15-47b3-a587-fbcc53c683d2",
+                "direction": "backward",
+                "begin": "1995-06-04",
+                "end": "1995-07-01",
+                "ended": "true",
+                "recording": {
+                    "id": "cc05dfe8-ce15-47b3-a587-fbcc53c683d2",
+                    "title": "Ellens Gesang III \"Ave Maria\", Op. 52 No. 6",
+                    "length": "251867"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d192960-b572-4a72-9b81-2061bc663335",
+                "direction": "backward",
+                "begin": "1995-10-29",
+                "end": "1995-10-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8d192960-b572-4a72-9b81-2061bc663335",
+                    "title": "Ave Maria",
+                    "length": "147226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "855c255d-17eb-4c6d-89cb-c53322ec24e3",
+                "direction": "backward",
+                "begin": "1996-06",
+                "end": "1996-06",
+                "ended": "true",
+                "recording": {
+                    "id": "855c255d-17eb-4c6d-89cb-c53322ec24e3",
+                    "title": "Ellens Gesang III, D. 839 \"Ave Maria\" (Sir Walter Scott /Adam Storck)",
+                    "length": "294000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98094364-7eeb-4d4e-bb38-c225b237b96b",
+                "direction": "backward",
+                "begin": "1999-10",
+                "end": "1999-10",
+                "ended": "true",
+                "recording": {
+                    "id": "98094364-7eeb-4d4e-bb38-c225b237b96b",
+                    "title": "Ave Maria",
+                    "length": "297000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e83f2c6-32fa-480a-be97-11e38f2ec5df",
+                "direction": "backward",
+                "begin": "2003-01",
+                "end": "2003-01",
+                "ended": "true",
+                "recording": {
+                    "id": "3e83f2c6-32fa-480a-be97-11e38f2ec5df",
+                    "title": "Elles dritter Gesang (Ave Maria), op. 52 no. 6",
+                    "length": "413546"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d7a33cd-ef15-49cc-815d-43b7f814d957",
+                "direction": "backward",
+                "begin": "2008-11",
+                "end": "2008-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8d7a33cd-ef15-49cc-815d-43b7f814d957",
+                    "title": "Ave Maria",
+                    "length": "155253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68dbc1fb-0bf1-472e-aaa6-44f61c1139a9",
+                "direction": "backward",
+                "begin": "2011-05-11",
+                "end": "2011-05-13",
+                "ended": "true",
+                "recording": {
+                    "id": "68dbc1fb-0bf1-472e-aaa6-44f61c1139a9",
+                    "title": "\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2",
+                    "length": "347026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ed2e0b9-4b66-485d-8d80-8e6e855be0b8",
+                "direction": "backward",
+                "begin": "2012-09-16",
+                "end": "2012-09-18",
+                "ended": "true",
+                "recording": {
+                    "id": "2ed2e0b9-4b66-485d-8d80-8e6e855be0b8",
+                    "title": "Ave Maria, D. 839",
+                    "length": "261186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7167890d-9fe9-41f7-bd7a-12d1456f69ef",
+                "direction": "backward",
+                "begin": "2013-09",
+                "end": "2013-09",
+                "ended": "true",
+                "recording": {
+                    "id": "7167890d-9fe9-41f7-bd7a-12d1456f69ef",
+                    "title": "Ellens Gesang III (Hymne an die Jungfrau), D 839",
+                    "length": "344440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c28159dd-8bb0-4a28-8672-b7b2b2007f49",
+                "direction": "backward",
+                "begin": "2017-08",
+                "end": "2017-08",
+                "ended": "true",
+                "recording": {
+                    "id": "c28159dd-8bb0-4a28-8672-b7b2b2007f49",
+                    "title": "Ellens Ges\u00e4nge: Ellens Gesang III (Ave Maria), D 839",
+                    "length": "368000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a00a2abb-bb5a-4155-8a05-32496346e540",
+                "direction": "backward",
+                "begin": "2019-09",
+                "end": "2019-09",
+                "ended": "true",
+                "recording": {
+                    "id": "a00a2abb-bb5a-4155-8a05-32496346e540",
+                    "title": "Ave Maria, D839, op. 52 no. 6",
+                    "length": "355040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40c819d4-ddb0-4ae0-aa62-ae01abb9535f",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "40c819d4-ddb0-4ae0-aa62-ae01abb9535f",
+                    "title": "\u2018Ellens Dritter Gesang\u2019, D. 839, op. 52, no. 6: \"Ave Maria\" (extract)",
+                    "length": "63906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7759938e-937f-4a26-8564-7ddfb2545441",
+                "direction": "backward",
+                "recording": {
+                    "id": "7759938e-937f-4a26-8564-7ddfb2545441",
+                    "title": "\"Ellens Gesang III\" (\"Ave Maria\"), D 839, Op. 52, No. 6",
+                    "length": "317000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38414393-5d7d-4227-a27d-3574d4a0016f",
+                "direction": "backward",
+                "recording": {
+                    "id": "38414393-5d7d-4227-a27d-3574d4a0016f",
+                    "title": "Ausgew\u00e4hlte Lieder: Ave Maria, Jungfrau mild (D 839) aus \u201eEllens Ges\u00e4nge\u201c, op. 56/2",
+                    "length": "264026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fef368a-1af7-49b5-9fe0-2baf16b7cbbb",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4fef368a-1af7-49b5-9fe0-2baf16b7cbbb",
+                    "title": "Ave maria",
+                    "length": "297533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c279b8b4-5376-460e-a386-86e707af7188",
+                "direction": "backward",
+                "recording": {
+                    "id": "c279b8b4-5376-460e-a386-86e707af7188",
+                    "title": "Ave Maria",
+                    "length": "285000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba427443-0637-4c44-b568-136e924ac32a",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba427443-0637-4c44-b568-136e924ac32a",
+                    "title": "Ave Maria",
+                    "length": "292560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6675826-271c-4a17-aab2-c827c2b9ba10",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6675826-271c-4a17-aab2-c827c2b9ba10",
+                    "title": "Ave Maria",
+                    "length": "301146"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77604ebd-1265-4165-927a-b26a904b415e",
+                "direction": "backward",
+                "recording": {
+                    "id": "77604ebd-1265-4165-927a-b26a904b415e",
+                    "title": "Ave Maria",
+                    "length": "335000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64c1e3a7-d4b0-440c-b0ce-5b6c35748ec3",
+                "direction": "backward",
+                "recording": {
+                    "id": "64c1e3a7-d4b0-440c-b0ce-5b6c35748ec3",
+                    "title": "Ave Maria",
+                    "length": "291000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dadd6ff9-3d3c-4e2f-9695-3d9aaeab2325",
+                "direction": "backward",
+                "recording": {
+                    "id": "dadd6ff9-3d3c-4e2f-9695-3d9aaeab2325",
+                    "title": "Ave Maria",
+                    "length": "319000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ceeac30-e84f-4937-8b15-ef89ef0d0a0d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7ceeac30-e84f-4937-8b15-ef89ef0d0a0d",
+                    "title": "Ave Maria",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51978c4c-711c-4db1-93a3-ec772ca18840",
+                "direction": "backward",
+                "recording": {
+                    "id": "51978c4c-711c-4db1-93a3-ec772ca18840",
+                    "title": "Ave Maria"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a384f258-0065-45fa-b9de-5bcb596d3d0a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a384f258-0065-45fa-b9de-5bcb596d3d0a",
+                    "title": "Ave Maria",
+                    "length": "258000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f5b23d8-4a7a-4286-b16c-849f4fd2cd89",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f5b23d8-4a7a-4286-b16c-849f4fd2cd89",
+                    "title": "Ave Maria",
+                    "length": "244480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c883c371-eb9e-4331-9cf0-7da3e1c622de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c883c371-eb9e-4331-9cf0-7da3e1c622de",
+                    "title": "Ave Maria",
+                    "length": "226998"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef89b3e9-7503-4789-93d3-e4b2d3d0ed8c",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef89b3e9-7503-4789-93d3-e4b2d3d0ed8c",
+                    "title": "Ave Maria",
+                    "length": "290000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfa52cdb-e61c-4dd8-8a68-3da8c9b9656a",
+                "direction": "backward",
+                "recording": {
+                    "id": "cfa52cdb-e61c-4dd8-8a68-3da8c9b9656a",
+                    "title": "Ave Maria",
+                    "length": "328000",
+                    "disambiguation": "arr. Sabatini"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43a44c83-003e-4038-bcc2-f451f8f73d9a",
+                "direction": "backward",
+                "recording": {
+                    "id": "43a44c83-003e-4038-bcc2-f451f8f73d9a",
+                    "title": "Ave Maria",
+                    "length": "490906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15b545eb-b099-4747-b4c9-1a54c9b745c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "15b545eb-b099-4747-b4c9-1a54c9b745c6",
+                    "title": "Ave Maria",
+                    "length": "352360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d35e2f05-8c46-4a09-8f6d-92a669892e26",
+                "direction": "backward",
+                "recording": {
+                    "id": "d35e2f05-8c46-4a09-8f6d-92a669892e26",
+                    "title": "Ave Maria",
+                    "length": "254600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1846c82-65dc-495d-bc77-2669d4cab214",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1846c82-65dc-495d-bc77-2669d4cab214",
+                    "title": "Ave Maria",
+                    "length": "330893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fca44ee4-da99-44af-b0bf-81d4b9f21e23",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fca44ee4-da99-44af-b0bf-81d4b9f21e23",
+                    "title": "Ave Maria",
+                    "length": "182253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "932d641e-2961-4b2a-b219-bb237b8d10d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "932d641e-2961-4b2a-b219-bb237b8d10d3",
+                    "title": "Ave Maria",
+                    "length": "206466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a41c4a59-db13-4f9d-aa8d-41db814cfec0",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a41c4a59-db13-4f9d-aa8d-41db814cfec0",
+                    "title": "Ave Maria",
+                    "length": "309000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44228467-93f1-4457-83ba-e2a79ca33b8b",
+                "direction": "backward",
+                "recording": {
+                    "id": "44228467-93f1-4457-83ba-e2a79ca33b8b",
+                    "title": "Ave Maria",
+                    "length": "301360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8058ccef-480c-4155-8446-417414c552e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "8058ccef-480c-4155-8446-417414c552e7",
+                    "title": "Ave Maria",
+                    "length": "105920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64090126-a69e-40e1-9474-c9a0229a1829",
+                "direction": "backward",
+                "recording": {
+                    "id": "64090126-a69e-40e1-9474-c9a0229a1829",
+                    "title": "Ave Maria",
+                    "length": "268000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02900551-b584-44ca-8f88-5c819dff4af3",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "02900551-b584-44ca-8f88-5c819dff4af3",
+                    "title": "Ave Maria",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "366fc1e6-8415-4c21-92c7-2bee703de52c",
+                "direction": "backward",
+                "recording": {
+                    "id": "366fc1e6-8415-4c21-92c7-2bee703de52c",
+                    "title": "Ave Maria",
+                    "length": "121920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "121582be-b24c-4759-bc68-2a8dee5b8880",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "121582be-b24c-4759-bc68-2a8dee5b8880",
+                    "title": "Ave Maria",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f25014e6-f1f5-4cc7-93c5-c622db53fef7",
+                "direction": "backward",
+                "recording": {
+                    "id": "f25014e6-f1f5-4cc7-93c5-c622db53fef7",
+                    "title": "Ave Maria",
+                    "length": "343093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23a0d032-521f-4dda-8c6a-6a06a9780190",
+                "direction": "backward",
+                "recording": {
+                    "id": "23a0d032-521f-4dda-8c6a-6a06a9780190",
+                    "title": "Ave Maria",
+                    "length": "148093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9530f924-a77b-4e6e-a17e-dd2373f7597f",
+                "direction": "backward",
+                "recording": {
+                    "id": "9530f924-a77b-4e6e-a17e-dd2373f7597f",
+                    "title": "Ave Maria",
+                    "length": "408000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1063ce3-1a29-4f4c-a542-6912054690cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1063ce3-1a29-4f4c-a542-6912054690cf",
+                    "title": "Ave Maria",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5336ae61-00c3-4d75-bff0-93d6a1d657bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5336ae61-00c3-4d75-bff0-93d6a1d657bf",
+                    "title": "Ave Maria",
+                    "length": "232800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec9a0b60-e62a-4d21-a0c0-a417f50e79aa",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec9a0b60-e62a-4d21-a0c0-a417f50e79aa",
+                    "title": "Ave Maria",
+                    "length": "325160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8582084d-8e75-4392-bd19-d359b903d668",
+                "direction": "backward",
+                "recording": {
+                    "id": "8582084d-8e75-4392-bd19-d359b903d668",
+                    "title": "Ave Maria",
+                    "length": "269933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "172b93bb-ed61-4e5d-964b-e3dcc9c251a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "172b93bb-ed61-4e5d-964b-e3dcc9c251a1",
+                    "title": "Ave Maria \u2010Flying Chickens\u2010",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a222f4d3-c58d-4fab-93d2-b6334f0fea4b",
+                "direction": "backward",
+                "recording": {
+                    "id": "a222f4d3-c58d-4fab-93d2-b6334f0fea4b",
+                    "title": "Ave Maria (\u201eEllens Gesang III\u201c, Op. 52/6, D 839)",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "499d5841-301a-4412-8610-ebe0b47832ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "499d5841-301a-4412-8610-ebe0b47832ec",
+                    "title": "Ave Maria (arr. Schubert)",
+                    "length": "179800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6cf2d0d-219e-4e08-9baf-196faabcd69b",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6cf2d0d-219e-4e08-9baf-196faabcd69b",
+                    "title": "Ave Maria (doppelpedalharfe)",
+                    "length": "388066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3081aff2-102d-4bf6-87d3-cf52cee6bfcc",
+                "direction": "backward",
+                "recording": {
+                    "id": "3081aff2-102d-4bf6-87d3-cf52cee6bfcc",
+                    "title": "Ave Maria (Ellens Gesang III, D. 839)",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3679db7c-0736-4242-9ff0-65860d684d14",
+                "direction": "backward",
+                "recording": {
+                    "id": "3679db7c-0736-4242-9ff0-65860d684d14",
+                    "title": "Ave Maria (Ellens Gesang III)",
+                    "length": "343266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63587064-743a-4386-8aad-df7f708246b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "63587064-743a-4386-8aad-df7f708246b7",
+                    "title": "Ave Maria (Ellens Gesang III), D. 839",
+                    "length": "277573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c6ad82c-db0b-494c-895d-f96b80f7a325",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c6ad82c-db0b-494c-895d-f96b80f7a325",
+                    "title": "Ave Maria (Ellens Gesang)",
+                    "length": "405506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40a179d8-6ed2-4866-adfd-dff816720061",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "40a179d8-6ed2-4866-adfd-dff816720061",
+                    "title": "Ave Maria (Franz Schubert)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff6dd3e9-13c6-4867-9427-5a7be5eae9c5",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff6dd3e9-13c6-4867-9427-5a7be5eae9c5",
+                    "title": "Ave Maria (Schubert)",
+                    "length": "292000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e37b9bf8-a1d9-4823-af80-4d1a5fafac55",
+                "direction": "backward",
+                "recording": {
+                    "id": "e37b9bf8-a1d9-4823-af80-4d1a5fafac55",
+                    "title": "Ave Maria (Schubert)",
+                    "length": "292226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0257866b-6317-4e77-bb83-5fef19fa00e8",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0257866b-6317-4e77-bb83-5fef19fa00e8",
+                    "title": "Ave Maria as Played by Kathy Geiss at the Cryogenic Freezing of Her Father / Blind Love",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9977833-79d7-4d7b-bf6a-2ef62041cba3",
+                "direction": "backward",
+                "recording": {
+                    "id": "c9977833-79d7-4d7b-bf6a-2ef62041cba3",
+                    "title": "Ave Maria D 839",
+                    "length": "319333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a234655-8e60-4cac-916b-e736e498f510",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a234655-8e60-4cac-916b-e736e498f510",
+                    "title": "Ave Maria D.839",
+                    "length": "291000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9459415c-52dd-498d-9eed-80d3a98768ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "9459415c-52dd-498d-9eed-80d3a98768ae",
+                    "title": "Ave Maria D839 (Ellen's Third Song From the Lady of the Lake)",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6c36fe7-262c-4a74-86b4-b09f22e98174",
+                "direction": "backward",
+                "recording": {
+                    "id": "b6c36fe7-262c-4a74-86b4-b09f22e98174",
+                    "title": "Ave Maria in A Major",
+                    "length": "236826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6c36fe7-262c-4a74-86b4-b09f22e98174",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b6c36fe7-262c-4a74-86b4-b09f22e98174",
+                    "title": "Ave Maria in A Major",
+                    "length": "236826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6700e156-7bdb-4d15-99e1-1f15dee31422",
+                "direction": "backward",
+                "recording": {
+                    "id": "6700e156-7bdb-4d15-99e1-1f15dee31422",
+                    "title": "Ave Maria, \"Ellens Gesang III\", D839 - Elly Ameling 7. - Ave Maria, \"Ellens Gesang III\", D839",
+                    "length": "344000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3025a162-a958-4249-a27e-3e0822352cf5",
+                "direction": "backward",
+                "recording": {
+                    "id": "3025a162-a958-4249-a27e-3e0822352cf5",
+                    "title": "Ave Maria, \u201cEllens Gesang III\u201d, D839",
+                    "length": "335000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61136120-ee1f-4248-b3e2-8b3492e3d364",
+                "direction": "backward",
+                "recording": {
+                    "id": "61136120-ee1f-4248-b3e2-8b3492e3d364",
+                    "title": "Ave Maria, \u201cEllens Gesang III\u201d, Op. 52 No. 6, D. 839",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "501a1928-e58b-4030-b75b-8a2f9f141143",
+                "direction": "backward",
+                "recording": {
+                    "id": "501a1928-e58b-4030-b75b-8a2f9f141143",
+                    "title": "Ave Maria, \u201eEllens Gesang III\u201c, D839",
+                    "length": "286000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ba9c5d9-f719-4454-a289-6a18295bce53",
+                "direction": "backward",
+                "recording": {
+                    "id": "9ba9c5d9-f719-4454-a289-6a18295bce53",
+                    "title": "Ave Maria, D 839",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a59ff54-269c-477b-8e37-5c3afb54e59a",
+                "direction": "backward",
+                "recording": {
+                    "id": "3a59ff54-269c-477b-8e37-5c3afb54e59a",
+                    "title": "Ave Maria, D. 839",
+                    "length": "339266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf68278e-b5b6-4c60-838b-5c8118d930a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf68278e-b5b6-4c60-838b-5c8118d930a1",
+                    "title": "Ave Maria, D. 839",
+                    "length": "405000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b22deea4-abbf-43dc-a73a-02dee49b21c4",
+                "direction": "backward",
+                "recording": {
+                    "id": "b22deea4-abbf-43dc-a73a-02dee49b21c4",
+                    "title": "Ave Maria, D. 839",
+                    "length": "375866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0057450d-5cf1-4425-80a3-d4070202d161",
+                "direction": "backward",
+                "recording": {
+                    "id": "0057450d-5cf1-4425-80a3-d4070202d161",
+                    "title": "Ave Maria, D. 839",
+                    "length": "414560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f7d143c-bf7d-4186-ab46-e2c305ca57d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f7d143c-bf7d-4186-ab46-e2c305ca57d6",
+                    "title": "Ave Maria, D. 839",
+                    "length": "238040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bec466f-75e0-4312-8d8b-15f994bc8450",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bec466f-75e0-4312-8d8b-15f994bc8450",
+                    "title": "Ave Maria, D. 839",
+                    "length": "234000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a401106-2d1c-4364-a307-260fd24f1e90",
+                "direction": "backward",
+                "recording": {
+                    "id": "9a401106-2d1c-4364-a307-260fd24f1e90",
+                    "title": "Ave Maria, D. 839",
+                    "length": "377733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8800368-b4a4-46be-9c67-d0422a377066",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a8800368-b4a4-46be-9c67-d0422a377066",
+                    "title": "Ave Maria, D. 839 (live)",
+                    "length": "241000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2dceae9-39f4-4cc3-8bfd-d92131693767",
+                "direction": "backward",
+                "recording": {
+                    "id": "f2dceae9-39f4-4cc3-8bfd-d92131693767",
+                    "title": "Ave Maria, D. 839, \"Ellens Gesang III\": \"Ave Maria, Jungfrau mild!\" (Sehr langsam)",
+                    "length": "403706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e89b093-eb33-477c-ae27-08da0a930c1d",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e89b093-eb33-477c-ae27-08da0a930c1d",
+                    "title": "Ave Maria, D.839",
+                    "length": "335000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a219882b-d6c3-44b8-8b01-97c4ee47475a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a219882b-d6c3-44b8-8b01-97c4ee47475a",
+                    "title": "Ave Maria, op. 52 no. 6",
+                    "length": "484073"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92b87144-78a1-476c-bb85-8af35fd885aa",
+                "direction": "backward",
+                "recording": {
+                    "id": "92b87144-78a1-476c-bb85-8af35fd885aa",
+                    "title": "Ave Maria, Op. 52:6",
+                    "length": "218000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb4ef3f3-3fa7-4051-82bf-fcef17d65936",
+                "direction": "backward",
+                "recording": {
+                    "id": "eb4ef3f3-3fa7-4051-82bf-fcef17d65936",
+                    "title": "Ave Maria! Jungfrau Mild!",
+                    "length": "185333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5078ce10-9499-445b-80b1-b3b286f08326",
+                "direction": "backward",
+                "recording": {
+                    "id": "5078ce10-9499-445b-80b1-b3b286f08326",
+                    "title": "Ellen's Chants, D. 839, Op. 56,2: III. Ave Maria",
+                    "length": "358000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93d4bf6c-ae37-492f-ac96-7582695d7191",
+                "direction": "backward",
+                "recording": {
+                    "id": "93d4bf6c-ae37-492f-ac96-7582695d7191",
+                    "title": "Ellens Gesang III - Ave Maria, D.839",
+                    "length": "402000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9cf6a89-a64c-4260-8af7-9739bf34d5d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a9cf6a89-a64c-4260-8af7-9739bf34d5d6",
+                    "title": "Ellens Gesang III \"Ave Maria\", D. 839",
+                    "length": "402893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ccb240e-e160-40e9-88ec-2f866e5b5b35",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ccb240e-e160-40e9-88ec-2f866e5b5b35",
+                    "title": "Ellens Gesang III (\"Ave Maria\"), D. 839",
+                    "length": "409000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "463d28c4-9ae2-4ee5-909c-d81bafce022e",
+                "direction": "backward",
+                "recording": {
+                    "id": "463d28c4-9ae2-4ee5-909c-d81bafce022e",
+                    "title": "Ellens Gesang III (\"Ave Maria\"), D. 839 (op. 52/6)",
+                    "length": "267560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "698fda30-13f2-49f2-8f52-e5b0b24786bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "698fda30-13f2-49f2-8f52-e5b0b24786bf",
+                    "title": "Ellens Gesang III (\"Ave Maria\"), song for voice & piano, D. 839 (Op. 52/6)",
+                    "length": "355000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef93b0ed-a8fc-4a70-a8d3-ccc01555a28f",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef93b0ed-a8fc-4a70-a8d3-ccc01555a28f",
+                    "title": "Ellens Gesang III (Ave Maria), D. 839",
+                    "length": "397693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d98f0a2a-0093-41f1-8501-c1ff5f056916",
+                "direction": "backward",
+                "recording": {
+                    "id": "d98f0a2a-0093-41f1-8501-c1ff5f056916",
+                    "title": "Ellens Gesang III, D839",
+                    "length": "466000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05cc7899-4913-41ee-b580-3927065eddbe",
+                "direction": "backward",
+                "recording": {
+                    "id": "05cc7899-4913-41ee-b580-3927065eddbe",
+                    "title": "Ellens Gesang III, op. 52 no. 6, D. 839 \"Ave Maria\"",
+                    "length": "297000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c62167d-b585-4b1b-8921-112387308054",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c62167d-b585-4b1b-8921-112387308054",
+                    "title": "Ellens Gesang III: Hymne an die Jungfrau, D 839",
+                    "length": "345040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "232c6d34-6b0e-496c-8eee-9de899e185ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "232c6d34-6b0e-496c-8eee-9de899e185ec",
+                    "title": "Ellens Gesang, D. 839 Op. 52/6: Act III. Hymne \"Ave Maria\" (Andie Jungfrau)",
+                    "length": "287693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "395c3dac-1504-4ad4-997d-77031d41ff1a",
+                "direction": "backward",
+                "recording": {
+                    "id": "395c3dac-1504-4ad4-997d-77031d41ff1a",
+                    "title": "Franz Schubert - Ave Maria",
+                    "length": "266693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "029299ad-8fb8-45c8-bc7d-32d380d87039",
+                "direction": "backward",
+                "recording": {
+                    "id": "029299ad-8fb8-45c8-bc7d-32d380d87039",
+                    "title": "Messe solennelle de Sainte C\u00e9cile: V. Sanctus",
+                    "length": "367106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df6dfcd9-e9f6-4fa9-8505-83631a50f8ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "df6dfcd9-e9f6-4fa9-8505-83631a50f8ec",
+                    "title": "\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2 D.839",
+                    "length": "261133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56faf1ed-1c78-4159-bc75-60a3dc145971",
+                "direction": "backward",
+                "ended": "true",
+                "recording": {
+                    "id": "56faf1ed-1c78-4159-bc75-60a3dc145971",
+                    "title": "Ave Maria",
+                    "length": "406000"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "652",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 839",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002355706",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Ave_Maria,_D.839_(Schubert,_Franz)",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1331995",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "0d66e574-618e-4123-98e9-b62e3ba98e5a",
+                "direction": "forward",
+                "work": {
+                    "id": "0d66e574-618e-4123-98e9-b62e3ba98e5a",
+                    "title": "Ave Maria",
+                    "language": "zxx",
+                    "disambiguation": "for violin and piano, arr. Wilhelmj"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "95eed349-a70e-44df-ac97-dec17890e827",
+                "direction": "forward",
+                "work": {
+                    "id": "95eed349-a70e-44df-ac97-dec17890e827",
+                    "title": "Ellens dritter Gesang (Ave Maria), S. 558 Nr. 12",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt, second version"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "f2627854-978e-4e6b-81d8-2fc6ebe409e7",
+                "direction": "forward",
+                "work": {
+                    "id": "f2627854-978e-4e6b-81d8-2fc6ebe409e7",
+                    "title": "Ave Maria (Ellens dritter Gesang), S. 557d",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt, first version"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "6588ecd2-046a-4e03-a751-1369ffc759a2",
+                "direction": "forward",
+                "work": {
+                    "id": "6588ecd2-046a-4e03-a751-1369ffc759a2",
+                    "title": "Ellens Gesang III, op. 52 no. 6, D. 839 \u201cAve Maria\u201d",
+                    "disambiguation": "catch-all for arrangements"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "d35f9c1a-f25b-4560-b39e-76292a2e1cf2",
+                "direction": "forward",
+                "work": {
+                    "id": "d35f9c1a-f25b-4560-b39e-76292a2e1cf2",
+                    "title": "Ave Maria",
+                    "language": "zxx",
+                    "iswc": "T-900.138.933-9",
+                    "iswc-list": [
+                        "T-900.138.933-9"
+                    ],
+                    "disambiguation": "for piano, Tilling"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "3e5734b8-85b7-401e-b229-d8b24d487a90",
+                "direction": "forward",
+                "work": {
+                    "id": "3e5734b8-85b7-401e-b229-d8b24d487a90",
+                    "title": "Ave Maria",
+                    "language": "zxx",
+                    "disambiguation": "for handbell ensemble"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "73dd7709-bac3-4849-8bec-1e71bf420aff",
+                "direction": "forward",
+                "work": {
+                    "id": "73dd7709-bac3-4849-8bec-1e71bf420aff",
+                    "type": "Song",
+                    "title": "Ave Mar\u00eda",
+                    "language": "ita",
+                    "iswc": "T-800.330.882-6",
+                    "iswc-list": [
+                        "T-800.330.882-6"
+                    ],
+                    "disambiguation": "Pallavicini's text"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "db4a2787-99b5-47c0-bbb6-f7aa744c5b22",
+                "direction": "forward",
+                "work": {
+                    "id": "db4a2787-99b5-47c0-bbb6-f7aa744c5b22",
+                    "type": "Song",
+                    "title": "\u661f\u3081\u3050\u308a\u301cAve Maria",
+                    "language": "jpn",
+                    "iswc": "T-101.121.607-0",
+                    "iswc-list": [
+                        "T-101.121.607-0"
+                    ]
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "ccb53c48-cf44-43eb-8d77-67bae626899e",
+                "direction": "forward",
+                "work": {
+                    "id": "ccb53c48-cf44-43eb-8d77-67bae626899e",
+                    "type": "Song",
+                    "title": "Ave Maria 2001",
+                    "language": "jpn"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "05312cc3-57db-44b0-945c-270c775767ba",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "05312cc3-57db-44b0-945c-270c775767ba",
+                    "type": "Song",
+                    "title": "Ave Maria",
+                    "language": "eng",
+                    "disambiguation": "Schubert's, in English, from \"Fantasia\""
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "d804fb78-ae0a-4243-99e7-318472d87135",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "d804fb78-ae0a-4243-99e7-318472d87135",
+                    "type": "Song",
+                    "title": "\u30a2\u30f4\u30a7\u30fb\u30de\u30ea\u30a2",
+                    "language": "jpn"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "2354fdf6-4c35-38b3-9190-b0d853c8a115",
+                "direction": "forward",
+                "work": {
+                    "id": "2354fdf6-4c35-38b3-9190-b0d853c8a115",
+                    "type": "Song",
+                    "title": "Heavenly Father",
+                    "language": "eng"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "aafd24ab-d4b4-4dd9-bc7a-9ec566c388e3",
+                "direction": "forward",
+                "work": {
+                    "id": "aafd24ab-d4b4-4dd9-bc7a-9ec566c388e3",
+                    "type": "Song",
+                    "title": "Ave Maria",
+                    "language": "eng",
+                    "disambiguation": "arr. Ann and Nancy Wilson"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "c85bfcf8-41ac-43fb-a50d-8f28e6ad48f4",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "c85bfcf8-41ac-43fb-a50d-8f28e6ad48f4",
+                    "type": "Song",
+                    "title": "Ave Maria",
+                    "language": "fra",
+                    "disambiguation": "Schubert; with french lyrics"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "718b96fa-75eb-436e-8c30-0c647aa99696",
+                "direction": "forward",
+                "work": {
+                    "id": "718b96fa-75eb-436e-8c30-0c647aa99696",
+                    "type": "Song",
+                    "title": "Ave Maria",
+                    "language": "lat",
+                    "disambiguation": "Schubert\u2019s Ave Maria: Latin \u201cAve Maria\u201d text sung to the tune of \u2018Ellens Gesang III, op. 52 no. 6, D. 839 \u201cAve Maria\u201d\u2019"
+                }
+            }
+        ],
+        "tag-list": [
+            {
+                "count": "1",
+                "name": "classical"
+            },
+            {
+                "count": "1",
+                "name": "vocal music"
+            }
+        ]
+    }
+}

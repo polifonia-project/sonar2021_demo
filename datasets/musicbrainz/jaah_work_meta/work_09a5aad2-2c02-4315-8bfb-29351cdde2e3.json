@@ -1,0 +1,591 @@
+{
+    "work": {
+        "id": "09a5aad2-2c02-4315-8bfb-29351cdde2e3",
+        "type": "Song",
+        "title": "Boplicity",
+        "iswc": "T-070.233.104-1",
+        "iswc-list": [
+            "T-070.233.104-1"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+                "direction": "backward",
+                "artist": {
+                    "id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+                    "type": "Person",
+                    "name": "Gil Evans",
+                    "sort-name": "Evans, Gil"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "8dddb806-0971-4968-ac1d-68340402cd94",
+                "direction": "backward",
+                "artist": {
+                    "id": "8dddb806-0971-4968-ac1d-68340402cd94",
+                    "type": "Person",
+                    "name": "Cleo Henry",
+                    "sort-name": "Henry, Cleo"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a0682200-833a-444b-9606-c428a6b86ec1",
+                "direction": "backward",
+                "label": {
+                    "id": "a0682200-833a-444b-9606-c428a6b86ec1",
+                    "type": "Publisher",
+                    "name": "Sophisticated Music",
+                    "sort-name": "Sophisticated Music"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "242a39de-944d-4fc2-b5ec-1ae4733aa103",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "recording": {
+                    "id": "242a39de-944d-4fc2-b5ec-1ae4733aa103",
+                    "title": "Boplicity",
+                    "length": "181400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f57783f-33c7-4585-a9ea-cff09bc5f7c1",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "recording": {
+                    "id": "2f57783f-33c7-4585-a9ea-cff09bc5f7c1",
+                    "title": "Boplicity",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75711684-1e71-4c0f-8070-89a82520552e",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "recording": {
+                    "id": "75711684-1e71-4c0f-8070-89a82520552e",
+                    "title": "Boplicity",
+                    "length": "183000",
+                    "disambiguation": "matrix no. 3766-2E"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b7a0147-27f3-413b-9ca6-f9a14fe6f090",
+                "direction": "backward",
+                "begin": "1963-07-07",
+                "end": "1963-07-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6b7a0147-27f3-413b-9ca6-f9a14fe6f090",
+                    "title": "Boplicity",
+                    "length": "233000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27c2ec65-0e4f-441f-985c-1bff28a85d0c",
+                "direction": "backward",
+                "begin": "1989-08",
+                "end": "1989-08",
+                "ended": "true",
+                "recording": {
+                    "id": "27c2ec65-0e4f-441f-985c-1bff28a85d0c",
+                    "title": "Boplicity",
+                    "length": "322000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55865013-5a9a-40ba-8da9-db4124808a81",
+                "direction": "backward",
+                "begin": "1991-07-08",
+                "end": "1991-07-08",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "55865013-5a9a-40ba-8da9-db4124808a81",
+                    "title": "Boplicity",
+                    "length": "220200",
+                    "disambiguation": "live, 1991-07-08: Montreux Casino, Montreux, Vaud, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16841ace-ba03-4b67-93c7-23509d4567e0",
+                "direction": "backward",
+                "begin": "1991-07-08",
+                "end": "1991-07-08",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "16841ace-ba03-4b67-93c7-23509d4567e0",
+                    "title": "Boplicity",
+                    "length": "220453",
+                    "disambiguation": "live, 1991-07-08: Montreux Jazz Festival, Casino de Montreux, Montreux, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b699283-5ba0-4363-b954-efe91bc64a2b",
+                "direction": "backward",
+                "begin": "1994-03",
+                "end": "1994-03",
+                "ended": "true",
+                "recording": {
+                    "id": "6b699283-5ba0-4363-b954-efe91bc64a2b",
+                    "title": "Boplicity",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f548ac3a-af46-4595-bb3c-6e0ee9641689",
+                "direction": "backward",
+                "begin": "1994-09",
+                "end": "1994-09",
+                "ended": "true",
+                "recording": {
+                    "id": "f548ac3a-af46-4595-bb3c-6e0ee9641689",
+                    "title": "Boplicity",
+                    "length": "196000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca80e52a-2f2d-49b6-9a87-52d25e49cb0b",
+                "direction": "backward",
+                "recording": {
+                    "id": "ca80e52a-2f2d-49b6-9a87-52d25e49cb0b",
+                    "title": "Boplicity",
+                    "length": "181773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a392fa9-fa95-4065-9d90-e171fef6fee2",
+                "direction": "backward",
+                "recording": {
+                    "id": "0a392fa9-fa95-4065-9d90-e171fef6fee2",
+                    "title": "Boplicity",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7074081c-eb95-4c94-8b37-de8d12d0c182",
+                "direction": "backward",
+                "recording": {
+                    "id": "7074081c-eb95-4c94-8b37-de8d12d0c182",
+                    "title": "Boplicity",
+                    "length": "181306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29ea19d7-10fe-4cce-85f3-625fae7147bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "29ea19d7-10fe-4cce-85f3-625fae7147bd",
+                    "title": "Boplicity",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb0e0cd8-d242-471f-a526-057cc3e7d1f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "bb0e0cd8-d242-471f-a526-057cc3e7d1f0",
+                    "title": "Boplicity",
+                    "length": "181373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a70b7b66-5bf8-46d8-847e-e28c70041254",
+                "direction": "backward",
+                "recording": {
+                    "id": "a70b7b66-5bf8-46d8-847e-e28c70041254",
+                    "title": "Boplicity",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff80d2f2-634a-4756-a719-b68338ef22ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff80d2f2-634a-4756-a719-b68338ef22ab",
+                    "title": "Boplicity",
+                    "length": "180746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c9eda08-c2ab-42f6-b4ef-8e2219810835",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c9eda08-c2ab-42f6-b4ef-8e2219810835",
+                    "title": "Boplicity",
+                    "length": "180573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4113e941-0bcc-4ee4-94f4-5f4597f208d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "4113e941-0bcc-4ee4-94f4-5f4597f208d2",
+                    "title": "Boplicity",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf45e38e-f723-4f88-a81d-6e08411d2faa",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf45e38e-f723-4f88-a81d-6e08411d2faa",
+                    "title": "Boplicity",
+                    "length": "180853"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ee9bd47-9d28-4679-8286-c680d838e8d3",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ee9bd47-9d28-4679-8286-c680d838e8d3",
+                    "title": "Boplicity",
+                    "length": "182040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af272e67-199a-4741-a2d3-c31933edfae2",
+                "direction": "backward",
+                "recording": {
+                    "id": "af272e67-199a-4741-a2d3-c31933edfae2",
+                    "title": "Boplicity",
+                    "length": "181186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a71fbe37-1aa0-471a-b776-04b429da793c",
+                "direction": "backward",
+                "recording": {
+                    "id": "a71fbe37-1aa0-471a-b776-04b429da793c",
+                    "title": "Boplicity",
+                    "length": "183226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "317cba06-877e-4ed6-8d24-a05c3369dfd0",
+                "direction": "backward",
+                "recording": {
+                    "id": "317cba06-877e-4ed6-8d24-a05c3369dfd0",
+                    "title": "Boplicity",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4275dbdc-296c-49cf-abe4-ebd4418ffc32",
+                "direction": "backward",
+                "recording": {
+                    "id": "4275dbdc-296c-49cf-abe4-ebd4418ffc32",
+                    "title": "Boplicity",
+                    "length": "180693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0a574ee-7aac-47e5-9faf-6d89b973c070",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0a574ee-7aac-47e5-9faf-6d89b973c070",
+                    "title": "Boplicity",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0c35153-5652-4bcf-88f8-8166a717a4ce",
+                "direction": "backward",
+                "recording": {
+                    "id": "f0c35153-5652-4bcf-88f8-8166a717a4ce",
+                    "title": "Boplicity",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62f6ac99-4cad-4604-8cb9-389f6422a667",
+                "direction": "backward",
+                "recording": {
+                    "id": "62f6ac99-4cad-4604-8cb9-389f6422a667",
+                    "title": "Boplicity"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1559fdd2-474c-4de1-b626-259c18f7d22b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1559fdd2-474c-4de1-b626-259c18f7d22b",
+                    "title": "Boplicity",
+                    "length": "258133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1fb2288e-d915-4223-89b3-3786f353f4b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "1fb2288e-d915-4223-89b3-3786f353f4b9",
+                    "title": "Boplicity",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d158e86e-8e96-4460-bb32-fdd125c6c140",
+                "direction": "backward",
+                "recording": {
+                    "id": "d158e86e-8e96-4460-bb32-fdd125c6c140",
+                    "title": "Boplicity",
+                    "length": "181706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed87aa24-8f70-4dc7-b471-a5cd0a0327f8",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed87aa24-8f70-4dc7-b471-a5cd0a0327f8",
+                    "title": "Boplicity",
+                    "length": "182706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3eb3563c-3322-40b2-ac3d-3e310723f462",
+                "direction": "backward",
+                "recording": {
+                    "id": "3eb3563c-3322-40b2-ac3d-3e310723f462",
+                    "title": "Boplicity",
+                    "length": "179186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "711e089b-ebc7-472f-85fd-ce6b568d1651",
+                "direction": "backward",
+                "recording": {
+                    "id": "711e089b-ebc7-472f-85fd-ce6b568d1651",
+                    "title": "Boplicity",
+                    "length": "181838"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f81823e-b072-4155-b42a-b9c13153201c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f81823e-b072-4155-b42a-b9c13153201c",
+                    "title": "Boplicity",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bad4e25d-e757-43a1-9f2c-61011eda159b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bad4e25d-e757-43a1-9f2c-61011eda159b",
+                    "title": "Boplicity"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb6a8c78-66ee-46b4-b021-38a4d3979113",
+                "direction": "backward",
+                "recording": {
+                    "id": "bb6a8c78-66ee-46b4-b021-38a4d3979113",
+                    "title": "Boplicity",
+                    "length": "181640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16bed91d-93f6-4ba0-b3b9-bd5df44b3077",
+                "direction": "backward",
+                "recording": {
+                    "id": "16bed91d-93f6-4ba0-b3b9-bd5df44b3077",
+                    "title": "Boplicity",
+                    "length": "180626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc37e6c2-ba46-464a-a800-70f0d7db0f40",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc37e6c2-ba46-464a-a800-70f0d7db0f40",
+                    "title": "Boplicity 2",
+                    "length": "182413"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28040909-da17-46d2-a2db-9f5b53f8757c",
+                "direction": "backward",
+                "recording": {
+                    "id": "28040909-da17-46d2-a2db-9f5b53f8757c",
+                    "title": "Bopplicity"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee9de551-f707-4579-be72-0d331d1d63c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee9de551-f707-4579-be72-0d331d1d63c3",
+                    "title": "Bopplicity",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bcf7853b-d2dd-456a-ad64-3935f76988d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "bcf7853b-d2dd-456a-ad64-3935f76988d4",
+                    "title": "Bopplicity",
+                    "length": "179000"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "9ce04b93-90c4-43ec-9db8-e311fd786bc1",
+                "direction": "forward",
+                "work": {
+                    "id": "9ce04b93-90c4-43ec-9db8-e311fd786bc1",
+                    "type": "Song",
+                    "title": "Boplicity",
+                    "language": "qaa",
+                    "disambiguation": "vocalese version, lyrics by Mimi Perrin"
+                }
+            }
+        ]
+    }
+}

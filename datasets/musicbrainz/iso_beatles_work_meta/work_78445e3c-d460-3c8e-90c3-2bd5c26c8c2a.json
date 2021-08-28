@@ -1,0 +1,692 @@
+{
+    "work": {
+        "id": "78445e3c-d460-3c8e-90c3-2bd5c26c8c2a",
+        "type": "Song",
+        "title": "Doctor Robert",
+        "language": "eng",
+        "iswc": "T-010.436.104-7",
+        "iswc-list": [
+            "T-010.436.104-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000087 224 97"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "3357"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12104161"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100098100"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "60.575"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357920"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357920"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "214726"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3975449"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009874754"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "62 723 131 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014374800"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "32623Z"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633345-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "73315"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617892"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965841"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000023293"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "340112710"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02696221"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9334506"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243509"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "9651601"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6352787"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "313638"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0344f2a1-e31f-4713-9ed3-36e37129d473",
+                "direction": "backward",
+                "begin": "1966-04-17",
+                "end": "1966-04-19",
+                "ended": "true",
+                "recording": {
+                    "id": "0344f2a1-e31f-4713-9ed3-36e37129d473",
+                    "title": "Doctor Robert",
+                    "length": "134000",
+                    "disambiguation": "Yesterday and Today Mono"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59e6487b-6c90-4e2a-82db-2e6a75afdb7e",
+                "direction": "backward",
+                "begin": "1966-04-17",
+                "end": "1966-04-19",
+                "ended": "true",
+                "recording": {
+                    "id": "59e6487b-6c90-4e2a-82db-2e6a75afdb7e",
+                    "title": "Doctor Robert",
+                    "length": "135200",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9de5674f-db98-49d0-bc7a-d5ce048b0966",
+                "direction": "backward",
+                "begin": "1966-04-17",
+                "end": "1966-04-19",
+                "ended": "true",
+                "recording": {
+                    "id": "9de5674f-db98-49d0-bc7a-d5ce048b0966",
+                    "title": "Doctor Robert",
+                    "length": "137000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3dae64e-3638-47b4-8a97-461966cbdd29",
+                "direction": "backward",
+                "begin": "1966-04-17",
+                "end": "1966-04-19",
+                "ended": "true",
+                "recording": {
+                    "id": "e3dae64e-3638-47b4-8a97-461966cbdd29",
+                    "title": "Doctor Robert (stereo)",
+                    "length": "136000",
+                    "disambiguation": "Mock Stereo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb8d9cf2-a5c7-4dd4-a188-139c485d5d5f",
+                "direction": "backward",
+                "begin": "1978",
+                "end": "1978",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cb8d9cf2-a5c7-4dd4-a188-139c485d5d5f",
+                    "title": "Dr Robert (live)",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "217d9fef-62f2-4fbb-9989-a9484ff97735",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "217d9fef-62f2-4fbb-9989-a9484ff97735",
+                    "title": "Doctor Robert",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4e548ff-d5c5-408f-9fdc-570d2050adeb",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4e548ff-d5c5-408f-9fdc-570d2050adeb",
+                    "title": "Doctor Robert"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c746263d-46ab-4bd8-9da5-ef859fc124d8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c746263d-46ab-4bd8-9da5-ef859fc124d8",
+                    "title": "Doctor Robert",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cdf8a3a-100c-4541-9d26-67ee8acd45dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8cdf8a3a-100c-4541-9d26-67ee8acd45dc",
+                    "title": "Doctor Robert",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78785913-5fe7-47e3-94da-9b9c30a62896",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "78785913-5fe7-47e3-94da-9b9c30a62896",
+                    "title": "Doctor Robert",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2dfa2df3-b91e-4298-a9c6-21c903139a9d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2dfa2df3-b91e-4298-a9c6-21c903139a9d",
+                    "title": "Doctor Robert",
+                    "length": "267000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b2966d5-1844-4c5d-8a9c-0e6c3d6ab189",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3b2966d5-1844-4c5d-8a9c-0e6c3d6ab189",
+                    "title": "Doctor Robert",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8dfa2ccd-c151-4bcb-a6e1-ea1b8cf1c145",
+                "direction": "backward",
+                "recording": {
+                    "id": "8dfa2ccd-c151-4bcb-a6e1-ea1b8cf1c145",
+                    "title": "Doctor Robert"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73d99550-051b-447d-8257-356c65931197",
+                "direction": "backward",
+                "recording": {
+                    "id": "73d99550-051b-447d-8257-356c65931197",
+                    "title": "Doctor Robert",
+                    "length": "134213"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18d3844b-e542-4665-b0c1-4a76b9e00434",
+                "direction": "backward",
+                "recording": {
+                    "id": "18d3844b-e542-4665-b0c1-4a76b9e00434",
+                    "title": "Doctor Robert",
+                    "length": "135293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6c39c8e-2311-491a-ba31-66b41d7016ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e6c39c8e-2311-491a-ba31-66b41d7016ad",
+                    "title": "Doctor Robert",
+                    "length": "221040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26bfbaff-31a4-4b95-b872-5a73122f44ba",
+                "direction": "backward",
+                "recording": {
+                    "id": "26bfbaff-31a4-4b95-b872-5a73122f44ba",
+                    "title": "Doctor Robert (alt mono mix)",
+                    "length": "137786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b22d0d2-9f5b-4545-a266-322e6b7ac34a",
+                "direction": "backward",
+                "recording": {
+                    "id": "3b22d0d2-9f5b-4545-a266-322e6b7ac34a",
+                    "title": "Doctor Robert (alt stereo mix)",
+                    "length": "135680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22108584-1fe9-4e36-813e-b3b79a2bb2f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "22108584-1fe9-4e36-813e-b3b79a2bb2f5",
+                    "title": "Doctor Robert (mono mix)",
+                    "length": "133520"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a53b6ba1-82ac-407e-ae43-477d4c34a09f",
+                "direction": "backward",
+                "recording": {
+                    "id": "a53b6ba1-82ac-407e-ae43-477d4c34a09f",
+                    "title": "Doctor Robert (mono)",
+                    "length": "134000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e619a067-a4cd-44ad-8706-23202ddeb7ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "e619a067-a4cd-44ad-8706-23202ddeb7ec",
+                    "title": "Doctor Robert (mono)",
+                    "length": "137706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b2b88fa-db24-4e55-8b67-2675a98ba689",
+                "direction": "backward",
+                "recording": {
+                    "id": "9b2b88fa-db24-4e55-8b67-2675a98ba689",
+                    "title": "Doctor Robert (RM6)",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab2aee9b-70ce-4006-9386-1214f4e580e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab2aee9b-70ce-4006-9386-1214f4e580e3",
+                    "title": "Doctor Robert (SI Onto Take 7 Harmonium)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "502fdb88-d1bf-4a88-857e-31cb23bfe4b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "502fdb88-d1bf-4a88-857e-31cb23bfe4b9",
+                    "title": "Doctor Robert (SI Onto Take 7 Lead Guitar & Vocals)",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d861c82-b31d-4c39-89a4-9df28893662e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d861c82-b31d-4c39-89a4-9df28893662e",
+                    "title": "Doctor Robert (Take 7 - Rhythm)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcc57d3a-3d04-4e8f-9f50-1d9fff4aac7c",
+                "direction": "backward",
+                "recording": {
+                    "id": "dcc57d3a-3d04-4e8f-9f50-1d9fff4aac7c",
+                    "title": "Doctor Robert (UK Stereo Mix)",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "038d3304-8e33-4c46-a850-4e698a482669",
+                "direction": "backward",
+                "recording": {
+                    "id": "038d3304-8e33-4c46-a850-4e698a482669",
+                    "title": "Doctor Robert (US duophonic mix)",
+                    "length": "132706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "734bbbc9-b690-4d44-840c-2f0c8640192c",
+                "direction": "backward",
+                "recording": {
+                    "id": "734bbbc9-b690-4d44-840c-2f0c8640192c",
+                    "title": "Doctor Robert (US mono mix)",
+                    "length": "134280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce9c6f50-769a-45b4-87c9-6f40102cd99e",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce9c6f50-769a-45b4-87c9-6f40102cd99e",
+                    "title": "Doctor Robert (US Mono Mix)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a21663e1-0593-4f5d-8805-5850827b78f1",
+                "direction": "backward",
+                "recording": {
+                    "id": "a21663e1-0593-4f5d-8805-5850827b78f1",
+                    "title": "Doctor Robert (US Stereo Mix)",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28d99b4d-9e90-431c-ad71-ae9f9f97e5ed",
+                "direction": "backward",
+                "recording": {
+                    "id": "28d99b4d-9e90-431c-ad71-ae9f9f97e5ed",
+                    "title": "Dr. Robert",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a692b34-beae-46c7-b3fe-93d95ded9061",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a692b34-beae-46c7-b3fe-93d95ded9061",
+                    "title": "Dr. Robert",
+                    "length": "134000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0a8732f-db13-42f7-bac5-82d6e20eaef2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e0a8732f-db13-42f7-bac5-82d6e20eaef2",
+                    "title": "Dr. Robert",
+                    "length": "280000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13d3120c-615a-43b2-88de-e57479114dd9",
+                "direction": "backward",
+                "recording": {
+                    "id": "13d3120c-615a-43b2-88de-e57479114dd9",
+                    "title": "Dr. Robert (mono)",
+                    "length": "137000",
+                    "disambiguation": "original mono studio mix for US"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0045745490",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-doctor-robert-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/40993",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=111",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2374210",
+                "direction": "backward"
+            }
+        ]
+    }
+}

@@ -1,0 +1,900 @@
+{
+    "work": {
+        "id": "201df4f4-a878-365f-96f9-841deaaea058",
+        "type": "Song",
+        "title": "Her Majesty",
+        "language": "eng",
+        "iswc": "T-010.437.176-7",
+        "iswc-list": [
+            "T-010.437.176-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "556701"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "380135773"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02048672"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "227789"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-018493892"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634102-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "155762"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 204 54"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "63 989 152 11"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12182210"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "63.260"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004965500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "43023Z"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243799"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965881"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100150400"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "220256"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4031397"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9335148"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3966188"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "94975201"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "10890760"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "10890760"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358022"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358022"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6281690"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0H0-0662-8"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "015502817"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f62baad4-08bc-4776-a093-6ba91b8dd216",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "f62baad4-08bc-4776-a093-6ba91b8dd216",
+                    "title": "Her Majesty 9.09",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed8d1b3b-8757-447a-baba-3efe027f2765",
+                "direction": "backward",
+                "begin": "1969-07-02",
+                "end": "1969-07-02",
+                "ended": "true",
+                "recording": {
+                    "id": "ed8d1b3b-8757-447a-baba-3efe027f2765",
+                    "title": "Her Majesty",
+                    "length": "23000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a403dc9-a466-45a3-9478-39cde1289b37",
+                "direction": "backward",
+                "begin": "1969-07-02",
+                "end": "1969-07-02",
+                "ended": "true",
+                "recording": {
+                    "id": "2a403dc9-a466-45a3-9478-39cde1289b37",
+                    "title": "Her Majesty (takes 1\u20133)",
+                    "length": "93947"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb903881-cdc2-4de6-af05-028636647a4e",
+                "ordering-key": "4",
+                "direction": "backward",
+                "begin": "1969-07-02",
+                "end": "1969-07-02",
+                "ended": "true",
+                "recording": {
+                    "id": "fb903881-cdc2-4de6-af05-028636647a4e",
+                    "title": "The Long One: You Never Give Me Your Money / Sun King / Mean Mr Mustard / Her Majesty / Polythene Pam / She Came in Through the Bathroom Window / Golden Slumbers / Carry That Weight / The End",
+                    "length": "970466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855040",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855000",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4968ec57-24a8-4474-9d3c-89dfc6826318",
+                "direction": "backward",
+                "begin": "2002-02-23",
+                "end": "2002-02-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4968ec57-24a8-4474-9d3c-89dfc6826318",
+                    "title": "Her Majesty"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3b81847-b862-4cdd-ad62-a40d7acb5320",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c3b81847-b862-4cdd-ad62-a40d7acb5320",
+                    "title": "Carry That Weight / The End / Her Majesty"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94998e73-1564-45fc-8ea9-e819f8513dff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "94998e73-1564-45fc-8ea9-e819f8513dff",
+                    "title": "Her Majesty",
+                    "length": "44000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7e9b6f5-4d19-4dda-a161-107ed200fc51",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d7e9b6f5-4d19-4dda-a161-107ed200fc51",
+                    "title": "Her Majesty",
+                    "length": "23000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b01fd42f-2c49-482c-bad4-bb4ee2110c33",
+                "direction": "backward",
+                "recording": {
+                    "id": "b01fd42f-2c49-482c-bad4-bb4ee2110c33",
+                    "title": "Her Majesty",
+                    "length": "25120",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d6fbc72-b202-45f0-a76e-216142e2197c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3d6fbc72-b202-45f0-a76e-216142e2197c",
+                    "title": "Her Majesty",
+                    "length": "23822"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "934fc1e0-6101-48cb-9830-f40755648135",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "934fc1e0-6101-48cb-9830-f40755648135",
+                    "title": "Her Majesty",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f11ed7f8-d2d0-4c1a-8893-3347348e5267",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f11ed7f8-d2d0-4c1a-8893-3347348e5267",
+                    "title": "Her Majesty",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "242c8129-dbce-44b7-8550-a1bbcdaa31e8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "242c8129-dbce-44b7-8550-a1bbcdaa31e8",
+                    "title": "Her Majesty",
+                    "length": "24093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91cd0b7e-0ef2-4c50-8e66-f065fd9cdfa1",
+                "direction": "backward",
+                "recording": {
+                    "id": "91cd0b7e-0ef2-4c50-8e66-f065fd9cdfa1",
+                    "title": "Her Majesty",
+                    "length": "26000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67524b0e-7022-4b1e-8eb7-42523a7ede4f",
+                "direction": "backward",
+                "recording": {
+                    "id": "67524b0e-7022-4b1e-8eb7-42523a7ede4f",
+                    "title": "Her Majesty",
+                    "length": "21000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00abf35d-db02-4514-bda7-d1e04e6fef7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "00abf35d-db02-4514-bda7-d1e04e6fef7f",
+                    "title": "Her Majesty",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f49e9103-d008-4503-8b82-b2eaf5b7d3ef",
+                "direction": "backward",
+                "recording": {
+                    "id": "f49e9103-d008-4503-8b82-b2eaf5b7d3ef",
+                    "title": "Her Majesty",
+                    "length": "44040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bc62c5c-efc9-48fd-b48d-cdf696c7271e",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bc62c5c-efc9-48fd-b48d-cdf696c7271e",
+                    "title": "Her Majesty",
+                    "length": "23000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0458f9c0-01df-433b-8126-0546d1c83f65",
+                "direction": "backward",
+                "recording": {
+                    "id": "0458f9c0-01df-433b-8126-0546d1c83f65",
+                    "title": "Her Majesty",
+                    "length": "27000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f70a99aa-f4b7-44a4-8319-da88a6bc4301",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f70a99aa-f4b7-44a4-8319-da88a6bc4301",
+                    "title": "Her Majesty",
+                    "length": "20000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb65bcce-7a94-4acc-88f6-5d6c8a6d9534",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb65bcce-7a94-4acc-88f6-5d6c8a6d9534",
+                    "title": "Her Majesty",
+                    "length": "22093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "501d9382-16c9-478d-a48d-094b18778db7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "501d9382-16c9-478d-a48d-094b18778db7",
+                    "title": "Her Majesty",
+                    "length": "30000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d26af968-0a8c-4637-abf7-b6be32d2628e",
+                "direction": "backward",
+                "recording": {
+                    "id": "d26af968-0a8c-4637-abf7-b6be32d2628e",
+                    "title": "Her Majesty"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da3b9659-2db3-48fa-a042-730379cc870e",
+                "direction": "backward",
+                "recording": {
+                    "id": "da3b9659-2db3-48fa-a042-730379cc870e",
+                    "title": "Her Majesty",
+                    "length": "43000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6384e16-8acf-4a09-82bd-dd4d1a5a8b1d",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6384e16-8acf-4a09-82bd-dd4d1a5a8b1d",
+                    "title": "Her Majesty"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d3dbf4b-5528-4ac9-9382-e23bfedcac7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "7d3dbf4b-5528-4ac9-9382-e23bfedcac7f",
+                    "title": "Her Majesty"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "669e45a6-e6e0-4f54-a903-7c6402033c5b",
+                "direction": "backward",
+                "recording": {
+                    "id": "669e45a6-e6e0-4f54-a903-7c6402033c5b",
+                    "title": "Her Majesty",
+                    "length": "27000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d102b16f-a484-43b1-8ccd-8af23f5c9847",
+                "direction": "backward",
+                "recording": {
+                    "id": "d102b16f-a484-43b1-8ccd-8af23f5c9847",
+                    "title": "Her Majesty"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebf94246-a00d-455e-8ab5-0705b4b61a6e",
+                "direction": "backward",
+                "recording": {
+                    "id": "ebf94246-a00d-455e-8ab5-0705b4b61a6e",
+                    "title": "Her Majesty",
+                    "length": "29000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96984806-0c4a-4829-b8ea-0d75b3aef7fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "96984806-0c4a-4829-b8ea-0d75b3aef7fb",
+                    "title": "Her Majesty",
+                    "length": "25706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77a49a6c-2779-476b-b1c5-da0ce8a377ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "77a49a6c-2779-476b-b1c5-da0ce8a377ab",
+                    "title": "Her Majesty",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51f09446-0c38-4a3b-963e-c08397cdf905",
+                "direction": "backward",
+                "recording": {
+                    "id": "51f09446-0c38-4a3b-963e-c08397cdf905",
+                    "title": "Her Majesty",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b88c6432-c3eb-48e0-8a85-06a002a21bc0",
+                "direction": "backward",
+                "recording": {
+                    "id": "b88c6432-c3eb-48e0-8a85-06a002a21bc0",
+                    "title": "Her Majesty",
+                    "length": "25000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b8726ff-18c3-4520-931e-4b089f0a8d69",
+                "direction": "backward",
+                "recording": {
+                    "id": "5b8726ff-18c3-4520-931e-4b089f0a8d69",
+                    "title": "Her Majesty (5.1 mix)",
+                    "length": "26000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dce93e62-314e-4bfe-b9fd-deb433303dd0",
+                "direction": "backward",
+                "recording": {
+                    "id": "dce93e62-314e-4bfe-b9fd-deb433303dd0",
+                    "title": "Her Majesty (Get Back session)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad729784-8f5e-44b3-a5da-23de3a61c2ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad729784-8f5e-44b3-a5da-23de3a61c2ab",
+                    "title": "Her Majesty (Mono)",
+                    "length": "44000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f493b493-6b75-44c3-b346-41b5b26ea72d",
+                "direction": "backward",
+                "recording": {
+                    "id": "f493b493-6b75-44c3-b346-41b5b26ea72d",
+                    "title": "Her Majesty (Take 3 complete)",
+                    "length": "28000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2d2360e-0f58-41d9-93ff-63fcd40f9996",
+                "direction": "backward",
+                "recording": {
+                    "id": "e2d2360e-0f58-41d9-93ff-63fcd40f9996",
+                    "title": "Her Majesty (take 3, RS1 -mono)",
+                    "length": "20786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9c58a20-f6ca-4458-809d-a0a6af8db3c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "c9c58a20-f6ca-4458-809d-a0a6af8db3c9",
+                    "title": "Her Majesty (take 3, unedited)",
+                    "length": "23360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f99fb3d0-2613-4377-a605-85ce4a0e6337",
+                "direction": "backward",
+                "recording": {
+                    "id": "f99fb3d0-2613-4377-a605-85ce4a0e6337",
+                    "title": "Her Majesty (take 3)",
+                    "length": "25000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b5e4201-aef9-4e8f-b21a-64763092307d",
+                "direction": "backward",
+                "recording": {
+                    "id": "6b5e4201-aef9-4e8f-b21a-64763092307d",
+                    "title": "Her Majesty (take 3)",
+                    "length": "27666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                    "title": "Suite Charlotte Pike / Abbey Road",
+                    "length": "1888840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-her-majesty-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/24096",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=207",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q210642",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "214be758-a651-4f60-86c9-b289209e1856",
+                "direction": "forward",
+                "work": {
+                    "id": "214be758-a651-4f60-86c9-b289209e1856",
+                    "type": "Song",
+                    "title": "Her Majesty",
+                    "language": "eng",
+                    "disambiguation": "Chumbawamba version"
+                }
+            }
+        ]
+    }
+}

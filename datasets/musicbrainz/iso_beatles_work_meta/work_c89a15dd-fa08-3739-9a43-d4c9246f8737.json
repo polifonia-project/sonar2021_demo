@@ -1,0 +1,882 @@
+{
+    "work": {
+        "id": "c89a15dd-fa08-3739-9a43-d4c9246f8737",
+        "type": "Song",
+        "title": "The Night Before",
+        "language": "eng",
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1064389"
+            },
+            {
+                "attribute": "Key",
+                "value": "D major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c845114d-d1a1-4b9f-80af-8606de495fe3",
+                "direction": "backward",
+                "label": {
+                    "id": "c845114d-d1a1-4b9f-80af-8606de495fe3",
+                    "type": "Publisher",
+                    "name": "SBK Blackwood Music Inc.",
+                    "sort-name": "SBK Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62fbd78b-c648-4351-896e-e2343ca776a1",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "62fbd78b-c648-4351-896e-e2343ca776a1",
+                    "title": "The Night Before",
+                    "length": "156706",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f2ddaaa-05b9-46a0-bc09-25eb9a708e6f",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "0f2ddaaa-05b9-46a0-bc09-25eb9a708e6f",
+                    "title": "The Night Before",
+                    "length": "156706",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35709f55-7dee-42da-aa77-c17790dd50c2",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "35709f55-7dee-42da-aa77-c17790dd50c2",
+                    "title": "The Night Before",
+                    "length": "153000",
+                    "disambiguation": "1965 Capitol mono remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dec365ed-576f-4a31-9204-0a5d4aa191b2",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "dec365ed-576f-4a31-9204-0a5d4aa191b2",
+                    "title": "The Night Before",
+                    "length": "155000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a39ae26-6e28-4c3c-a5d0-1306ad34aae7",
+                "direction": "backward",
+                "begin": "1965-11-18",
+                "end": "1965-11-18",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6a39ae26-6e28-4c3c-a5d0-1306ad34aae7",
+                    "title": "The Night Before",
+                    "length": "300000",
+                    "disambiguation": "mono"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1459c7e4-57d5-4d0a-b9b7-fa2d666a8423",
+                "direction": "backward",
+                "begin": "1965-12-18",
+                "end": "1965-12-18",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1459c7e4-57d5-4d0a-b9b7-fa2d666a8423",
+                    "title": "The Night Before",
+                    "length": "300000",
+                    "disambiguation": "stereo"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab36f84c-2120-4069-b6e6-0eb603fd86eb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ab36f84c-2120-4069-b6e6-0eb603fd86eb",
+                    "title": "Night Before",
+                    "length": "148706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fba725bf-2497-4592-bfd6-51805edf67c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fba725bf-2497-4592-bfd6-51805edf67c6",
+                    "title": "The Night Before",
+                    "length": "156013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8e32a10-47e8-403e-b100-88f8738cecb0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8e32a10-47e8-403e-b100-88f8738cecb0",
+                    "title": "The Night Before",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d30c8175-ca23-4aa1-bd85-2fdec73547dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d30c8175-ca23-4aa1-bd85-2fdec73547dc",
+                    "title": "The Night Before",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89868240-b7fc-4bb8-9d44-edff59dba281",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "89868240-b7fc-4bb8-9d44-edff59dba281",
+                    "title": "The Night Before"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd07e674-fad4-4a54-bfff-4d893be59c80",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fd07e674-fad4-4a54-bfff-4d893be59c80",
+                    "title": "The Night Before",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ca37c28-d5eb-4b46-8ec3-abf426e72043",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ca37c28-d5eb-4b46-8ec3-abf426e72043",
+                    "title": "The Night Before",
+                    "length": "154000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5597db72-e9ec-438d-99a3-2ec2cc05d1dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "5597db72-e9ec-438d-99a3-2ec2cc05d1dc",
+                    "title": "The Night Before",
+                    "length": "158720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b53fa4c-945d-4ff4-92e3-eb383f555287",
+                "direction": "backward",
+                "recording": {
+                    "id": "9b53fa4c-945d-4ff4-92e3-eb383f555287",
+                    "title": "The Night Before",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68888d01-076d-4799-b46c-2a1ccff11265",
+                "direction": "backward",
+                "recording": {
+                    "id": "68888d01-076d-4799-b46c-2a1ccff11265",
+                    "title": "The Night Before"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ec66754-a929-4417-ac2d-ad8f31701d05",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8ec66754-a929-4417-ac2d-ad8f31701d05",
+                    "title": "The Night Before",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd07c502-e7fc-4e39-a894-0e4143ad8428",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd07c502-e7fc-4e39-a894-0e4143ad8428",
+                    "title": "The Night Before",
+                    "length": "151293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e252805-3b33-485e-9360-5c31286f37ca",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e252805-3b33-485e-9360-5c31286f37ca",
+                    "title": "The Night Before"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb2165d7-bb84-438a-8720-fcf6b00d5b32",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eb2165d7-bb84-438a-8720-fcf6b00d5b32",
+                    "title": "The Night Before",
+                    "length": "143000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ebcfeb6-fed9-4a16-aa31-79c937d51d01",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0ebcfeb6-fed9-4a16-aa31-79c937d51d01",
+                    "title": "The Night Before",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2938a2b-c12d-4210-b00b-77318b470153",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c2938a2b-c12d-4210-b00b-77318b470153",
+                    "title": "The Night Before",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1bf364a2-2277-453b-b3ed-c3b1bfcdf729",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1bf364a2-2277-453b-b3ed-c3b1bfcdf729",
+                    "title": "The Night Before",
+                    "length": "187000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d12edaa-46ec-4faa-ae7b-220f9fab4e3a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0d12edaa-46ec-4faa-ae7b-220f9fab4e3a",
+                    "title": "The Night Before",
+                    "length": "149000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c40286bd-12d4-4782-8708-3cf4ede05c17",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c40286bd-12d4-4782-8708-3cf4ede05c17",
+                    "title": "The Night Before",
+                    "length": "369733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52feeb11-fc96-4f02-aefa-2104839a668f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "52feeb11-fc96-4f02-aefa-2104839a668f",
+                    "title": "The Night Before",
+                    "length": "94906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f41d704-e6cf-4496-a3d2-856c0d9da72f",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f41d704-e6cf-4496-a3d2-856c0d9da72f",
+                    "title": "The Night Before"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e4052a7-78d5-4f7f-a646-da257fa64d65",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e4052a7-78d5-4f7f-a646-da257fa64d65",
+                    "title": "The Night Before",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e59676c-5463-425f-956e-a26155f5d3dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e59676c-5463-425f-956e-a26155f5d3dc",
+                    "title": "The Night Before",
+                    "length": "155986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae2623c7-7763-4b97-8ef4-8faada353b24",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae2623c7-7763-4b97-8ef4-8faada353b24",
+                    "title": "The Night Before",
+                    "length": "159000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "348be169-1fad-4cd5-8333-69140c7e66ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "348be169-1fad-4cd5-8333-69140c7e66ae",
+                    "title": "The Night Before",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08991826-71b1-4b79-b205-ce00843c150b",
+                "direction": "backward",
+                "recording": {
+                    "id": "08991826-71b1-4b79-b205-ce00843c150b",
+                    "title": "The Night Before",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b855ee34-399a-497c-8d81-550d1231ed82",
+                "direction": "backward",
+                "recording": {
+                    "id": "b855ee34-399a-497c-8d81-550d1231ed82",
+                    "title": "The Night Before",
+                    "length": "156226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "455e57d7-ed0b-4e34-86dd-49fc8f3b6a0a",
+                "direction": "backward",
+                "recording": {
+                    "id": "455e57d7-ed0b-4e34-86dd-49fc8f3b6a0a",
+                    "title": "The Night Before",
+                    "length": "155266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "811f2ab1-c060-456d-bbc3-26a6ca8eb229",
+                "direction": "backward",
+                "recording": {
+                    "id": "811f2ab1-c060-456d-bbc3-26a6ca8eb229",
+                    "title": "The Night Before",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3942db63-c178-4fd1-9a59-5bdccd6b004b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3942db63-c178-4fd1-9a59-5bdccd6b004b",
+                    "title": "The Night Before",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa2171d2-dccd-4942-8aa6-065dd11579b6",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa2171d2-dccd-4942-8aa6-065dd11579b6",
+                    "title": "The Night Before",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1bd39647-1cff-4fe5-86fb-75eab05fd50e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1bd39647-1cff-4fe5-86fb-75eab05fd50e",
+                    "title": "The Night Before",
+                    "length": "143200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2dc5349a-3a52-43de-96f3-4faa525606a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "2dc5349a-3a52-43de-96f3-4faa525606a6",
+                    "title": "The Night Before",
+                    "length": "156466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e3aab67-a999-4db9-86cc-74134fd07c1f",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e3aab67-a999-4db9-86cc-74134fd07c1f",
+                    "title": "The Night Before",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1175709a-74f3-4be4-967b-d0ee652b85e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "1175709a-74f3-4be4-967b-d0ee652b85e7",
+                    "title": "The Night Before",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8933cac1-69cc-49c7-8038-3ab510631d75",
+                "direction": "backward",
+                "recording": {
+                    "id": "8933cac1-69cc-49c7-8038-3ab510631d75",
+                    "title": "The Night Before (Mono Edit Of RS2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d6b790a-1ddc-4798-927a-1cc74c0534a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d6b790a-1ddc-4798-927a-1cc74c0534a8",
+                    "title": "The Night Before (mono)",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cce1a187-7e36-443e-8867-b5badab5f3e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "cce1a187-7e36-443e-8867-b5badab5f3e3",
+                    "title": "The Night Before (RM)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5e196fb-fa12-4242-9eae-326e4fe76884",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5e196fb-fa12-4242-9eae-326e4fe76884",
+                    "title": "The Night Before (RM1 Take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "940b881b-9872-4e52-a099-a94acdb559c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "940b881b-9872-4e52-a099-a94acdb559c3",
+                    "title": "The Night Before (RS1 Take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53fec6a1-c93d-41ae-a80d-dc9c6dd6698d",
+                "direction": "backward",
+                "recording": {
+                    "id": "53fec6a1-c93d-41ae-a80d-dc9c6dd6698d",
+                    "title": "The Night Before (stereo)",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c1ac28c-9b19-40b2-8e59-4c9d5708a26a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c1ac28c-9b19-40b2-8e59-4c9d5708a26a",
+                    "title": "The Night Before (take 2)",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8139b694-f8b2-4a85-a56c-8bf46a4a4cbd",
+                "direction": "backward",
+                "recording": {
+                    "id": "8139b694-f8b2-4a85-a56c-8bf46a4a4cbd",
+                    "title": "The Night Before (take 2)",
+                    "length": "163000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b7bf917-e4e0-4a16-903f-9246f1218ce2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1b7bf917-e4e0-4a16-903f-9246f1218ce2",
+                    "title": "\u30b6\u30fb\u30ca\u30a4\u30c8\u30fb\u30d3\u30d5\u30a9\u30fc"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100362",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/11315",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=11701",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q604803",
+                "direction": "backward"
+            }
+        ]
+    }
+}

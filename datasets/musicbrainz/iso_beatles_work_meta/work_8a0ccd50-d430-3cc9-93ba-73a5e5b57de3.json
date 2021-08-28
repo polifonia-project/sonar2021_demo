@@ -1,0 +1,588 @@
+{
+    "work": {
+        "id": "8a0ccd50-d430-3cc9-93ba-73a5e5b57de3",
+        "type": "Song",
+        "title": "What Goes On",
+        "language": "eng",
+        "iswc": "T-010.434.039-7",
+        "iswc-list": [
+            "T-010.434.039-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 279 23"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "2059480"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12518437"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100413700"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "32.943"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "6527283"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "6527283"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "11916526"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "213812"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3381049"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009886744"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "69 841 163 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "008270000"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "08464A"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635921-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "212422"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10580772"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6966778"
+            },
+            {
+                "attribute": "CASH ID",
+                "value": "C-1229826916"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000116527"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "530193738"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02133493"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9002072"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243495"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6281666"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5018796"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                "direction": "backward",
+                "artist": {
+                    "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                    "type": "Person",
+                    "name": "Ringo Starr",
+                    "sort-name": "Starr, Ringo",
+                    "disambiguation": "The Beatles"
+                },
+                "target-credit": "Richard Starkey"
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a04074c-0022-4bb5-8017-e9d3654a7721",
+                "direction": "backward",
+                "begin": "1965-11-04",
+                "end": "1965-11-04",
+                "ended": "true",
+                "recording": {
+                    "id": "8a04074c-0022-4bb5-8017-e9d3654a7721",
+                    "title": "What Goes On",
+                    "length": "167000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a030f9ee-e8a1-4a6a-8e5d-8983f992977a",
+                "direction": "backward",
+                "begin": "1965-11-04",
+                "end": "1965-11-04",
+                "ended": "true",
+                "recording": {
+                    "id": "a030f9ee-e8a1-4a6a-8e5d-8983f992977a",
+                    "title": "What Goes On",
+                    "length": "169000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "619f60fa-b680-4735-a635-fc0f03715227",
+                "direction": "backward",
+                "begin": "1965-11-04",
+                "end": "1965-11-04",
+                "ended": "true",
+                "recording": {
+                    "id": "619f60fa-b680-4735-a635-fc0f03715227",
+                    "title": "What Goes On",
+                    "length": "168573",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88f4395b-86ce-4652-8efe-acfe12c1b9f6",
+                "direction": "backward",
+                "begin": "2006-07-16",
+                "end": "2006-07-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "88f4395b-86ce-4652-8efe-acfe12c1b9f6",
+                    "title": "What Goes On",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1f6415a-8ac1-424b-aee8-49515eb0e4c3",
+                "direction": "backward",
+                "begin": "2008-08-02",
+                "end": "2008-08-02",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c1f6415a-8ac1-424b-aee8-49515eb0e4c3",
+                    "title": "What Goes On",
+                    "length": "228000",
+                    "disambiguation": "live, 2008-08-02: Greek Theatre, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbe4c4d3-cb06-4085-ab64-b8579cfa497c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fbe4c4d3-cb06-4085-ab64-b8579cfa497c",
+                    "title": "What Goes On",
+                    "length": "167000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25708854-4cf6-4587-b895-f4614ccb4d9d",
+                "direction": "backward",
+                "recording": {
+                    "id": "25708854-4cf6-4587-b895-f4614ccb4d9d",
+                    "title": "What Goes On",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08eeccbb-dd32-48b0-ab63-d4a19a868bf7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "08eeccbb-dd32-48b0-ab63-d4a19a868bf7",
+                    "title": "What Goes On",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1377d0b2-c55b-436b-b1c3-b32e77dbca43",
+                "direction": "backward",
+                "recording": {
+                    "id": "1377d0b2-c55b-436b-b1c3-b32e77dbca43",
+                    "title": "What Goes On",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e95ad1a-99dc-4660-b8ca-b5e957292517",
+                "direction": "backward",
+                "recording": {
+                    "id": "2e95ad1a-99dc-4660-b8ca-b5e957292517",
+                    "title": "What Goes On",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21ed2f0e-031b-4027-82c1-60714908e416",
+                "direction": "backward",
+                "recording": {
+                    "id": "21ed2f0e-031b-4027-82c1-60714908e416",
+                    "title": "What Goes On",
+                    "length": "18053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "611e665b-81be-45af-b993-23645d8be2cd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "611e665b-81be-45af-b993-23645d8be2cd",
+                    "title": "What Goes On",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "caaf5c21-0454-416b-b436-5abca3b90acd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "caaf5c21-0454-416b-b436-5abca3b90acd",
+                    "title": "What Goes On",
+                    "length": "230840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbf9de9a-27f2-432e-a426-819d00c48bed",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bbf9de9a-27f2-432e-a426-819d00c48bed",
+                    "title": "What Goes On",
+                    "length": "347000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc719ab8-0333-482f-9f24-f867c3a5294f",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc719ab8-0333-482f-9f24-f867c3a5294f",
+                    "title": "What Goes On",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02a64e63-a37a-4a0f-9c37-e269a1728789",
+                "direction": "backward",
+                "recording": {
+                    "id": "02a64e63-a37a-4a0f-9c37-e269a1728789",
+                    "title": "What Goes On",
+                    "length": "167306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2441a075-ce12-4232-b784-211434ec64a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "2441a075-ce12-4232-b784-211434ec64a9",
+                    "title": "What Goes On",
+                    "length": "168200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5111aa06-e443-4dee-8621-b7e9be168b10",
+                "direction": "backward",
+                "recording": {
+                    "id": "5111aa06-e443-4dee-8621-b7e9be168b10",
+                    "title": "What Goes On",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af957f25-8942-49e3-9b0f-a78329b231f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "af957f25-8942-49e3-9b0f-a78329b231f6",
+                    "title": "What Goes On",
+                    "length": "169440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d6b0daf-b85d-4396-b39b-c098af79df79",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d6b0daf-b85d-4396-b39b-c098af79df79",
+                    "title": "What Goes On (mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db9a9f4c-cc4c-4c18-a751-1605fdd5f657",
+                "direction": "backward",
+                "recording": {
+                    "id": "db9a9f4c-cc4c-4c18-a751-1605fdd5f657",
+                    "title": "What Goes On (RM1 take 1)",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55211e5c-8e19-42cb-be40-35ce980132c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "55211e5c-8e19-42cb-be40-35ce980132c0",
+                    "title": "What Goes On (RS1 take 1)",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e36d1c67-9396-4cb0-ad3c-6849320b2070",
+                "direction": "backward",
+                "recording": {
+                    "id": "e36d1c67-9396-4cb0-ad3c-6849320b2070",
+                    "title": "What Goes On (take 1, RM1)",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "624ba5c5-e063-4c71-8ef3-a38a76ae5308",
+                "direction": "backward",
+                "recording": {
+                    "id": "624ba5c5-e063-4c71-8ef3-a38a76ae5308",
+                    "title": "What Goes On?",
+                    "length": "168653"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c82a305-5218-46a0-9371-93ec9f4234a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "3c82a305-5218-46a0-9371-93ec9f4234a7",
+                    "title": "What Goes On?",
+                    "length": "168546"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-what-goes-on-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/24572",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=92",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2367685",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/What_Goes_On_(Beatles_song)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

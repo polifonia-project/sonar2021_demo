@@ -1,0 +1,324 @@
+{
+    "work": {
+        "id": "6d42a083-e15b-499e-a8f7-9d352fed26a9",
+        "type": "Song",
+        "title": "Backwater Blues",
+        "language": "eng",
+        "iswc": "T-070.010.119-4",
+        "iswc-list": [
+            "T-070.010.119-4"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+                "direction": "backward",
+                "begin": "1927",
+                "end": "1927",
+                "ended": "true",
+                "artist": {
+                    "id": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+                    "type": "Person",
+                    "name": "Bessie Smith",
+                    "sort-name": "Smith, Bessie",
+                    "disambiguation": "Tennessee blues singer"
+                }
+            },
+            {
+                "type": "instrument arranger",
+                "type-id": "0084e70a-873e-4f7f-b3ff-635b9e863dae",
+                "target": "2a58b026-9659-4bfb-90c9-56c4ad9125f1",
+                "direction": "backward",
+                "begin": "1927",
+                "end": "1927",
+                "ended": "true",
+                "attribute-list": [
+                    "piano"
+                ],
+                "artist": {
+                    "id": "2a58b026-9659-4bfb-90c9-56c4ad9125f1",
+                    "type": "Person",
+                    "name": "James P. Johnson",
+                    "sort-name": "Johnson, James P."
+                },
+                "attributes": [
+                    {
+                        "type-id": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+                        "attribute": "piano"
+                    }
+                ]
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+                "direction": "backward",
+                "begin": "1927",
+                "end": "1927",
+                "ended": "true",
+                "artist": {
+                    "id": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+                    "type": "Person",
+                    "name": "Bessie Smith",
+                    "sort-name": "Smith, Bessie",
+                    "disambiguation": "Tennessee blues singer"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "631a1e8b-184d-4967-b1ae-946c3e0a53c9",
+                "direction": "backward",
+                "begin": "1927-02-17",
+                "end": "1927-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "631a1e8b-184d-4967-b1ae-946c3e0a53c9",
+                    "title": "Black Water Blues",
+                    "length": "199000",
+                    "disambiguation": "matrix no. 143491-1"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "027c382f-c318-48bb-befa-366f6755a0ff",
+                "direction": "backward",
+                "begin": "1939-01-06",
+                "end": "1939-01-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "027c382f-c318-48bb-befa-366f6755a0ff",
+                    "title": "Backwater Blues",
+                    "length": "243000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c53cdd43-c31d-450b-89d6-4e76e6e9af7e",
+                "direction": "backward",
+                "begin": "1987-10-24",
+                "end": "1987-10-24",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c53cdd43-c31d-450b-89d6-4e76e6e9af7e",
+                    "title": "Backwater Blues",
+                    "length": "542000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d864318b-bcef-4dec-beee-f49e637fd4dc",
+                "direction": "backward",
+                "begin": "1987-10-24",
+                "end": "1987-10-24",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d864318b-bcef-4dec-beee-f49e637fd4dc",
+                    "title": "Backwater Blues",
+                    "length": "542000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e299926b-00f0-4f0c-a92f-4db61ba0e25f",
+                "direction": "backward",
+                "recording": {
+                    "id": "e299926b-00f0-4f0c-a92f-4db61ba0e25f",
+                    "title": "Backwater Blues",
+                    "length": "200000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "099bc319-54fa-4e3a-b0ca-fd0ef0d7a9e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "099bc319-54fa-4e3a-b0ca-fd0ef0d7a9e3",
+                    "title": "Backwater Blues",
+                    "length": "179440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "529899a4-7ffe-4ae1-a1d7-f7b5348b7a46",
+                "direction": "backward",
+                "recording": {
+                    "id": "529899a4-7ffe-4ae1-a1d7-f7b5348b7a46",
+                    "title": "Backwater Blues",
+                    "length": "179600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13d0a1b1-4539-4d6f-a344-93bfdbf3410f",
+                "direction": "backward",
+                "recording": {
+                    "id": "13d0a1b1-4539-4d6f-a344-93bfdbf3410f",
+                    "title": "Backwater Blues",
+                    "length": "200000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "213faf1d-17bf-470f-ab24-3ef0abaae980",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "213faf1d-17bf-470f-ab24-3ef0abaae980",
+                    "title": "Backwater Blues",
+                    "length": "280506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "360b15b9-f671-4834-b411-c8d5266f6ef6",
+                "direction": "backward",
+                "recording": {
+                    "id": "360b15b9-f671-4834-b411-c8d5266f6ef6",
+                    "title": "Backwater Blues",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d59b72e6-d9e7-41ef-b6b4-f86445f40e98",
+                "direction": "backward",
+                "recording": {
+                    "id": "d59b72e6-d9e7-41ef-b6b4-f86445f40e98",
+                    "title": "Backwater Blues",
+                    "length": "163000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6431cd71-1636-4d4e-9f51-4d75073cf99a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6431cd71-1636-4d4e-9f51-4d75073cf99a",
+                    "title": "Tupolo (or Backwater Blues)",
+                    "length": "207000",
+                    "disambiguation": "live, 1960-06-24/26: Newport Folk Festival, Newport, RI, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q4839188",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "54c3812a-0a91-4ba8-af65-acab5ba86d77",
+                "direction": "forward",
+                "work": {
+                    "id": "54c3812a-0a91-4ba8-af65-acab5ba86d77",
+                    "type": "Song",
+                    "title": "Wossaproblem",
+                    "language": "deu"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "6bd53c79-0a27-4999-934c-07f28ea4e524",
+                "direction": "forward",
+                "work": {
+                    "id": "6bd53c79-0a27-4999-934c-07f28ea4e524",
+                    "type": "Song",
+                    "title": "Backwater Blues",
+                    "disambiguation": "Dylan Arrangement"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "17bbe203-a6fa-4634-a522-b16c42b63840",
+                "direction": "forward",
+                "work": {
+                    "id": "17bbe203-a6fa-4634-a522-b16c42b63840",
+                    "type": "Song",
+                    "title": "Backwater Blues",
+                    "language": "eng",
+                    "iswc": "T-070.227.091-4",
+                    "iswc-list": [
+                        "T-070.227.091-4"
+                    ],
+                    "disambiguation": "Leadbelly Arrangement"
+                }
+            }
+        ]
+    }
+}

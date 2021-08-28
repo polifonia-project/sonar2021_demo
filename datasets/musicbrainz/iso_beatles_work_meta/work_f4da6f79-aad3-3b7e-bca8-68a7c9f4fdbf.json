@@ -1,0 +1,1806 @@
+{
+    "work": {
+        "id": "f4da6f79-aad3-3b7e-bca8-68a7c9f4fdbf",
+        "type": "Song",
+        "title": "For You Blue",
+        "language": "eng",
+        "iswc": "T-010.098.638-6",
+        "iswc-list": [
+            "T-010.098.638-6"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000097 246 81"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "4406"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12142515"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78201867800"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "70.841"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "691905"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "691905"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "281294"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3501375"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "013753208"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "63 550 200 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "025720300"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "91579T"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0F0-1715-1"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "527973-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1181678"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315972"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000032574"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "360107653"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02062024"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "1061113"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "4881677"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "20236201"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4752622"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f2d028e-7e26-4b47-8076-42de81d9a179",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "9f2d028e-7e26-4b47-8076-42de81d9a179",
+                    "title": "For You Blue 6.09",
+                    "length": "224000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e35e0b6-6adb-4d21-84a9-167dd1a3deed",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "6e35e0b6-6adb-4d21-84a9-167dd1a3deed",
+                    "title": "For You Blue 6.10",
+                    "length": "190000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59e81b33-c0b2-40bb-a775-6e2e3f4617b4",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-29",
+                "ended": "true",
+                "recording": {
+                    "id": "59e81b33-c0b2-40bb-a775-6e2e3f4617b4",
+                    "title": "For You Blue",
+                    "length": "100826",
+                    "disambiguation": "live, 1969-01-30"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af66cf06-0ed3-488f-ba7b-c723f17a6b85",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "af66cf06-0ed3-488f-ba7b-c723f17a6b85",
+                    "title": "For You Blue 7.27",
+                    "length": "74000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a89d989-47fd-43ae-b055-612b160e7187",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "0a89d989-47fd-43ae-b055-612b160e7187",
+                    "title": "For You Blue 7.27 continued",
+                    "length": "4000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0d589cd-5a7f-4c65-b810-3e87e58c1dfd",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "f0d589cd-5a7f-4c65-b810-3e87e58c1dfd",
+                    "title": "For You Blue 7.28",
+                    "length": "71000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6b036da-f337-4971-9c93-5bc023254711",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "c6b036da-f337-4971-9c93-5bc023254711",
+                    "title": "For You Blue 9.20",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "815761bd-9f9d-4c62-bbe7-5e98da91cf75",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "815761bd-9f9d-4c62-bbe7-5e98da91cf75",
+                    "title": "For You Blue 9.21",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02cde9a7-2e13-4963-845d-9ba99b5d1c44",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "02cde9a7-2e13-4963-845d-9ba99b5d1c44",
+                    "title": "For You Blue 9.22",
+                    "length": "189000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c306fc0a-2afd-410d-9cc3-fb835444bd76",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "c306fc0a-2afd-410d-9cc3-fb835444bd76",
+                    "title": "For You Blue 9.23",
+                    "length": "93000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87b4cd1a-3612-4ae9-96e8-f1bbeddfaf7c",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "87b4cd1a-3612-4ae9-96e8-f1bbeddfaf7c",
+                    "title": "For You Blue 9.24",
+                    "length": "48000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "630ece54-d708-4756-912d-ad85ccb84ef9",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "630ece54-d708-4756-912d-ad85ccb84ef9",
+                    "title": "For You Blue 9.25",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "928a3b9b-fda4-4481-ab7c-d26c5740be72",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "928a3b9b-fda4-4481-ab7c-d26c5740be72",
+                    "title": "For You Blue 9.26",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e15a183f-b705-4653-b73d-53fc9c611c97",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "e15a183f-b705-4653-b73d-53fc9c611c97",
+                    "title": "For You Blue 9.27",
+                    "length": "243000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "981b065b-e8ba-4fa5-9c77-a0576d2571be",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "981b065b-e8ba-4fa5-9c77-a0576d2571be",
+                    "title": "For You Blue 9.92",
+                    "length": "22000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bc63edf-fa17-48ff-9716-6dc9fdf7a62b",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3bc63edf-fa17-48ff-9716-6dc9fdf7a62b",
+                    "title": "For You Blue 9.94a",
+                    "length": "17000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26a592a8-df19-4e03-aa5f-42fe49495d67",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "26a592a8-df19-4e03-aa5f-42fe49495d67",
+                    "title": "For You Blue 9.96",
+                    "length": "59000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7f56f3e-88fc-4cb5-8615-9e881e010ab2",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "d7f56f3e-88fc-4cb5-8615-9e881e010ab2",
+                    "title": "For You Blue 9.97",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfbfb5e1-cae3-4572-852d-6ce4116d6e82",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "cfbfb5e1-cae3-4572-852d-6ce4116d6e82",
+                    "title": "For You Blue 9.98",
+                    "length": "32000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "268e23c9-6fb9-4106-a603-f472465261c8",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "268e23c9-6fb9-4106-a603-f472465261c8",
+                    "title": "For You Blue 9.100",
+                    "length": "112000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ebeb3b7-2f3e-4ba9-a30e-38ae9b5a6186",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "6ebeb3b7-2f3e-4ba9-a30e-38ae9b5a6186",
+                    "title": "For You Blue 21.76",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f144fad-1f5e-450d-b9bc-74b0280d1907",
+                "direction": "backward",
+                "begin": "1969-01-25",
+                "end": "1969-01-25",
+                "ended": "true",
+                "recording": {
+                    "id": "9f144fad-1f5e-450d-b9bc-74b0280d1907",
+                    "title": "For You Blue",
+                    "length": "143000",
+                    "disambiguation": "Savile Row session"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b93ba87-1288-4bab-84d1-daf8b53ea2b9",
+                "direction": "backward",
+                "begin": "1969-01-25",
+                "end": "1970-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "9b93ba87-1288-4bab-84d1-daf8b53ea2b9",
+                    "title": "For You Blue",
+                    "length": "147760",
+                    "disambiguation": "Let It Be\u2026 Naked version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3f3b880-32e7-401c-8879-9e477b1a6d73",
+                "direction": "backward",
+                "begin": "1969-01-25",
+                "end": "1970-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "e3f3b880-32e7-401c-8879-9e477b1a6d73",
+                    "title": "For You Blue",
+                    "length": "152000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e1b9b13-bada-4ceb-92b1-dc5c5db81d7a",
+                "direction": "backward",
+                "begin": "1973-12-13",
+                "end": "1973-12-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9e1b9b13-bada-4ceb-92b1-dc5c5db81d7a",
+                    "title": "For You Blue (Regular - Live Landover, Capital Centre - Afternoon Show 1973-12-13, Songs By George Harrison #1)",
+                    "length": "254093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "411a560a-56e3-43ea-a93f-d87e3e95b4d9",
+                "direction": "backward",
+                "begin": "1974-12-13",
+                "end": "1974-12-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "411a560a-56e3-43ea-a93f-d87e3e95b4d9",
+                    "title": "For You Blue (Largo, Maryland 1974)",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "811ff4d2-833e-4b23-9a59-686f098fd86c",
+                "direction": "backward",
+                "begin": "1974-12-13",
+                "end": "1974-12-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "811ff4d2-833e-4b23-9a59-686f098fd86c",
+                    "title": "For You Blue (live Capital Center Largo Maryland December 13, 1974)",
+                    "length": "252040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4f3027e-047f-48ce-98c5-399ecaacee85",
+                "direction": "backward",
+                "begin": "1974",
+                "end": "1974",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c4f3027e-047f-48ce-98c5-399ecaacee85",
+                    "title": "For You Blue (live Us Tour 1974)",
+                    "length": "249000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cb138ef-99f2-43e7-8b34-ed605e149ad6",
+                "direction": "backward",
+                "begin": "2002-11-29",
+                "end": "2002-11-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2cb138ef-99f2-43e7-8b34-ed605e149ad6",
+                    "title": "For You Blue",
+                    "length": "184573",
+                    "disambiguation": "live, 2002-11-29: Royal Albert Hall, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46cde822-627b-45c5-adfc-76b7b451e4a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "46cde822-627b-45c5-adfc-76b7b451e4a5",
+                    "title": "For The Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e05d7fd0-7bd5-4efb-8399-ba8bbf4f1ef2",
+                "direction": "backward",
+                "recording": {
+                    "id": "e05d7fd0-7bd5-4efb-8399-ba8bbf4f1ef2",
+                    "title": "For Yer Blue (rehearsal)",
+                    "length": "174840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b8cfb94-6485-4b74-a530-d7d117c9730b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b8cfb94-6485-4b74-a530-d7d117c9730b",
+                    "title": "For You Blue"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6fc6784-42d4-45b0-b89a-62119fd47807",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b6fc6784-42d4-45b0-b89a-62119fd47807",
+                    "title": "For You Blue",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a74236d3-a37e-4bb5-bcd6-3b00b0ff3fe2",
+                "direction": "backward",
+                "recording": {
+                    "id": "a74236d3-a37e-4bb5-bcd6-3b00b0ff3fe2",
+                    "title": "For You Blue",
+                    "length": "174973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55abab58-4f48-48fe-a7b3-49e9ce76d1a2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "55abab58-4f48-48fe-a7b3-49e9ce76d1a2",
+                    "title": "For You Blue",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52b04824-6d4f-4d9d-a23e-19ccd5f795f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "52b04824-6d4f-4d9d-a23e-19ccd5f795f9",
+                    "title": "For You Blue",
+                    "length": "149705",
+                    "disambiguation": "live, 2014-09-28: Fonda Theater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1eb8c255-650b-441d-b81f-29d4c37a22e9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1eb8c255-650b-441d-b81f-29d4c37a22e9",
+                    "title": "For You Blue",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6872746c-3f23-46ae-aef5-2b0e8367c82c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6872746c-3f23-46ae-aef5-2b0e8367c82c",
+                    "title": "For You Blue",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fac9c702-3f4c-46ad-9532-b5a67ebe1318",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fac9c702-3f4c-46ad-9532-b5a67ebe1318",
+                    "title": "For You Blue",
+                    "length": "211240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56f6c9ac-9405-4ee8-9a26-3e8035d776f4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "56f6c9ac-9405-4ee8-9a26-3e8035d776f4",
+                    "title": "For You Blue",
+                    "length": "112680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bc2c442-4b53-4500-9879-31c672ebfe66",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2bc2c442-4b53-4500-9879-31c672ebfe66",
+                    "title": "For You Blue",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3f492ec-b093-435c-9319-c3b5614fa2a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "b3f492ec-b093-435c-9319-c3b5614fa2a2",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fe595d7-f3c2-4c11-a0a8-c0ec0b9fede6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4fe595d7-f3c2-4c11-a0a8-c0ec0b9fede6",
+                    "title": "For You Blue",
+                    "length": "168623"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fcf4213-89de-4d0b-90a8-20f41cf67c08",
+                "direction": "backward",
+                "recording": {
+                    "id": "5fcf4213-89de-4d0b-90a8-20f41cf67c08",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72d4ab8a-a51a-4ebf-a80e-bac49bcb9bff",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "72d4ab8a-a51a-4ebf-a80e-bac49bcb9bff",
+                    "title": "For You Blue",
+                    "length": "382000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d94b45df-1779-4359-9d3e-33a506887126",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d94b45df-1779-4359-9d3e-33a506887126",
+                    "title": "For You Blue"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a3100c4-acc6-4522-af87-b7bd9cf13968",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6a3100c4-acc6-4522-af87-b7bd9cf13968",
+                    "title": "For You Blue",
+                    "disambiguation": "live, 1974: Tarrant County Convention Center, Fort Worth, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b316a7e9-02ba-4569-a7b7-de52fa46d227",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b316a7e9-02ba-4569-a7b7-de52fa46d227",
+                    "title": "For You Blue"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c314249-6ddf-4f92-bd56-9ffc06a49ec7",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c314249-6ddf-4f92-bd56-9ffc06a49ec7",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83cb5e92-d668-404d-b369-168c03b5ac9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "83cb5e92-d668-404d-b369-168c03b5ac9c",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0eff7464-84ae-4966-bb34-b2af9180f6c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "0eff7464-84ae-4966-bb34-b2af9180f6c1",
+                    "title": "For You Blue",
+                    "length": "251000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0116f6cf-5322-4a38-ba09-6764be406e16",
+                "direction": "backward",
+                "recording": {
+                    "id": "0116f6cf-5322-4a38-ba09-6764be406e16",
+                    "title": "For You Blue",
+                    "length": "289600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb3796fe-f48e-47f6-806b-8116f36111be",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cb3796fe-f48e-47f6-806b-8116f36111be",
+                    "title": "For You Blue",
+                    "length": "251533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d467ab8-9dad-4dc6-9733-40b89d097c3b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d467ab8-9dad-4dc6-9733-40b89d097c3b",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7fb9a9a-5fa9-4da0-8947-af6cfc0a4ab7",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7fb9a9a-5fa9-4da0-8947-af6cfc0a4ab7",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d270d93a-838d-499a-887a-7675b7c331af",
+                "direction": "backward",
+                "recording": {
+                    "id": "d270d93a-838d-499a-887a-7675b7c331af",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "654e242a-4291-410e-bf52-22895f2ab4a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "654e242a-4291-410e-bf52-22895f2ab4a7",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e9c9590-8b77-4968-ab05-b9f56cea9320",
+                "direction": "backward",
+                "recording": {
+                    "id": "9e9c9590-8b77-4968-ab05-b9f56cea9320",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc4e7401-e317-4c80-a859-99381ea30cf1",
+                "direction": "backward",
+                "recording": {
+                    "id": "bc4e7401-e317-4c80-a859-99381ea30cf1",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1787537d-8b11-45e1-8363-95519a82aedb",
+                "direction": "backward",
+                "recording": {
+                    "id": "1787537d-8b11-45e1-8363-95519a82aedb",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b677036b-aff4-4511-a96a-1b37625e1d7b",
+                "direction": "backward",
+                "recording": {
+                    "id": "b677036b-aff4-4511-a96a-1b37625e1d7b",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e28a277a-133a-45fc-8cbb-4efc536098e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "e28a277a-133a-45fc-8cbb-4efc536098e9",
+                    "title": "For You Blue",
+                    "length": "449000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "539b568a-e031-473b-bb1b-e44d48c67e8c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "539b568a-e031-473b-bb1b-e44d48c67e8c",
+                    "title": "For You Blue",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d245142a-f3c3-4215-a8c0-52f3afdff994",
+                "direction": "backward",
+                "recording": {
+                    "id": "d245142a-f3c3-4215-a8c0-52f3afdff994",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa440b7b-c765-4dc5-98b2-1cb1bf147465",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa440b7b-c765-4dc5-98b2-1cb1bf147465",
+                    "title": "For You Blue",
+                    "length": "195000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa1d46d5-6fb9-46dc-89f0-7756ef77098e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "aa1d46d5-6fb9-46dc-89f0-7756ef77098e",
+                    "title": "For You Blue",
+                    "length": "324626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6929403-5414-499a-b148-556c96f44bd6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e6929403-5414-499a-b148-556c96f44bd6",
+                    "title": "For You Blue",
+                    "length": "309400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bb452f2-433b-4ec2-a694-8ed9163aa693",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4bb452f2-433b-4ec2-a694-8ed9163aa693",
+                    "title": "For You Blue",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1fba5a81-9cf8-47c6-b619-3f6f7260fe0a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1fba5a81-9cf8-47c6-b619-3f6f7260fe0a",
+                    "title": "For You Blue",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe300882-16cf-44c6-84f6-54044da87b0c",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe300882-16cf-44c6-84f6-54044da87b0c",
+                    "title": "For You Blue",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9436c600-6cba-4123-9655-543440e9113c",
+                "direction": "backward",
+                "recording": {
+                    "id": "9436c600-6cba-4123-9655-543440e9113c",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "371b61dc-9da0-47de-b751-48d9e559b40c",
+                "direction": "backward",
+                "recording": {
+                    "id": "371b61dc-9da0-47de-b751-48d9e559b40c",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08f17e67-b842-49ac-96bf-bccc411ba4f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "08f17e67-b842-49ac-96bf-bccc411ba4f2",
+                    "title": "For You Blue",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93c9b047-0801-41f9-8ef3-a6d6b8064647",
+                "direction": "backward",
+                "recording": {
+                    "id": "93c9b047-0801-41f9-8ef3-a6d6b8064647",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ecffae9-256b-4992-8a11-f10fcfc6c0a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "2ecffae9-256b-4992-8a11-f10fcfc6c0a5",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1de95cba-c0f4-49b9-b438-2ddb9a72ffda",
+                "direction": "backward",
+                "recording": {
+                    "id": "1de95cba-c0f4-49b9-b438-2ddb9a72ffda",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1ce0635-41f5-4d39-b5ce-89349a741956",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1ce0635-41f5-4d39-b5ce-89349a741956",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d08aa66-aec1-4878-83fa-d7bf7209567a",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d08aa66-aec1-4878-83fa-d7bf7209567a",
+                    "title": "For You Blue",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4a9b706-e414-4660-8ecd-345de8d47f97",
+                "direction": "backward",
+                "recording": {
+                    "id": "d4a9b706-e414-4660-8ecd-345de8d47f97",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "277216be-82a4-480b-aaf7-764b7fb3460d",
+                "direction": "backward",
+                "recording": {
+                    "id": "277216be-82a4-480b-aaf7-764b7fb3460d",
+                    "title": "For You Blue",
+                    "length": "196000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "840ac9c8-41be-47b0-b3ec-e43a6046ea01",
+                "direction": "backward",
+                "recording": {
+                    "id": "840ac9c8-41be-47b0-b3ec-e43a6046ea01",
+                    "title": "For You Blue",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "164fcde4-b5d4-4e6f-9242-395c77662165",
+                "direction": "backward",
+                "recording": {
+                    "id": "164fcde4-b5d4-4e6f-9242-395c77662165",
+                    "title": "For You Blue",
+                    "length": "172173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ad50be5-ec44-489e-8204-b3daf6264831",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ad50be5-ec44-489e-8204-b3daf6264831",
+                    "title": "For You Blue",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66bf53ff-68a4-4d4d-bbfd-18142cb782a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "66bf53ff-68a4-4d4d-bbfd-18142cb782a7",
+                    "title": "For You Blue",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bfb4983-29b7-4b3c-af6d-6eff8ea2d2a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "2bfb4983-29b7-4b3c-af6d-6eff8ea2d2a6",
+                    "title": "For You Blue",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59fda365-6a15-4d79-b25f-48adabcdda51",
+                "direction": "backward",
+                "recording": {
+                    "id": "59fda365-6a15-4d79-b25f-48adabcdda51",
+                    "title": "For You Blue",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf0417ab-ff20-4737-875d-6910647c75e8",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf0417ab-ff20-4737-875d-6910647c75e8",
+                    "title": "For You Blue",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba46cfba-051f-4668-8809-1bccb79dbdcc",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba46cfba-051f-4668-8809-1bccb79dbdcc",
+                    "title": "For You Blue",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "474e1e79-98c3-491b-8e44-5b92812064ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "474e1e79-98c3-491b-8e44-5b92812064ac",
+                    "title": "For You Blue",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "225655b3-26e2-429e-948e-a42c2e4735dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "225655b3-26e2-429e-948e-a42c2e4735dc",
+                    "title": "For You Blue",
+                    "length": "49000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "afeb76a9-2ee0-4561-8e6d-bd368e466a3b",
+                "direction": "backward",
+                "recording": {
+                    "id": "afeb76a9-2ee0-4561-8e6d-bd368e466a3b",
+                    "title": "For You Blue",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3343a33e-de45-4f4d-80c3-0c1bd1ee2dd6",
+                "direction": "backward",
+                "recording": {
+                    "id": "3343a33e-de45-4f4d-80c3-0c1bd1ee2dd6",
+                    "title": "For You Blue",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4dca7e2-20f8-48d8-b8de-c3115541150f",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4dca7e2-20f8-48d8-b8de-c3115541150f",
+                    "title": "For You Blue",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d956ef7f-c8ef-4e94-93f4-03b703691ae8",
+                "direction": "backward",
+                "recording": {
+                    "id": "d956ef7f-c8ef-4e94-93f4-03b703691ae8",
+                    "title": "For You Blue",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc9bdc66-1dc8-493b-8129-050d0837df44",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc9bdc66-1dc8-493b-8129-050d0837df44",
+                    "title": "For You Blue",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "feea4a74-b8bd-458d-9698-663c5c9a7451",
+                "direction": "backward",
+                "recording": {
+                    "id": "feea4a74-b8bd-458d-9698-663c5c9a7451",
+                    "title": "For You Blue",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dca1b9c4-98f5-4e67-8e53-0fc86698cc44",
+                "direction": "backward",
+                "recording": {
+                    "id": "dca1b9c4-98f5-4e67-8e53-0fc86698cc44",
+                    "title": "For You Blue",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8220d11-b802-45f1-bfdd-42ff504cdaed",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8220d11-b802-45f1-bfdd-42ff504cdaed",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "080ef023-f63e-4810-a353-2b965c0ef8ea",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "080ef023-f63e-4810-a353-2b965c0ef8ea",
+                    "title": "For You Blue"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e227b5e-364a-4ccc-a22e-98ce3732183d",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e227b5e-364a-4ccc-a22e-98ce3732183d",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65279108-1e5b-4271-8afc-197ddfdb0f6e",
+                "direction": "backward",
+                "recording": {
+                    "id": "65279108-1e5b-4271-8afc-197ddfdb0f6e",
+                    "title": "For You Blue",
+                    "length": "299826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a10121c2-870a-4bef-884b-5f3bc27ab7f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "a10121c2-870a-4bef-884b-5f3bc27ab7f3",
+                    "title": "For You Blue",
+                    "length": "211000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4846e7ea-0b83-4aef-93fa-fdac8d145147",
+                "direction": "backward",
+                "recording": {
+                    "id": "4846e7ea-0b83-4aef-93fa-fdac8d145147",
+                    "title": "For You Blue",
+                    "length": "176293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ad425d7-7a93-4648-97aa-aa707e4688a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ad425d7-7a93-4648-97aa-aa707e4688a8",
+                    "title": "For You Blue",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67e1274d-62be-4993-bcbf-7fb090c51769",
+                "direction": "backward",
+                "recording": {
+                    "id": "67e1274d-62be-4993-bcbf-7fb090c51769",
+                    "title": "For You Blue",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5839cf77-686b-4c5f-bc7b-d7053b101402",
+                "direction": "backward",
+                "recording": {
+                    "id": "5839cf77-686b-4c5f-bc7b-d7053b101402",
+                    "title": "For You Blue",
+                    "length": "133413"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17669bef-7ab8-4928-adaa-cfbf328af1ca",
+                "direction": "backward",
+                "recording": {
+                    "id": "17669bef-7ab8-4928-adaa-cfbf328af1ca",
+                    "title": "For You Blue"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c564f8b5-e371-4c15-995c-21c9e66771e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "c564f8b5-e371-4c15-995c-21c9e66771e2",
+                    "title": "For You Blue (Glyn Johns mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15b2a39f-fc7f-436c-87ba-740617a0123e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "15b2a39f-fc7f-436c-87ba-740617a0123e",
+                    "title": "For You Blue (Landover, Capital Centre)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2e4738e-a564-4991-95d0-1b8b7e6e8c6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2e4738e-a564-4991-95d0-1b8b7e6e8c6b",
+                    "title": "For You Blue (Let It Be outtake)",
+                    "length": "102000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "188b7a9c-06d3-4b2b-948b-018de6b3622a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "188b7a9c-06d3-4b2b-948b-018de6b3622a",
+                    "title": "For You Blue (live)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad5320fd-d628-4877-ab37-66f0ee91cbc9",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad5320fd-d628-4877-ab37-66f0ee91cbc9",
+                    "title": "For You Blue (remix track)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "979df168-19f6-40a0-8d88-de11586f0208",
+                "direction": "backward",
+                "recording": {
+                    "id": "979df168-19f6-40a0-8d88-de11586f0208",
+                    "title": "For Your Blue",
+                    "length": "162000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-for-you-blue-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/36234",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=187",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2412325",
+                "direction": "backward"
+            }
+        ]
+    }
+}

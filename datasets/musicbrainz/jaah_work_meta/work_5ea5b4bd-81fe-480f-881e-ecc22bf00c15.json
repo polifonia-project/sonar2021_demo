@@ -1,0 +1,50 @@
+{
+    "work": {
+        "id": "5ea5b4bd-81fe-480f-881e-ecc22bf00c15",
+        "title": "A Handful of Riffs",
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "dbfd61ef-fce1-4803-9f18-7bfdd3996508",
+                "direction": "backward",
+                "artist": {
+                    "id": "dbfd61ef-fce1-4803-9f18-7bfdd3996508",
+                    "type": "Person",
+                    "name": "Lonnie Johnson",
+                    "sort-name": "Johnson, Lonnie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "7c6e10c8-7896-4624-a46b-2f3b5784d2d6",
+                "direction": "backward",
+                "artist": {
+                    "id": "7c6e10c8-7896-4624-a46b-2f3b5784d2d6",
+                    "type": "Person",
+                    "name": "Eddie Lang",
+                    "sort-name": "Lang, Eddie",
+                    "disambiguation": "US jazz guitarist, also recordeded as Blind Willie Dunn"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8fe08a8-b51e-4588-9547-9731134883f7",
+                "direction": "backward",
+                "begin": "1929-05-09",
+                "end": "1929-05-09",
+                "ended": "true",
+                "recording": {
+                    "id": "d8fe08a8-b51e-4588-9547-9731134883f7",
+                    "title": "A Handful of Riffs",
+                    "length": "186693",
+                    "disambiguation": "matrix no. 401869-A"
+                }
+            }
+        ]
+    }
+}

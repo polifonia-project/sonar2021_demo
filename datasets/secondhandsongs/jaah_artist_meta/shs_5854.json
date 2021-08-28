@@ -1,0 +1,62 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/5854",
+    "commonName": "Cannonball Adderley",
+    "realName": "Julian Edwin Adderley",
+    "birthDate": "1928-09-15",
+    "deathDate": "1975-08-08",
+    "picture": "https://secondhandsongs.com/picture/54853",
+    "homeCountry": "US",
+    "comments": "Hard bop, soul jazz and mainstream jazz alto saxophonist.",
+    "aliases": [
+        "\"Cannonball\" Adderley",
+        "Cannonball Adderley and His Orchestra",
+        "Cannonball Adderley Orchestra",
+        "Cannonball Adderley Quartet",
+        "The Cannonball Adderley Quartet",
+        "Cannonball Adderley Quintet",
+        "The Cannonball Adderley Quintet",
+        "The Cannonball Adderley Quintet with Strings",
+        "Cannonball Adderley Sextet",
+        "The Cannonball Adderley Sextet",
+        "Cannonball Adderley and Strings",
+        "Julian Adderley Quintet",
+        "Julian \"Cannonball\" Adderley"
+    ],
+    "relations": [
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/12319",
+                "commonName": "Joe Zawinul"
+            },
+            "comments": "Member of The Cannonball Adderley Quintet"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/12320",
+                "commonName": "Nat Adderley"
+            },
+            "comments": "Brother"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/50938",
+                "commonName": "Nat Adderley Jr."
+            },
+            "comments": "Nephew"
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/5854/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/5854/works",
+    "releases": "https://secondhandsongs.com/artist/5854/releases"
+}

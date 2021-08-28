@@ -1,0 +1,103 @@
+{
+    "work": {
+        "id": "3553ba31-2a03-407d-8278-e8ba69b5d3bb",
+        "type": "Song",
+        "title": "Just Over in the Glory Land",
+        "language": "eng",
+        "alias-list": [
+            {
+                "locale": "ru",
+                "sort-name": "\u0413\u043b\u043e\u0440\u0438\u043b\u0435\u043d\u0434",
+                "type": "Work name",
+                "alias": "\u0413\u043b\u043e\u0440\u0438\u043b\u0435\u043d\u0434"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "50e099f1-727e-4efe-9e3f-0a83035e9ec6",
+                "direction": "backward",
+                "artist": {
+                    "id": "50e099f1-727e-4efe-9e3f-0a83035e9ec6",
+                    "type": "Person",
+                    "name": "Emmett Sidney Dean",
+                    "sort-name": "Dean, Emmett Sidney"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "e853b76b-8f5c-45e2-8d8a-b85a6af0eab8",
+                "direction": "backward",
+                "artist": {
+                    "id": "e853b76b-8f5c-45e2-8d8a-b85a6af0eab8",
+                    "type": "Person",
+                    "name": "James Warren Acuff",
+                    "sort-name": "Acuff James W"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "043694ff-e370-43f2-a68b-84a476f96194",
+                "direction": "backward",
+                "begin": "1945-05-18",
+                "end": "1945-05-18",
+                "ended": "true",
+                "recording": {
+                    "id": "043694ff-e370-43f2-a68b-84a476f96194",
+                    "title": "In Gloryland",
+                    "length": "184000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "600bc364-1c75-4c0e-8c89-78393ca04458",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "600bc364-1c75-4c0e-8c89-78393ca04458",
+                    "title": "Gloryland",
+                    "length": "76000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6157cc12-349d-4125-a802-5027c96ac837",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "6157cc12-349d-4125-a802-5027c96ac837",
+                    "title": "Gloryland / \u041e\u0447\u0438 \u0427\u0435\u0440\u043d\u044b\u0435 / Down By The Riverside / When The Saints Go Marchin' In"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,754 @@
+{
+    "work": {
+        "id": "36a7641a-270d-3330-b1ac-7f1f09f86c27",
+        "type": "Song",
+        "title": "Maggie Mae",
+        "language": "eng",
+        "iswc": "T-010.098.637-5",
+        "iswc-list": [
+            "T-010.098.637-5"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358036"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "9163334"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "10541682"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358036"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "9163334"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "10541682"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3321431"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "019630491"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "050396200"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "80120P"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "0835DS"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-015773516"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00826799"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9002071"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "20232301"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6334452"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "942378"
+            }
+        ],
+        "disambiguation": "Beatles",
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                "direction": "backward",
+                "artist": {
+                    "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                    "type": "Person",
+                    "name": "Ringo Starr",
+                    "sort-name": "Starr, Ringo",
+                    "disambiguation": "The Beatles"
+                },
+                "target-credit": "Richard Starkey"
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "ccb6feec-33d8-4ae9-9d5f-8924197a52ad",
+                "direction": "backward",
+                "label": {
+                    "id": "ccb6feec-33d8-4ae9-9d5f-8924197a52ad",
+                    "name": "Eaton Music Limited",
+                    "sort-name": "Eaton Music Limited"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a65205b-a9ed-4f6f-821c-807a88246195",
+                "direction": "backward",
+                "label": {
+                    "id": "0a65205b-a9ed-4f6f-821c-807a88246195",
+                    "type": "Publisher",
+                    "name": "Startling Music Inc.",
+                    "sort-name": "Startling Music Inc."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                "direction": "backward",
+                "begin": "1969-01-24",
+                "end": "1969-01-24",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                    "title": "Fly on the Wall",
+                    "length": "1317133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "342a7655-887f-4e3f-95a1-d45f8e2df166",
+                "direction": "backward",
+                "begin": "1969-01-24",
+                "end": "1969-01-24",
+                "ended": "true",
+                "recording": {
+                    "id": "342a7655-887f-4e3f-95a1-d45f8e2df166",
+                    "title": "Maggie Mae",
+                    "length": "40000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "088c6668-2b43-437e-93f0-5dd258367c70",
+                "direction": "backward",
+                "begin": "1969-01-24",
+                "end": "1969-01-24",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "088c6668-2b43-437e-93f0-5dd258367c70",
+                    "title": "Maggie Mae",
+                    "length": "22000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8238e4d-aa97-4102-a30f-aafee08a9d17",
+                "direction": "backward",
+                "begin": "2003-06-01",
+                "end": "2003-06-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e8238e4d-aa97-4102-a30f-aafee08a9d17",
+                    "title": "Maggie Mae",
+                    "length": "307773",
+                    "disambiguation": "live, 2003-06-01: King's Dock, Liverpool, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f919c828-ddf8-409f-8228-d8ebab00d0f8",
+                "direction": "backward",
+                "recording": {
+                    "id": "f919c828-ddf8-409f-8228-d8ebab00d0f8",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "564e3baf-fdc5-4225-9776-0fc1287e76ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "564e3baf-fdc5-4225-9776-0fc1287e76ac",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1198bd0c-12c0-4626-a651-dab5f2105a5c",
+                "direction": "backward",
+                "recording": {
+                    "id": "1198bd0c-12c0-4626-a651-dab5f2105a5c",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc50e7bc-d44a-422b-b390-106815b8135b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc50e7bc-d44a-422b-b390-106815b8135b",
+                    "title": "Maggie Mae",
+                    "length": "120760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce44ee6f-896e-4cbb-9b33-cac91e92ee33",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ce44ee6f-896e-4cbb-9b33-cac91e92ee33",
+                    "title": "Maggie Mae",
+                    "length": "140000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc0d5ce9-f280-4efe-b9fb-3e228b40ec76",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc0d5ce9-f280-4efe-b9fb-3e228b40ec76",
+                    "title": "Maggie Mae",
+                    "length": "205306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c742cdcf-2210-4ebc-85d2-ff3c32e8c672",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c742cdcf-2210-4ebc-85d2-ff3c32e8c672",
+                    "title": "Maggie Mae"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d6b3bb2-0282-4653-a76a-bb7a8a556edc",
+                "direction": "backward",
+                "recording": {
+                    "id": "1d6b3bb2-0282-4653-a76a-bb7a8a556edc",
+                    "title": "Maggie Mae",
+                    "length": "41733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2afb4fe2-ae64-4afa-8d3a-5bbbe65db836",
+                "direction": "backward",
+                "recording": {
+                    "id": "2afb4fe2-ae64-4afa-8d3a-5bbbe65db836",
+                    "title": "Maggie Mae",
+                    "length": "89494"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3516e449-7426-4d9b-aff0-fa56c2e7b94f",
+                "direction": "backward",
+                "recording": {
+                    "id": "3516e449-7426-4d9b-aff0-fa56c2e7b94f",
+                    "title": "Maggie Mae",
+                    "length": "40000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3cc8c83-50a4-4b7b-9a05-1f48c149a415",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b3cc8c83-50a4-4b7b-9a05-1f48c149a415",
+                    "title": "Maggie Mae",
+                    "length": "40000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee55b9fe-8a84-401f-b044-588bc5cb40e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee55b9fe-8a84-401f-b044-588bc5cb40e6",
+                    "title": "Maggie Mae",
+                    "length": "26920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10e5b094-7503-4793-aeee-4cf8181aea56",
+                "direction": "backward",
+                "recording": {
+                    "id": "10e5b094-7503-4793-aeee-4cf8181aea56",
+                    "title": "Maggie Mae",
+                    "length": "24000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a030240-c1f5-4096-a1b7-5d304b65a414",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a030240-c1f5-4096-a1b7-5d304b65a414",
+                    "title": "Maggie Mae",
+                    "length": "23000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f2dd7e0-533a-40a6-b03f-b97ea4f4d0d9",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f2dd7e0-533a-40a6-b03f-b97ea4f4d0d9",
+                    "title": "Maggie Mae",
+                    "length": "26000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba46c217-2810-45c3-8d87-ac5d0dd63306",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba46c217-2810-45c3-8d87-ac5d0dd63306",
+                    "title": "Maggie Mae",
+                    "length": "24280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff73c95a-2c6e-44cb-87b5-b9e34159fd86",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff73c95a-2c6e-44cb-87b5-b9e34159fd86",
+                    "title": "Maggie Mae",
+                    "length": "53866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4fcbf1c-8494-45b8-8725-65e346bc8add",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4fcbf1c-8494-45b8-8725-65e346bc8add",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0272ea82-7634-4f84-abba-d8a052474914",
+                "direction": "backward",
+                "recording": {
+                    "id": "0272ea82-7634-4f84-abba-d8a052474914",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "309ec6b2-ba65-4983-8f63-d9f8e9fc836f",
+                "direction": "backward",
+                "recording": {
+                    "id": "309ec6b2-ba65-4983-8f63-d9f8e9fc836f",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55890c06-cbcc-4669-9be0-693031b3b738",
+                "direction": "backward",
+                "recording": {
+                    "id": "55890c06-cbcc-4669-9be0-693031b3b738",
+                    "title": "Maggie Mae",
+                    "length": "38000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6af96a70-8aa7-4eac-b17b-97bc846544de",
+                "direction": "backward",
+                "recording": {
+                    "id": "6af96a70-8aa7-4eac-b17b-97bc846544de",
+                    "title": "Maggie Mae",
+                    "length": "56000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b8b17f2-5833-4e12-b3b5-0d48de8f0f73",
+                "direction": "backward",
+                "recording": {
+                    "id": "0b8b17f2-5833-4e12-b3b5-0d48de8f0f73",
+                    "title": "Maggie Mae",
+                    "length": "38000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1ec0138-7f87-4422-a9af-7e66afddf6fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1ec0138-7f87-4422-a9af-7e66afddf6fd",
+                    "title": "Maggie Mae",
+                    "length": "42000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e2fa916-6eb1-4a87-bbb9-7b97ee8df61a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1e2fa916-6eb1-4a87-bbb9-7b97ee8df61a",
+                    "title": "Maggie Mae"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce5fb0ee-7d8a-4f2c-973e-da4725f13479",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce5fb0ee-7d8a-4f2c-973e-da4725f13479",
+                    "title": "Maggie Mae"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b315340f-d7c8-4677-9939-e97acdc1a7e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "b315340f-d7c8-4677-9939-e97acdc1a7e7",
+                    "title": "Maggie Mae",
+                    "length": "49000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f47353c-9d16-4a12-996f-3a391fb10912",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f47353c-9d16-4a12-996f-3a391fb10912",
+                    "title": "Maggie Mae (From The Session)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44b1e083-0995-4f6c-a786-1128e9db6818",
+                "direction": "backward",
+                "recording": {
+                    "id": "44b1e083-0995-4f6c-a786-1128e9db6818",
+                    "title": "Maggie Mae (Hit Factory)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "249dd4fb-c28e-4280-8ec5-bda257a02182",
+                "direction": "backward",
+                "recording": {
+                    "id": "249dd4fb-c28e-4280-8ec5-bda257a02182",
+                    "title": "Maggie May",
+                    "length": "40560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad9980c1-5530-4fba-8b56-80192a242b71",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad9980c1-5530-4fba-8b56-80192a242b71",
+                    "title": "Maggie May",
+                    "length": "39000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-maggie-mae-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/36236",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=183",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q60732721",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Maggie_May_(folk_song)",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "c146f159-0521-45d3-b3ab-b9e8a1978585",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "c146f159-0521-45d3-b3ab-b9e8a1978585",
+                    "type": "Song",
+                    "title": "Maggie Mae",
+                    "disambiguation": "Laibach"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "f77fafa9-c493-485f-b614-c93ea2057d4f",
+                "direction": "backward",
+                "work": {
+                    "id": "f77fafa9-c493-485f-b614-c93ea2057d4f",
+                    "title": "Maggie May",
+                    "disambiguation": "Liverpool folk traditional"
+                }
+            }
+        ]
+    }
+}
