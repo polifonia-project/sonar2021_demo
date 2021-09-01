@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/songfacts/iso-queen/Who_Wants_To_Live_Forever.json>
+        xyz:artist    "Queen" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Who_Wants_To_Live_Forever> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/songfacts/iso-queen/Who_Wants_To_Live_Forever.json> ;
+        xyz:lyrics    "There's no time for us.\nThere's no place for us.\nWhat is this thing that builds our dreams, yet slips away from us?\n\n*Who wants to live forever?(x2)\n\nThere's no chance for us.\nIt's all decided for us.\nThis world has only one sweet moment set aside for us.\n\n*\n\nWho dares to love forever?\nWhen love must die.\n\nBut touch my tears with your lips.\nTouch my woe with your fingertips.\n\nAnd we can have forever.\nAnd we can love forever.\nForever is our today.\n\n*\n\nForever is our today.\nWho waits forever anyway?\n                                                  \n                                                  \n                                                  \n                                                  \n                                                  \n                                                  \n                                                  \n                                                  " ;
+        xyz:title     "Who Wants To Live Forever" .

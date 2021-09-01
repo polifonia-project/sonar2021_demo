@@ -38,3 +38,21 @@ fx -q queries/lyrics-genius.sparql -l output/rdf/genius/ -f CSV -o output/lyrics
 ```
 
 
+### /songfacts
+Input: the `/songfacts` dataset
+
+Output: `output/lyrics-songfacts.csv`
+
+#### Process
+Generate the list of files as a SPARQL JSON result set
+```
+fx -q queries/ls-songfacts.sparql -f JSON -o output/ls-songfacts.json
+```
+Use the SPARQL result set to iterate over files and generate an RDF file for each JSON file (the folder output/rdf/songfacts/ must already exist!)
+```
+fx -q queries/rdf-songfacts.sparql -i output/ls-songfacts.json -f TTL -p output/rdf/songfacts/?filename.ttl
+```
+Generate a single CSV collecting info from the RDF files
+```
+fx -q queries/lyrics-songfacts.sparql -l output/rdf/songfacts/ -f CSV -o output/lyrics-songfacts.csv
+```
