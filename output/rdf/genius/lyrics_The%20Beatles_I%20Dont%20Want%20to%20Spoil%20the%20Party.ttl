@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Dont%20Want%20to%20Spoil%20the%20Party.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_I%20Dont%20Want%20to%20Spoil%20the%20Party> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Dont%20Want%20to%20Spoil%20the%20Party.json> ;
+        xyz:lyrics    "[Intro]\n\n[Verse 1]\nI don't want to spoil the party, so I'll go\nI would hate my disappointment to show\nThere's nothing for me here, so I will disappear\nIf she turns up while I'm gone, please let me know\n\n[Verse 2]\nI've had a drink or two, and I don't care\nThere's no fun in what I do when she's not there\nI wonder what went wrong, I've waited far too long\nI think I'll take a walk and look for her\n\n[Bridge]\nThough tonight she's made me sad\nI still love her\nIf I find her, I'll be glad\nI still love her\n\n[Verse 1]\nI don't want to spoil the party, so I'll go\nI would hate my disappointment to show\nThere's nothing for me here, so I will disappear\nIf she turns up while I'm gone, please let me know\n\n[Instrumental Bridge]\n\n[Bridge]\nThough tonight she's made me sad\nI still love her\nIf I find her, I'll be glad\nI still love her\n\n[Verse 2]\nThough I've had a drink or two, and I don't care\nThere's no fun in what I do if she's not there\nI wonder what went wrong, I've waited far too long\nI think I'll take a walk and look for her\n\n[Outro]" ;
+        xyz:title     "I Don’t Want to Spoil the Party" .

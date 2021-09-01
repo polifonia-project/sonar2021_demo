@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Oh%20Darling.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Oh%20Darling> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Oh%20Darling.json> ;
+        xyz:lyrics    "[Verse 1]\nOh! Darling, please believe me\nI'll never do you no harm\nBelieve me when I tell you\nI'll never do you no harm\n\n[Verse 2]\nOh! Darling, if you leave me\nI'll never make it alone\nBelieve me when I beg you (Woo!)\nDon't ever leave me alone\n\n[Bridge]\nWhen you told me, you didn't need me anymore\nWell, you know I nearly broke down and cried\nWhen you told me, that you didn't need me anymore\nWell, you know I nearly fell down and died\n\n[Verse 3]\nOh! Darling, if you leave me\nI'll never make it alone\nBelieve me when I tell you\nI'll never do you no harm\n(Believe me, darling!)\n\n[Bridge]\nWhen you told me (Woo!) you didn't need me anymore\nWell, you know I nearly broke down and cried\nWhen you told me you didn't need me anymore\nWell, you know I nearly fell down and died\n\n[Verse 4]\nOh! Darling, please believe me\nI'll never let you down\n(Oh! Believe me, darling)\nBelieve me when I tell you\nI'll never do you no harm" ;
+        xyz:title     "Oh! Darling" .

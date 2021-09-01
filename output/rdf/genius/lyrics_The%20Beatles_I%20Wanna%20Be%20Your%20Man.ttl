@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Wanna%20Be%20Your%20Man.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_I%20Wanna%20Be%20Your%20Man> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Wanna%20Be%20Your%20Man.json> ;
+        xyz:lyrics    "[Verse 1]\nI want to be your lover baby\nI want to be your man\nI want to be your lover baby\nI want to be your man\nLove you like no other baby\nLike no other can\nLove you like no other baby\nLike no other can\n\n[Chorus]\nI want to be your man, I want to be your man\nI want to be your man, I want to be your man\n\n[Verse 2]\nTell me that you love me baby\nLet me understand\nTell me that you love me baby\nI want to be your man\nI want to be your lover baby\nI want to be your man\nI want to be your lover baby\nI want to be your man\n\n[Verse 3]\nI want to be your lover baby\nI want to be your man\nI want to be your lover baby\nI want to be your man\nLove you like no other baby\nLike no other can\nLove you like no other baby\nLike no other can\n\n[Chorus]\nI want to be your man, I want to be your man\nI want to be your man, I want to be your man" ;
+        xyz:title     "I Wanna Be Your Man" .

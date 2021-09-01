@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_All%20Ive%20Got%20To%20Do.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_All%20Ive%20Got%20To%20Do> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_All%20Ive%20Got%20To%20Do.json> ;
+        xyz:lyrics    "[Verse 1]\nWhenever I want you around, yeah\nAll I got to do\nIs call you on the phone\nAnd you'll come running home\nYeah, that's all I got to do\n\n[Verse 2]\nAnd when I, I want to kiss you, yeah\nAll I got to do\nIs whisper in your ear\nThe words you long to hear\nAnd I'll be kissin' you\n\n[Bridge]\nAnd the same goes for me\nWhenever you want me at all\nI'll be here, yes, I will\nWhenever you call\nYou just got to call on me, yeah\nYou just got to call on me\n\n[Verse 2]\nAnd when I, I want to kiss you, yeah\nAll I got to do\nIs call you on the phone\nAnd you'll come runnin' home\nYeah, that's all I got to do\n\n[Bridge]\nAnd the same goes for me\nWhenever you want me at all\nI'll be here, yes, I will\nWhenever you call\nYou just got to call on me, yeah\nYou just got to call on me" ;
+        xyz:title     "All I’ve Got to Do" .

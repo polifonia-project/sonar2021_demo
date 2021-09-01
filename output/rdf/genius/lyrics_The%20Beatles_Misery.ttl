@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Misery.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Misery> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Misery.json> ;
+        xyz:lyrics    "[Intro]\nThe world is treating me bad, misery\n\n[Verse 1]\nI'm the kind of guy\nWho never used to cry\nThe world is treating me bad, misery\n\n[Verse 2]\nI've lost her now for sure\nI won't see her no more\nIt's gonna be a drag, misery\n\n[Bridge]\nI'll remember all the little things we've done\nCan't she see she'll always be the only one, only one\n[Verse 3]\nSend her back to me\n'Cause everyone can see\nWithout her I will be in misery\n[Bridge]\nI'll remember all the little things we've done\nShe’ll remember and she’ll miss her only one, lonely one\n[Verse 3 - Outro]\nSend her back to me\n'Cause everyone can see\nWithout her I will be in misery (Oh oh oh)\nIn misery (Ooh ooh)\nMy misery (La la la la la la)\nMisery3EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Misery" .

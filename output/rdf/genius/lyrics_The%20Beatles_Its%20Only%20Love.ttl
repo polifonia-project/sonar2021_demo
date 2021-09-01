@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Its%20Only%20Love.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Its%20Only%20Love> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Its%20Only%20Love.json> ;
+        xyz:lyrics    "[Verse 1]\nI get high when I see you go by\nMy, oh, my\nWhen you sigh, my, my inside just flies\nButterflies\nWhy am I so shy when I'm beside you?\n\n[Chorus]\nIt's only love and that is all\nWhy should I feel the way I do?\nIt's only love, and that is all\nBut it's so hard loving you\n\n[Verse 2]\nIs it right that you and I should fight\nEvery night?\nJust the sight of you makes nighttime bright\nVery bright\nHaven't I the right to make it up, girl?\n\n[Chorus]\nIt's only love and that is all\nWhy should I feel the way I do?\nIt's only love, and that is all\nBut it's so hard loving you\n\n[Outro]\nYes, it's so hard loving you, loving you" ;
+        xyz:title     "It’s Only Love" .

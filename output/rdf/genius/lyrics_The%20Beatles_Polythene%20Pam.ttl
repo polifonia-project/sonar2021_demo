@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Polythene%20Pam.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Polythene%20Pam> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Polythene%20Pam.json> ;
+        xyz:lyrics    "[Verse 1]\nWell, you should see Polythene Pam\nShe's so good-looking, but she looks like a man\nWell, you should see her in drag dressed in her polythene bag\nYes, you should see Polythene Pam\nYeah, yeah, yeah\n\n[Verse 2]\nGet a dose of her in jackboots and kilt\nShe's killer-diller when she's dressed to the hilt\nShe's the kind of a girl that makes \"The News of the World\"\nYes, you could say she was attractively built\nYeah, yeah, yeah\n(Hey!) Great!" ;
+        xyz:title     "Polythene Pam" .

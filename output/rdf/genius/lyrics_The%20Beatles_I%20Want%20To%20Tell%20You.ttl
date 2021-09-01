@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Want%20To%20Tell%20You.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_I%20Want%20To%20Tell%20You> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Want%20To%20Tell%20You.json> ;
+        xyz:lyrics    "[Verse 1]\nI want to tell you\nMy head is filled with things to say\nWhen you're here\nAll those words, they seem to slip away\n\n[Verse 2]\nWhen I get near you\nThe games begin to drag me down\nIt's all right\nI'll make you maybe next time around\n\n[Bridge 1]\nBut if I seem to act unkind\nIt's only me, it's not my mind\nThat is confusing things\n\n[Verse 3]\nI want to tell you\nI feel hung up but I don't know why\nI don't mind\nI could wait forever, I've got time\n\n[Bridge 2]\nSometimes I wish I knew you well\nThen I could speak my mind and tell you\nMaybe you'd understand\n[Verse 3]\nI want to tell you\nI feel hung up but I don't know why\nI don't mind\nI could wait forever, I've got time\n\n[Outro]\nI've got time\nI've got time3EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "I Want to Tell You" .

@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Sun%20King.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Sun%20King> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Sun%20King.json> ;
+        xyz:lyrics    "[Chorus]\nAaah, here come the sun king\nHere come the sun king\n\n[Bridge]\nEverybody's laughing\nEverybody's happy\n\n[Chorus]\nHere come the sun king\n\n[Outro]\nQuando para mucho mi amore de felice corazón\nMundo paparazzi mi amore chicka ferdy parasol\nCuesto obrigado tanta mucho que canite carousel" ;
+        xyz:title     "Sun King" .

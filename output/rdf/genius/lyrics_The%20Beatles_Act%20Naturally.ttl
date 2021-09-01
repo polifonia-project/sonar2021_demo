@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Act%20Naturally.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Act%20Naturally> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Act%20Naturally.json> ;
+        xyz:lyrics    "[Verse 1]\nThey're gonna put me in the movies\nThey're gonna make a big star out of me\nWe'll make a film about a man that's sad and lonely\nAnd all I gotta do is act naturally\n\n[Chorus]\nWell I'll bet you I'm gonna be a big star\nMight win an Oscar, you can never tell\nThe movies gonna make me a big star\n'Cause I can play the part so well\n\n[Verse 2]\nWell I hope you'll come and see me in the movies\nThen I know that you will plainly see\nThe biggest fool that ever hit the big time\nAnd all I gotta do is act naturally\n\n[Verse 3]\nWe'll make the scene about a man that's sad and lonely\nAnd begging down upon his bended knee\nI'll play the part and I won't need rehearsing\nAll I have to do is act naturally\n\n[Chorus]\nWell I'll bet you I'm gonna be a big star\nMight win an Oscar, you can never tell\nThe movies gonna make me a big star\n'Cause I can play the part so well\n\n[Verse 2]\nWell I hope you'll come and see me in the movies\nThen I know that you will plainly see\nThe biggest fool that ever hit the big time\nAnd all I gotta do is act naturally" ;
+        xyz:title     "Act Naturally" .

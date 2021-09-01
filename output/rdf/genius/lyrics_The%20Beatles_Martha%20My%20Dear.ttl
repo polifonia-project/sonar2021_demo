@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Martha%20My%20Dear.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Martha%20My%20Dear> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Martha%20My%20Dear.json> ;
+        xyz:lyrics    "[Intro]\n\n[Verse 1]\nMartha, my dear\nThough I spend my days in conversation\nPlease, remember me\nMartha, my love\nDon't forget me\nMartha, my dear\n\n[Bridge 1]\nHold your head up, you silly girl\nLook what you've done\nWhen you find yourself in the thick of it\nHelp yourself to a bit of what is all around you\nSilly girl\n\n[Bridge 2]\nTake a good look around you\nTake a good look, you're bound to see\nThat you and me were meant to be for each other\nSilly girl\n\n[Instrumental break]\n\n[Bridge 1]\nHold your hand out, you silly girl\nSee what you've done\nWhen you find yourself in the thick of it\nHelp yourself to a bit of what is all around you\nSilly girl\n[Verse 2]\nMartha, my dear\nYou have always been my inspiration\nPlease, be good to me\nMartha, my love\nDon't forget me\nMartha, my dear2EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Martha My Dear" .

@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_The%20End.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_The%20End> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_The%20End.json> ;
+        xyz:lyrics    "[Verse 1]\nOh yeah, alright\nAre you going to be in my dreams\nTonight?\n\n[Drum & Guitar Solos]\n\n[Instrumental Break 0:20-1:32]\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove you, love you\nLove\n\n[Verse 2]\nAnd in the end\nThe love you take\nIs equal to the love you make\n\n[Instrumental Outro 1:49-2:22]" ;
+        xyz:title     "The End" .

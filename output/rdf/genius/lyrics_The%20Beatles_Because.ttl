@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Because.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Because> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Because.json> ;
+        xyz:lyrics    "[Intro]\nAhh\n\n[Verse 1]\nBecause the world is round, it turns me on\nBecause the world is round\nAhh\n\n[Verse 2]\nBecause the wind is high, it blows my mind\nBecause the wind is high\nAhh\n\n[Bridge]\nLove is old, love is new\nLove is all, love is you\n\n[Verse 3]\nBecause the sky is blue, it makes me cry\nBecause the sky is blue\n\n[Outro]\nAh-ah-ah-ah-ah\nAh, ahh-ah, ahh-ah-ah\nAh-ah-ah-ah-ah-ah\nAh, ahh, ahh, ahh\nAhh\nAh-ah-ah-ah-ah\nAhh" ;
+        xyz:title     "Because" .

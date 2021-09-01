@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Not%20A%20Second%20Time.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Not%20A%20Second%20Time> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Not%20A%20Second%20Time.json> ;
+        xyz:lyrics    "[Verse 1]\nYou know you made me cry\nI see no use in wondering why\nI cry for you\n\n[Verse 2]\nAnd now you've changed your mind\nI see no reason to change mine\nI cry it's through, oh\n\n[Chorus]\nYou're giving me the same old line\nI'm wondering why\nYou hurt me then\nYou're back again\nNo, no, no, not a second time\n\n[Instrumental Chorus]\n\n[Verse 1]\nYou know you made me cry\nI see no use in wondering why\nI cry for you\n\n[Verse 2]\nAnd now you've changed your mind\nI see no reason to change mine\nI cry it's through, oh\n\n[Chorus]\nYou're giving me the same old line\nI'm wondering why\nYou hurt me then\nYou're back again\nNo, no, no, not a second time\n\n[Outro]\nNot a second time\nNot a second time\nNo no no no no\nNot a second time" ;
+        xyz:title     "Not a Second Time" .

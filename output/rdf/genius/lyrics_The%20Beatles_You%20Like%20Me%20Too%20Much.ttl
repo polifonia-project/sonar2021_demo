@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_You%20Like%20Me%20Too%20Much.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_You%20Like%20Me%20Too%20Much> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_You%20Like%20Me%20Too%20Much.json> ;
+        xyz:lyrics    "[Verse 1]\nThough you've gone away this morning\nYou'll be back again tonight\nTelling me there'll be no next time\nIf I just don't treat you right\nYou'll never leave me and you know it's true\n'Cause you like me too much and I like you\n\n[Verse 2]\nYou've tried before to leave me\nBut you haven't got the nerve\nTo walk out and make me lonely\nWhich is all that I deserve\nYou'll never leave me and you know it's true\n'Cause you like me too much and I like you\n\n[Bridge]\nI really do, and it's nice when you believe me\nIf you leave me\n\n[Verse 3]\nI will follow you and bring you back where you belong\n'Cause I couldn't really stand it\nI admit that I was wrong\nI wouldn't let you leave me 'cause it's true\n'Cause you like me too much and I like you\n\n[Refrain]\n'Cause you like me too much and I like you\n\n[Bridge]\nI really do, and it's nice when you believe me\nIf you leave me\n\n[Verse 4]\nI will follow you and bring you back where you belong\n'Cause I couldn't really stand it\nI admit that I was wrong\nI wouldn't let you leave me 'cause it's true\n'Cause you like me too much and I like you\n'Cause you like me too much and I like you" ;
+        xyz:title     "You Like Me Too Much" .

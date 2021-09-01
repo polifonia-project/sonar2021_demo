@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Norwegian%20Wood%20This%20Bird%20Has%20Flown.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Norwegian%20Wood%20This%20Bird%20Has%20Flown> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Norwegian%20Wood%20This%20Bird%20Has%20Flown.json> ;
+        xyz:lyrics    "[Verse 1: John Lennon]\nI once had a girl\nOr should I say, she once had me?\nShe showed me her room\n\"Isn't it good, Norwegian wood?\"\n\n[Bridge 1: John Lennon & Paul McCartney]\nShe asked me to stay and she told me to sit anywhere\nSo I looked around and I noticed there wasn't a chair\n\n[Verse 2: John Lennon]\nI sat on the rug\nBiding my time, drinking her wine\nWe talked until two\nAnd then she said, \"It's time for bed\"\n\n[Bridge 2: John Lennon & Paul McCartney]\nShe told me she worked in the morning and started to laugh\nI told her I didn't and crawled off to sleep in the bath\n\n[Verse 3: John Lennon]\nAnd when I awoke\nI was alone, this bird had flown\nSo I lit a fire\nIsn't it good, Norwegian wood?20EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Norwegian Wood (This Bird Has Flown)" .

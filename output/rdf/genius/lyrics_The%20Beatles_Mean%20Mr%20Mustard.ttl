@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Mean%20Mr%20Mustard.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Mean%20Mr%20Mustard> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Mean%20Mr%20Mustard.json> ;
+        xyz:lyrics    "[Verse 1]\nMean Mister Mustard sleeps in the park\nShaves in the dark trying to save paper\nSleeps in a hole in the road\nSaving up to buy some clothes\nKeeps a ten-bob note up his nose\nSuch a mean old man\nSuch a mean old man\n\n[Verse 2]\nHis sister Pam works in a shop\nShe never stops, she's a go-getter\nTakes him out to look at the Queen\nOnly place that he's ever been\nAlways shouts out something obscene\nSuch a dirty old man\nDirty old man" ;
+        xyz:title     "Mean Mr. Mustard" .

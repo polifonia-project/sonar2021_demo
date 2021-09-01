@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Every%20Little%20Thing.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Every%20Little%20Thing> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Every%20Little%20Thing.json> ;
+        xyz:lyrics    "[Intro]\n\n[Verse 1]\nWhen I'm walking beside her\nPeople tell me I'm lucky\nYes, I know I'm a lucky guy\nI remember the first time\nI was lonely without her\nCan't stop thinking about her now\n\n[Chorus]\nEvery little thing she does\nShe does for me, yeah\nAnd you know the things she does\nShe does for me, oooh\n\n[Verse 2]\nWhen I'm with her I'm happy\nJust to know that she loves me\nYes, I know that she loves me now\nThere is one thing I'm sure of\nI will love her forever\nFor I know love will never die\n\n[Chorus]\nEvery little thing she does\nShe does for me, yeah\nAnd you know the things she does\nShe does for me, oooh\n\n[Guitar Solo]\n\n[Chorus]\nEvery little thing she does\nShe does for me, yeah\nAnd you know the things she does\nShe does for me, oooh\n\n[Outro]\nEvery little thing\nEvery little thing" ;
+        xyz:title     "Every Little Thing" .

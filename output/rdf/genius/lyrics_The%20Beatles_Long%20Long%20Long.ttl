@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Long%20Long%20Long.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Long%20Long%20Long> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Long%20Long%20Long.json> ;
+        xyz:lyrics    "[Verse 1]\nIt's been a long, long, long time\nHow could I ever have lost you\nWhen I loved you?\n\n[Verse 2]\nIt took a long, long, long time\nNow I'm so happy I found you\nHow I love you\n\n[Bridge]\nSo many tears I was searching\nSo many tears I was wasting, oh, oh\n\n[Verse 3]\nNow I can see you, be you\nHow can I ever misplace you?\nHow I want you\nOh, I love you\nYou know that I need you\nOh, I love youEmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Long, Long, Long" .

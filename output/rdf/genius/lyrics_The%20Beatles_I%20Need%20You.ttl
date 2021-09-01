@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Need%20You.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_I%20Need%20You> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_I%20Need%20You.json> ;
+        xyz:lyrics    "[Verse 1]\nYou don't realize how much I need you\nLove you all the time and never leave you\nPlease come on back to me\nI'm lonely as can be\nI need you\n\n[Verse 2]\nSaid you had a thing or two to tell me\nHow was I to know you would upset me?\nI didn't realize as I looked in your eyes\nYou told me\n\n[Bridge]\nOh yes, you told me, you don't want my lovin' anymore\nThat's when it hurt me and feeling like this I just can't go on anymore\n\n[Verse 3]\nPlease remember how I feel about you\nI could never really live without you\nSo, come on back and see just what you mean to me. I need you\n\n[Bridge]\nBut when you told me, you don't want my lovin' anymore\nThat's when it hurt me and feeling like this, I just can't go on anymore\n\n[Verse 3]\nPlease remember how I feel about you\nI could never really live without you\nSo, come on back and see just what you mean to me. I need you\nI need you\nI need you" ;
+        xyz:title     "I Need You" .

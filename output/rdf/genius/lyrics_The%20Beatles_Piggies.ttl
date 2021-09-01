@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Piggies.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Piggies> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Piggies.json> ;
+        xyz:lyrics    "[Verse 1]\nHave you seen the little piggies crawling in the dirt?\nAnd for all the little piggies, life is getting worse\nAlways having dirt to play around in\n\n[Verse 2]\nHave you seen the bigger piggies in their starched white shirts?\nYou will find the bigger piggies stirring up the dirt\nAlways have clean shirts to play around in\n\n[Bridge]\nIn their sties with all their backing\nThey don't care what goes on around\nIn their life, there's something lacking\nWhat they need's a damn good whacking!\n\n[Verse 3]\nEverywhere there's lots of piggies living piggy lives\nYou can see them out for dinner with their piggy wives\nClutching forks and knives to eat their bacon\n\n[Outro]\nOne more timeEmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Piggies" .

@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Golden%20Slumbers.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Golden%20Slumbers> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Golden%20Slumbers.json> ;
+        xyz:lyrics    "[Verse 1]\nOnce there was a way to get back homeward\nOnce there was a way to get back home\nSleep pretty darling, do not cry\nAnd I will sing a lullaby\n\n[Chorus]\nGolden slumbers fill your eyes\nSmiles await you when you rise\nSleep pretty darling, do not cry\nAnd I will sing a lullaby\n\n[Verse 2]\nOnce there was a way to get back homeward\nOnce there was a way to get back home\nSleep pretty darling, do not cry\n\n[Outro]\nAnd I will sing a lullaby" ;
+        xyz:title     "Golden Slumbers" .

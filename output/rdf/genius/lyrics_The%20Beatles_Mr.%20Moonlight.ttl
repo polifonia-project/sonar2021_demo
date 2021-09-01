@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Mr.%20Moonlight.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Mr.%20Moonlight> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Mr.%20Moonlight.json> ;
+        xyz:lyrics    "[Intro]\nMr. Moonlight\n\n[Verse 1]\nYou came to me one summer night\nAnd from your beam you made my dream\nAnd from the world you sent my girl\nAnd from above you sent us love\nAnd now she is mine\nI think you're fine\n'Cause we love you, Mr. Moonlight\n\n[Verse 2]\nMr. Moonlight, come again please\nHere I am on my knees\nBegging if you please\nAnd the night you don't come my way\nI'll pray and pray more each day\n'Cause we love you, Mr. Moonlight\n\n[Organ Solo]\n\n[Refrain]\nAnd the night you don't come my way\nOh, I'll pray and pray more each day\n'Cause we love you, Mr. Moonlight\nMr. Moonlight\n\n[Verse 2]\nMr. Moonlight, come again please\nHere I am on my knees\nBegging if you please\nAnd the night you don't come my way\nOh I pray and pray more each day\n'Cause we love you, Mr. Moonlight\nMr. Moonlight\nMr. Moonlight\nMr. Moonlight" ;
+        xyz:title     "Mr. Moonlight" .

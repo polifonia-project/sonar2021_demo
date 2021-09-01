@@ -1,0 +1,12 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX mei: <http://www.music-encoding.org/ns/mei#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace#>
+
+SELECT ?file ?artist ?title ?lyrics
+WHERE {
+	graph ?file {
+		[] xyz:artist ?artist ; xyz:title ?title ; xyz:lyrics ?lyrics
+	}
+}

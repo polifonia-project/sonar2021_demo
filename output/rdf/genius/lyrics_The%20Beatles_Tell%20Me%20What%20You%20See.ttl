@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Tell%20Me%20What%20You%20See.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Tell%20Me%20What%20You%20See> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Tell%20Me%20What%20You%20See.json> ;
+        xyz:lyrics    "[Verse 1]\nIf you let me take your heart I will prove to you\nWe will never be apart if I'm part of you\nOpen up your eyes now, tell me what you see\nIt is no surprise now, what you see is me\n\n[Verse 2]\nBig and black the clouds may be, time will pass away\nIf you put your trust in me I'll make bright your day\nLook into these eyes now, tell me what you see\nDon't you realise now, what you see is me\nTell me what you see\n\n[Verse 3]\nListen to me one more time, how can I get through?\nCan't you try to see that I'm trying to get to you?\nOpen up your eyes now, tell me what you see\nIt is no surprise now, what you see is me\nTell me what you see\n\n[Verse 4]\nListen to me one more time, how can I get through?\nCan't you try to see that I'm trying to get to you?\nOpen up your eyes now, tell me what you see\nIt is no surprise now, what you see is me\nHmm" ;
+        xyz:title     "Tell Me What You See" .

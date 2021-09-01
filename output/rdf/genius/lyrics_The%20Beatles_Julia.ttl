@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Julia.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Julia> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Julia.json> ;
+        xyz:lyrics    "[Intro]\nHalf of what I say is meaningless\nBut I say it just to reach you, Julia\n\n[Verse 1]\nJulia, Julia\nOcean child calls me\nSo I sing a song of love, Julia\n\n[Verse 2]\nJulia, seashell eyes\nWindy smile calls me\nSo I sing a song of love, Julia\n\n[Bridge]\nHer hair of floating sky is shimmering\nGlimmering in the sun\n\n[Verse 3]\nJulia, Julia\nMorning moon, touch me\nSo I sing a song of love, Julia\n\n[Intro Variant]\nWhen I cannot sing my heart\nI can only speak my mind, Julia\n[Verse 4]\nJulia, sleeping sand\nSilent cloud, touch me\nSo I sing a song of love, Julia\n\n[Verse 5]\nHmm hmm hmm\nCalls me\nSo I sing a song of love for Julia\n\n[Outro]\nJulia, Julia3EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Julia" .

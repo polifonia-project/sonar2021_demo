@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Carry%20That%20Weight.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Carry%20That%20Weight> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Carry%20That%20Weight.json> ;
+        xyz:lyrics    "[Chorus]\nBoy, you're gonna carry that weight\nCarry that weight a long time\nBoy, you're gonna carry that weight\nCarry that weight a long time\n\n[Instrumental Break 0:23-0:44]\n\n[Verse]\nI never give you my pillow\nI only send you my invitations\nAnd in the middle of the celebrations\nI break down\n\n[Chorus]\nBoy, you're gonna carry that weight\nCarry that weight a long time\nBoy, you're gonna carry that weight\nCarry that weight a long time\n\n[Transition]" ;
+        xyz:title     "Carry That Weight" .

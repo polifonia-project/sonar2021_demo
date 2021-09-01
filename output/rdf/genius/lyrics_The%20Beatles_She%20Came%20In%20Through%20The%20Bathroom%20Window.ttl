@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_She%20Came%20In%20Through%20The%20Bathroom%20Window.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_She%20Came%20In%20Through%20The%20Bathroom%20Window> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_She%20Came%20In%20Through%20The%20Bathroom%20Window.json> ;
+        xyz:lyrics    "[Intro]\nOh, listen to that now\nHeh, heh, heh\nOh look out! It's-\"\n\n[Verse 1]\nShe came in through the bathroom window\nProtected by a silver spoon\nBut now she sucks her thumb and wanders\nBy the banks of her own lagoon\n\n[Chorus]\nDidn't anybody tell her?\nDidn't anybody see?\nSunday's on the phone to Monday\nTuesday's on the phone to me\n\n[Verse 2]\nShe said she'd always been a dancer\nShe worked at fifteen clubs a day\nAnd though she thought I knew the answer\nWell, I knew what I could not say\nAnd so I quit the police department\nAnd got myself a steady job\nAnd though she tried her best to help me\nShe could steal, but she could not rob\n\n[Chorus]\nDidn't anybody tell her?\nDidn't anybody see?\nSunday's on the phone to Monday\nTuesday's on the phone to me\n\n[Outro]\nOh yeah" ;
+        xyz:title     "She Came in Through the Bathroom Window" .

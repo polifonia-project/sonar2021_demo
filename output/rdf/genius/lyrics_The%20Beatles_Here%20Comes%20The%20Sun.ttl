@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Here%20Comes%20The%20Sun.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Here%20Comes%20The%20Sun> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Here%20Comes%20The%20Sun.json> ;
+        xyz:lyrics    "[Chorus]\nHere comes the sun, doo da doo doo\nHere comes the sun, and I say\nIt's all right\n\n[Verse 1]\nLittle darling, it's been a long cold lonely winter\nLittle darling, it feels like years since it's been here\n\n[Chorus]\nHere comes the sun, doo da doo doo\nHere comes the sun, and I say\nIt's all right\n\n[Verse 2]\nLittle darling, the smile's returning to the faces\nLittle darling, it seems like years since it's been here\n\n[Chorus]\nHere comes the sun\nHere comes the sun, and I say\nIt's all right\n\n[Bridge]\nSun, sun, sun, here it comes\nSun, sun, sun, here it comes\nSun, sun, sun, here it comes\nSun, sun, sun, here it comes\nSun, sun, sun, here it comes\n\n[Verse 3]\nLittle darling, I feel that ice is slowly melting\nLittle darling, it seems like years since it's been clear\n\n[Chorus]\nHere comes the sun, doo da doo doo\nHere comes the sun, and I say\nIt's all right\n\n[Outro]\nHere comes the sun, doo da doo doo\nHere comes the sun\nIt's all right\nIt's all right" ;
+        xyz:title     "Here Comes the Sun" .

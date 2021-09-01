@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Youve%20Got%20To%20Hide%20Your%20Love%20Away.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Youve%20Got%20To%20Hide%20Your%20Love%20Away> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Youve%20Got%20To%20Hide%20Your%20Love%20Away.json> ;
+        xyz:lyrics    "[Verse 1]\nHere I stand head in hand\nTurn my face to the wall\nIf she's gone I can't go on\nFeeling two-foot small\nEverywhere people stare\nEach and every day\nI can see them laugh at me\nAnd I hear them say\n\n[Chorus]\nHey, you've got to hide your love away\nHey, you've got to hide your love away\n\n[Verse 2]\nHow can I even try\nI can never win\nHearing them, seeing them\nIn the state I'm in\nHow could she say to me\nLove will find a way\nGather round all you clowns\nLet me hear you say\n\n[Chorus]\nHey, you've got to hide your love away\nHey, you've got to hide your love away" ;
+        xyz:title     "You’ve Got to Hide Your Love Away" .

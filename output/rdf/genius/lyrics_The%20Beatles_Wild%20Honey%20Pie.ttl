@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Wild%20Honey%20Pie.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Wild%20Honey%20Pie> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Wild%20Honey%20Pie.json> ;
+        xyz:lyrics    "[Chorus]\nHoney pie\nHoney pie\n\n[Chorus]\nHoney pie\nHoney pie\n\n[Chorus]\nHoney pie\nHoney pie\nHoney pie\nHoney pie\n\n[Outro]\nI love you, honey pie2EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "Wild Honey Pie" .

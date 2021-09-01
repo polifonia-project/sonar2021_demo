@@ -1,0 +1,12 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Something.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_The%20Beatles_Something> ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_The%20Beatles_Something.json> ;
+        xyz:lyrics    "[Verse 1]\nSomething in the way she moves\nAttracts me like no other lover\nSomething in the way she woos me\n\n[Chorus]\nI don't want to leave her now\nYou know I believe and how\n\n[Verse 2]\nSomewhere in her smile she knows\nThat I don't need no other lover\nSomething in her style that shows me\n\n[Chorus]\nI don't want to leave her now\nYou know I believe and how\n\n[Bridge]\nYou're asking me will my love grow\nI don't know, I don't know\nYou stick around, now it may show\nI don't know, I don't know\n\n[Instrumental Interlude]\n\n[Verse 3]\nSomething in the way she knows\nAnd all I have to do is think of her\nSomething in the things she shows me\n\n[Outro]\nI don't want to leave her now\nYou know I believe and how" ;
+        xyz:title     "Something" .
