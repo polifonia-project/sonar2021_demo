@@ -1,0 +1,654 @@
+{
+    "work": {
+        "id": "03f4b916-a4ea-38bb-8c00-733073c3b92d",
+        "type": "Song",
+        "title": "It\u2019s a Hard Life",
+        "language": "eng",
+        "iswc": "T-010.304.846-9",
+        "iswc-list": [
+            "T-010.304.846-9"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "It's a Hard Life (extended version)",
+                "alias": "It's a Hard Life (extended version)"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "583bdc51-88f8-4e2f-941a-0291f1dfddc6",
+                "direction": "backward",
+                "begin": "1983-08",
+                "end": "1984-01",
+                "ended": "true",
+                "recording": {
+                    "id": "583bdc51-88f8-4e2f-941a-0291f1dfddc6",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "248706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "818a3ce8-7acd-47d0-9000-ed2b8e9421dc",
+                "direction": "backward",
+                "begin": "1984-09-24",
+                "end": "1984-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "818a3ce8-7acd-47d0-9000-ed2b8e9421dc",
+                    "title": "It\u2019s a Hard Life",
+                    "disambiguation": "live, 1984-09-24: Deutchlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2304f3c3-5327-4305-890d-36b733808beb",
+                "direction": "backward",
+                "begin": "1985-01-12",
+                "end": "1985-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2304f3c3-5327-4305-890d-36b733808beb",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "278280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2436ff2-5ae3-4ae9-a818-6093bf6bc5d6",
+                "direction": "backward",
+                "begin": "1985-01-12",
+                "end": "1985-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f2436ff2-5ae3-4ae9-a818-6093bf6bc5d6",
+                    "title": "Its a Hard Life",
+                    "length": "278280",
+                    "disambiguation": "live, 1985-01-12: Rock in Rio Festival, Rio de Janeiro, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "723cdda9-ead5-472c-80f4-2b6c82743618",
+                "direction": "backward",
+                "begin": "1985-01",
+                "end": "1985-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "723cdda9-ead5-472c-80f4-2b6c82743618",
+                    "title": "It\u2019s a Hard Life (live in Rio, January 1985)",
+                    "length": "267840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb7c82d7-7a54-4aa5-9e16-4f951ec30249",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cb7c82d7-7a54-4aa5-9e16-4f951ec30249",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "536186",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "278c7f91-929c-454b-b33a-e752fa44923a",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "278c7f91-929c-454b-b33a-e752fa44923a",
+                    "title": "It\u2019s a Hard Life",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acdf10d6-9457-4ca3-b502-ba79dc6758e6",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "acdf10d6-9457-4ca3-b502-ba79dc6758e6",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "317000",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8ef52d3-0b30-4c4a-9cb8-c7b58fe8bb20",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a8ef52d3-0b30-4c4a-9cb8-c7b58fe8bb20",
+                    "title": "It's a Hard Life",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73cfa972-83ef-4fe0-8568-cdc5e51b8829",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "73cfa972-83ef-4fe0-8568-cdc5e51b8829",
+                    "title": "It's a Hard Life",
+                    "length": "237000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad0bdc88-7559-426b-ba88-dc130f24927f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ad0bdc88-7559-426b-ba88-dc130f24927f",
+                    "title": "It's a Hard Life",
+                    "length": "248266",
+                    "disambiguation": "part of non stop dancing \u201985 medley"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "276b5f88-8553-4541-8efb-102b2162ea4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "276b5f88-8553-4541-8efb-102b2162ea4d",
+                    "title": "It's a Hard Life",
+                    "length": "237840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "122d2166-74fa-4f94-9e56-66236081a037",
+                "direction": "backward",
+                "recording": {
+                    "id": "122d2166-74fa-4f94-9e56-66236081a037",
+                    "title": "It's a Hard Life (Pianoless mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "734be4ea-d614-4b60-b954-917f29dde6c7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "734be4ea-d614-4b60-b954-917f29dde6c7",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "617640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c42b54f-0ebb-43e2-a8e5-9e65ea4d898b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1c42b54f-0ebb-43e2-a8e5-9e65ea4d898b",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "335026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ef095ac-0f15-4265-8a04-9c4e9ecabe96",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ef095ac-0f15-4265-8a04-9c4e9ecabe96",
+                    "title": "It\u2019s a Hard Life"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1f41b26-32eb-4fa9-8a92-1d23d7b61fd3",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1f41b26-32eb-4fa9-8a92-1d23d7b61fd3",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c1a9ffc-d0bf-4a7e-a262-6e86357a3ea1",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9c1a9ffc-d0bf-4a7e-a262-6e86357a3ea1",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "251666",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "204690db-2a9b-4646-a1ab-0966d0647d72",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "204690db-2a9b-4646-a1ab-0966d0647d72",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "196400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c073d39f-dfd3-462a-a7f8-8af885414a77",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c073d39f-dfd3-462a-a7f8-8af885414a77",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "241106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dea536bd-b701-43cc-bb60-3d9ff831639d",
+                "direction": "backward",
+                "recording": {
+                    "id": "dea536bd-b701-43cc-bb60-3d9ff831639d",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "305800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98f77b21-3122-42d6-a3ad-5273dd5ef454",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "98f77b21-3122-42d6-a3ad-5273dd5ef454",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "262333",
+                    "disambiguation": "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ec7282a-1983-4e19-80fa-5a19321399d3",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ec7282a-1983-4e19-80fa-5a19321399d3",
+                    "title": "It\u2019s a Hard Life"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0042b90-b565-449b-a2de-a24c9645637d",
+                "direction": "backward",
+                "recording": {
+                    "id": "c0042b90-b565-449b-a2de-a24c9645637d",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "253000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96309a5c-0373-43be-890a-6196ab64be08",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "96309a5c-0373-43be-890a-6196ab64be08",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "278000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1aa83d4f-a88c-455a-94b3-de746e8a7dd5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1aa83d4f-a88c-455a-94b3-de746e8a7dd5",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "138933",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f12c18e7-4ddd-432d-ba8a-6750dd493c2f",
+                "direction": "backward",
+                "recording": {
+                    "id": "f12c18e7-4ddd-432d-ba8a-6750dd493c2f",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc69a10e-5eaf-42a0-a975-46051896e852",
+                "direction": "backward",
+                "recording": {
+                    "id": "cc69a10e-5eaf-42a0-a975-46051896e852",
+                    "title": "It\u2019s a Hard Life",
+                    "length": "247000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ba581de-3415-4df0-89bb-5caf2843f743",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ba581de-3415-4df0-89bb-5caf2843f743",
+                    "title": "It\u2019s a Hard Life (12-inch mix)",
+                    "length": "303000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6091874c-209c-423d-9eb8-95b4d64c95db",
+                "direction": "backward",
+                "recording": {
+                    "id": "6091874c-209c-423d-9eb8-95b4d64c95db",
+                    "title": "It\u2019s a Hard Life (12\u2033 extended version)",
+                    "length": "301000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ec1ca89-414d-4864-8a9e-e1406a0a0443",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ec1ca89-414d-4864-8a9e-e1406a0a0443",
+                    "title": "It\u2019s a Hard Life (early take)",
+                    "length": "100000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce48e9d6-9b51-483f-9863-3211c1aab906",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce48e9d6-9b51-483f-9863-3211c1aab906",
+                    "title": "It\u2019s a Hard Life (instrumental version with backing vocals)",
+                    "length": "265000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1072116",
+                "direction": "backward"
+            }
+        ]
+    }
+}

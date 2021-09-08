@@ -1,0 +1,2771 @@
+{
+    "work": {
+        "id": "8b2d2f47-9e7b-3bc6-b7d1-41dfb39eddcc",
+        "type": "Song",
+        "title": "Now I\u2019m Here",
+        "language": "eng",
+        "iswc": "T-010.154.472-2",
+        "iswc-list": [
+            "T-010.154.472-2"
+        ],
+        "annotation": {
+            "text": "THE ALFEE are accused of plagiarizing this song in their song \"[[https://musicbrainz.org/work/faf78dcf-006f-4e7e-9d51-c8f1980f3184|\u771f\u591c\u4e2d\u3092\u7a81\u3063\u8d70\u308c!]]\""
+        },
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "71e25609-33f3-4c22-b341-708f74a943e0",
+                "direction": "backward",
+                "label": {
+                    "id": "71e25609-33f3-4c22-b341-708f74a943e0",
+                    "type": "Publisher",
+                    "name": "B. Feldman & Co. Ltd.",
+                    "sort-name": "B. Feldman & Co. Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb271df0-e5d9-45d2-8788-0fe19b296d08",
+                "direction": "backward",
+                "begin": "1974-01-09",
+                "end": "1974-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eb271df0-e5d9-45d2-8788-0fe19b296d08",
+                    "title": "Now I\u2019m Here",
+                    "length": "294000",
+                    "disambiguation": "live, 1974-01-09: Rainbow Theatre, London, England, United Kingdom"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de557ab9-efa2-465d-889e-026ae9888119",
+                "direction": "backward",
+                "begin": "1974-10-16",
+                "end": "1974-10-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "de557ab9-efa2-465d-889e-026ae9888119",
+                    "title": "Now I\u2019m Here",
+                    "length": "258000",
+                    "disambiguation": "live, 1974-10-16: BBC Radio Session, Maida Vale 4 Studio, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68f532f4-007b-4124-86ce-fa9831bb909d",
+                "direction": "backward",
+                "begin": "1974-10-16",
+                "end": "1974-10-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "68f532f4-007b-4124-86ce-fa9831bb909d",
+                    "title": "Now I\u2019m Here",
+                    "length": "265520",
+                    "disambiguation": "live (with DJ chatter), 1974-10-16: BBC Radio Session, Maida Vale 4 Studio, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b079fd9-7931-468a-9474-19a455dbb4fb",
+                "direction": "backward",
+                "begin": "1974-11-19",
+                "end": "1974-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b079fd9-7931-468a-9474-19a455dbb4fb",
+                    "title": "Now I\u2019m Here",
+                    "length": "297240",
+                    "disambiguation": "live, 1974-11-19: Rainbow Theatre, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1fb6fe5f-a4e8-4535-957d-e8b3c44c59e8",
+                "direction": "backward",
+                "begin": "1974-11-19",
+                "end": "1974-11-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1fb6fe5f-a4e8-4535-957d-e8b3c44c59e8",
+                    "title": "Now I\u2019m Here",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1c4c88e-2c0a-494f-9e6f-c7080a21299f",
+                "direction": "backward",
+                "begin": "1974-11-19",
+                "end": "1974-11-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d1c4c88e-2c0a-494f-9e6f-c7080a21299f",
+                    "title": "Now I\u2019m Here",
+                    "length": "309000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbec6dcf-3aca-4266-9156-67b60308cc27",
+                "direction": "backward",
+                "begin": "1974-12-10",
+                "end": "1974-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cbec6dcf-3aca-4266-9156-67b60308cc27",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1974-12-10: 140 Theatre, Brussels, Belgium"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c65cca6-8861-4bde-9526-178c046458ac",
+                "direction": "backward",
+                "begin": "1975-04-29",
+                "end": "1975-04-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8c65cca6-8861-4bde-9526-178c046458ac",
+                    "title": "Now I\u2019m Here"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "444f18ad-3511-4974-9682-8e76cf80e4e1",
+                "direction": "backward",
+                "begin": "1975-05-01",
+                "end": "1975-05-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "444f18ad-3511-4974-9682-8e76cf80e4e1",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "recorded live at the Budokan Tokyo 1st May 1975",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "258de225-62e1-4aaf-a3f2-696ffca05e47",
+                "direction": "backward",
+                "begin": "1975-11-26",
+                "end": "1975-11-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "258de225-62e1-4aaf-a3f2-696ffca05e47",
+                    "title": "Now I\u2019m Here",
+                    "length": "277000",
+                    "disambiguation": "live, 1975-11-26: Free Trade Hall, Manchester, UK: Evening Show"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ad21fd8-ce39-4a86-99c8-77de471787fc",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0ad21fd8-ce39-4a86-99c8-77de471787fc",
+                    "title": "Now I\u2019m Here",
+                    "length": "282813",
+                    "disambiguation": "live, 1975-12-24: Hammersmith Odeon, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af37c2d4-f38f-4f8f-a356-36883f67eb17",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "af37c2d4-f38f-4f8f-a356-36883f67eb17",
+                    "title": "Now I\u2019m Here",
+                    "length": "272000",
+                    "disambiguation": "live, 1975-12-24: Hammersmith Odeon, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "739b5c92-867d-42ec-a2f5-b8752daa2f98",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "739b5c92-867d-42ec-a2f5-b8752daa2f98",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "recorded live at the Hammersmith Odeon 24th December 1975",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea2e49ee-0276-4382-947e-6b6884d4b2da",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ea2e49ee-0276-4382-947e-6b6884d4b2da",
+                    "title": "Now I\u2019m Here (live at the Hammersmith Odeon)",
+                    "length": "265981"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47b53ec7-d842-4e0c-b720-13a25879c5ee",
+                "direction": "backward",
+                "begin": "1975-12",
+                "end": "1975-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "47b53ec7-d842-4e0c-b720-13a25879c5ee",
+                    "title": "Now I\u2019m Here (live at Hammersmith Odeon, December 1975)",
+                    "length": "267000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4eb99ce1-4fd3-4add-a375-c420c6347c51",
+                "direction": "backward",
+                "begin": "1976-01-30",
+                "end": "1976-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4eb99ce1-4fd3-4add-a375-c420c6347c51",
+                    "title": "Now I\u2019m Here",
+                    "length": "305000",
+                    "disambiguation": "live, 1976-01-30: Boston Music Hall, Boston, MA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6331abf4-6967-4506-8c6c-911a3caf93d2",
+                "direction": "backward",
+                "begin": "1976-02-06",
+                "end": "1976-02-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6331abf4-6967-4506-8c6c-911a3caf93d2",
+                    "title": "Now I\u2019m Here",
+                    "length": "269000",
+                    "disambiguation": "live, 1976-02-06: Beacon Theater, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb507089-642e-40bd-af41-ec38d981ace3",
+                "direction": "backward",
+                "begin": "1976-03-29",
+                "end": "1976-03-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eb507089-642e-40bd-af41-ec38d981ace3",
+                    "title": "Now I\u2019m Here",
+                    "length": "261328",
+                    "disambiguation": "live, 1977-05-12"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10ba9c17-17d3-45bc-95be-9eaa9945ed18",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "10ba9c17-17d3-45bc-95be-9eaa9945ed18",
+                    "title": "Now I\u2019m Here (Cuts in)",
+                    "disambiguation": "live, 1977-03-13: Seattle Center Arena, Seattle, WA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "541d722e-c9c7-4719-9d38-dd7077de41d0",
+                "direction": "backward",
+                "begin": "1977-05-12",
+                "end": "1977-05-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "541d722e-c9c7-4719-9d38-dd7077de41d0",
+                    "title": "Now I\u2019m Here",
+                    "length": "281000",
+                    "disambiguation": "live, 1977-05-12: Broendby Hall, Copenhagen, Denmark"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f21a6f9d-6621-4632-84ef-036571a3bdd0",
+                "direction": "backward",
+                "begin": "1977-06-06",
+                "end": "1977-06-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f21a6f9d-6621-4632-84ef-036571a3bdd0",
+                    "title": "Now I\u2019m Here",
+                    "length": "309000",
+                    "disambiguation": "live, 1977-06-06: Earl's Court, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf2281c2-d8ed-4d16-b79e-c174741ef265",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bf2281c2-d8ed-4d16-b79e-c174741ef265",
+                    "title": "Now I\u2019m Here",
+                    "length": "237873",
+                    "disambiguation": "mono soundboard recorded live, 1977-12-11: The Summit, Houstan, Texas, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6a4c02e-845b-4d46-9bdf-0bd3b348d932",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e6a4c02e-845b-4d46-9bdf-0bd3b348d932",
+                    "title": "Now I\u2019m Here",
+                    "length": "237880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbdca3eb-c7d8-474f-894f-b804f0b9af84",
+                "direction": "backward",
+                "begin": "1977",
+                "end": "1977",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cbdca3eb-c7d8-474f-894f-b804f0b9af84",
+                    "title": "Now I\u2019m Here",
+                    "length": "276800",
+                    "disambiguation": "live, 1977: USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a82d2d67-1375-4d74-8fc0-3651a6107381",
+                "direction": "backward",
+                "begin": "1978-11-19",
+                "end": "1978-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a82d2d67-1375-4d74-8fc0-3651a6107381",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f98c91a-545b-4538-b53a-59ee0dbc4e29",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5f98c91a-545b-4538-b53a-59ee0dbc4e29",
+                    "title": "Now I\u2019m Here",
+                    "length": "393880",
+                    "disambiguation": "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac7b7e60-ed29-41f4-8a91-cd423e2173fa",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ac7b7e60-ed29-41f4-8a91-cd423e2173fa",
+                    "title": "Now I\u2019m Here"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbe0d36e-3191-4e49-9a8b-a99f6dbecf3d",
+                "direction": "backward",
+                "begin": "1978-12-14",
+                "end": "1978-12-14",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dbe0d36e-3191-4e49-9a8b-a99f6dbecf3d",
+                    "title": "Now I\u2019m Here",
+                    "length": "368000",
+                    "disambiguation": "live, 1978-12-14: PNE Coliseum, Vancouver, BC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2e96b0e-ecc7-4833-9afd-cb51da957dac",
+                "direction": "backward",
+                "begin": "1979-01-24",
+                "end": "1979-01-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f2e96b0e-ecc7-4833-9afd-cb51da957dac",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1979-01-24: Deutschlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "224994d6-2cd4-4336-a888-a52d0a36d1c0",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "224994d6-2cd4-4336-a888-a52d0a36d1c0",
+                    "title": "Now I\u2019m Here",
+                    "length": "520000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b3f590f-898e-44da-92a8-1bde271bd548",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1b3f590f-898e-44da-92a8-1bde271bd548",
+                    "title": "Now I\u2019m Here",
+                    "length": "522000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79197c79-6e13-4deb-b627-113a20cf7162",
+                "direction": "backward",
+                "begin": "1979-02-02",
+                "end": "1979-02-02",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "79197c79-6e13-4deb-b627-113a20cf7162",
+                    "title": "Now I\u2019m Here",
+                    "length": "522560",
+                    "disambiguation": "live, 1979-02-02: Festhalle, Frankfurt, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14ed3e29-3ba1-40a3-a965-600ce36ebd06",
+                "direction": "backward",
+                "begin": "1979-12-03",
+                "end": "1979-12-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "14ed3e29-3ba1-40a3-a965-600ce36ebd06",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfb8e400-e501-4d87-9a8e-bf6e379c0b69",
+                "direction": "backward",
+                "begin": "1979-12-26",
+                "end": "1979-12-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dfb8e400-e501-4d87-9a8e-bf6e379c0b69",
+                    "title": "Now I\u2019m Here",
+                    "length": "425426",
+                    "disambiguation": "live, 1979-12-26: Hammersmith Odeon, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af18b000-c144-49c1-a9a2-eabecba09278",
+                "direction": "backward",
+                "begin": "1979-12-26",
+                "end": "1979-12-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "af18b000-c144-49c1-a9a2-eabecba09278",
+                    "title": "Now I\u2019m Here",
+                    "length": "409000",
+                    "disambiguation": "live, 1979-12-26: Hammersmith Odean, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86e34b8b-70b0-4fae-9199-1588f5f93321",
+                "direction": "backward",
+                "begin": "1981-02-28",
+                "end": "1981-02-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "86e34b8b-70b0-4fae-9199-1588f5f93321",
+                    "title": "Now I\u2019m Here",
+                    "length": "269733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bdec2eb-fcc0-4f5c-92e4-34b831e2cc62",
+                "direction": "backward",
+                "begin": "1981-03-20",
+                "end": "1981-03-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2bdec2eb-fcc0-4f5c-92e4-34b831e2cc62",
+                    "title": "Now I\u2019m Here",
+                    "length": "408960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a81ab2fa-1b01-4980-8aa0-323746b222b6",
+                "direction": "backward",
+                "begin": "1981-03-20",
+                "end": "1981-03-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a81ab2fa-1b01-4980-8aa0-323746b222b6",
+                    "title": "Now I\u2019m Here (reprise, live at the Estadio Do Morumbi, Sao Paulo, Brazil, March 1981)",
+                    "length": "106066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ded92d36-4c07-4352-92ca-65686a82359e",
+                "direction": "backward",
+                "begin": "1981-03-20",
+                "end": "1981-03-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ded92d36-4c07-4352-92ca-65686a82359e",
+                    "title": "Now I\u2019m Here (reprise)",
+                    "length": "79946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0a5da37-1bd0-445d-b4c8-d90e5a7031c8",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d0a5da37-1bd0-445d-b4c8-d90e5a7031c8",
+                    "title": "Now I\u2019m Here",
+                    "length": "330315",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c0a303e-1df3-4274-b5ed-38ee5c57d0a4",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2c0a303e-1df3-4274-b5ed-38ee5c57d0a4",
+                    "title": "Now I\u2019m Here",
+                    "length": "331600",
+                    "disambiguation": "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4b2e1ef-5b67-429d-ae7d-12308973a95e",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b4b2e1ef-5b67-429d-ae7d-12308973a95e",
+                    "title": "Now I\u2019m Here (reprise)",
+                    "length": "120991",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b1d80f8-fa8d-4aa8-a057-ea2e13964db4",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b1d80f8-fa8d-4aa8-a057-ea2e13964db4",
+                    "title": "Now I\u2019m Here (reprise)",
+                    "length": "113000",
+                    "disambiguation": "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abc4ef25-1717-46b3-abae-00a8badab952",
+                "direction": "backward",
+                "begin": "1981",
+                "end": "1981",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "abc4ef25-1717-46b3-abae-00a8badab952",
+                    "title": "Now I\u2019m Here (live at the Forum, Montreal, 1981)",
+                    "length": "221880",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c8bc906-28e1-4130-b85d-6e22103ecdb2",
+                "direction": "backward",
+                "begin": "1981",
+                "end": "1981",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c8bc906-28e1-4130-b85d-6e22103ecdb2",
+                    "title": "Now I\u2019m Here (live)",
+                    "length": "408000",
+                    "disambiguation": "live, 1981: Morumbi, S\u00e3o Paulo, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86938e00-dd9f-4aed-ae7e-cd47d82e7baa",
+                "direction": "backward",
+                "begin": "1981",
+                "end": "1981",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "86938e00-dd9f-4aed-ae7e-cd47d82e7baa",
+                    "title": "Now I\u2019m Here (reprise) (live)",
+                    "length": "79000",
+                    "disambiguation": "live, 1981: Morumbi, S\u00e3o Paulo, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23913718-d03d-4736-a2e8-1fae07d7d93e",
+                "direction": "backward",
+                "begin": "1982-04-16",
+                "end": "1982-04-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "23913718-d03d-4736-a2e8-1fae07d7d93e",
+                    "title": "Now I\u2019m Here",
+                    "length": "242000",
+                    "disambiguation": "live, 1982-04-16: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d2291bb-f60c-46f8-931d-1d9a3a501f02",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5d2291bb-f60c-46f8-931d-1d9a3a501f02",
+                    "title": "Now I\u2019m Here",
+                    "length": "384192",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "533c2580-360e-4ca9-96c3-0aa2e2f9246a",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "533c2580-360e-4ca9-96c3-0aa2e2f9246a",
+                    "title": "Now I\u2019m Here",
+                    "length": "378200",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9667895d-08c6-4ca2-b0db-fe2c59a80c4b",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "9667895d-08c6-4ca2-b0db-fe2c59a80c4b",
+                    "title": "Now I\u2019m Here (reprise)",
+                    "length": "140533",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "015057e2-067e-4e4c-8c58-d300bee8bf2a",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "015057e2-067e-4e4c-8c58-d300bee8bf2a",
+                    "title": "Now I\u2019m Here (reprise)",
+                    "length": "148821",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ad2faac-bf5a-4ba9-baa8-e1bfb12ed5a1",
+                "direction": "backward",
+                "begin": "1982-07-28",
+                "end": "1982-07-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ad2faac-bf5a-4ba9-baa8-e1bfb12ed5a1",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ad41ba5-08e2-4e07-b1df-18480a314f70",
+                "direction": "backward",
+                "begin": "1982-10-19",
+                "end": "1982-10-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8ad41ba5-08e2-4e07-b1df-18480a314f70",
+                    "title": "Now I\u2019m Here",
+                    "length": "384173",
+                    "disambiguation": "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ee17f88-0526-4d4b-af28-99ea6240e512",
+                "direction": "backward",
+                "begin": "1982-10-26",
+                "end": "1982-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3ee17f88-0526-4d4b-af28-99ea6240e512",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "583c07f0-da2d-49be-a4ad-360287abfba4",
+                "direction": "backward",
+                "begin": "1982-10-26",
+                "end": "1982-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "583c07f0-da2d-49be-a4ad-360287abfba4",
+                    "title": "Now I\u2019m Here (reprise)",
+                    "disambiguation": "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "758fae53-0574-41cd-b9d7-a9a8229fa440",
+                "direction": "backward",
+                "begin": "1982-11-03",
+                "end": "1982-11-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "758fae53-0574-41cd-b9d7-a9a8229fa440",
+                    "title": "Now I\u2019m Here (from Seibu Stadium, Tokyo, Japan \u2013 3rd November 1982)",
+                    "length": "216000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6823d0e9-cc26-46c1-ae73-b30aa2cce6e5",
+                "direction": "backward",
+                "begin": "1982-11-03",
+                "end": "1982-11-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6823d0e9-cc26-46c1-ae73-b30aa2cce6e5",
+                    "title": "Now I\u2019m Here (reprise) (from Seibu Stadium, Tokyo, Japan \u2013 3rd November 1982)",
+                    "length": "66000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56f90721-465c-40f2-bb9c-27343f925bd4",
+                "direction": "backward",
+                "begin": "1984-09-24",
+                "end": "1984-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "56f90721-465c-40f2-bb9c-27343f925bd4",
+                    "title": "Now I\u2019m Here (cut)",
+                    "disambiguation": "live, 1984-09-24: Deutchlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6048120b-ef21-4f8b-a8e6-0ef71116d7ff",
+                "direction": "backward",
+                "begin": "1985-01-12",
+                "end": "1985-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6048120b-ef21-4f8b-a8e6-0ef71116d7ff",
+                    "title": "Now I\u2019m Here",
+                    "length": "325400",
+                    "disambiguation": "live, 1985-01-12: Rock in Rio Festival, Rio de Janeiro, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb76cb47-31dd-48d4-9347-826dc4d89621",
+                "direction": "backward",
+                "begin": "1985-01-12",
+                "end": "1985-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fb76cb47-31dd-48d4-9347-826dc4d89621",
+                    "title": "Now I\u2019m Here",
+                    "length": "325400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef05b1d6-bf70-4a6b-8192-4d3f5b058963",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ef05b1d6-bf70-4a6b-8192-4d3f5b058963",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdecbc4d-54e2-4a42-ada0-86155e332c68",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bdecbc4d-54e2-4a42-ada0-86155e332c68",
+                    "title": "Now I\u2019m Here",
+                    "length": "439920",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9dbad63-b0e3-4cfa-821d-3e92b636467f",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e9dbad63-b0e3-4cfa-821d-3e92b636467f",
+                    "title": "Now I\u2019m Here",
+                    "length": "388000",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cdfc793-7697-4fab-ad9c-8f9600960ad4",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9cdfc793-7697-4fab-ad9c-8f9600960ad4",
+                    "title": "Now I\u2019m Here",
+                    "length": "358000",
+                    "disambiguation": "live, 1985-05-11: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45acf787-040a-4475-9022-8a9a67a024d2",
+                "direction": "backward",
+                "begin": "1985",
+                "end": "1985",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "45acf787-040a-4475-9022-8a9a67a024d2",
+                    "title": "Instrumental Jam",
+                    "length": "181666",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34c3823c-1fa0-4f26-b12c-343c965ed138",
+                "direction": "backward",
+                "begin": "1986-06-21",
+                "end": "1986-06-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "34c3823c-1fa0-4f26-b12c-343c965ed138",
+                    "title": "Now I\u2019m Here",
+                    "length": "285000",
+                    "disambiguation": "live, 1986-06-21: Reigns the World: Maimarktgel\u00e4nde, Mannheim, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a103a8d-6ba5-4c48-aaf6-270f37b81874",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3a103a8d-6ba5-4c48-aaf6-270f37b81874",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "978943d7-a7c0-4d27-891a-46da4c0545cf",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "978943d7-a7c0-4d27-891a-46da4c0545cf",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "972ad414-c13b-4535-b9a2-fc1fc98ffe5b",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "972ad414-c13b-4535-b9a2-fc1fc98ffe5b",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9dedc87f-59c9-4363-91c5-3139dab9f613",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9dedc87f-59c9-4363-91c5-3139dab9f613",
+                    "title": "Now I\u2019m Here",
+                    "length": "380173",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b30c11c3-b893-4199-91ca-2d581ca15357",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b30c11c3-b893-4199-91ca-2d581ca15357",
+                    "title": "Now I\u2019m Here",
+                    "length": "424000",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65434617-45eb-4703-89db-3c5fe280fdef",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "65434617-45eb-4703-89db-3c5fe280fdef",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b78aa923-3071-419c-99f5-6b998e935422",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b78aa923-3071-419c-99f5-6b998e935422",
+                    "title": "Now I\u2019m Here",
+                    "length": "360000",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11ace7b4-b22f-47b5-aad2-7f2a7ccb11aa",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "11ace7b4-b22f-47b5-aad2-7f2a7ccb11aa",
+                    "title": "Now I\u2019m Here",
+                    "length": "938520",
+                    "disambiguation": "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8387015b-66fd-427e-82d6-7f84e95fdedc",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8387015b-66fd-427e-82d6-7f84e95fdedc",
+                    "title": "Now I'm Here",
+                    "length": "345333",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3cc7fe0-c385-47a3-bbe0-607a4272f00c",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b3cc7fe0-c385-47a3-bbe0-607a4272f00c",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2a10d0c-9c06-43b8-86d7-4fe117cd455f",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c2a10d0c-9c06-43b8-86d7-4fe117cd455f",
+                    "title": "Now I\u2019m Here",
+                    "length": "306493",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "752603fe-135a-4aaf-9b12-11fbc7ef439f",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "752603fe-135a-4aaf-9b12-11fbc7ef439f",
+                    "title": "Now I\u2019m Here (live)",
+                    "length": "363266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f862db8-f4b2-436c-a140-9b3fc6be6112",
+                "direction": "backward",
+                "begin": "1993-06-15",
+                "end": "1993-06-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4f862db8-f4b2-436c-a140-9b3fc6be6112",
+                    "title": "Now I\u2019m Here",
+                    "length": "418560",
+                    "disambiguation": "live, 1993-06-15: Brixton Academy, Lambeth, London, England, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73b88025-01cf-437e-8386-14f58c5c454c",
+                "direction": "backward",
+                "begin": "1993-09-05",
+                "end": "1993-09-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "73b88025-01cf-437e-8386-14f58c5c454c",
+                    "title": "Now I'm Here",
+                    "length": "730293",
+                    "disambiguation": "live, 1993-09-05: Aston Villa Leisure Centre, Birmingham, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "963bba87-e2b8-4b0d-b7ad-28933ea1a150",
+                "direction": "backward",
+                "begin": "1993-11-05",
+                "end": "1993-11-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "963bba87-e2b8-4b0d-b7ad-28933ea1a150",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 1993-11-05: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94b912a0-cf86-4865-a75c-8276d775d6ea",
+                "direction": "backward",
+                "begin": "2001-11-24",
+                "end": "2001-11-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "94b912a0-cf86-4865-a75c-8276d775d6ea",
+                    "title": "Now I'm Here",
+                    "disambiguation": "live, 2001-11-24: Ocean, Hackney, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5118fca9-7cfe-4c03-920b-84c84b88ef9f",
+                "direction": "backward",
+                "begin": "2011-06-18",
+                "end": "2011-06-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5118fca9-7cfe-4c03-920b-84c84b88ef9f",
+                    "title": "Now I\u2019m Here",
+                    "length": "309226",
+                    "disambiguation": "live, 2011-06"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1809e439-592c-49a8-83ac-1a779c5641e1",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1809e439-592c-49a8-83ac-1a779c5641e1",
+                    "title": "Now I\u2019m Here",
+                    "length": "305946",
+                    "disambiguation": "live, 2014-08-17: Summer Sonic, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77ac699d-033d-4d88-828e-c7748f8148b8",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "77ac699d-033d-4d88-828e-c7748f8148b8",
+                    "title": "Now I\u2019m Here",
+                    "length": "325000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b353669-356b-43de-9516-ab487a263840",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9b353669-356b-43de-9516-ab487a263840",
+                    "title": "Now I\u2019m Here",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a9301cc-dec3-452e-81d4-7c69eab866d8",
+                "direction": "backward",
+                "begin": "2019-09-28",
+                "end": "2019-09-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2a9301cc-dec3-452e-81d4-7c69eab866d8",
+                    "title": "Now I\u2019m Here",
+                    "disambiguation": "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09bee8ce-68a2-45f7-9180-5848cdf0b278",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "09bee8ce-68a2-45f7-9180-5848cdf0b278",
+                    "title": "Now I'm Here"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "758381ca-390e-46c4-8a80-01f6de39c19f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "758381ca-390e-46c4-8a80-01f6de39c19f",
+                    "title": "Now I'm Here",
+                    "length": "260600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8196b7d9-bfb8-483f-99f8-50c3cd87b02f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8196b7d9-bfb8-483f-99f8-50c3cd87b02f",
+                    "title": "Now I'm Here"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "059be503-442f-4c58-b64f-64ea2e4007de",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "059be503-442f-4c58-b64f-64ea2e4007de",
+                    "title": "Now I\u2019m Here",
+                    "length": "509000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44901061-7a57-4b3f-9c22-b17da050b604",
+                "direction": "backward",
+                "recording": {
+                    "id": "44901061-7a57-4b3f-9c22-b17da050b604",
+                    "title": "Now I\u2019m Here",
+                    "length": "255000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4dcabce-f184-457c-a7db-3651de5fd2aa",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d4dcabce-f184-457c-a7db-3651de5fd2aa",
+                    "title": "Now I\u2019m Here"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fe40e36-07a4-4f84-8f48-144073afcf66",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4fe40e36-07a4-4f84-8f48-144073afcf66",
+                    "title": "Now I\u2019m Here",
+                    "length": "290000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64ac475f-c4d7-4911-8866-8a6ca467e5e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "64ac475f-c4d7-4911-8866-8a6ca467e5e1",
+                    "title": "Now I\u2019m Here"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1970ddb2-a130-4857-8613-e292e14678a6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1970ddb2-a130-4857-8613-e292e14678a6",
+                    "title": "Now I\u2019m Here"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eff36580-2b53-406c-96a9-6d72207b36cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "eff36580-2b53-406c-96a9-6d72207b36cc",
+                    "title": "Now I\u2019m Here"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be2fe043-1f6e-4c60-abc6-adae5389c7ee",
+                "direction": "backward",
+                "recording": {
+                    "id": "be2fe043-1f6e-4c60-abc6-adae5389c7ee",
+                    "title": "Now I\u2019m Here"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "939ea34c-57fb-492d-bf5e-428271d4826d",
+                "direction": "backward",
+                "recording": {
+                    "id": "939ea34c-57fb-492d-bf5e-428271d4826d",
+                    "title": "Now I\u2019m Here",
+                    "length": "252000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f440efd-fba3-4d10-89d8-0f5ddf1e2ad3",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f440efd-fba3-4d10-89d8-0f5ddf1e2ad3",
+                    "title": "Now I\u2019m Here"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e948213e-5b48-43b5-9a1c-02b640080c4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e948213e-5b48-43b5-9a1c-02b640080c4e",
+                    "title": "Now I\u2019m Here",
+                    "length": "384000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8193b9ac-60c8-4b12-962f-0dd9f6a849a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "8193b9ac-60c8-4b12-962f-0dd9f6a849a2",
+                    "title": "Now I\u2019m Here"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6c49f2f-9e2c-4774-b77f-b7050d9fd5d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b6c49f2f-9e2c-4774-b77f-b7050d9fd5d3",
+                    "title": "Now I\u2019m Here",
+                    "length": "325000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b6ca0f8-c9dd-42b4-badd-f70ff18d98dd",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1b6ca0f8-c9dd-42b4-badd-f70ff18d98dd",
+                    "title": "Now I\u2019m Here",
+                    "length": "358800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21bcba57-b2a5-49c4-bbde-d4909f6bfeec",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "21bcba57-b2a5-49c4-bbde-d4909f6bfeec",
+                    "title": "Now I\u2019m Here",
+                    "length": "336440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d2a8f1c-15fd-45ad-960b-33c6338f4a1e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7d2a8f1c-15fd-45ad-960b-33c6338f4a1e",
+                    "title": "Now I\u2019m Here",
+                    "length": "276933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3d91baa-015c-43d4-af66-4d6c360318c0",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d3d91baa-015c-43d4-af66-4d6c360318c0",
+                    "title": "Now I\u2019m Here",
+                    "length": "342000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cec5d63-8b43-46e1-817a-a6f20e33b931",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3cec5d63-8b43-46e1-817a-a6f20e33b931",
+                    "title": "Now I\u2019m Here",
+                    "length": "501000",
+                    "disambiguation": "live, 1979-02-01: Sporthalle, Cologne, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fe041d0-45a1-45dd-b5d0-ee11d34fe92e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3fe041d0-45a1-45dd-b5d0-ee11d34fe92e",
+                    "title": "Now I\u2019m Here",
+                    "length": "466600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d123f7c-0099-4ed0-af69-948ba5c54d04",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3d123f7c-0099-4ed0-af69-948ba5c54d04",
+                    "title": "Now I\u2019m Here",
+                    "length": "226840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9b71aa2-696f-499f-b500-fe96a93563a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c9b71aa2-696f-499f-b500-fe96a93563a4",
+                    "title": "Now I\u2019m Here",
+                    "length": "373800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54669911-4fe9-4287-a501-050cfd609557",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "54669911-4fe9-4287-a501-050cfd609557",
+                    "title": "Now I\u2019m Here",
+                    "length": "431493",
+                    "disambiguation": "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4117a237-a4de-4abb-b11f-8ef053a46dae",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4117a237-a4de-4abb-b11f-8ef053a46dae",
+                    "title": "Now I\u2019m Here",
+                    "length": "272000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "504d6aa7-3f2a-4150-a0f5-ae627124d6b5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "504d6aa7-3f2a-4150-a0f5-ae627124d6b5",
+                    "title": "Now I\u2019m Here",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "657cd918-86ad-4de3-90e5-e92b98a6e63f",
+                "direction": "backward",
+                "recording": {
+                    "id": "657cd918-86ad-4de3-90e5-e92b98a6e63f",
+                    "title": "Now I\u2019m Here",
+                    "length": "285000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8cfff21-2842-4776-9ec7-ab849947b591",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c8cfff21-2842-4776-9ec7-ab849947b591",
+                    "title": "Now I\u2019m Here",
+                    "length": "495853",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a5dda37-db75-456b-93ba-00a056df4748",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a5dda37-db75-456b-93ba-00a056df4748",
+                    "title": "Now I\u2019m Here"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c885b71c-8647-4d5f-bf7e-e5231deff93e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c885b71c-8647-4d5f-bf7e-e5231deff93e",
+                    "title": "Now I\u2019m Here",
+                    "length": "260306",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa1829d3-5976-4022-9ff4-521c4e339645",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa1829d3-5976-4022-9ff4-521c4e339645",
+                    "title": "Now I\u2019m Here (BBC master)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11f765f0-fdc5-44c5-862a-2be9aac658d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "11f765f0-fdc5-44c5-862a-2be9aac658d4",
+                    "title": "Now I\u2019m Here (demo)",
+                    "length": "252000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "752603fe-135a-4aaf-9b12-11fbc7ef439f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "752603fe-135a-4aaf-9b12-11fbc7ef439f",
+                    "title": "Now I\u2019m Here (live)",
+                    "length": "363266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c11e718-6fa4-42a7-b7bb-5fb2cca645ed",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c11e718-6fa4-42a7-b7bb-5fb2cca645ed",
+                    "title": "Now I\u2019m Here (reprise)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/84427",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q931947",
+                "direction": "backward"
+            }
+        ],
+        "tag-list": [
+            {
+                "count": "1",
+                "name": "ripped off"
+            }
+        ]
+    }
+}

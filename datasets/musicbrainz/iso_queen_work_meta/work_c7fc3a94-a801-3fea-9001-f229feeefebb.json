@@ -1,0 +1,524 @@
+{
+    "work": {
+        "id": "c7fc3a94-a801-3fea-9001-f229feeefebb",
+        "type": "Song",
+        "title": "Heaven for Everyone",
+        "language": "eng",
+        "iswc": "T-011.353.182-0",
+        "iswc-list": [
+            "T-011.353.182-0"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Heaven for Everyone (The Cross version: Freddie vocal)",
+                "alias": "Heaven for Everyone (The Cross version: Freddie vocal)"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b4f096a-7cfc-430d-9e16-8f987dc5edd9",
+                "direction": "backward",
+                "begin": "1992-12-22",
+                "end": "1992-12-22",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8b4f096a-7cfc-430d-9e16-8f987dc5edd9",
+                    "title": "Heaven for Everyone",
+                    "length": "288000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe0e0442-5b1d-4cf9-9f9c-fcf7f57be5a5",
+                "direction": "backward",
+                "begin": "2011-06-18",
+                "end": "2011-06-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fe0e0442-5b1d-4cf9-9f9c-fcf7f57be5a5",
+                    "title": "Heaven for Everyone",
+                    "length": "261493",
+                    "disambiguation": "live, 2011-06"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79504706-d89b-48f4-a0f7-75c2a62369a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "79504706-d89b-48f4-a0f7-75c2a62369a8",
+                    "title": "Heaven for Everyone",
+                    "length": "307000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbde547e-3ea1-4aa8-b7dc-a419914932fc",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bbde547e-3ea1-4aa8-b7dc-a419914932fc",
+                    "title": "Heaven for Everyone",
+                    "length": "283000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18957422-2fe2-406c-915a-c9c3b628f228",
+                "direction": "backward",
+                "recording": {
+                    "id": "18957422-2fe2-406c-915a-c9c3b628f228",
+                    "title": "Heaven for Everyone",
+                    "length": "336000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32b76484-48c3-4509-b15b-47d15f46ab63",
+                "direction": "backward",
+                "recording": {
+                    "id": "32b76484-48c3-4509-b15b-47d15f46ab63",
+                    "title": "Heaven for Everyone",
+                    "length": "336106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e902e2e-fd76-4155-812a-9f923564eea6",
+                "direction": "backward",
+                "recording": {
+                    "id": "4e902e2e-fd76-4155-812a-9f923564eea6",
+                    "title": "Heaven for Everyone",
+                    "length": "336080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "feb7edc4-7f0e-4727-b08c-85cd5465f825",
+                "direction": "backward",
+                "recording": {
+                    "id": "feb7edc4-7f0e-4727-b08c-85cd5465f825",
+                    "title": "Heaven for Everyone",
+                    "length": "276626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2ef91e5-a3f6-4f08-b228-a532dfce4961",
+                "direction": "backward",
+                "recording": {
+                    "id": "f2ef91e5-a3f6-4f08-b228-a532dfce4961",
+                    "title": "Heaven for Everyone",
+                    "length": "338000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a6b0f77-b7d5-4203-8c44-83299e331d22",
+                "direction": "backward",
+                "recording": {
+                    "id": "3a6b0f77-b7d5-4203-8c44-83299e331d22",
+                    "title": "Heaven for Everyone",
+                    "length": "219840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c416ee9-84ab-41af-9eba-323ea33f37e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "3c416ee9-84ab-41af-9eba-323ea33f37e0",
+                    "title": "Heaven for Everyone",
+                    "length": "333880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99a4b17b-74c9-47dc-a75c-1c11488526b6",
+                "direction": "backward",
+                "recording": {
+                    "id": "99a4b17b-74c9-47dc-a75c-1c11488526b6",
+                    "title": "Heaven for Everyone",
+                    "length": "338000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19fcd3ac-4ed7-49d5-b4ac-4c6df9fba634",
+                "direction": "backward",
+                "recording": {
+                    "id": "19fcd3ac-4ed7-49d5-b4ac-4c6df9fba634",
+                    "title": "Heaven for Everyone",
+                    "length": "289973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "317d4739-9142-495d-bccb-159bb8e1f7ef",
+                "direction": "backward",
+                "recording": {
+                    "id": "317d4739-9142-495d-bccb-159bb8e1f7ef",
+                    "title": "Heaven for Everyone",
+                    "length": "332320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f94e74ff-148f-4330-a0f8-60b4e20af51b",
+                "direction": "backward",
+                "recording": {
+                    "id": "f94e74ff-148f-4330-a0f8-60b4e20af51b",
+                    "title": "Heaven for Everyone",
+                    "length": "277866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acbc2b7d-42d7-415f-9341-d871a56cd564",
+                "direction": "backward",
+                "recording": {
+                    "id": "acbc2b7d-42d7-415f-9341-d871a56cd564",
+                    "title": "Heaven for Everyone",
+                    "length": "334041"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2d1c521-f4a0-41a3-94df-a4f84d2e7046",
+                "direction": "backward",
+                "recording": {
+                    "id": "e2d1c521-f4a0-41a3-94df-a4f84d2e7046",
+                    "title": "Heaven for Everyone",
+                    "length": "282160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af28f1a6-5211-4aa3-9e74-25b0a8b48d93",
+                "direction": "backward",
+                "recording": {
+                    "id": "af28f1a6-5211-4aa3-9e74-25b0a8b48d93",
+                    "title": "Heaven for Everyone",
+                    "length": "298000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "714c4402-e7a6-4c21-8b47-c11f04d755a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "714c4402-e7a6-4c21-8b47-c11f04d755a5",
+                    "title": "Heaven for Everyone",
+                    "length": "282533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae39924d-7262-4309-a3ea-ba4e8e5ff389",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae39924d-7262-4309-a3ea-ba4e8e5ff389",
+                    "title": "Heaven for Everyone",
+                    "length": "285333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f7c6637-267e-461e-93a3-39bcfc981e55",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f7c6637-267e-461e-93a3-39bcfc981e55",
+                    "title": "Heaven for Everyone",
+                    "length": "283000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73daca9c-0e92-4c60-b6ef-51ba1d53fa5e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "73daca9c-0e92-4c60-b6ef-51ba1d53fa5e",
+                    "title": "Heaven for Everyone",
+                    "length": "277000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4665bf45-d50a-4dbb-b588-2bf0c9c068dd",
+                "direction": "backward",
+                "recording": {
+                    "id": "4665bf45-d50a-4dbb-b588-2bf0c9c068dd",
+                    "title": "Heaven for Everyone",
+                    "length": "309000",
+                    "disambiguation": "lead vocals by Roger Taylor"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3ae48e1-edc6-4d5c-819c-21d2bda31c70",
+                "direction": "backward",
+                "recording": {
+                    "id": "b3ae48e1-edc6-4d5c-819c-21d2bda31c70",
+                    "title": "Heaven for Everyone",
+                    "length": "294000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1638485e-13a8-4c20-ab9c-4e968f2352fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "1638485e-13a8-4c20-ab9c-4e968f2352fc",
+                    "title": "Heaven for Everyone",
+                    "length": "283746",
+                    "disambiguation": "single version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "002d79d5-7710-4755-aeb2-477229c03858",
+                "direction": "backward",
+                "recording": {
+                    "id": "002d79d5-7710-4755-aeb2-477229c03858",
+                    "title": "Heaven for Everyone",
+                    "length": "313280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cf77bbb-a65d-4376-9ab8-4ec52eb1d433",
+                "direction": "backward",
+                "recording": {
+                    "id": "4cf77bbb-a65d-4376-9ab8-4ec52eb1d433",
+                    "title": "Heaven for Everyone",
+                    "length": "278000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8257da24-f278-4f26-9d32-2f1a07d3eacd",
+                "direction": "backward",
+                "recording": {
+                    "id": "8257da24-f278-4f26-9d32-2f1a07d3eacd",
+                    "title": "Heaven for Everyone (album version)",
+                    "length": "336666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6703df50-b38b-4c65-9ef9-60a0f561affa",
+                "direction": "backward",
+                "recording": {
+                    "id": "6703df50-b38b-4c65-9ef9-60a0f561affa",
+                    "title": "Heaven for Everyone (Greatest Flix video edit)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25d35887-73f4-43ae-9146-b80be9303c38",
+                "direction": "backward",
+                "recording": {
+                    "id": "25d35887-73f4-43ae-9146-b80be9303c38",
+                    "title": "Heaven for Everyone (Ross Robertson Moonshine mix)",
+                    "length": "399000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "014f3cf9-48b6-4a58-a45b-24fc921a7b48",
+                "direction": "backward",
+                "recording": {
+                    "id": "014f3cf9-48b6-4a58-a45b-24fc921a7b48",
+                    "title": "Heaven for Everyone (single version)",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7566ce5e-fcd1-4a43-b3b5-ec91cc4c6b3a",
+                "direction": "backward",
+                "recording": {
+                    "id": "7566ce5e-fcd1-4a43-b3b5-ec91cc4c6b3a",
+                    "title": "Heaven for Everyone (single version)",
+                    "length": "281840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00083d78-fc65-4372-89d8-5c1340b7e5f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "00083d78-fc65-4372-89d8-5c1340b7e5f9",
+                    "title": "Heaven for Everyone (video CD ROM version)",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5a2ce52-5ba4-43f3-b15b-28a35650ef9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "b5a2ce52-5ba4-43f3-b15b-28a35650ef9c",
+                    "title": "Heaven for Everyone (with commentary)",
+                    "length": "78973"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1034691",
+                "direction": "backward"
+            }
+        ]
+    }
+}
