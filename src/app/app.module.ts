@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { AudioPlayerComponent } from './audio-player/audio-player.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { StreamComponent } from './stream/stream.component';
+import { QueueComponent } from './queue/queue.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AudioPlayerComponent,
     HomepageComponent,
-    StreamComponent
+    StreamComponent,
+    QueueComponent
   ],
   imports: [
     BrowserModule,
