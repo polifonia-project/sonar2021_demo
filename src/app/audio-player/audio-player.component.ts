@@ -30,4 +30,19 @@ export class AudioPlayerComponent implements OnInit {
     this.songs = this.songService.getSongs();
   }
 
+  play(): void {
+    // PLAY THE SONG
+  }
+
+  pause(): void {
+    // PAUSE THE SONG
+  }
+
+  back(): void {
+    // GO BACK IN THE PLAY QUEUE
+  }
+
+  forward(): void {
+    // GO FORWARD IN THE PLAY QUEUE
+  }
 }

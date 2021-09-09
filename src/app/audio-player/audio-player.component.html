@@ -11,7 +11,13 @@
             'autoplay': 1
             }">
         </youtube-player>
-      </div>
+        <br />
+        <button (click)="back()" type="button" class="btn btn-primary"><i class="fas fa-backward"></i></button>
+        <button (click)="forward()" type="button" class="btn btn-primary mx-1"><i class="fas fa-forward"></i></button>
+        <button (click)="play()" type="button" class="btn btn-primary"><i class="fas fa-play"></i></button>
+        <button (click)="pause()" type="button" class="btn btn-primary mx-1"><i class="fas fa-pause"></i></button>
+
+        </div>
     </div>
   </div>
 </div>
