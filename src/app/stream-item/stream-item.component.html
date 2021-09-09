@@ -1,0 +1,19 @@
+<div class="row pb-1">
+  <div class="col">
+    <div class="card rounded">
+      <div class="card-body">
+
+          Type - {{annotation.type}}
+          <br />
+          Timestamp- {{annotation.timestamp}}
+          <br>
+          <h6>Relationships</h6>
+          <div *ngFor="let relationship of annotation.relationships">
+            {{relationship.songID}} <button (click)="addToQueue(relationship.songID)" type="button" class="btn btn-primary">+</button>
+
+          </div>
+
+      </div>
+    </div>
+  </div>
+</div>
