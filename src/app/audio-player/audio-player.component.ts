@@ -1,7 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, OnInit, ViewChild} from '@angular/core';
 import { Song } from '../song';
 import { SongService } from '../song.service';
 import {QueueService} from '../queue.service';
+import {YouTubePlayer} from '@angular/youtube-player';
 
 @Component({
   selector: 'app-audio-player',
@@ -9,9 +10,12 @@ import {QueueService} from '../queue.service';
   styleUrls: ['./audio-player.component.css']
 })
 export class AudioPlayerComponent implements OnInit {
+  @ViewChild('YouTubePlayer') youtube?: YouTubePlayer;
+
   public YT: any;
   public video: any;
   public player: any;
+  videoID = 'vfxQ1oDiEJM';
 
   songs: Song[];
 
@@ -28,21 +32,5 @@ export class AudioPlayerComponent implements OnInit {
 
   getSongs(): void {
     this.songs = this.songService.getSongs();
-  }
-
-  play(): void {
-    // PLAY THE SONG
-  }
-
-  pause(): void {
-    // PAUSE THE SONG
-  }
-
-  back(): void {
-    // GO BACK IN THE PLAY QUEUE
-  }
-
-  forward(): void {
-    // GO FORWARD IN THE PLAY QUEUE
   }
 }

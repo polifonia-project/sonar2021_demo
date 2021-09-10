@@ -9,6 +9,7 @@ import { HomepageComponent } from './homepage/homepage.component';
 import { StreamComponent } from './stream/stream.component';
 import { QueueComponent } from './queue/queue.component';
 import { StreamItemComponent } from './stream-item/stream-item.component';
+import {VideoModule} from './video/video.module';
 
 
 @NgModule({
@@ -24,6 +25,7 @@ import { StreamItemComponent } from './stream-item/stream-item.component';
     BrowserModule,
     AppRoutingModule,
     YouTubePlayerModule,
+    VideoModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
