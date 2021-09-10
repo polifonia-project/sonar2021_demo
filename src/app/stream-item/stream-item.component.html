@@ -1,19 +1,20 @@
-<div class="row pb-1">
-  <div class="col">
-    <div class="card rounded">
-      <div class="card-body">
-
-          Type - {{annotation.type}}
-          <br />
-          Timestamp- {{annotation.timestamp}}
-          <br>
-          <h6>Relationships</h6>
-          <div *ngFor="let relationship of annotation.relationships">
-            {{relationship.songID}} <button (click)="addToQueue(relationship.songID)" type="button" class="btn btn-primary">+</button>
-
-          </div>
-
-      </div>
-    </div>
+<h2 class="accordion-header" id="{{'flush-heading-' + annotation.id}}">
+  <button
+    class="accordion-button collapsed"
+    type="button"
+    [attr.data-bs-toggle]="'collapse'"
+    [attr.data-bs-target]="'#flush-collapse-' + annotation.id"
+    [attr.aria-expanded]="'false'"
+    [attr.aria-controls]="'flush-collapse-' + annotation.id">
+    {{annotation.type}} - {{annotation.id}}
+  </button>
+</h2>
+<div
+  id="{{'flush-collapse-' + annotation.id}}"
+  class="accordion-collapse collapse"
+  [attr.aria-labelledby]="'flush-heading-' + annotation.id"
+  [attr.data-bs-parent]="'#accordionFlush'">
+  <div class="accordion-body">
+    {{annotation.description}}
   </div>
 </div>

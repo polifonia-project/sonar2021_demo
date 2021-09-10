@@ -2,10 +2,17 @@
   <div class="col">
     <div class="card rounded">
       <div class="card-body">
-        <h5 class="card-title">Notes ({{stream.length}})</h5>
+        <h5 class="card-title">Notes
+          <span class="badge bg-primary rounded-pill">{{stream.length}}</span>
+        </h5>
 
-        <div *ngFor="let annotation of stream">
-          <app-stream-item [annotation]="annotation"></app-stream-item>
+
+        <div class="accordion accordion-flush" id="accordionFlush">
+
+          <div class="accordion-item" *ngFor="let annotation of stream">
+            <app-stream-item [annotation]="annotation"></app-stream-item>
+          </div>
+
         </div>
 
         <!-- <button (click)="addDummyAnnotation()" type="button" class="btn btn-primary">Add test annotation</button> -->
