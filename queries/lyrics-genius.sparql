@@ -4,9 +4,13 @@ PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 PREFIX mei: <http://www.music-encoding.org/ns/mei#>
 PREFIX xml: <http://www.w3.org/XML/1998/namespace#>
 
-SELECT ?file ?artist ?title ?lyrics
-WHERE {
+SELECT ?hash ("en" as ?lang) ?dataset ?file ?artist ?title ?lyrics
+WHERE 
+{
 	graph ?file {
 		[] xyz:artist ?artist ; xyz:title ?title ; xyz:lyrics ?lyrics
 	}
+	.
+	BIND("genius" as ?dataset) .
+	BIND(md5(CONCAT(?artist, ?title, "genius")) as ?hash) 
 }

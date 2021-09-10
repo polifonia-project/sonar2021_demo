@@ -3,7 +3,7 @@ In what follows, `fx` stands for:
 ```
 java -jar sparql-anything-VERSION.jar
 ```
-The recommended version is the lates release candidate: `https://github.com/SPARQL-Anything/sparql.anything/releases/edit/v0.3.0-RC1`
+The recommended version is the latest release: `https://github.com/SPARQL-Anything/sparql.anything/releases/edit/v0.3.0`
 
 Type `fx` for usage info, or check the [documentation](https://github.com/SPARQL-Anything/sparql.anything/).
 
