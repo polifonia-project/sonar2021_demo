@@ -30,7 +30,7 @@ fx -q queries/ls-genius.sparql -f JSON -o output/ls-genius.json
 ```
 Use the SPARQL result set to iterate over files and generate an RDF file for each JSON file (the folder output/rdf/genius/ must already exist!)
 ```
-fx -q queries/rdf-genius.sparql -i output/ls-genius.json -f TTL -p output/rdf/genius/?filename.ttl
+fx -q queries/rdf-genius.sparql -i output/ls-genius.json -f TTL -p output/rdf/genius/?filename.ttl -s 0
 ```
 Generate a single CSV collecting info from the RDF files
 ```
@@ -50,7 +50,7 @@ fx -q queries/ls-songfacts.sparql -f JSON -o output/ls-songfacts.json
 ```
 Use the SPARQL result set to iterate over files and generate an RDF file for each JSON file (the folder output/rdf/songfacts/ must already exist!)
 ```
-fx -q queries/rdf-songfacts.sparql -i output/ls-songfacts.json -f TTL -p output/rdf/songfacts/?filename.ttl
+fx -q queries/rdf-songfacts.sparql -i output/ls-songfacts.json -f TTL -p output/rdf/songfacts/?filename.ttl -s 0
 ```
 Generate a single CSV collecting info from the RDF files
 ```
