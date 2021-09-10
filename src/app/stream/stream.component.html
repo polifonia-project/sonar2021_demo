@@ -2,13 +2,13 @@
   <div class="col">
     <div class="card rounded">
       <div class="card-body">
-        <h5 class="card-title">Notes</h5>
+        <h5 class="card-title">Notes ({{stream.length}})</h5>
 
         <div *ngFor="let annotation of stream">
           <app-stream-item [annotation]="annotation"></app-stream-item>
         </div>
 
-        <button (click)="addDummyAnnotation()" type="button" class="btn btn-primary">Add test annotation</button>
+        <!-- <button (click)="addDummyAnnotation()" type="button" class="btn btn-primary">Add test annotation</button> -->
 
       </div>
     </div>

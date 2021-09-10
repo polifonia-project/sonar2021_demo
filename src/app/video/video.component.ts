@@ -53,7 +53,7 @@ export class VideoComponent implements OnInit {
   }
 
   tick(): any {
-    this.currentPlayTime = this.youtubePlayer.getCurrentTime();
+    this.currentPlayTime = Math.round(this.youtubePlayer.getCurrentTime());
     this.streamService.setPlayTime(this.currentPlayTime);
   }
 

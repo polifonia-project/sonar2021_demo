@@ -7,9 +7,6 @@ export interface Annotation {
   timestamp: number;
   relationships: Relationship[];
   description?: string;
-  lat?: number;
-  lng?: number;
-  placeName?: string;
-  details?: string;
+  metadata?: any;
 }
 

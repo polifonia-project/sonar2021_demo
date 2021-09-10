@@ -8,14 +8,17 @@ import {Annotation} from './annotation';
 })
 export class StreamService {
   currentSong: Song;
-  currentPlayTime = 0;
+  // currentPlayTime = 0;
   private streamSource = new BehaviorSubject([]);
   currentStream = this.streamSource.asObservable();
+  private timeSource = new BehaviorSubject(0);
+  currentTime = this.timeSource.asObservable();
 
   constructor() { }
 
   setPlayTime(timestamp: number): void {
-    this.currentPlayTime = timestamp;
+    // this.currentPlayTime = timestamp;
+    this.timeSource.next(timestamp);
   }
 
   setSong(song: Song): void {

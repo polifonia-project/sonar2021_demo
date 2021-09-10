@@ -23,7 +23,6 @@ export class AnnotationService {
     if (!this.annotationsInitialised) {
       this.initAnnotations();
     }
-
     // FIXME - Just returning a single dummy item for now for testing
     return [this.annotations[0]];
   }
@@ -50,7 +49,7 @@ export class AnnotationService {
       {
         id: '2002',
         songID: '1001',
-        timestamp: 7,
+        timestamp: 15,
         type: 'spatial',
         relationships: [
           {
@@ -59,9 +58,11 @@ export class AnnotationService {
             score: 68
           }
         ],
-        lat: 52.5,
-        lng: -0.75,
-        placeName: 'Liverpool',
+        metadata: {
+          lat: 52.5,
+          lng: -0.75,
+          placeName: 'Liverpool',
+        }
       }
     );
 
