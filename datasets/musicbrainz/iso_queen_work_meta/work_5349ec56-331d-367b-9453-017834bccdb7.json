@@ -1,0 +1,2423 @@
+{
+    "work": {
+        "id": "5349ec56-331d-367b-9453-017834bccdb7",
+        "type": "Song",
+        "title": "Killer Queen",
+        "language": "eng",
+        "iswc": "T-010.154.471-1",
+        "iswc-list": [
+            "T-010.154.471-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "JASRAC ID",
+                "value": "0K0-3577-4"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "71e25609-33f3-4c22-b341-708f74a943e0",
+                "direction": "backward",
+                "label": {
+                    "id": "71e25609-33f3-4c22-b341-708f74a943e0",
+                    "type": "Publisher",
+                    "name": "B. Feldman & Co. Ltd.",
+                    "sort-name": "B. Feldman & Co. Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4",
+                "direction": "backward",
+                "label": {
+                    "id": "c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4",
+                    "type": "Publisher",
+                    "name": "\u30a4\u30fc\u30a8\u30e0\u30a2\u30a4\u97f3\u697d\u51fa\u7248 \u30bd\u30cb\u30fc\u4e8b\u696d\u90e8",
+                    "sort-name": "\u30a4\u30fc\u30a8\u30e0\u30a2\u30a4\u97f3\u697d\u51fa\u7248 \u30bd\u30cb\u30fc\u4e8b\u696d\u90e8"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8cc88a2-d408-4f7c-8e24-34913244366d",
+                "direction": "backward",
+                "begin": "1974-01-09",
+                "end": "1974-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a8cc88a2-d408-4f7c-8e24-34913244366d",
+                    "title": "Killer Queen",
+                    "length": "80000",
+                    "disambiguation": "live, 1974-01-09: Rainbow Theatre, London, England, United Kingdom"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92b4dda3-b71a-4d7a-81d0-d98bafa5b5b4",
+                "direction": "backward",
+                "begin": "1974-11-19",
+                "end": "1974-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "92b4dda3-b71a-4d7a-81d0-d98bafa5b5b4",
+                    "title": "Killer Queen",
+                    "length": "85040",
+                    "disambiguation": "live, 1974-11-19: Rainbow Theatre, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "241d3220-2c62-4c81-8f1c-d8ce58643f06",
+                "direction": "backward",
+                "begin": "1974-11-19",
+                "end": "1974-11-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "241d3220-2c62-4c81-8f1c-d8ce58643f06",
+                    "title": "Killer Queen",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7960dcca-1cb7-4b5b-8b50-2b83dc91d5b3",
+                "direction": "backward",
+                "begin": "1974-11-19",
+                "end": "1974-11-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7960dcca-1cb7-4b5b-8b50-2b83dc91d5b3",
+                    "title": "Killer Queen",
+                    "length": "84000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b3a24ac-fc14-4653-a6be-1b563f4d49db",
+                "direction": "backward",
+                "begin": "1974-12-10",
+                "end": "1974-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9b3a24ac-fc14-4653-a6be-1b563f4d49db",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 1974-12-10: 140 Theatre, Brussels, Belgium"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94738d7a-2182-42bc-9917-e5fce16a47f3",
+                "direction": "backward",
+                "begin": "1975-03-29",
+                "end": "1975-03-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "94738d7a-2182-42bc-9917-e5fce16a47f3",
+                    "title": "Killer Queen / The March of the Black Queen / Bring Back Leroy Brown",
+                    "length": "255000",
+                    "disambiguation": "live, 1975-03-29: Santa Monica Civic Auditorium, Santa Monica, California, United States"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f65856a-8c07-4716-82ae-48b1eb68da7d",
+                "direction": "backward",
+                "begin": "1975-04-29",
+                "end": "1975-04-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f65856a-8c07-4716-82ae-48b1eb68da7d",
+                    "title": "Killer Queen"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ecbd1af-fe22-454e-b15a-0fe320fa57e5",
+                "direction": "backward",
+                "begin": "1975-05-01",
+                "end": "1975-05-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8ecbd1af-fe22-454e-b15a-0fe320fa57e5",
+                    "title": "Killer Queen",
+                    "disambiguation": "recorded live at the Budokan Tokyo 1st May 1975",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "838b67f0-701d-4caf-9881-9e29c9be36b0",
+                "direction": "backward",
+                "begin": "1975-11-26",
+                "end": "1975-11-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "838b67f0-701d-4caf-9881-9e29c9be36b0",
+                    "title": "Killer Queen",
+                    "length": "126000",
+                    "disambiguation": "live, 1975-11-26: Free Trade Hall, Manchester, UK: Evening Show"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47ad23e9-77df-4834-80a0-de4ff7b0e525",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "47ad23e9-77df-4834-80a0-de4ff7b0e525",
+                    "title": "Killer Queen",
+                    "length": "128000",
+                    "disambiguation": "live, 1975-12-24: Hammersmith Odeon, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db6fafe5-dd92-4e6e-80f1-b614b4731999",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "db6fafe5-dd92-4e6e-80f1-b614b4731999",
+                    "title": "Killer Queen",
+                    "disambiguation": "recorded live at the Hammersmith Odeon 24th December 1975",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "901aa230-e85e-4305-b922-d78a9d62643f",
+                "ordering-key": "2",
+                "direction": "backward",
+                "begin": "1975-12-24",
+                "end": "1975-12-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "901aa230-e85e-4305-b922-d78a9d62643f",
+                    "title": "Medley: Bohemian Rhapsody / Killer Queen / The March of Black Queen",
+                    "length": "426000",
+                    "disambiguation": "live, 1975-12-24: Hammersmith Odeon, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1cd8d8d-c0e1-488b-8381-36e9cc7912a2",
+                "direction": "backward",
+                "begin": "1976-01-30",
+                "end": "1976-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b1cd8d8d-c0e1-488b-8381-36e9cc7912a2",
+                    "title": "Killer Queen",
+                    "length": "127000",
+                    "disambiguation": "live, 1976-01-30: Boston Music Hall, Boston, MA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "611691c2-c869-4226-bb6a-ef55ff165c8c",
+                "direction": "backward",
+                "begin": "1976-02-06",
+                "end": "1976-02-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "611691c2-c869-4226-bb6a-ef55ff165c8c",
+                    "title": "Killer Queen",
+                    "length": "123000",
+                    "disambiguation": "live, 1976-02-06: Beacon Theater, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df54178f-ec26-4ff1-9ee9-26e7f4ee4597",
+                "direction": "backward",
+                "begin": "1976-09-18",
+                "end": "1976-09-18",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "df54178f-ec26-4ff1-9ee9-26e7f4ee4597",
+                    "title": "Killer Queen",
+                    "length": "129648",
+                    "disambiguation": "live, 1976-09-18: Hyde Park, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ae183d8-6fb8-48be-8372-1c1d1294b911",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ae183d8-6fb8-48be-8372-1c1d1294b911",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 1977-03-13: Seattle Center Arena, Seattle, WA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a862086-ff92-4e35-9eb8-a4c9ec5b3c16",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "8a862086-ff92-4e35-9eb8-a4c9ec5b3c16",
+                    "title": "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown",
+                    "length": "489200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e439e238-204f-40ba-8a85-f3a9839e922f",
+                "direction": "backward",
+                "begin": "1977-06-06",
+                "end": "1977-06-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e439e238-204f-40ba-8a85-f3a9839e922f",
+                    "title": "Killer Queen / Good Old-Fashioned Lover Boy",
+                    "length": "279000",
+                    "disambiguation": "live, 1977-06-06: Earl's Court, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c19c346-3a6d-4bb5-930e-36578e8c1929",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8c19c346-3a6d-4bb5-930e-36578e8c1929",
+                    "title": "Killer Queen",
+                    "length": "118088",
+                    "disambiguation": "mono soundboard recorded live, 1977-12-11: The Summit, Houstan, Texas, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89a755a2-1c15-4e3e-922d-5220a0fe9509",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "89a755a2-1c15-4e3e-922d-5220a0fe9509",
+                    "title": "Killer Queen",
+                    "length": "118093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5aa1a47-0442-4f7f-a594-48bebbb2c37d",
+                "direction": "backward",
+                "begin": "1978-11-19",
+                "end": "1978-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e5aa1a47-0442-4f7f-a594-48bebbb2c37d",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7106047e-d63c-4513-968e-989508d23894",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7106047e-d63c-4513-968e-989508d23894",
+                    "title": "Killer Queen",
+                    "length": "124400",
+                    "disambiguation": "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c24b4c69-d4c1-462a-9134-de458c660393",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c24b4c69-d4c1-462a-9134-de458c660393",
+                    "title": "Medley \u2013 Killer Queen"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f02aded-b1b5-4727-9a24-58676f689a62",
+                "direction": "backward",
+                "begin": "1979-01-24",
+                "end": "1979-01-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7f02aded-b1b5-4727-9a24-58676f689a62",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 1979-01-24: Deutschlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2af5eee0-6b44-46b2-ba54-b1e59c31958e",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2af5eee0-6b44-46b2-ba54-b1e59c31958e",
+                    "title": "Killer Queen",
+                    "length": "119000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7089880-bbc0-4608-afa2-b1a742354144",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a7089880-bbc0-4608-afa2-b1a742354144",
+                    "title": "Killer Queen",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36336b62-dcaa-4dfa-baf0-2a96d72c853f",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "36336b62-dcaa-4dfa-baf0-2a96d72c853f",
+                    "title": "Killer Queen",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8f32abb-5c49-44c4-8192-217060811c03",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b8f32abb-5c49-44c4-8192-217060811c03",
+                    "title": "Killer Queen",
+                    "length": "117866",
+                    "disambiguation": "live, 1979"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ee0f194-0b9f-4353-a556-32603e7e3392",
+                "direction": "backward",
+                "begin": "1979-12-03",
+                "end": "1979-12-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6ee0f194-0b9f-4353-a556-32603e7e3392",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b319c52-f548-40f2-8f3d-9d0c942e7f03",
+                "direction": "backward",
+                "begin": "1979-12-26",
+                "end": "1979-12-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4b319c52-f548-40f2-8f3d-9d0c942e7f03",
+                    "title": "Killer Queen",
+                    "length": "117306",
+                    "disambiguation": "live, 1979-12-26: Hammersmith Odeon, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f00ddfaf-d9f2-4691-86d3-a1e93f635945",
+                "direction": "backward",
+                "begin": "1981-02-28",
+                "end": "1981-02-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f00ddfaf-d9f2-4691-86d3-a1e93f635945",
+                    "title": "Killer Queen",
+                    "length": "117080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "842f0f99-d1df-4d52-9031-ff2a490bb372",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "842f0f99-d1df-4d52-9031-ff2a490bb372",
+                    "title": "Killer Queen",
+                    "length": "124000",
+                    "disambiguation": "live, 1981-11-24: Forum de Montr\u00e9al, Montreal, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e723455-916a-4ce2-be7d-36d9c3e7d3af",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4e723455-916a-4ce2-be7d-36d9c3e7d3af",
+                    "title": "Killer Queen",
+                    "length": "119933",
+                    "disambiguation": "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "683e895b-c3f8-4364-8a14-1225cddb76f3",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "683e895b-c3f8-4364-8a14-1225cddb76f3",
+                    "title": "Killer Queen",
+                    "length": "120781",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3f6ed33-e5f7-4f29-8f33-e9f7c83e4c9d",
+                "direction": "backward",
+                "begin": "1981-12-08",
+                "end": "1981-12-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c3f6ed33-e5f7-4f29-8f33-e9f7c83e4c9d",
+                    "title": "Killer Queen",
+                    "length": "321200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0752d9f9-75e7-465e-8eab-41b46b1be38f",
+                "direction": "backward",
+                "begin": "1984-09-24",
+                "end": "1984-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0752d9f9-75e7-465e-8eab-41b46b1be38f",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 1984-09-24: Deutchlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b4764a7-7523-457a-9a07-b3705e392c08",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9b4764a7-7523-457a-9a07-b3705e392c08",
+                    "title": "Killer Queen",
+                    "length": "130000",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac47cec1-4596-46f5-8224-9ca3f6df3d60",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ac47cec1-4596-46f5-8224-9ca3f6df3d60",
+                    "title": "Killer Queen",
+                    "length": "130000",
+                    "disambiguation": "live, 1985-05-11: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cfa34db-82ce-4980-8a4a-ad37bef258ee",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "8cfa34db-82ce-4980-8a4a-ad37bef258ee",
+                    "title": "Killer Queen / The Seven Seas of Rhye / Keep Yourself Alive / Liar",
+                    "length": "534693",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86ad5a3b-cf7e-4423-b21c-8587b90cce54",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "86ad5a3b-cf7e-4423-b21c-8587b90cce54",
+                    "title": "Somebody to Love / Medley: Killer Queen / Seven Seas of Rhye / Keep Yourself Alive / Liar / Impromptu",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37ef838c-aa19-4d73-bd7b-1c52cc9b9680",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "37ef838c-aa19-4d73-bd7b-1c52cc9b9680",
+                    "title": "Killer Queen",
+                    "length": "147000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf5c8258-f9e4-499e-8a2d-69d23ba69d2d",
+                "direction": "backward",
+                "begin": "2006-12-09",
+                "end": "2006-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bf5c8258-f9e4-499e-8a2d-69d23ba69d2d",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 2006-12-09: Walter-K\u00f6bel-Halle R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b1e860e-d904-4cb0-b2dd-07c45bbbb076",
+                "direction": "backward",
+                "begin": "2006-12",
+                "end": "2006-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4b1e860e-d904-4cb0-b2dd-07c45bbbb076",
+                    "title": "Killer Queen",
+                    "length": "180000",
+                    "disambiguation": "live, 2006-12: Cafe Hahn, Koblenz, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4a612fa-9510-4f7a-b5da-4ce7b9dc1935",
+                "direction": "backward",
+                "begin": "2007-12-12",
+                "end": "2007-12-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d4a612fa-9510-4f7a-b5da-4ce7b9dc1935",
+                    "title": "Killer Queen",
+                    "disambiguation": "live, 2007-12-12: Walter-K\u00f6bel-Sporthalle, R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29032dab-9d72-425f-a2d1-6d4ce28fa42b",
+                "direction": "backward",
+                "begin": "2010-12-10",
+                "end": "2010-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "29032dab-9d72-425f-a2d1-6d4ce28fa42b",
+                    "title": "Killer Queen",
+                    "length": "206133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51bc923d-e824-4ea3-b510-c29584386de8",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "51bc923d-e824-4ea3-b510-c29584386de8",
+                    "title": "Killer Queen",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1614ddb1-fa06-4237-ad2f-509c1ac9a037",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1614ddb1-fa06-4237-ad2f-509c1ac9a037",
+                    "title": "Killer Queen",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e67c057-197c-4772-8343-6937ceb3a207",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "8e67c057-197c-4772-8343-6937ceb3a207",
+                    "title": "California Love Generation",
+                    "length": "416000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec019ff2-1254-4037-9370-d9bc38339361",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ec019ff2-1254-4037-9370-d9bc38339361",
+                    "title": "Killer Queen",
+                    "length": "130066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c591164-9194-475d-84e3-1b04c0214247",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c591164-9194-475d-84e3-1b04c0214247",
+                    "title": "Killer Queen",
+                    "length": "183120"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a56230d-fbb8-4b38-8c37-a534e02654f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3a56230d-fbb8-4b38-8c37-a534e02654f0",
+                    "title": "Killer Queen",
+                    "length": "128199"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "740ad1a1-f1df-4576-9d92-9b9de90f993d",
+                "direction": "backward",
+                "recording": {
+                    "id": "740ad1a1-f1df-4576-9d92-9b9de90f993d",
+                    "title": "Killer Queen",
+                    "length": "170196"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11dd1988-85e4-49a0-a390-668da98f2602",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "11dd1988-85e4-49a0-a390-668da98f2602",
+                    "title": "Killer Queen",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f3a16f7-f21d-4c3f-9fe3-6ac3eef19224",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9f3a16f7-f21d-4c3f-9fe3-6ac3eef19224",
+                    "title": "Killer Queen",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39bf1a32-e029-49ad-96f6-f9b121fde53b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "39bf1a32-e029-49ad-96f6-f9b121fde53b",
+                    "title": "Killer Queen",
+                    "length": "196160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99784adc-821b-4f77-bf58-95c46114c1c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "99784adc-821b-4f77-bf58-95c46114c1c4",
+                    "title": "Killer Queen",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5e880f9-5700-47fc-a909-136b68cc185f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d5e880f9-5700-47fc-a909-136b68cc185f",
+                    "title": "Killer Queen",
+                    "length": "178866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d74d7790-26b9-49ee-9f7a-ae3c30e52aa0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d74d7790-26b9-49ee-9f7a-ae3c30e52aa0",
+                    "title": "Killer Queen",
+                    "length": "173800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "876fc720-a3c9-4898-b3a9-d83ed6d3f4f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "876fc720-a3c9-4898-b3a9-d83ed6d3f4f2",
+                    "title": "Killer Queen",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5de07a99-a3db-4017-9373-bdd1bb83d257",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5de07a99-a3db-4017-9373-bdd1bb83d257",
+                    "title": "Killer Queen",
+                    "length": "179533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25238788-53d1-420a-b6c0-198357722a82",
+                "direction": "backward",
+                "recording": {
+                    "id": "25238788-53d1-420a-b6c0-198357722a82",
+                    "title": "Killer Queen",
+                    "length": "187186",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "484524e8-1ce9-4806-a183-328454e085e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "484524e8-1ce9-4806-a183-328454e085e1",
+                    "title": "Killer Queen",
+                    "length": "129733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b15eb202-4d71-4877-9a1c-8583d4a05f0d",
+                "direction": "backward",
+                "recording": {
+                    "id": "b15eb202-4d71-4877-9a1c-8583d4a05f0d",
+                    "title": "Killer Queen"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26efd2d0-877b-4934-80fe-492ad558370c",
+                "direction": "backward",
+                "recording": {
+                    "id": "26efd2d0-877b-4934-80fe-492ad558370c",
+                    "title": "Killer Queen",
+                    "length": "117866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd6a43bf-076a-4d04-8f06-f40840f6c3b3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dd6a43bf-076a-4d04-8f06-f40840f6c3b3",
+                    "title": "Killer Queen",
+                    "length": "146333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba087fcb-41bf-4822-98c0-16fbc09ad616",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ba087fcb-41bf-4822-98c0-16fbc09ad616",
+                    "title": "Killer Queen",
+                    "length": "130866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f680381-432d-4489-b36d-63b322b136c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f680381-432d-4489-b36d-63b322b136c1",
+                    "title": "Killer Queen",
+                    "length": "180026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea64d867-5c42-46d9-9ed3-8d3bac32e1a3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ea64d867-5c42-46d9-9ed3-8d3bac32e1a3",
+                    "title": "Killer Queen",
+                    "length": "133733",
+                    "disambiguation": "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02fd9c11-d32a-49e4-a571-04e97788df8a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "02fd9c11-d32a-49e4-a571-04e97788df8a",
+                    "title": "Killer Queen",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3394c1c4-54a6-4d6e-805f-309e39e95115",
+                "direction": "backward",
+                "recording": {
+                    "id": "3394c1c4-54a6-4d6e-805f-309e39e95115",
+                    "title": "Killer Queen",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33ea8d72-141a-485d-88b0-9a1d3bdac8e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "33ea8d72-141a-485d-88b0-9a1d3bdac8e5",
+                    "title": "Killer Queen",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e977493-8cc2-4e6e-bae5-a03c3b558060",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0e977493-8cc2-4e6e-bae5-a03c3b558060",
+                    "title": "Killer Queen",
+                    "length": "115586",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcf8ee68-6a42-48cd-9a94-c1d1f7a24d2f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dcf8ee68-6a42-48cd-9a94-c1d1f7a24d2f",
+                    "title": "Killer Queen",
+                    "length": "154986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e64c0d2e-4580-4e63-a920-626ce5b3b29c",
+                "direction": "backward",
+                "recording": {
+                    "id": "e64c0d2e-4580-4e63-a920-626ce5b3b29c",
+                    "title": "Killer Queen",
+                    "length": "189000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5db84081-2a4a-456e-a8ef-f2f2567702b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "5db84081-2a4a-456e-a8ef-f2f2567702b1",
+                    "title": "Killer Queen",
+                    "length": "184084"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc18efeb-3f7c-414e-98b1-3d09517d3159",
+                "direction": "backward",
+                "recording": {
+                    "id": "bc18efeb-3f7c-414e-98b1-3d09517d3159",
+                    "title": "Killer Queen"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aafdfae8-7ef3-474c-bab9-84fecf9e2d19",
+                "direction": "backward",
+                "recording": {
+                    "id": "aafdfae8-7ef3-474c-bab9-84fecf9e2d19",
+                    "title": "Killer Queen",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2d1651b-aa9f-4bc0-8d94-75008fc48a3d",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2d1651b-aa9f-4bc0-8d94-75008fc48a3d",
+                    "title": "Killer Queen",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "170527ad-801c-4de5-8d7f-205b179da387",
+                "direction": "backward",
+                "recording": {
+                    "id": "170527ad-801c-4de5-8d7f-205b179da387",
+                    "title": "Killer Queen"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b5c6b2f-9d4b-4765-880c-26fd913b6297",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7b5c6b2f-9d4b-4765-880c-26fd913b6297",
+                    "title": "Killer Queen",
+                    "length": "187640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9b1c9f5-af1a-438f-81e4-514f1df4defe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b9b1c9f5-af1a-438f-81e4-514f1df4defe",
+                    "title": "Killer Queen",
+                    "length": "189733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e512bc5-7979-484d-96ab-484f6673822a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0e512bc5-7979-484d-96ab-484f6673822a",
+                    "title": "Killer Queen",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b3d96c9-3e22-4337-be32-f8a26b816685",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b3d96c9-3e22-4337-be32-f8a26b816685",
+                    "title": "Killer Queen",
+                    "length": "180906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edad45d5-3a83-41f5-830e-b054fb5ca5c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "edad45d5-3a83-41f5-830e-b054fb5ca5c1",
+                    "title": "Killer Queen",
+                    "length": "199357"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4539477-edf5-4055-b91c-10da8a8bc00f",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4539477-edf5-4055-b91c-10da8a8bc00f",
+                    "title": "Killer Queen",
+                    "length": "181160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0fca2951-d202-4053-a8fc-c452decfc45e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0fca2951-d202-4053-a8fc-c452decfc45e",
+                    "title": "Killer Queen",
+                    "length": "312000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "879fe3d2-f7c7-4797-a7d5-685bb1f8b84c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "879fe3d2-f7c7-4797-a7d5-685bb1f8b84c",
+                    "title": "Killer Queen",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3cd15e2-9afc-4d2a-81d9-265205e4cf8e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b3cd15e2-9afc-4d2a-81d9-265205e4cf8e",
+                    "title": "Killer Queen",
+                    "length": "121560",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d90a193-6759-4bed-ace1-8d14f0b34e5b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0d90a193-6759-4bed-ace1-8d14f0b34e5b",
+                    "title": "Killer Queen",
+                    "length": "246133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66735efb-25d5-4a7a-b122-c37bfd50f964",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "66735efb-25d5-4a7a-b122-c37bfd50f964",
+                    "title": "Killer Queen",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2734b86b-29cf-4bfb-8466-27571be9b5c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2734b86b-29cf-4bfb-8466-27571be9b5c4",
+                    "title": "Killer Queen",
+                    "length": "257973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29103a21-970f-41c9-b4f9-e32db55db7f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "29103a21-970f-41c9-b4f9-e32db55db7f6",
+                    "title": "Killer Queen",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c775fd0d-e7a0-42d0-9abe-7eca9404065e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c775fd0d-e7a0-42d0-9abe-7eca9404065e",
+                    "title": "Killer Queen",
+                    "length": "184306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb16a0a6-cdfd-406f-83b3-286fa44b5b92",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fb16a0a6-cdfd-406f-83b3-286fa44b5b92",
+                    "title": "Killer Queen",
+                    "length": "125844",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "118c8412-2a46-4d8d-8c7c-0335603a9261",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "118c8412-2a46-4d8d-8c7c-0335603a9261",
+                    "title": "Killer Queen",
+                    "length": "182877"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efb593be-17ed-4a44-81c4-dc68cf4d5213",
+                "direction": "backward",
+                "recording": {
+                    "id": "efb593be-17ed-4a44-81c4-dc68cf4d5213",
+                    "title": "Killer Queen",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5a8664b-c70f-4a9d-a09d-af3d92dbc621",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5a8664b-c70f-4a9d-a09d-af3d92dbc621",
+                    "title": "Killer Queen"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad870369-a103-418c-846a-8218794f4b3c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ad870369-a103-418c-846a-8218794f4b3c",
+                    "title": "Killer Queen"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "409185ba-9def-4631-b412-b843e9b756d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "409185ba-9def-4631-b412-b843e9b756d4",
+                    "title": "Killer Queen"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "842a8543-7e6c-4a54-830f-7e769ecf779e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "842a8543-7e6c-4a54-830f-7e769ecf779e",
+                    "title": "Killer Queen",
+                    "length": "209026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8c3d2c1-2dc4-43ce-a16c-7deb2e76b346",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c8c3d2c1-2dc4-43ce-a16c-7deb2e76b346",
+                    "title": "Killer Queen"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c12cafe-21dd-4d45-b1fd-89363f5a9fe4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7c12cafe-21dd-4d45-b1fd-89363f5a9fe4",
+                    "title": "Killer Queen",
+                    "length": "237853"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ae356d7-26ab-4f20-9b7d-6b9921a403a8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "8ae356d7-26ab-4f20-9b7d-6b9921a403a8",
+                    "title": "KILLER QUEEN",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14216db0-f337-4586-8f56-24a95e0dae5f",
+                "direction": "backward",
+                "recording": {
+                    "id": "14216db0-f337-4586-8f56-24a95e0dae5f",
+                    "title": "Killer Queen (demo)",
+                    "length": "30000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88990c69-3488-42a8-9507-99bc2382e100",
+                "direction": "backward",
+                "recording": {
+                    "id": "88990c69-3488-42a8-9507-99bc2382e100",
+                    "title": "Killer Queen (original master remix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "801eda7d-adfa-41ec-b095-ecca0895d51c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "801eda7d-adfa-41ec-b095-ecca0895d51c",
+                    "title": "Killer Queen (System Effect remix)",
+                    "length": "230000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0f87821-545c-41de-b621-48167c5a808e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0f87821-545c-41de-b621-48167c5a808e",
+                    "title": "Killer Queen (Top of the Pops, version 2, 1974)",
+                    "length": "184080",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe146753-dd82-47ab-ae85-c6ee0cc6fa59",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe146753-dd82-47ab-ae85-c6ee0cc6fa59",
+                    "title": "Killer Queen (with commentary)",
+                    "length": "142106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "193d1cde-a31b-4e82-877d-0c6545bfeb02",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "193d1cde-a31b-4e82-877d-0c6545bfeb02",
+                    "title": "Medley: Killer Queen / Bohemian Rhapsody / Somebody to Love",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ccee980b-2cec-4080-a9d3-3fbbd01a434d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ccee980b-2cec-4080-a9d3-3fbbd01a434d",
+                    "title": "Medley: Killer Queen / Innuendo",
+                    "length": "237000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/14330",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q829960",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "da63ae0c-a788-4936-81e0-2ef392ef7c2e",
+                "direction": "forward",
+                "work": {
+                    "id": "da63ae0c-a788-4936-81e0-2ef392ef7c2e",
+                    "title": "The Queen Symphony: II. Allegretto - Allegro scherzando - Tranquillo"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            }
+        ]
+    }
+}
