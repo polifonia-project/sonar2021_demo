@@ -8,7 +8,7 @@ PREFIX afn: <http://jena.apache.org/ARQ/function#>
 
 SELECT ?file ?localname ?filename
 WHERE {
-	VALUES (?location) { ("datasets/genius/iso_beatles_lyrics/" ) ( "datasets/genius/jaah_lyrics/" ) ( "datasets/genius/schubert_lyrics/" ) }
+	VALUES (?location) { ("datasets/genius/iso_beatles_lyrics/" )  ("datasets/genius/iso_queen_lyrics/" ) ( "datasets/genius/jaah_lyrics/" ) ( "datasets/genius/schubert_lyrics/" ) }
 	BIND ( IRI( CONCAT("x-sparql-anything:","location=", ?location ) ) AS ?fx ) .
 	SERVICE ?fx {
 		fx:properties fx:archive.matches ".*\\.json"
