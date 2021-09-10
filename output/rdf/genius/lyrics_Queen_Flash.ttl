@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_queen_lyrics/lyrics_Queen_Flash.json>
+        xyz:artist    "Queen" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_Queen_Flash> ;
+        xyz:lang      "en" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_queen_lyrics/lyrics_Queen_Flash.json> ;
+        xyz:lyrics    "[Vocalizations]EmbedShare URLCopyEmbedCopy" ;
+        xyz:title     "The Kiss (Aura Resurrects Flash)" .

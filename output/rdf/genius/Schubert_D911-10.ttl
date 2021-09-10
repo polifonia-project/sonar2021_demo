@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-10.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-10> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-10.json> ;
+        xyz:lyrics    "Nun merk ich erst, wie müd ich bin,\nda ich zur Ruh mich lege;\ndas Wandern hielt mich munter hin\nauf unwirtbarem Wege. \n\nDie Füße frugen nicht nach Rast,\nes war zu kalt zum Stehen;\nder Rücken fühlte keine Last,\nder Sturm half fort mich wehen,\nder Rücken fühlte keine Last,\nder Sturm half fort mich wehen. \n\nIn eines Köhlers engem Haus\nhab Obdach ich gefunden;\ndoch meine Glieder ruhn nicht aus:\nso brennen ihre Wunden. \n\nAuch du, mein Herz, in Kampf und Sturm\nso wild und so verwegen,\nfühlst in der Still erst deinen Wurm\nmit heißem Stich sich regen,\nfühlst in der Still erst deinen Wurm\nmit heißem Stich sich regen!" ;
+        xyz:title     "Schubert_D911-10" .

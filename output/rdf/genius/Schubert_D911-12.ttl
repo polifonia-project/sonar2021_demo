@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-12.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-12> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-12.json> ;
+        xyz:lyrics    "Wie eine trübe Wolke\ndurch heitre Lüfte geht,\nwenn in der Tanne Wipfel\nein mattes Lüftchen weht: \n\nso zieh ich meine Straße\ndahin mit trägem Fuß,\ndurch helles, frohes Leben\neinsam und ohne Gruß. \n\nAch, daß die Luft so ruhig!\nach, daß die Welt so licht!\nAls noch die Stürme tobten,\nwar ich so elend, so elend nicht. \n\nAch, daß die Luft so ruhig,\nach, daß die Welt so licht!\nAls noch die Stürme tobten,\nwar ich so elend, so elend nicht." ;
+        xyz:title     "Schubert_D911-12" .

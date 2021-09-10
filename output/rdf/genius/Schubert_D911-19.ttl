@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-19.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-19> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-19.json> ;
+        xyz:lyrics    "Ein Licht tanzt freundlich vor mir her,\nich folg ihm nach die Kreuz und Quer;\nich folg ihm gern, und seh's ihm an,\ndaß es verlockt den Wandersmann.\n\nAch! wer wie ich so elend ist,\ngibt gern sich hin der bunten List,\ndie hinter Eis und Nacht und Graus\nihm weist ein helles warmes Haus\nund eine liebe Seele drin\nnur Täuschung ist für mich Gewinn!" ;
+        xyz:title     "Schubert_D911-19" .

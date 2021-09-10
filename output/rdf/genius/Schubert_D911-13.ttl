@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-13.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-13> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-13.json> ;
+        xyz:lyrics    "Von der Straße her ein Posthorn klingt.\nWas hat es, daß es so hoch aufspringt,\nmein Herz?\nwas hat es, daß es so hoch aufspringt,\nmein Herz, mein Herz? \n\nDie Post bringt keinen Brief für dich.\nWas drängst du denn so wunderlich,\nmein Herz, mein Herz? \n\nDie Post bringt keinen Brief für dich,\nmein Herz, mein Herz,\nwas drängst du denn so wunderlich,\nmein Herz, mein Herz? \n\nNun ja, die Post kommt aus der Stadt,\nwo ich ein liebes Liebchen hatt,\nmein Herz!\nwo ich ein liebes Liebchen hatt,\nmein Herz, mein Herz! \n\nWillst wohl einmal hinübersehn\nund fragen, wie es dort mag gehn,\nmein Herz, mein Herz? \n\nwillst wohl einmal hinübersehn,\nmein Herz, mein Herz,\nund fragen, wie es dort mag gehn,\nmein Herz, mein Herz?" ;
+        xyz:title     "Schubert_D911-13" .
