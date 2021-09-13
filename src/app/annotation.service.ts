@@ -56,8 +56,14 @@ export class AnnotationService {
             songID: '1001',
             type: 'spatial',
             score: 68
+          },
+          {
+            songID: '1002',
+            type: 'spatial',
+            score: 38
           }
         ],
+        description: 'This spatial annotation refers to some geographic aspect of the song',
         metadata: {
           lat: 52.5,
           lng: -0.75,

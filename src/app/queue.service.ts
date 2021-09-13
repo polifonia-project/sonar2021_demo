@@ -26,4 +26,10 @@ export class QueueService {
     );
     this.queueSource.next(newQueue);
   }
+
+  removeFromQueue(index: number): void {
+    let newQueue = this.queueSource.getValue();
+    newQueue.splice(index, 1);
+    this.queueSource.next(newQueue);
+  }
 }

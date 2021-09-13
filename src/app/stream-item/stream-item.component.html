@@ -16,5 +16,16 @@
   [attr.data-bs-parent]="'#accordionFlush'">
   <div class="accordion-body">
     {{annotation.description}}
+    <div *ngIf="annotation.relationships.length > 0">
+      <strong>Related songs</strong>
+      <ul>
+      <div *ngFor="let song of annotation.relationships">
+        <li>
+          <button (click)="addToQueue(song.songID)" type="button" class="btn btn-primary btn-sm my-1">+</button>
+          {{song.songID}}
+        </li>
+      </div>
+      </ul>
+    </div>
   </div>
 </div>
