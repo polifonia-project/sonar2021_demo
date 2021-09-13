@@ -26,4 +26,8 @@ export class QueueComponent implements OnInit {
     this.queueService.addToQueue(songID);
   }
 
+  removeFromQueue(index: number): void {
+    this.queueService.removeFromQueue(index);
+  }
+
 }
