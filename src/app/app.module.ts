@@ -10,6 +10,8 @@ import { StreamComponent } from './stream/stream.component';
 import { QueueComponent } from './queue/queue.component';
 import { StreamItemComponent } from './stream-item/stream-item.component';
 import {VideoModule} from './video/video.module';
+import { NavbarComponent } from './navbar/navbar.component';
+import { NavbarItemComponent } from './navbar-item/navbar-item.component';
 
 
 @NgModule({
@@ -20,6 +22,8 @@ import {VideoModule} from './video/video.module';
     StreamComponent,
     QueueComponent,
     StreamItemComponent,
+    NavbarComponent,
+    NavbarItemComponent,
   ],
   imports: [
     BrowserModule,
