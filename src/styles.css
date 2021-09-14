@@ -13,3 +13,9 @@
     color: white;
 }
 
+
+/* This class is assigned to elements supposed to be shown in development environment. 
+   Uncomment the class to hide those elements*/
+.hidden-dev-element {
+    display: none;
+}

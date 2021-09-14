@@ -13,14 +13,17 @@
             controls: 0
             }">
         </youtube-player>
-        <br />
-        Timer: {{currentPlayTime}}
-        <br />
-        <button (click)="back()" type="button" class="btn btn-primary"><i class="fas fa-backward"></i></button>
-        <button (click)="forward()" type="button" class="btn btn-primary mx-1"><i class="fas fa-forward"></i></button>
-        <button (click)="play()" type="button" class="btn btn-primary"><i class="fas fa-play"></i></button>
-        <button (click)="pause()" type="button" class="btn btn-primary mx-1"><i class="fas fa-pause"></i></button>
-
+        <div class="hidden-dev-element">
+          <br />
+          Timer: {{currentPlayTime}}
+          <br />
+        </div>
+        <div class="audio-controller-container">
+           <button (click)="back()" type="button" class="btn btn-primary btn-lg audio-button"><i class="fas fa-backward"></i></button>
+           <button (click)="play()" type="button" class="btn btn-primary btn-xl audio-button"><i class="fas fa-play"></i></button>
+           <button (click)="pause()" type="button" class="btn btn-primary btn-xl mx-1 audio-button"><i class="fas fa-pause"></i></button>
+           <button (click)="forward()" type="button" class="btn btn-primary btn-lg mx-1 audio-button"><i class="fas fa-forward"></i></button>
+        </div>
       </div>
     </div>
   </div>
