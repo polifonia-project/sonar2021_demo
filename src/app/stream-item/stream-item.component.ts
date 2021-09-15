@@ -1,6 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
 import {Annotation} from '../annotation';
-import {QueueService} from '../queue.service';
 
 @Component({
   selector: 'app-stream-item',
