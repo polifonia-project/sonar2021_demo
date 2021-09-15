@@ -1,0 +1,29 @@
+.navbar-item-text {
+    color: black;
+    font-size: 12px;
+}
+
+.navbar-item-icon {
+    text-align: center;
+}
+
+
+.material-icons.size { font-size: 24px; }
+
+  /*
+    style for selected navbar items
+  */
+  .navbar-item-text.selected {
+    color: white;
+  }
+
+
+
+  /*
+  .navbar-item-text:hover {
+    color: white ;
+  }
+  .navbar-item-text.selected:active  {
+    color: white ;
+  }
+  */
