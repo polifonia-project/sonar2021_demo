@@ -1,33 +1,6 @@
 <div class="app-background">
-  <h2 class="accordion-header" id="{{'flush-heading-' + annotation.id}}">
-    <button
-      class="accordion-button collapsed app-background app-text-color"
-      type="button"
-      [attr.data-bs-toggle]="'collapse'"
-      [attr.data-bs-target]="'#flush-collapse-' + annotation.id"
-      [attr.aria-expanded]="'false'"
-      [attr.aria-controls]="'flush-collapse-' + annotation.id">
-      {{annotation.type}} - {{annotation.id}}
-    </button>
-  </h2>
-  <div
-    id="{{'flush-collapse-' + annotation.id}}"
-    class="accordion-collapse collapse"
-    [attr.aria-labelledby]="'flush-heading-' + annotation.id"
-    [attr.data-bs-parent]="'#accordionFlush'">
-    <div class="accordion-body">
-      {{annotation.description}}
-      <div *ngIf="annotation.relationships.length > 0">
-        <strong>Related songs</strong>
-        <ul>
-        <div *ngFor="let song of annotation.relationships">
-          <li>
-            <button (click)="addToQueue(song.songID)" type="button" class="btn btn-primary btn-sm my-1"><i class="fas fa-plus-square"></i></button>
-            {{song.songID}}
-          </li>
-        </div>
-        </ul>
-      </div>
-    </div>
-  </div>
+  <app-stream-item-header [annotation]="annotation"></app-stream-item-header>
+  <app-stream-item-main-info [annotation]="annotation"></app-stream-item-main-info>
+  <app-stream-item-social-buttons [annotation]="annotation"></app-stream-item-social-buttons>
+  <app-stream-item-details [annotation]="annotation"></app-stream-item-details>
 </div>

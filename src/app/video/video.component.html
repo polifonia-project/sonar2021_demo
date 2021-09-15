@@ -1,7 +1,7 @@
 <div class="row pt-3 pb-1">
   <div class="col">
     <div class="card rounded app-background">
-      <div class="card-body">
+      <div class="card-body content-centered">
         <youtube-player
           (ready)="onReady($event)"
           (stateChange)="onStateChange($event)"
@@ -20,8 +20,8 @@
         </div>
         <div class="audio-controller-container">
            <button (click)="back()" type="button" class="btn btn-primary btn-lg audio-button"><i class="fas fa-backward"></i></button>
-           <button (click)="play()" type="button" class="btn btn-primary btn-xl audio-button"><i class="fas fa-play"></i></button>
-           <button (click)="pause()" type="button" class="btn btn-primary btn-xl mx-1 audio-button"><i class="fas fa-pause"></i></button>
+           <button *ngIf="playing" (click)="pause()" type="button" class="btn btn-primary btn-xl mx-1 audio-button"><i class="fas fa-pause"></i></button>
+           <button *ngIf="!playing" (click)="play()" type="button" class="btn btn-primary btn-xl audio-button"><i class="fas fa-play"></i></button>
            <button (click)="forward()" type="button" class="btn btn-primary btn-lg mx-1 audio-button"><i class="fas fa-forward"></i></button>
         </div>
       </div>

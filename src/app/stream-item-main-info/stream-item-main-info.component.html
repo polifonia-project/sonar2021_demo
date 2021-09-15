@@ -1,0 +1,10 @@
+<div
+id="{{'flush-collapse-' + annotation.id}}"
+class="accordion-collapse collapse"
+[attr.aria-labelledby]="'flush-heading-' + annotation.id"
+[attr.data-bs-parent]="'#accordionFlush'">
+<div class="accordion-body">
+  {{annotation.description}}
+</div>
+</div>
+
