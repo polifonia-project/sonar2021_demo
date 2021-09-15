@@ -11,15 +11,9 @@ export class StreamItemComponent implements OnInit {
   @Input() annotation?: Annotation;
 
   constructor(
-    private queueService: QueueService
   ) { }
 
   ngOnInit(): void {
 
   }
-
-  addToQueue(songID: string): void {
-    this.queueService.addToQueue(songID);
-  }
-
 }

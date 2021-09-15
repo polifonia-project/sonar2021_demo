@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { QueueService } from '../queue.service';
 import { Relationship } from '../relationship';
 
 @Component({
@@ -10,13 +11,13 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
 
   @Input() song? : Relationship;
 
-  constructor() { }
+  constructor(private queueService: QueueService) { }
 
   ngOnInit(): void {
   }
 
-  addToQueue(song) {
-
+  addToQueue(songID: string): void {
+    this.queueService.addToQueue(songID);
   }
 
 }
