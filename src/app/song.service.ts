@@ -17,6 +17,19 @@ export class SongService {
     return this.songs;
   }
 
+  getSongDetails(songID: string): Song {
+    if (!this.songsInitialised) {
+      this.songs = this.getSongs();
+    }
+    for (let i = 0; i < this.songs.length; i++){
+      if (this.songs[i].id === songID) {
+        return this.songs[i];
+      }
+    }
+
+    return null;
+  }
+
   initSongs(): void {
     this.songs = [];
     let tempSong: Song = {
