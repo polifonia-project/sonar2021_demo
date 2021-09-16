@@ -7,6 +7,15 @@
     border-color: black;
 }
 
+.audio-button:focus, .audio-button:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  /* .audio-button.play, .audio-button.pause {
+} */
+
+
 .btn-xl {
     padding: 10px 25px;
     font-size: 30px;

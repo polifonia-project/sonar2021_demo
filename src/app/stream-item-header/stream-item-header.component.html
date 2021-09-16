@@ -7,7 +7,8 @@
       [attr.aria-expanded]="'false'"
       [attr.aria-controls]="'flush-collapse-' + annotation.id"
       >
-      <div  [style.color]="annotationGraphics.color"
+      <div class="material-icons size annotation-icon color-brightness" [style.color]="annotationGraphics.color">{{annotationGraphics.iconName}}</div>
+      <div [style.color]="annotationGraphics.color" class="annotation-title color-brightness"
       >
         {{annotationGraphics.title}}
       </div>

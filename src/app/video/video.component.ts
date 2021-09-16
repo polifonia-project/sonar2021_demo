@@ -1,5 +1,6 @@
 import {Component, OnInit, ViewChild} from '@angular/core';
 import {YouTubePlayer} from '@angular/youtube-player';
+import { Song } from '../song';
 import {StreamService} from '../stream.service';
 
 @Component({
