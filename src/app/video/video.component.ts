@@ -1,4 +1,4 @@
-import {Component, OnInit, ViewChild} from '@angular/core';
+import {Component, Input, OnInit, ViewChild} from '@angular/core';
 import {YouTubePlayer} from '@angular/youtube-player';
 import {StreamService} from '../stream.service';
 
@@ -9,7 +9,9 @@ import {StreamService} from '../stream.service';
   styleUrls: ['./video.component.css']
 })
 export class VideoComponent implements OnInit {
+  @Input() videoID: string;
   @ViewChild(YouTubePlayer) youtubePlayer!: YouTubePlayer;
+
   youtubeTarget: any;
   playing = false;
   currentPlayTime = 0;

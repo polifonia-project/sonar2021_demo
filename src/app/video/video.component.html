@@ -5,7 +5,7 @@
         <youtube-player
           (ready)="onReady($event)"
           (stateChange)="onStateChange($event)"
-          videoId="vfxQ1oDiEJM"
+          [videoId]="'vfxQ1oDiEJM'"
           suggestedQuality="highres"
           [height]="200"
           [width]="300"
