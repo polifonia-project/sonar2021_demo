@@ -18,8 +18,10 @@ export class QueueComponent implements OnInit {
 
   ngOnInit(): void {
     this.queueSubscription = this.queueService.currentQueue.subscribe(queue => this.queue = queue);
-    this.addToQueue('1001');
-    this.addToQueue('1002');
+    // this.addToQueue('1001');
+    // this.addToQueue('1004');
+    // this.addToQueue('1003');
+    // this.addToQueue('1002');
   }
 
   addToQueue(songID: string): void {
