@@ -1,8 +1,8 @@
 import {Component, Input, OnInit, ViewChild} from '@angular/core';
 import {YouTubePlayer} from '@angular/youtube-player';
+import { Song } from '../song';
 import {StreamService} from '../stream.service';
 import {QueueService} from '../queue.service';
-import {Song} from '../song';
 import {SongService} from '../song.service';
 import {Subscription} from 'rxjs';
 import {QueueItem} from '../queueitem';

@@ -1,6 +1,12 @@
-<div class="app-background">
+<div class="app-background stream-item">
   <app-stream-item-header [annotation]="annotation"></app-stream-item-header>
   <app-stream-item-main-info [annotation]="annotation"></app-stream-item-main-info>
+  <app-stream-item-details [annotation]="annotation" 
+                            id="{{'flush-collapse-' + annotation.id}}"
+                            class="accordion-collapse collapse"
+                            [attr.aria-labelledby]="'flush-heading-' + annotation.id"
+                            [attr.data-bs-parent]="'#accordionFlush'"
+                            class="accordion-body collapse">
+  </app-stream-item-details>
   <app-stream-item-social-buttons [annotation]="annotation"></app-stream-item-social-buttons>
-  <app-stream-item-details [annotation]="annotation"></app-stream-item-details>
 </div>
