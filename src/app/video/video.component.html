@@ -25,7 +25,7 @@
              <button *ngIf="!playing" (click)="play()" type="button" class="btn btn-primary btn-xl audio-button pause"><i class="fas fa-play"></i></button>
              <button (click)="forward()" type="button" class="btn btn-primary btn-lg mx-1 audio-button"><i class="fas fa-forward"></i></button>
           </div>
-          <app-playing-song-details></app-playing-song-details>
+          <app-playing-song-details [playingSong]="currentSong"></app-playing-song-details>
         </div>
       </div>
     </div>
