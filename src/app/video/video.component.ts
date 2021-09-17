@@ -108,6 +108,7 @@ export class VideoComponent implements OnInit {
   forward(): void {
     // GO FORWARD IN THE PLAY QUEUE
     this.queueService.forwards();
+    this.initPlayer();
   }
 
 }
