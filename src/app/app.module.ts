@@ -19,6 +19,9 @@ import { StreamItemDetailsComponent } from './stream-item-details/stream-item-de
 import { StreamItemSocialButtonsComponent } from './stream-item-social-buttons/stream-item-social-buttons.component';
 import { StreamItemRelatedSongsComponent } from './stream-item-related-songs/stream-item-related-songs.component';
 import { StreamItemRelatedSongItemComponent } from './stream-item-related-song-item/stream-item-related-song-item.component';
+import { StreamItemSecondaryInfoComponent } from './stream-item-secondary-info/stream-item-secondary-info.component';
+import { LyricsComponent } from './stream-item-secondary-info/annotation-type-specific-info/lyrics/lyrics.component';
+import { LocationComponent } from './stream-item-secondary-info/annotation-type-specific-info/location/location.component';
 
 
 @NgModule({
@@ -38,6 +41,9 @@ import { StreamItemRelatedSongItemComponent } from './stream-item-related-song-i
     StreamItemSocialButtonsComponent,
     StreamItemRelatedSongsComponent,
     StreamItemRelatedSongItemComponent,
+    StreamItemSecondaryInfoComponent,
+    LyricsComponent,
+    LocationComponent,
   ],
   imports: [
     BrowserModule,

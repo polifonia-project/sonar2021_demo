@@ -1,3 +1,4 @@
+import { AnnotationMetadata } from './annotation-metadata';
 import {Relationship} from './relationship';
 
 export interface Annotation {
@@ -7,6 +8,5 @@ export interface Annotation {
   timestamp: number;
   relationships: Relationship[];
   description?: string;
-  metadata?: any;
+  metadata?: AnnotationMetadata;
 }
-
