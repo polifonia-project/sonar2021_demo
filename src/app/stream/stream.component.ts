@@ -46,7 +46,7 @@ export class StreamComponent implements OnInit, OnDestroy {
   }
 
   getCurrentSongAnnotations(songID: string): void {
-    this.currentSongAnnotations = this.annotationService.getAnnotations();
+    this.currentSongAnnotations = this.annotationService.getSongAnnotations(songID);
   }
 
   checkForUpdates(): void {

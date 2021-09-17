@@ -24,7 +24,13 @@ export class AnnotationService {
       this.initAnnotations();
     }
     // FIXME - Just returning a single dummy item for now for testing
-    return [this.annotations[0]];
+    let tempAnnotationArray: Annotation[] = [];
+    for (let i = 0; i < this.annotations.length; i++){
+      if (this.annotations[i].songID === songID){
+        tempAnnotationArray.push(this.annotations[i]);
+      }
+    }
+    return tempAnnotationArray;
   }
 
   initAnnotations(): void {
@@ -49,6 +55,144 @@ export class AnnotationService {
       {
         id: '2002',
         songID: '1001',
+        timestamp: 15,
+        type: 'spatial',
+        relationships: [
+          {
+            songID: '1001',
+            type: 'spatial',
+            score: 68
+          },
+          {
+            songID: '1002',
+            type: 'spatial',
+            score: 38
+          }
+        ],
+        description: 'This spatial annotation refers to some geographic aspect of the song',
+        metadata: {
+          lat: 52.5,
+          lng: -0.75,
+          placeName: 'Liverpool',
+        }
+      }
+    );
+
+    // NEXT SONG
+
+    this.annotations.push(
+      {
+        id: '2003',
+        songID: '1002',
+        timestamp: 5,
+        type: 'lyrics',
+        relationships: [
+          {
+            songID: '1002',
+            type: 'lyrics',
+            score: 45
+          }
+        ],
+        description: 'These lyrics demonstrate Michael Jackson\'s early work'
+      }
+    );
+
+    this.annotations.push(
+      {
+        id: '2004',
+        songID: '1002',
+        timestamp: 15,
+        type: 'spatial',
+        relationships: [
+          {
+            songID: '1001',
+            type: 'spatial',
+            score: 68
+          },
+          {
+            songID: '1002',
+            type: 'spatial',
+            score: 38
+          }
+        ],
+        description: 'This spatial annotation refers to some geographic aspect of the song',
+        metadata: {
+          lat: 52.5,
+          lng: -0.75,
+          placeName: 'Liverpool',
+        }
+      }
+    );
+
+    // NEXT SONG
+
+    this.annotations.push(
+      {
+        id: '2005',
+        songID: '1003',
+        timestamp: 5,
+        type: 'lyrics',
+        relationships: [
+          {
+            songID: '1002',
+            type: 'lyrics',
+            score: 45
+          }
+        ],
+        description: 'These lyrics refer to a barbershop in Liverpool'
+      }
+    );
+
+    this.annotations.push(
+      {
+        id: '2006',
+        songID: '1003',
+        timestamp: 15,
+        type: 'spatial',
+        relationships: [
+          {
+            songID: '1001',
+            type: 'spatial',
+            score: 68
+          },
+          {
+            songID: '1002',
+            type: 'spatial',
+            score: 38
+          }
+        ],
+        description: 'This spatial annotation refers to some geographic aspect of the song',
+        metadata: {
+          lat: 52.5,
+          lng: -0.75,
+          placeName: 'Liverpool',
+        }
+      }
+    );
+
+    // NEXT SONG
+
+    this.annotations.push(
+      {
+        id: '2007',
+        songID: '1004',
+        timestamp: 5,
+        type: 'lyrics',
+        relationships: [
+          {
+            songID: '1002',
+            type: 'lyrics',
+            score: 45
+          }
+        ],
+        description: 'These lyrics refer to a barbershop in Liverpool'
+      }
+    );
+
+    this.annotations.push(
+      {
+        id: '2007',
+        songID: '1004',
         timestamp: 15,
         type: 'spatial',
         relationships: [
