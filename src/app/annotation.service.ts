@@ -69,7 +69,7 @@ export class AnnotationService {
             score: 38
           }
         ],
-        description: 'This spatial annotation refers to some geographic aspect of the song',
+        description: 'This barbershop was in Liverpool',
         metadata: {
           lat: 52.5,
           lng: -0.75,
@@ -88,7 +88,7 @@ export class AnnotationService {
         type: 'lyrics',
         relationships: [
           {
-            songID: '1002',
+            songID: '1003',
             type: 'lyrics',
             score: 45
           }
@@ -110,16 +110,16 @@ export class AnnotationService {
             score: 68
           },
           {
-            songID: '1002',
+            songID: '1004',
             type: 'spatial',
             score: 38
           }
         ],
-        description: 'This spatial annotation refers to some geographic aspect of the song',
+        description: 'This song was written in Atlanta, Texas',
         metadata: {
           lat: 52.5,
           lng: -0.75,
-          placeName: 'Liverpool',
+          placeName: 'Atlanta, Texas',
         }
       }
     );
@@ -134,12 +134,12 @@ export class AnnotationService {
         type: 'lyrics',
         relationships: [
           {
-            songID: '1002',
+            songID: '1004',
             type: 'lyrics',
             score: 45
           }
         ],
-        description: 'These lyrics refer to a barbershop in Liverpool'
+        description: 'Mick Jagger\'s lyrics here are heavily blues influenced.'
       }
     );
 
@@ -161,11 +161,11 @@ export class AnnotationService {
             score: 38
           }
         ],
-        description: 'This spatial annotation refers to some geographic aspect of the song',
+        description: 'The Rolling Stones recorded this album in Alabama',
         metadata: {
           lat: 52.5,
           lng: -0.75,
-          placeName: 'Liverpool',
+          placeName: 'Alabama, USA',
         }
       }
     );
@@ -185,13 +185,13 @@ export class AnnotationService {
             score: 45
           }
         ],
-        description: 'These lyrics refer to a barbershop in Liverpool'
+        description: 'This song is often cited as one of the greatest songs ever written.'
       }
     );
 
     this.annotations.push(
       {
-        id: '2007',
+        id: '2008',
         songID: '1004',
         timestamp: 15,
         type: 'spatial',
@@ -202,16 +202,16 @@ export class AnnotationService {
             score: 68
           },
           {
-            songID: '1002',
+            songID: '1003',
             type: 'spatial',
             score: 38
           }
         ],
-        description: 'This spatial annotation refers to some geographic aspect of the song',
+        description: 'Toto makes extensive reference to Africa in this song.',
         metadata: {
           lat: 52.5,
           lng: -0.75,
-          placeName: 'Liverpool',
+          placeName: 'Africa',
         }
       }
     );
