@@ -27,7 +27,7 @@ export class StreamService {
 
   addToStream(item: Annotation): void {
     let newStreamArray = this.streamSource.getValue();
-    newStreamArray.push(item);
+    newStreamArray.unshift(item);
     this.streamSource.next(newStreamArray);
   }
 }

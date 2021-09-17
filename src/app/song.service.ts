@@ -41,23 +41,23 @@ export class SongService {
     this.songs.push(tempSong);
     tempSong = {
       id: '1002',
-      name: 'The Captain',
-      artist: 'Biffy Clyro',
-      youtubeID: '2Evn9MiIuqM'
+      name: 'Don’t Stop \'Til You Get Enough',
+      artist: 'Michael Jackson',
+      youtubeID: 'yURRmWtbTbo'
     };
     this.songs.push(tempSong);
     tempSong = {
       id: '1003',
-      name: 'Sledgehammer',
-      artist: 'Peter Gabriel',
-      youtubeID: 'OJWJE0x7T4Q'
+      name: 'Bright Lights, Big City',
+      artist: 'The Rolling Stones',
+      youtubeID: 'yZ1-46gCjus'
     };
     this.songs.push(tempSong);
     tempSong = {
       id: '1004',
-      name: 'By The Way',
-      artist: 'Red Hot Chilli Peppers',
-      youtubeID: 'JnfyjwChuNU'
+      name: 'Africa',
+      artist: 'Toto',
+      youtubeID: 'QAo_Ycocl1E'
     };
     this.songs.push(tempSong);
     this.songsInitialised = true;

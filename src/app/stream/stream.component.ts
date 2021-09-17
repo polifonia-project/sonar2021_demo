@@ -4,6 +4,7 @@ import {Subscription} from 'rxjs';
 import {StreamService} from '../stream.service';
 import {AnnotationService} from '../annotation.service';
 import {QueueService} from '../queue.service';
+import {Song} from '../song';
 
 @Component({
   selector: 'app-stream',
@@ -16,11 +17,12 @@ export class StreamComponent implements OnInit, OnDestroy {
   currentTime = 0;
   lastCheckedTime = 0;
   timer;
+  currentSong: Song;
 
   playing = false;
   streamSubscription: Subscription;
-
   timeSubscription: Subscription;
+  currentSongSubscription: Subscription;
 
   constructor(
     private streamService: StreamService,
@@ -31,11 +33,12 @@ export class StreamComponent implements OnInit, OnDestroy {
   ngOnInit(): void {
     this.streamSubscription = this.streamService.currentStream.subscribe(stream => this.stream = stream);
     this.timeSubscription = this.streamService.currentTime.subscribe( time => this.currentTime = time);
+    this.currentSongSubscription = this.queueService.currentSong.subscribe( song => this.currentSong = song);
 
     // Start timer
     this.timer = setInterval(() => { this.checkForUpdates(); }, 1000);
 
-    this.getCurrentSongAnnotations("1001");
+    this.getCurrentSongAnnotations(this.currentSong.id);
 
     console.log(this.stream);
   }
@@ -46,11 +49,12 @@ export class StreamComponent implements OnInit, OnDestroy {
   }
 
   getCurrentSongAnnotations(songID: string): void {
-    this.currentSongAnnotations = this.annotationService.getAnnotations();
+    this.currentSongAnnotations = this.annotationService.getSongAnnotations(songID);
   }
 
   checkForUpdates(): void {
     // Code here
+    this.getCurrentSongAnnotations(this.currentSong.id);
     this.currentSongAnnotations.forEach( (annotation) => {
       const visible = (annotation.timestamp <= this.currentTime);
       let inStream = false;
@@ -63,11 +67,6 @@ export class StreamComponent implements OnInit, OnDestroy {
         this.streamService.addToStream(annotation);
       }
     });
-  }
-
-  addDummyAnnotation(): void {
-    const tempAnnotation = this.annotationService.getSongAnnotations('1001')[0];
-    this.streamService.addToStream(tempAnnotation);
   }
 
 }
