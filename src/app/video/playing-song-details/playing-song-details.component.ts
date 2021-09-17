@@ -8,12 +8,12 @@ import { Song } from 'src/app/song';
 })
 export class PlayingSongDetailsComponent implements OnInit {
 
-  @Input() playingSong? : Song;
+  @Input() playingSong?: Song;
 
   constructor() { }
 
   ngOnInit(): void {
-    console.log("Song:",this.playingSong)
+    console.log('Song:', this.playingSong);
   }
 
 }
