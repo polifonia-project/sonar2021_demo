@@ -48,8 +48,17 @@ export class QueueService {
 
   forwards(): void {
     // Move forwards to the next song in the queue
+    if (this.currentSongSource.getValue() != null) {
+      this.history.unshift(
+        {
+          songID: this.currentSongSource.getValue().id
+        }
+      );
+    }
+    console.log('History:');
+    console.log(this.history);
     // FIXME - Currently breaks when the queue is empty
-    console.log (this.queueSource.getValue());
+    // console.log (this.queueSource.getValue());
     let newCurrentSong = this.songService.getSongDetails(this.queueSource.getValue()[0].songID);
     this.currentSongSource.next(newCurrentSong);
     this.removeFromQueue(0);
