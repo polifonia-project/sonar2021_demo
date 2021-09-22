@@ -5,7 +5,7 @@
           <app-navbar-item *ngFor="let item of navItems"
               class="navbar-item"
               [isSelected]="item === selectedItem"
-              (click)="onSelect(item)"
+              (click)="onClickNavButton(item)"
               [title]="item.title" 
               [route]="item.route"
               [iconName]="item.icon">

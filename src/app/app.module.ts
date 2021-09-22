@@ -22,6 +22,10 @@ import { StreamItemRelatedSongItemComponent } from './stream-item-related-song-i
 import { StreamItemSecondaryInfoComponent } from './stream-item-secondary-info/stream-item-secondary-info.component';
 import { LyricsComponent } from './stream-item-secondary-info/annotation-type-specific-info/lyrics/lyrics.component';
 import { LocationComponent } from './stream-item-secondary-info/annotation-type-specific-info/location/location.component';
+import { PageSwitchComponent } from './page-switch/page-switch.component';
+import { HomeComponent } from './page-switch/pages/home/home.component';
+import { PlaylistComponent } from './page-switch/pages/playlist/playlist.component';
+import { FilterComponent } from './page-switch/pages/filter/filter.component';
 
 
 @NgModule({
@@ -44,6 +48,10 @@ import { LocationComponent } from './stream-item-secondary-info/annotation-type-
     StreamItemSecondaryInfoComponent,
     LyricsComponent,
     LocationComponent,
+    PageSwitchComponent,
+    HomeComponent,
+    PlaylistComponent,
+    FilterComponent,
   ],
   imports: [
     BrowserModule,

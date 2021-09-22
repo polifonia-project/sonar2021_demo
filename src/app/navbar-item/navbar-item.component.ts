@@ -9,7 +9,6 @@ export class NavbarItemComponent implements OnInit {
 
   @Input() title = "";
   @Input() iconName = "";
-  @Input() route = "";
   @Input() isSelected? : boolean;
 
   constructor() { }
