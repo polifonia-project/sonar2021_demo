@@ -101,8 +101,18 @@ export class VideoComponent implements OnInit {
     this.youtubeTarget.pauseVideo();
   }
 
-  back(): void {
+  backwards(): void {
     // GO BACK IN THE PLAY QUEUE
+    // If we're more than 2 seconds into the current song, just return to the start of the song.
+    // Else jump back to the previous song.
+    if (this.currentPlayTime > 2) {
+      this.youtubeTarget.seekTo(0, true);
+      this.initPlayer();
+    }
+    else {
+      this.queueService.backwards();
+      this.initPlayer();
+    }
   }
 
   forward(): void {

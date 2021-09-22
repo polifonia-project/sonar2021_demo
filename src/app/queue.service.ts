@@ -23,14 +23,24 @@ export class QueueService {
     private songService: SongService
   ) { }
 
-  addToQueue(songID: string): void {
+  addToQueue(songID: string, addToHead: boolean = false): void {
     let newQueue = this.queueSource.getValue();
-    newQueue.push(
-      {
-        songID,
-        played: false
-      }
-    );
+    if (addToHead) {
+      newQueue.unshift(
+        {
+          songID,
+          played: false
+        }
+      );
+    }
+    else {
+      newQueue.push(
+        {
+          songID,
+          played: false
+        }
+      );
+    }
     this.queueSource.next(newQueue);
   }
 
@@ -41,13 +51,10 @@ export class QueueService {
     this.queueSource.next(newQueue);
   }
 
-  getCurrentQueueItem(): QueueItem {
-    const currentQueue = this.queueSource.getValue();
-    return currentQueue[this.queueIndex];
-  }
-
   forwards(): void {
     // Move forwards to the next song in the queue
+
+    // if there's a current song playing, move it into the history.
     if (this.currentSongSource.getValue() != null) {
       this.history.unshift(
         {
@@ -55,10 +62,11 @@ export class QueueService {
         }
       );
     }
-    console.log('History:');
-    console.log(this.history);
-    // FIXME - Currently breaks when the queue is empty
-    // console.log (this.queueSource.getValue());
+
+    if (this.queueSource.getValue().length === 0) {
+      return;
+    }
+
     let newCurrentSong = this.songService.getSongDetails(this.queueSource.getValue()[0].songID);
     this.currentSongSource.next(newCurrentSong);
     this.removeFromQueue(0);
@@ -67,5 +75,14 @@ export class QueueService {
   backwards(): void {
     // Move backwards to the previous song in the queue
 
+    if (this.history.length === 0) {
+      return;
+    }
+
+    // Before we move back, put the current playing song on the head of the queue
+    this.addToQueue(this.currentSongSource.getValue().id, true);
+    let newCurrentSong = this.songService.getSongDetails(this.history[0].songID);
+    this.currentSongSource.next(newCurrentSong);
+    this.history.shift();
   }
 }
