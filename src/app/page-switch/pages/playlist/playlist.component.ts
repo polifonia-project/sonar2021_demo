@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { QueueService } from 'src/app/queue.service';
 
 @Component({
   selector: 'app-playlist',
@@ -7,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PlaylistComponent implements OnInit {
 
-  constructor() { }
+  constructor(private queueService: QueueService) {
+  }
 
   ngOnInit(): void {
   }
