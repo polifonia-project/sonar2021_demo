@@ -53,6 +53,8 @@ export class QueueService {
 
   forwards(): void {
     // Move forwards to the next song in the queue
+
+    // if there's a current song playing, move it into the history.
     if (this.currentSongSource.getValue() != null) {
       this.history.unshift(
         {
@@ -60,10 +62,11 @@ export class QueueService {
         }
       );
     }
-    console.log('History:');
-    console.log(this.history);
-    // FIXME - Currently breaks when the queue is empty
-    // console.log (this.queueSource.getValue());
+
+    if (this.queueSource.getValue().length === 0) {
+      return;
+    }
+
     let newCurrentSong = this.songService.getSongDetails(this.queueSource.getValue()[0].songID);
     this.currentSongSource.next(newCurrentSong);
     this.removeFromQueue(0);
@@ -71,11 +74,13 @@ export class QueueService {
 
   backwards(): void {
     // Move backwards to the previous song in the queue
+
+    if (this.history.length === 0) {
+      return;
+    }
+
     // Before we move back, put the current playing song on the head of the queue
-    console.log ('current song id: ' + this.currentSongSource.getValue().id);
     this.addToQueue(this.currentSongSource.getValue().id, true);
-    console.log('Queue: ');
-    console.log (this.queueSource.getValue());
     let newCurrentSong = this.songService.getSongDetails(this.history[0].songID);
     this.currentSongSource.next(newCurrentSong);
     this.history.shift();
