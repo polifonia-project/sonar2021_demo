@@ -23,14 +23,24 @@ export class QueueService {
     private songService: SongService
   ) { }
 
-  addToQueue(songID: string): void {
+  addToQueue(songID: string, addToHead: boolean = false): void {
     let newQueue = this.queueSource.getValue();
-    newQueue.push(
-      {
-        songID,
-        played: false
-      }
-    );
+    if (addToHead) {
+      newQueue.unshift(
+        {
+          songID,
+          played: false
+        }
+      );
+    }
+    else {
+      newQueue.push(
+        {
+          songID,
+          played: false
+        }
+      );
+    }
     this.queueSource.next(newQueue);
   }
 
@@ -39,11 +49,6 @@ export class QueueService {
     let newQueue = this.queueSource.getValue();
     newQueue.splice(index, 1);
     this.queueSource.next(newQueue);
-  }
-
-  getCurrentQueueItem(): QueueItem {
-    const currentQueue = this.queueSource.getValue();
-    return currentQueue[this.queueIndex];
   }
 
   forwards(): void {
@@ -66,6 +71,13 @@ export class QueueService {
 
   backwards(): void {
     // Move backwards to the previous song in the queue
-
+    // Before we move back, put the current playing song on the head of the queue
+    console.log ('current song id: ' + this.currentSongSource.getValue().id);
+    this.addToQueue(this.currentSongSource.getValue().id, true);
+    console.log('Queue: ');
+    console.log (this.queueSource.getValue());
+    let newCurrentSong = this.songService.getSongDetails(this.history[0].songID);
+    this.currentSongSource.next(newCurrentSong);
+    this.history.shift();
   }
 }
