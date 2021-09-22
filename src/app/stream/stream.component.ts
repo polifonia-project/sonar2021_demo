@@ -5,6 +5,7 @@ import {StreamService} from '../stream.service';
 import {AnnotationService} from '../annotation.service';
 import {QueueService} from '../queue.service';
 import {Song} from '../song';
+import { SongService } from '../song.service';
 
 @Component({
   selector: 'app-stream',
@@ -27,7 +28,8 @@ export class StreamComponent implements OnInit, OnDestroy {
   constructor(
     private streamService: StreamService,
     private annotationService: AnnotationService,
-    private queueService: QueueService
+    private queueService: QueueService,
+    private songService: SongService
   ) { }
 
   ngOnInit(): void {
@@ -39,8 +41,6 @@ export class StreamComponent implements OnInit, OnDestroy {
     this.timer = setInterval(() => { this.checkForUpdates(); }, 1000);
 
     this.getCurrentSongAnnotations(this.currentSong.id);
-
-    console.log(this.stream);
   }
 
   ngOnDestroy(): void {
@@ -94,6 +94,10 @@ export class StreamComponent implements OnInit, OnDestroy {
     }
 
     return false
+  }
+
+  getSongDetailsByAnnotationIndex(annotationIndex: number): Song {
+    return this.songService.getSongDetails(this.stream[annotationIndex].songID)
   }
 
 }
