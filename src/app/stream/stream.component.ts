@@ -69,4 +69,31 @@ export class StreamComponent implements OnInit, OnDestroy {
     });
   }
 
+  isPreviousSongAnnotation(annotationIndex: number) : boolean {
+
+    const playingSong = this.currentSong.id
+    const lastAnnotationIndex = 0
+    const scannedAnnotationSong = this.stream[annotationIndex].songID
+    const lastAnnotationSongInTheStream = this.stream[lastAnnotationIndex].songID
+
+    // this condition makes divisor pops when a song change but no annotation from new song are in the stream
+    if (scannedAnnotationSong == lastAnnotationSongInTheStream && annotationIndex == lastAnnotationIndex) {
+      if (scannedAnnotationSong != playingSong) {
+        return true
+      }
+    }
+
+
+    if (annotationIndex === 0) {
+      return false
+    }
+    const previousSongAnnotation = this.stream[annotationIndex-1].songID
+    // this condition makes divisor pops when an annotation is from a song different from following annotation
+    if (scannedAnnotationSong != previousSongAnnotation) {
+      return true
+    }
+
+    return false
+  }
+
 }
