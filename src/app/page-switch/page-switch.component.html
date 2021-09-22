@@ -1,0 +1,6 @@
+<div [ngSwitch]="currentPage">
+    <app-home *ngSwitchCase="AppPage.Home"></app-home>
+    <app-filter *ngSwitchCase="AppPage.Filter"></app-filter>
+    <app-playlist *ngSwitchCase="AppPage.Playlist"></app-playlist>
+    <app-home *ngSwitchDefault></app-home>
+</div>

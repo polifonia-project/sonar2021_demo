@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { PageSwitchService } from '../page-switch.service';
+import { AppPage } from '../page-switch/AppPage';
 
 @Component({
   selector: 'app-navbar',
@@ -7,32 +9,43 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
-  selectedItem?;
+  selectedItem?
   navItems = [
      // home item params
      {  title : "Home",
-        route : "/home",
-        icon : "home"
-     },  
+        icon : "home",
+        page: AppPage.Home
+     },
      // playlist item params
      { title : "Playlist",
-       route : "/playlist",
-       icon : "queue_music"
+       icon : "queue_music",
+       page: AppPage.Playlist
      },
        // filter item params
      { title : "Filter",
-       route : "/filter",
-       icon : "filter_alt"
+       icon : "filter_alt",
+       page: AppPage.Filter
      }
   ]
   
-  constructor() { }
+  constructor(private pageSwitchService : PageSwitchService) {}
 
   ngOnInit(): void {
+    this.selectedItem = this.findNavItemForPage(this.pageSwitchService.currentPage)
   }
 
-  onSelect(item): void {
-    this.selectedItem = item;
+  findNavItemForPage(page) {
+    let navItemToReturn;
+    this.navItems.forEach(navItem => {
+      if (navItem.page === page) {
+        navItemToReturn = navItem
+      }
+    })
+    return navItemToReturn
   }
 
+  onClickNavButton(item) {
+    this.pageSwitchService.changePage(item.page)
+    this.selectedItem = this.findNavItemForPage(this.pageSwitchService.currentPage);
+  }
 }
