@@ -9,7 +9,8 @@
 
         <div class="accordion accordion-flush" id="accordionFlush">
 
-          <div class="accordion-item" *ngFor="let annotation of stream">
+          <div class="accordion-item" *ngFor="let annotation of stream; index as annotationIndex">
+            <div *ngIf="isPreviousSongAnnotation(annotationIndex)" class="annotation-divisor">{{getSongDetailsByAnnotationIndex(annotationIndex).name}} - {{getSongDetailsByAnnotationIndex(annotationIndex).artist}}</div>
             <app-stream-item [annotation]="annotation"></app-stream-item>
           </div>
 
