@@ -17,7 +17,8 @@ export class StreamItemHeaderComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.annotationGraphics = this.annotationGraphicsService.getAnnotationGraphics(this.annotation.type)
+    if (this.annotation) {
+      this.annotationGraphics = this.annotationGraphicsService.getAnnotationGraphics(this.annotation.type)
+    }
   }
-
 }

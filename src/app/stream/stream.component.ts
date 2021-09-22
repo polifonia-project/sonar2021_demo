@@ -40,7 +40,9 @@ export class StreamComponent implements OnInit, OnDestroy {
     // Start timer
     this.timer = setInterval(() => { this.checkForUpdates(); }, 1000);
 
-    this.getCurrentSongAnnotations(this.currentSong.id);
+    if (this.currentSong) {
+      this.getCurrentSongAnnotations(this.currentSong.id);
+    }
   }
 
   ngOnDestroy(): void {

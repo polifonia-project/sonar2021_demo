@@ -21,7 +21,9 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.fullSong = this.getSongDetails(this.relationship.songID);
+    if (this.relationship) {
+      this.fullSong = this.getSongDetails(this.relationship.songID);
+    }
   }
 
   addToQueue(songID: string): void {
