@@ -5,6 +5,7 @@ import {StreamService} from '../stream.service';
 import {AnnotationService} from '../annotation.service';
 import {QueueService} from '../queue.service';
 import {Song} from '../song';
+import { SongService } from '../song.service';
 
 @Component({
   selector: 'app-stream',
@@ -27,7 +28,8 @@ export class StreamComponent implements OnInit, OnDestroy {
   constructor(
     private streamService: StreamService,
     private annotationService: AnnotationService,
-    private queueService: QueueService
+    private queueService: QueueService,
+    private songService: SongService
   ) { }
 
   ngOnInit(): void {
@@ -39,8 +41,6 @@ export class StreamComponent implements OnInit, OnDestroy {
     this.timer = setInterval(() => { this.checkForUpdates(); }, 1000);
 
     this.getCurrentSongAnnotations(this.currentSong.id);
-
-    console.log(this.stream);
   }
 
   ngOnDestroy(): void {
@@ -67,6 +67,37 @@ export class StreamComponent implements OnInit, OnDestroy {
         this.streamService.addToStream(annotation);
       }
     });
+  }
+
+  isPreviousSongAnnotation(annotationIndex: number) : boolean {
+
+    const playingSong = this.currentSong.id
+    const lastAnnotationIndex = 0
+    const scannedAnnotationSong = this.stream[annotationIndex].songID
+    const lastAnnotationSongInTheStream = this.stream[lastAnnotationIndex].songID
+
+    // this condition makes divisor pops when a song change but no annotation from new song are in the stream
+    if (scannedAnnotationSong == lastAnnotationSongInTheStream && annotationIndex == lastAnnotationIndex) {
+      if (scannedAnnotationSong != playingSong) {
+        return true
+      }
+    }
+
+
+    if (annotationIndex === 0) {
+      return false
+    }
+    const previousSongAnnotation = this.stream[annotationIndex-1].songID
+    // this condition makes divisor pops when an annotation is from a song different from following annotation
+    if (scannedAnnotationSong != previousSongAnnotation) {
+      return true
+    }
+
+    return false
+  }
+
+  getSongDetailsByAnnotationIndex(annotationIndex: number): Song {
+    return this.songService.getSongDetails(this.stream[annotationIndex].songID)
   }
 
 }
