@@ -1,4 +1,4 @@
-<div class="app-background stream-item">
+<div *ngIf="annotation" class="app-background stream-item">
   <app-stream-item-header [annotation]="annotation"></app-stream-item-header>
   <app-stream-item-main-info [annotation]="annotation"></app-stream-item-main-info>
   <app-stream-item-details [annotation]="annotation" 
