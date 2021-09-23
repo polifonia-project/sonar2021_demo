@@ -1,4 +1,4 @@
-<div class="">
+
   <div class="row">
     <div class="col">
       <div class="card rounded app-background">
@@ -6,7 +6,7 @@
           <h5 class="card-title">Queue</h5>
 
           <div *ngFor="let queueItem of queue; let i = index">
-            {{queueItem.songID}}
+            {{getSongDetails(queueItem.songID).name}} - {{getSongDetails(queueItem.songID).artist}}
             <button (click)="removeFromQueue(i)" type="button" class="btn btn-danger btn-sm my-1"><i class="fas fa-trash-alt"></i></button>
           </div>
 
@@ -14,6 +14,3 @@
       </div>
     </div>
 </div>
-
-
-
