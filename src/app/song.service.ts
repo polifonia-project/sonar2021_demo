@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
-import {Song} from './song';
+import { Song } from './song';
+// @ts-ignore
+import ApplicationData from '../assets/data/data_v1.json';
 
 @Injectable({
   providedIn: 'root'
@@ -21,6 +23,7 @@ export class SongService {
     if (!this.songsInitialised) {
       this.songs = this.getSongs();
     }
+    // tslint:disable-next-line:prefer-for-of
     for (let i = 0; i < this.songs.length; i++){
       if (this.songs[i].id === songID) {
         return this.songs[i];
@@ -32,34 +35,9 @@ export class SongService {
 
   initSongs(): void {
     this.songs = [];
-    let tempSong: Song = {
-      id: '1001',
-      name: 'Penny Lane',
-      artist: 'The Beatles',
-      youtubeID: 'vfxQ1oDiEJM'
-    };
-    this.songs.push(tempSong);
-    tempSong = {
-      id: '1002',
-      name: 'Don’t Stop \'Til You Get Enough',
-      artist: 'Michael Jackson',
-      youtubeID: 'yURRmWtbTbo'
-    };
-    this.songs.push(tempSong);
-    tempSong = {
-      id: '1003',
-      name: 'Bright Lights, Big City',
-      artist: 'The Rolling Stones',
-      youtubeID: 'yZ1-46gCjus'
-    };
-    this.songs.push(tempSong);
-    tempSong = {
-      id: '1004',
-      name: 'Africa',
-      artist: 'Toto',
-      youtubeID: 'QAo_Ycocl1E'
-    };
-    this.songs.push(tempSong);
+    for (const song of ApplicationData.songs) {
+      this.songs.push(song);
+    }
     this.songsInitialised = true;
   }
 }
