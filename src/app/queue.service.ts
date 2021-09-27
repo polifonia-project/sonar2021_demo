@@ -48,7 +48,6 @@ export class QueueService {
 
   forwards(): void {
     // Move forwards to the next song in the queue
-
     // if there's a current song playing, move it into the history.
     if (this.currentSongSource.getValue() != null) {
       this.history.unshift(this.currentSongSource.getValue());
