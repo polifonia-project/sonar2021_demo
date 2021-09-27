@@ -23,7 +23,6 @@ export class AnnotationService {
     if (!this.annotationsInitialised) {
       this.initAnnotations();
     }
-    // FIXME - Just returning a single dummy item for now for testing
     let tempAnnotationArray: Annotation[] = [];
     for (let i = 0; i < this.annotations.length; i++){
       if (this.annotations[i].songID === songID){
