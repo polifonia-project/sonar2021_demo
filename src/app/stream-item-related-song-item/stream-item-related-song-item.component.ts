@@ -27,7 +27,7 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
   }
 
   addToQueue(songID: string): void {
-    this.queueService.addToQueue(songID);
+    this.queueService.addToQueueByID(songID);
   }
 
   getSongDetails(songID: string): Song {

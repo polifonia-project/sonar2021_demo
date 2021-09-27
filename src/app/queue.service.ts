@@ -13,7 +13,7 @@ export class QueueService {
   // queue and history managed here
   private queueSource = new BehaviorSubject([]);
   currentQueue = this.queueSource.asObservable();
-  history: QueueItem[] = [];
+  history: Song[] = [];
   private currentSongSource = new BehaviorSubject( null);
   currentSong = this.currentSongSource.asObservable();
   queueIndex = 0;
@@ -23,25 +23,20 @@ export class QueueService {
     private songService: SongService
   ) { }
 
-  addToQueue(songID: string, addToHead: boolean = false): void {
+  addToQueue(song: Song, addToHead: boolean = false): void {
     let newQueue = this.queueSource.getValue();
     if (addToHead) {
-      newQueue.unshift(
-        {
-          songID,
-          played: false
-        }
-      );
+      newQueue.unshift(song);
     }
     else {
-      newQueue.push(
-        {
-          songID,
-          played: false
-        }
-      );
+      newQueue.push(song);
     }
     this.queueSource.next(newQueue);
+  }
+
+  addToQueueByID(songID: string, addToHead: boolean = false): void {
+    const song = this.songService.getSongDetails(songID);
+    this.addToQueue(song, addToHead);
   }
 
   removeFromQueue(index: number): void {
@@ -56,18 +51,14 @@ export class QueueService {
 
     // if there's a current song playing, move it into the history.
     if (this.currentSongSource.getValue() != null) {
-      this.history.unshift(
-        {
-          songID: this.currentSongSource.getValue().id
-        }
-      );
+      this.history.unshift(this.currentSongSource.getValue());
     }
 
     if (this.queueSource.getValue().length === 0) {
       return;
     }
 
-    let newCurrentSong = this.songService.getSongDetails(this.queueSource.getValue()[0].songID);
+    let newCurrentSong = this.queueSource.getValue()[0];
     this.currentSongSource.next(newCurrentSong);
     this.removeFromQueue(0);
   }
@@ -80,8 +71,8 @@ export class QueueService {
     }
 
     // Before we move back, put the current playing song on the head of the queue
-    this.addToQueue(this.currentSongSource.getValue().id, true);
-    let newCurrentSong = this.songService.getSongDetails(this.history[0].songID);
+    this.addToQueue(this.currentSongSource.getValue(), true);
+    let newCurrentSong = this.history[0];
     this.currentSongSource.next(newCurrentSong);
     this.history.shift();
   }

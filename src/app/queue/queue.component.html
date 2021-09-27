@@ -6,7 +6,7 @@
           <h5 class="card-title">Queue</h5>
 
           <div *ngFor="let queueItem of queue; let i = index">
-            {{getSongDetails(queueItem.songID).name}} - {{getSongDetails(queueItem.songID).artist}}
+            {{queueItem.name}} - {{queueItem.artist}}
             <button (click)="removeFromQueue(i)" type="button" class="btn btn-danger btn-sm my-1"><i class="fas fa-trash-alt"></i></button>
           </div>
 
