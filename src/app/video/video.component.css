@@ -1,0 +1,27 @@
+.audio-controller-container {
+    text-align: center;
+}
+
+.audio-button {
+    background-color: black;
+    border-color: black;
+}
+
+.audio-button:focus, .audio-button:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+
+  /* .audio-button.play, .audio-button.pause {
+} */
+
+
+.btn-xl {
+    padding: 10px 25px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.content-centered {
+    text-align: center;
+}

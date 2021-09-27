@@ -1,0 +1,16 @@
+<h2 *ngIf="annotation" class="accordion-header" id="{{'flush-heading-' + annotation.id}}">
+    <button
+      class="accordion-button accordion-flush collapsed app-background app-text-color annotation-button"
+      type="button"
+      [attr.data-bs-toggle]="'collapse'"
+      [attr.data-bs-target]="'#flush-collapse-' + annotation.id"
+      [attr.aria-expanded]="'false'"
+      [attr.aria-controls]="'flush-collapse-' + annotation.id"
+      >
+      <div class="material-icons size annotation-icon color-brightness" [style.color]="annotationGraphics.color">{{annotationGraphics.iconName}}</div>
+      <div [style.color]="annotationGraphics.color" class="annotation-title color-brightness"
+      >
+        {{annotationGraphics.title}}
+      </div>
+    </button>
+</h2>
