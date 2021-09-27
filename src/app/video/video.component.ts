@@ -20,7 +20,7 @@ export class VideoComponent implements OnInit {
   currentSong: Song;
   currentPlayTime = 0;
   timer;
-  queue: QueueItem[];
+  queue: Song[];
   queueSubscription: Subscription;
   currentSongSubscription: Subscription;
 
@@ -33,10 +33,10 @@ export class VideoComponent implements OnInit {
   ngOnInit(): void {
     this.queueSubscription = this.queueService.currentQueue.subscribe( queue => this.queue = queue);
     this.currentSongSubscription = this.queueService.currentSong.subscribe( song => this.currentSong = song);
-    this.queueService.addToQueue('1001');
-    this.queueService.addToQueue('1002');
-    this.queueService.addToQueue('1003');
-    this.queueService.addToQueue('1004');
+    this.queueService.addToQueueByID('1001');
+    this.queueService.addToQueueByID('1002');
+    this.queueService.addToQueueByID('1003');
+    this.queueService.addToQueueByID('1004');
     this.forward();
     const tag = document.createElement('script');
     tag.src = 'https://www.youtube.com/iframe_api';

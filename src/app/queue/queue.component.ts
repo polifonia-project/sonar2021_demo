@@ -11,7 +11,7 @@ import {Song} from '../song';
   styleUrls: ['./queue.component.css']
 })
 export class QueueComponent implements OnInit {
-  queue: QueueItem[] = [];
+  queue: Song[] = [];
   queueSubscription: Subscription;
 
   constructor(
@@ -21,18 +21,19 @@ export class QueueComponent implements OnInit {
 
   ngOnInit(): void {
     this.queueSubscription = this.queueService.currentQueue.subscribe(queue => this.queue = queue);
-    // this.addToQueue('1001');
-    // this.addToQueue('1004');
-    // this.addToQueue('1003');
-    // this.addToQueue('1002');
   }
 
   getSongDetails(id: string): Song {
     return this.songService.getSongDetails(id);
   }
 
-  addToQueue(songID: string): void {
-    this.queueService.addToQueue(songID);
+  addToQueueByID(songID: string): void {
+    this.songService.getSongDetails(songID);
+    this.queueService.addToQueue(this.songService.getSongDetails(songID));
+  }
+
+  addToQueue(song: Song): void {
+    this.queueService.addToQueue(song);
   }
 
   removeFromQueue(index: number): void {
