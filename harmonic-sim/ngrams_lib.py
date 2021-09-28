@@ -214,13 +214,13 @@ if __name__ == '__main__':
     ngram = open_ngram(NGRAMS_PATH)
 
     # FIND N-GRAM INDEX
-    ngrams_index = ngram_position(encoded, ngram)
+    # ngrams_index = ngram_position(encoded, ngram)
 
     # SAVE THE N-GRAM INDEX
     # save_joblib(ngrams_index, "sonar_ngrams_index.joblib")
 
     # FIND N-GRAM POSITION IN THE RAW SEQUENCE
-    raw_ngrams = get_raw_ngrams(INDEX_PATH, raw)
+    # raw_ngrams = get_raw_ngrams(INDEX_PATH, raw)
 
     # SAVE THE N-GRAM INDEX
     # save_joblib(raw_ngrams, "sonar_ngrams_index.joblib")
