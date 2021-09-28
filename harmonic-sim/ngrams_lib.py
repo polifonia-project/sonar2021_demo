@@ -106,10 +106,10 @@ def open_chord(chords_path: str):
         returns two dictionaries containing raw chords and encoded chords, respectively. The dictionaries have
         the following structure: key=track name, value=list of tuples.
     """
-    with open(chords_path, "rb") as bd:
-        ngrams_bundle = joblib.load(bd)
-        raw_chord = ngrams_bundle['raw']
-        encoded_chord = ngrams_bundle['encoded']
+    with open(chords_path, "rb") as cd:
+        chords = joblib.load(cd)
+    raw_chord = chords['preproc']
+    encoded_chord = chords['encoded']
 
     return raw_chord, encoded_chord
 
@@ -186,15 +186,20 @@ def get_raw_ngrams(indexes, raw_sequence: dict):
         ngrams_index = indexes
 
     raw_ngrams = {}
+    raw_position = {}
     for tr in ngrams_index:
         indexes = ngrams_index[tr]
         raw_ngram = []
+        positions = []
         for index, length in indexes:
-            ngram = raw_sequence[tr]['chord'][index: (index + length)]
+            ngram = [c for c, cs in raw_sequence[tr]][index: (index + length)]
+            position = [cs for c, cs in raw_sequence[tr]][index]
+            positions.append(position)
             # print(ngram)
             raw_ngram.append(ngram)
         raw_ngrams.update({tr: raw_ngram})
-    return raw_ngrams
+        raw_position.update({tr: positions})
+    return raw_ngrams, raw_position
 
 
 def save_joblib(ngrams_track_dict, out_file_name: str):
@@ -213,6 +218,8 @@ if __name__ == '__main__':
     raw, encoded = open_chord(CHORDS_PATH)
     ngram = open_ngram(NGRAMS_PATH)
 
+    # print(encoded)
+
     # FIND N-GRAM INDEX
     # ngrams_index = ngram_position(encoded, ngram)
 
@@ -220,7 +227,7 @@ if __name__ == '__main__':
     # save_joblib(ngrams_index, "sonar_ngrams_index.joblib")
 
     # FIND N-GRAM POSITION IN THE RAW SEQUENCE
-    # raw_ngrams = get_raw_ngrams(INDEX_PATH, raw)
+    raw_ngrams, position = get_raw_ngrams(INDEX_PATH, raw)
 
     # SAVE THE N-GRAM INDEX
     # save_joblib(raw_ngrams, "sonar_ngrams_index.joblib")
