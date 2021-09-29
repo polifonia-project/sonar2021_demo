@@ -9,17 +9,7 @@ OUTPUT_FILE = "sonar_ngrams.joblib"  # name of the joblib output file
 CHORDS_PATH = "./sonar_databundle.joblib"
 NGRAMS_PATH = "./sonar_ngrams.joblib"
 INDEX_PATH = "./sonar_ngrams_index.joblib"
-
-
-# deprecated
-def map_chords(encoded_list):
-    tracks_map = {}
-    for track in encoded_list:
-        track_map_chords = []
-        for i, ec in enumerate(encoded_list[track]):
-            track_map_chords.append((i, ec))
-        tracks_map.update({track: track_map_chords})
-    return tracks_map
+ENCODED_PATH = "./sonar_encoding_bundle.joblib"
 
 
 def extract_ngrams(track_name: str, sequence: list, n_start: int = 2):
@@ -215,8 +205,8 @@ if __name__ == '__main__':
     # process_ngrams(DATABUNDLE_PATH, OUTPUT_FILE, save=False)
 
     # OPEN Joblib FILES
-    raw, encoded = open_chord(CHORDS_PATH)
-    ngram = open_ngram(NGRAMS_PATH)
+    # raw, encoded = open_chord(CHORDS_PATH)
+    # ngram = open_ngram(NGRAMS_PATH)
 
     # print(encoded)
 
@@ -227,7 +217,17 @@ if __name__ == '__main__':
     # save_joblib(ngrams_index, "sonar_ngrams_index.joblib")
 
     # FIND N-GRAM POSITION IN THE RAW SEQUENCE
-    raw_ngrams, position = get_raw_ngrams(INDEX_PATH, raw)
+    # raw_ngrams, position = get_raw_ngrams(INDEX_PATH, raw)
 
     # SAVE THE N-GRAM INDEX
     # save_joblib(raw_ngrams, "sonar_ngrams_index.joblib")
+
+    with open('./sonar_encoding_bundle.joblib', "rb") as cd:
+        data = joblib.load(cd)
+
+    encoded = data['encoded']
+
+    for x in encoded:
+        ng = extract_ngrams(x, encoded[x], 3)
+
+    save_joblib(ng, "sonar_ngrams.joblib")
