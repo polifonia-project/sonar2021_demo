@@ -3,6 +3,7 @@ import { QueueService } from '../queue.service';
 import { Relationship } from '../relationship';
 import {SongService} from '../song.service';
 import {Song} from '../song';
+import {MessageService} from '../message.service';
 
 @Component({
   selector: 'app-stream-item-related-song-item',
@@ -17,7 +18,8 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
 
   constructor(
     private queueService: QueueService,
-    private songService: SongService
+    private songService: SongService,
+    private messageService: MessageService
   ) { }
 
   ngOnInit(): void {
@@ -27,7 +29,9 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
   }
 
   addToQueue(songID: string): void {
-    this.queueService.addToQueueByID(songID);
+    const song = this.songService.getSongDetails(songID);
+    this.queueService.addToQueue(song);
+    this.messageService.showMessage(song.name + ' added to your playlist');
   }
 
   getSongDetails(songID: string): Song {

@@ -1,6 +1,6 @@
 <div
-  class="alert alert-primary"
+  class="alert alert-fixed alert-primary"
   role="alert"
-  [ngClass]="{'d-none' : !message.visible}">
-  Messages appear here
+  [ngClass]="{'d-none fadeOut' : !message.visible, 'fadeIn' : message.visible}">
+  {{message.messageText}}
 </div>

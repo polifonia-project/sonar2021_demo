@@ -8,6 +8,7 @@ import {Message} from './message';
 export class MessageService {
   private messageSource = new BehaviorSubject(null);
   currentMessage = this.messageSource.asObservable();
+  defaultTimeOut = 2;
 
   constructor() { }
 
@@ -20,14 +21,15 @@ export class MessageService {
     this.messageSource.next(message);
   }
 
-  showMessage(text: string, cssClass: string = '', time: number = 3) {
+  showMessage(text: string, cssClass: string = '', time: number = this.defaultTimeOut): void {
+    console.log('entering showMessage()');
     let message: Message = {
       messageText: text,
       cssClass: cssClass,
       visible: true
     };
     this.messageSource.next(message);
-    setTimeout(function(): void {
+    setTimeout((): void => {
       message.visible = false;
       this.messageSource.next(message);
     }, (time * 1000));
