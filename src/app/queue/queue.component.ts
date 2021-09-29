@@ -40,7 +40,7 @@ export class QueueComponent implements OnInit {
 
   removeFromQueue(index: number): void {
     this.queueService.removeFromQueue(index);
-    this.messageService.showMessage('Song deleted from queue', 'delete');
+    this.messageService.showMessage('Song deleted from playlist', 'delete');
   }
 
 }
