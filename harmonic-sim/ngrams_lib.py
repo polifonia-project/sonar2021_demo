@@ -222,12 +222,14 @@ if __name__ == '__main__':
     # SAVE THE N-GRAM INDEX
     # save_joblib(raw_ngrams, "sonar_ngrams_index.joblib")
 
-    with open('./sonar_encoding_bundle.joblib', "rb") as cd:
+    with open('./sonar_ngrams.joblib', "rb") as cd:
         data = joblib.load(cd)
+        print(data)
 
-    encoded = data['encoded']
-
-    for x in encoded:
-        ng = extract_ngrams(x, encoded[x], 3)
-
-    save_joblib(ng, "sonar_ngrams.joblib")
+    # encoded = data['encoded']
+    # final = {}
+    # for x in encoded:
+    #     ng = extract_ngrams(x, encoded[x], 3)
+    #     final.update(ng)
+    #
+    # save_joblib(final, "sonar_ngrams.joblib")
