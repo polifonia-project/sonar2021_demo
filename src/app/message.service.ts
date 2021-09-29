@@ -22,6 +22,7 @@ export class MessageService {
   }
 
   showMessage(text: string, type: Message['type'] = 'info', time: number = this.defaultTimeOut): void {
+    // Display message at the top of the page. Optional timeout in seconds. Currently defaults to 2 seconds.
     console.log('entering showMessage()');
     let message: Message = {
       messageText: text,
