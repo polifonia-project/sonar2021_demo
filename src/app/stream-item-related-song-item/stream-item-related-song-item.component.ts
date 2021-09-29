@@ -31,7 +31,7 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
   addToQueue(songID: string): void {
     const song = this.songService.getSongDetails(songID);
     this.queueService.addToQueue(song);
-    this.messageService.showMessage(song.name + ' added to your playlist');
+    this.messageService.showMessage(song.name + ' added to your playlist', 'done');
   }
 
   getSongDetails(songID: string): Song {

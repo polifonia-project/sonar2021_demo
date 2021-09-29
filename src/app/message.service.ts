@@ -16,16 +16,16 @@ export class MessageService {
     const message: Message = {
       messageText: '',
       visible: false,
-      cssClass: ''
+      type: 'info'
     };
     this.messageSource.next(message);
   }
 
-  showMessage(text: string, cssClass: string = '', time: number = this.defaultTimeOut): void {
+  showMessage(text: string, type: Message['type'] = 'info', time: number = this.defaultTimeOut): void {
     console.log('entering showMessage()');
     let message: Message = {
       messageText: text,
-      cssClass: cssClass,
+      type,
       visible: true
     };
     this.messageSource.next(message);

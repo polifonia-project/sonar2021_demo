@@ -1,5 +1,5 @@
 export interface Message {
   visible: boolean;
   messageText: string;
-  cssClass: string;
+  type: 'info' | 'done' | 'delete' | 'warning';
 }

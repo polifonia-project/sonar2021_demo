@@ -32,7 +32,7 @@ export class QueueComponent implements OnInit {
   addToQueueByID(songID: string): void {
     const song = this.songService.getSongDetails(songID);
     this.queueService.addToQueue(song);
-    this.messageService.showMessage(song.name + ' has been added to your playlist');
+    this.messageService.showMessage(song.name + ' has been added to your playlist', 'done');
   }
 
   addToQueue(song: Song): void {
@@ -41,7 +41,7 @@ export class QueueComponent implements OnInit {
 
   removeFromQueue(index: number): void {
     this.queueService.removeFromQueue(index);
-    this.messageService.showMessage('Song deleted from queue');
+    this.messageService.showMessage('Song deleted from queue', 'delete');
   }
 
 }
