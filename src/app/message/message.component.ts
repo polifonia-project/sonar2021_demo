@@ -19,7 +19,6 @@ export class MessageComponent implements OnInit {
   ngOnInit(): void {
     this.messageSubscription = this.messageService.currentMessage.subscribe( message => this.message = message);
     this.messageService.initMessage();
-    this.messageService.showMessage('Hello', 'warning');
   }
 
 }

@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import {QueueItem} from '../queueitem';
 import {Subscription} from 'rxjs';
 import {QueueService} from '../queue.service';
 import {SongService} from '../song.service';
