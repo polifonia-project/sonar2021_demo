@@ -1,8 +1,9 @@
+import { Service } from "typedi";
 import { SparqlResponse } from "../../extract/sparql/SparqlClient";
 import { IDataMapper } from "../IDataMapper";
 
-
-export class SparqlDataMapper implements IDataMapper<SparqlResponse, any> {
+@Service()
+export class    SparqlDataMapper implements IDataMapper<SparqlResponse, any> {
 
     async transform(input: SparqlResponse) {
         return await this.parseBindings(input.bindings)

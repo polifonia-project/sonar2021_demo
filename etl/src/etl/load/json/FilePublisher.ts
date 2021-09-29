@@ -1,3 +1,4 @@
+import { Service } from "typedi";
 import { IPublisher } from "../IPublisher";
 
 export enum FileFormatEnum {
@@ -10,6 +11,7 @@ export type FilePublisherOptions = {
     format: FileFormatEnum
 }
 
+@Service()
 export class FilePublisher implements IPublisher<any[], FilePublisherOptions> {
 
     async write(input: any[], options: FilePublisherOptions) : Promise<void> {

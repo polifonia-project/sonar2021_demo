@@ -1,13 +1,9 @@
-import { SparqlClient } from "./etl/extract/sparql/SparqlClient"
-import { FilePublisher } from "./etl/load/json/FilePublisher"
+import 'reflect-metadata';
+import { Container } from 'typedi';
+
 import { PolifoniaTTLFileToSonarAPPSongsETL } from "./etl/PolifoniaTTLFileToSonarAPPSongsETL"
-import { SparqlDataMapper } from "./etl/transform/sparql/SparqlDataMapper"
 
 
-const songsETL = new PolifoniaTTLFileToSonarAPPSongsETL(
-    new SparqlClient(),
-    new SparqlDataMapper(),
-    new FilePublisher()
-)
+const songsETL = Container.get(PolifoniaTTLFileToSonarAPPSongsETL)
 
 songsETL.run()

@@ -1,4 +1,6 @@
-import { IClient } from "../IClient";
+import { Service } from "typedi";
+
+import { IReader } from "../IReader";
 import { newEngine } from "@comunica/actor-init-sparql";
 import { Bindings } from '@comunica/bus-query-operation';
 import { DataFactory } from 'rdf-data-factory';
@@ -33,8 +35,8 @@ export interface SparqlRequestInput {
     graph? : string
 }
 
-
-export class SparqlClient implements IClient<SparqlRequestInput, SparqlResponse> {
+@Service()
+export class SparqlClient implements IReader<SparqlRequestInput, SparqlResponse> {
 
     sparqlQueryingEngine: ActorInitSparql;
     factory: any;
@@ -44,7 +46,7 @@ export class SparqlClient implements IClient<SparqlRequestInput, SparqlResponse>
         this.factory = new DataFactory();
     }
 
-    async sendRequest(input: SparqlRequestInput): Promise<SparqlResponse> {
+    async read(input: SparqlRequestInput): Promise<SparqlResponse> {
         const query = input.query
         let bindings;
         try {
@@ -58,7 +60,7 @@ export class SparqlClient implements IClient<SparqlRequestInput, SparqlResponse>
             const result : any = await this.sparqlQueryingEngine.query(query, comunicaParams);
             bindings = await result.bindings();
         } catch (e) {
-            console.log("[!] SparqlClient.sendRequest error:", e);
+            console.log("[!] SparqlClient.sendRequest", e);
             bindings = undefined;
         }
         return {

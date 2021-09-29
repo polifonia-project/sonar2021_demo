@@ -1,3 +1,6 @@
+import { Service } from 'typedi';
+
+
 import { SourceEnum, SparqlClient } from "./extract/sparql/SparqlClient";
 import { IETL } from "./IETL";
 import { FilePublisher } from "./load/json/FilePublisher";
@@ -6,26 +9,33 @@ import { SparqlDataMapper } from "./transform/sparql/SparqlDataMapper";
 /**
  * Extract songs from Polifonia ttl file v2 and returns Sonar App data
  */
-export class PolifoniaTTLFileToSonarAPPSongsETL implements IETL<SparqlClient, SparqlDataMapper, FilePublisher> {
+@Service()
+export class PolifoniaTTLFileToSonarAPPSongsETL implements IETL {
 
-    client: SparqlClient;
-    dataMapper: SparqlDataMapper;
-    publisher: FilePublisher;
 
-    constructor(client : SparqlClient, dataMapper : SparqlDataMapper, publisher : FilePublisher) {
-        this.client = client
-        this.dataMapper = dataMapper
-        this.publisher = publisher
+    constructor(private client : SparqlClient, private dataMapper : SparqlDataMapper, private publisher : FilePublisher) {
     }
 
     async run(options?: any) {
 
         const getSongsQuery = `
-            SELECT * WHERE {
-                ?s ?p ?o
-            }`
+            PREFIX rdf: <http://www.w3.org/2000/01/rdf-schema#>
+            PREFIX poli-mp: <https://w3id.org/polifonia/ON/musical-performance/>
 
-        const songsResponse = await this.client.sendRequest({
+            SELECT 
+                ?id 
+                ?name 
+                ?artist 
+                ?youtubeID 
+            WHERE {
+                ?id rdf:label ?label ;
+                    poli-mp:hasTitle ?title ;
+                    poli-mp:hasArtistLabel ?artist ;
+                    poli-mp:hasYoutubeID ?youtubeID  .
+            }
+        `
+
+        const songsResponse = await this.client.read({
             query: getSongsQuery,
             sources: [{
                 type: SourceEnum.File,
@@ -34,9 +44,11 @@ export class PolifoniaTTLFileToSonarAPPSongsETL implements IETL<SparqlClient, Sp
             }]
         })
 
-        const songs = await this.dataMapper.transform(songsResponse)
+        if (songsResponse.bindings) {
 
-        console.log(songs)        
+            const songs = await this.dataMapper.transform(songsResponse)
+            console.log(songs)
+        }
 
     }
         
