@@ -1,9 +1,9 @@
 import { Component, OnInit } from '@angular/core';
-import {QueueItem} from '../queueitem';
 import {Subscription} from 'rxjs';
 import {QueueService} from '../queue.service';
 import {SongService} from '../song.service';
 import {Song} from '../song';
+import {MessageService} from '../message.service';
 
 @Component({
   selector: 'app-queue',
@@ -16,7 +16,8 @@ export class QueueComponent implements OnInit {
 
   constructor(
     private queueService: QueueService,
-    private songService: SongService
+    private songService: SongService,
+    private messageService: MessageService
   ) { }
 
   ngOnInit(): void {
@@ -28,8 +29,9 @@ export class QueueComponent implements OnInit {
   }
 
   addToQueueByID(songID: string): void {
-    this.songService.getSongDetails(songID);
-    this.queueService.addToQueue(this.songService.getSongDetails(songID));
+    const song = this.songService.getSongDetails(songID);
+    this.queueService.addToQueue(song);
+    this.messageService.showMessage(song.name + ' has been added to your playlist', 'done');
   }
 
   addToQueue(song: Song): void {
@@ -38,6 +40,7 @@ export class QueueComponent implements OnInit {
 
   removeFromQueue(index: number): void {
     this.queueService.removeFromQueue(index);
+    this.messageService.showMessage('Song deleted from playlist', 'delete');
   }
 
 }

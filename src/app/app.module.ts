@@ -26,6 +26,7 @@ import { PageSwitchComponent } from './page-switch/page-switch.component';
 import { HomeComponent } from './page-switch/pages/home/home.component';
 import { PlaylistComponent } from './page-switch/pages/playlist/playlist.component';
 import { FilterComponent } from './page-switch/pages/filter/filter.component';
+import { MessageComponent } from './message/message.component';
 
 
 @NgModule({
@@ -52,6 +53,7 @@ import { FilterComponent } from './page-switch/pages/filter/filter.component';
     HomeComponent,
     PlaylistComponent,
     FilterComponent,
+    MessageComponent,
   ],
   imports: [
     BrowserModule,
