@@ -2,8 +2,6 @@
 Utility functions for computing the n-gram-based harmonic similarity.
 """
 
-from itertools import groupby
-
 
 def intersection(collection_a, collection_b):
     """
@@ -47,3 +45,34 @@ def ngram_hsim(rpg_a:list, rpg_b:list):
     sim_b = degree_common_rp/degree_b
 
     return (sim_a + sim_b) / 2, longest_common_rps
+
+
+def pairwise_harmonic_similarity(track_rpbag:dict, hsim_fn=ngram_hsim):
+    """
+    Computes the pair-wise harmonic similarity among tracks.
+
+    Args:
+        track_rpbag (dict): a dictionary mapping each track to the list
+            of recurrent patterns that were extracted from the track.
+        hsim_fn (function): the similarity function to consider.
+
+    Returns:
+        A dictionary mapping each couple of tracks to their harmonic
+        similarity and the longest recurrent pattern they share, if any.
+        If two tracks have no recurrent pattern in common, no match will
+        be found in the dictionary (this is to limit space complexity).
+
+    """
+    track_ids = list(track_rpbag.keys())
+    hsim_map = {track_id: {} for track_id in track_ids}
+
+    for i, track_a in enumerate(track_ids):
+        a_rpbag = track_rpbag[track_a]  # fix for now
+        for j in range(i + 1, len(track_ids)):  # move ahead
+            track_b = track_ids[j]
+            b_rpbag = track_rpbag[track_b]
+            # Compute the harmonic similarity
+            hsim, longest_rps = hsim_fn(a_rpbag, b_rpbag)
+            if hsim > 0.:  # save only non-trivial
+                hsim_map[track_a][track_b] = hsim, longest_rps
+                hsim_map[track_b][track_a] = hsim, longest_rps
