@@ -1,177 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Geometry"
-    ],
-    "https://w3id.org/polifonia/ON/core/lat": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "51.53192"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/long": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "-0.17835"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Recording/recording_00014",
-    "@type": [
-      "https://w3id.org/polifonia/ON/musical-performance/Recording"
-    ],
-    "https://w3id.org/polifonia/ON/core/hasTitle": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Title/twist_and_shout"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/musical-performance/hasRecordingPerformer": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Agent/the_beatles"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/musical-performance/hasYoutubeID": [
-      {
-        "@value": "b-VAxGJdJeQ"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Title/",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Title"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "We Will Rock You"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Agent/dietrich_fischer_dieskau",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Agent"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Dietrich Fischer-Dieskau"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Recording/recording_00195",
-    "@type": [
-      "https://w3id.org/polifonia/ON/musical-performance/Recording"
-    ],
-    "https://w3id.org/polifonia/ON/core/hasTitle": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Title/"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/musical-performance/hasRecordingPerformer": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Agent/"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/musical-performance/hasYoutubeID": [
-      {
-        "@value": "-tJYN-eG1zk"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/ON/musical-performance/recordingsession",
-    "@type": [
-      "https://w3id.org/polifonia/ON/musical-performance/SessionType"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "recorded at"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/ON/musical-performance/mixingsession",
-    "@type": [
-      "https://w3id.org/polifonia/ON/musical-performance/SessionType"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "mixed at"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Title/twist_and_shout",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Title"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Twist And Shout"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_3",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/TimeInterval"
-    ],
-    "https://w3id.org/polifonia/ON/core/endTime": [
-      {
-        "@value": "1951-10-07"
-      },
-      {
-        "@value": "1977-09"
-      },
-      {
-        "@value": "1963-02-11"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/startTime": [
-      {
-        "@value": "1977-08"
-      },
-      {
-        "@value": "1951-10-03"
-      },
-      {
-        "@value": "1963-02-11"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Geometry"
-    ],
-    "https://w3id.org/polifonia/ON/core/lat": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "51.53192"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/long": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
-        "@value": "-0.17835"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Title/gerald_moore",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Title"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Gerald Moore"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/polifonia/resource/Session/00001_3",
     "@type": [
       "https://w3id.org/polifonia/ON/musical-performance/Session"
@@ -181,10 +9,10 @@
         "@value": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_5bfbd51e_ce05_439a_97dc_cf0507d213c7"
       },
       {
-        "@value": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94"
+        "@value": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_bd55aeb7_19d1_4607_a500_14b8479d3fed"
       },
       {
-        "@value": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_bd55aeb7_19d1_4607_a500_14b8479d3fed"
+        "@value": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94"
       }
     ],
     "https://w3id.org/polifonia/ON/core/hasTimeInterval": [
@@ -210,11 +38,22 @@
     ]
   },
   {
+    "@id": "https://w3id.org/polifonia/resource/Title/twist_and_shout",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Title"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Twist And Shout"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/polifonia/resource/Address/address_5bfbd51e_ce05_439a_97dc_cf0507d213c7",
     "@type": [
       "https://w3id.org/polifonia/ON/core/Address"
     ],
-    "http://www.w3.org/2000/01/rdf-schema#haslabel": [
+    "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "106 Highbury New Park, London N5"
       }
@@ -226,11 +65,11 @@
     ]
   },
   {
-    "@id": "https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
+    "@id": "https://w3id.org/polifonia/resource/Address/address_bd55aeb7_19d1_4607_a500_14b8479d3fed",
     "@type": [
       "https://w3id.org/polifonia/ON/core/Address"
     ],
-    "http://www.w3.org/2000/01/rdf-schema#haslabel": [
+    "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "3 Abbey Road, St John’s Wood, London"
       }
@@ -238,6 +77,93 @@
     "https://w3id.org/polifonia/ON/core/fullAddress": [
       {
         "@value": "3 Abbey Road, St John’s Wood, London"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/Agent/",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Agent"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Queen"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/ON/musical-performance/recordingsession",
+    "@type": [
+      "https://w3id.org/polifonia/ON/musical-performance/SessionType"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "recorded at"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_2",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/TimeInterval"
+    ],
+    "https://w3id.org/polifonia/ON/core/endTime": [
+      {
+        "@value": "1963-02-25"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/startTime": [
+      {
+        "@value": "1963-02-25"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_5bfbd51e_ce05_439a_97dc_cf0507d213c7",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/PhysicalSite"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Wessex Sound Studios"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/hasAddress": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Address/address_5bfbd51e_ce05_439a_97dc_cf0507d213c7"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/hasGeometry": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Geometry/geometry_5bfbd51e_ce05_439a_97dc_cf0507d213c7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_3",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/TimeInterval"
+    ],
+    "https://w3id.org/polifonia/ON/core/endTime": [
+      {
+        "@value": "1977-09"
+      },
+      {
+        "@value": "1963-02-11"
+      },
+      {
+        "@value": "1951-10-07"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/startTime": [
+      {
+        "@value": "1977-08"
+      },
+      {
+        "@value": "1951-10-03"
+      },
+      {
+        "@value": "1963-02-11"
       }
     ]
   },
@@ -246,7 +172,7 @@
     "@type": [
       "https://w3id.org/polifonia/ON/core/Address"
     ],
-    "http://www.w3.org/2000/01/rdf-schema#haslabel": [
+    "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "3 Abbey Road, St John’s Wood, London"
       }
@@ -276,34 +202,66 @@
     ]
   },
   {
-    "@id": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_5bfbd51e_ce05_439a_97dc_cf0507d213c7",
+    "@id": "https://w3id.org/polifonia/resource/Title/gerald_moore",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Title"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Gerald Moore"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/Recording/recording_00014",
+    "@type": [
+      "https://w3id.org/polifonia/ON/musical-performance/Recording"
+    ],
+    "https://w3id.org/polifonia/ON/core/hasTitle": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Title/twist_and_shout"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/musical-performance/hasRecordingPerformer": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Agent/the_beatles"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/musical-performance/hasYoutubeID": [
+      {
+        "@value": "b-VAxGJdJeQ"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
     "@type": [
       "https://w3id.org/polifonia/ON/core/PhysicalSite"
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Wessex Sound Studios"
+        "@value": "Abbey Road Studios: Studio 2"
       }
     ],
     "https://w3id.org/polifonia/ON/core/hasAddress": [
       {
-        "@value": "https://w3id.org/polifonia/resource/Address/address_5bfbd51e_ce05_439a_97dc_cf0507d213c7"
+        "@value": "https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94"
       }
     ],
     "https://w3id.org/polifonia/ON/core/hasGeometry": [
       {
-        "@value": "https://w3id.org/polifonia/resource/Geometry/geometry_5bfbd51e_ce05_439a_97dc_cf0507d213c7"
+        "@value": "https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/polifonia/resource/Agent/",
+    "@id": "https://w3id.org/polifonia/resource/Title/",
     "@type": [
-      "https://w3id.org/polifonia/ON/core/Agent"
+      "https://w3id.org/polifonia/ON/core/Title"
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Queen"
+        "@value": "We Will Rock You"
       }
     ]
   },
@@ -329,23 +287,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409",
+    "@id": "https://w3id.org/polifonia/resource/Recording/recording_00509",
     "@type": [
-      "https://w3id.org/polifonia/ON/core/PhysicalSite"
+      "https://w3id.org/polifonia/ON/musical-performance/Recording"
     ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
+    "https://w3id.org/polifonia/ON/core/hasTitle": [
       {
-        "@value": "Abbey Road Studios: Studio 1"
+        "@value": "https://w3id.org/polifonia/resource/Title/gerald_moore"
       }
     ],
-    "https://w3id.org/polifonia/ON/core/hasAddress": [
+    "https://w3id.org/polifonia/ON/musical-performance/hasRecordingPerformer": [
       {
-        "@value": "https://w3id.org/polifonia/resource/Address/address_c56fdea4_e81e_439a_a183_a52eb1141409"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/hasGeometry": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409"
+        "@value": "https://w3id.org/polifonia/resource/Agent/dietrich_fischer_dieskau"
       }
     ]
   },
@@ -376,6 +329,115 @@
     ]
   },
   {
+    "@id": "https://w3id.org/polifonia/resource/Agent/dietrich_fischer_dieskau",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Agent"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Dietrich Fischer-Dieskau"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/Agent/the_beatles",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Agent"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "The Beatles"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/Recording/recording_00195",
+    "@type": [
+      "https://w3id.org/polifonia/ON/musical-performance/Recording"
+    ],
+    "https://w3id.org/polifonia/ON/core/hasTitle": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Title/"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/musical-performance/hasRecordingPerformer": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Agent/"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/musical-performance/hasYoutubeID": [
+      {
+        "@value": "-tJYN-eG1zk"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/PhysicalSite"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Abbey Road Studios: Studio 1"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/hasAddress": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Address/address_c56fdea4_e81e_439a_a183_a52eb1141409"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/hasGeometry": [
+      {
+        "@value": "https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Geometry"
+    ],
+    "https://w3id.org/polifonia/ON/core/lat": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "51.53192"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/long": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "-0.17835"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
+    "@type": [
+      "https://w3id.org/polifonia/ON/core/Address"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "3 Abbey Road, St John’s Wood, London"
+      }
+    ],
+    "https://w3id.org/polifonia/ON/core/fullAddress": [
+      {
+        "@value": "3 Abbey Road, St John’s Wood, London"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/polifonia/ON/musical-performance/mixingsession",
+    "@type": [
+      "https://w3id.org/polifonia/ON/musical-performance/SessionType"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "mixed at"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/polifonia/resource/Geometry/geometry_bd55aeb7_19d1_4607_a500_14b8479d3fed",
     "@type": [
       "https://w3id.org/polifonia/ON/core/Geometry"
@@ -394,82 +456,20 @@
     ]
   },
   {
-    "@id": "https://w3id.org/polifonia/resource/Address/address_bd55aeb7_19d1_4607_a500_14b8479d3fed",
+    "@id": "https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
     "@type": [
-      "https://w3id.org/polifonia/ON/core/Address"
+      "https://w3id.org/polifonia/ON/core/Geometry"
     ],
-    "http://www.w3.org/2000/01/rdf-schema#haslabel": [
+    "https://w3id.org/polifonia/ON/core/lat": [
       {
-        "@value": "3 Abbey Road, St John’s Wood, London"
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "51.53192"
       }
     ],
-    "https://w3id.org/polifonia/ON/core/fullAddress": [
+    "https://w3id.org/polifonia/ON/core/long": [
       {
-        "@value": "3 Abbey Road, St John’s Wood, London"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Agent/the_beatles",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/Agent"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "The Beatles"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_2",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/TimeInterval"
-    ],
-    "https://w3id.org/polifonia/ON/core/endTime": [
-      {
-        "@value": "1963-02-25"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/startTime": [
-      {
-        "@value": "1963-02-25"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
-    "@type": [
-      "https://w3id.org/polifonia/ON/core/PhysicalSite"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Abbey Road Studios: Studio 2"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/hasAddress": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/core/hasGeometry": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/polifonia/resource/Recording/recording_00509",
-    "@type": [
-      "https://w3id.org/polifonia/ON/musical-performance/Recording"
-    ],
-    "https://w3id.org/polifonia/ON/core/hasTitle": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Title/gerald_moore"
-      }
-    ],
-    "https://w3id.org/polifonia/ON/musical-performance/hasRecordingPerformer": [
-      {
-        "@value": "https://w3id.org/polifonia/resource/Agent/dietrich_fischer_dieskau"
+        "@type": "http://www.w3.org/2001/XMLSchema#decimal",
+        "@value": "-0.17835"
       }
     ]
   }
