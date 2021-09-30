@@ -10,6 +10,7 @@ In this repository, there is PyRML (Python based engine for processing RML files
 - **polifonia_KG.ttl **--> the current output of applying the mapping rules to the raw data with PyRML.
 
 Quite some progress has been made. However, there are still work to do, including:
+- separating IRIs with two agents into two IRIs for two different agents
 - connecting the mp:Recording instances to the mp:Session instances
 - fixing some of the syntax in some of the IRIs (e.g., IRIs of the range of mp:hasRecordingPerformer)
 - making sure the IRIs are the kind we want
