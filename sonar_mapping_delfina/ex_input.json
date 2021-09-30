@@ -1,0 +1,84 @@
+{
+    "tracks": [
+        {
+            "track_id": "00001",
+            "artist1": "Louis Armstrong",
+            "artist1_for_iri": "louis_armstrong",
+            "artist2": "Ella Fitzgerald",
+            "artist2_for_iri": "ella_fitzgerald",
+            "title": "I Saw Her Standing There",
+            "title_for_iri": "i_saw_her_standing_there",
+            "recording_places": [
+                {
+                    "session_id": "00001_1",
+                    "type": "edited at",
+                    "session_type" : "EditingSession",
+                    "type-id": "069c1cf0-a9b2-448e-8486-1eced48b48f9",
+                    "target": "c56fdea4-e81e-439a-a183-a52eb1141409",
+                    "direction": "backward",
+                    "begin": "1963-02-25",
+                    "end": "1963-02-25",
+                    "ended": "true",
+                    "place": {
+                        "id": "c56fdea4-e81e-439a-a183-a52eb1141409",
+                        "type": "Studio",
+                        "name": "Abbey Road Studios: Studio 1",
+                        "address": "3 Abbey Road, St John\u2019s Wood, London",
+                        "coordinates": {
+                            "latitude": "51.53192",
+                            "longitude": "-0.17835"
+                        }
+                    },
+                    "ref_id": "00001"
+                },
+                {
+                    "session_id": "00001_2",
+                    "type": "mixed at",
+                    "session_type" : "MixingSession",
+                    "type-id": "11d74801-1493-4a5d-bc0f-4ddc537acddb",
+                    "target": "c56fdea4-e81e-439a-a183-a52eb1141409",
+                    "direction": "backward",
+                    "begin": "1963-02-25",
+                    "end": "1963-02-25",
+                    "ended": "true",
+                    "place": {
+                        "id": "c56fdea4-e81e-439a-a183-a52eb1141409",
+                        "type": "Studio",
+                        "name": "Abbey Road Studios: Studio 1",
+                        "address": "3 Abbey Road, St John\u2019s Wood, London",
+                        "coordinates": {
+                            "latitude": "51.53192",
+                            "longitude": "-0.17835"
+                        }
+                    },
+                    "ref_id": "00001"
+                },
+                {
+                    "session_id": "00001_3",
+                    "type": "recorded at",
+                    "session_type" : "RecordingSession",
+                    "type-id": "ad462279-14b0-4180-9b58-571d0eef7c51",
+                    "target": "6f12a5d2-52e5-4dec-9fed-494b1f65bb94",
+                    "direction": "backward",
+                    "begin": "1963-02-11",
+                    "end": "1963-02-11",
+                    "ended": "true",
+                    "place": {
+                        "id": "6f12a5d2-52e5-4dec-9fed-494b1f65bb94",
+                        "type": "Studio",
+                        "name": "Abbey Road Studios: Studio 2",
+                        "address": "3 Abbey Road, St John\u2019s Wood, London",
+                        "coordinates": {
+                            "latitude": "51.53192",
+                            "longitude": "-0.17835"
+                        }
+                    },
+                    "ref_id": "00001"
+                }
+            ],
+            "artist_country": "GB",
+            "artist_start": "Liverpool",
+            "youtube_id": "mwBdWVTR-o8"
+        }
+    ]
+}
