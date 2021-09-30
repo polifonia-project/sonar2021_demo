@@ -1,0 +1,87 @@
+@prefix core: <https://w3id.org/polifonia/ON/core/> .
+@prefix mp: <https://w3id.org/polifonia/ON/musical-performance/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+mp:editingsession a mp:SessionType ;
+    rdfs:label "edited at"^^xsd:string .
+
+mp:mixingsession a mp:SessionType ;
+    rdfs:label "mixed at"^^xsd:string .
+
+mp:recordingsession a mp:SessionType ;
+    rdfs:label "recorded at"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94> a core:Address ;
+    rdfs:haslabel "3 Abbey Road, St John’s Wood, London"^^xsd:string ;
+    core:fullAddress "3 Abbey Road, St John’s Wood, London"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Address/address_c56fdea4_e81e_439a_a183_a52eb1141409> a core:Address ;
+    rdfs:haslabel "3 Abbey Road, St John’s Wood, London"^^xsd:string ;
+    core:fullAddress "3 Abbey Road, St John’s Wood, London"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Agent/ella_fitzgerald> a core:Agent ;
+    rdfs:label "Ella Fitzgerald"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Agent/louis_armstrong> a core:Agent ;
+    rdfs:label "Louis Armstrong"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94> a core:Geometry ;
+    core:lat 51.53192 ;
+    core:long -0.17835 .
+
+<https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409> a core:Geometry ;
+    core:lat 51.53192 ;
+    core:long -0.17835 .
+
+<https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94> a core:PhysicalSite ;
+    rdfs:label "Abbey Road Studios: Studio 2"^^xsd:string ;
+    core:hasAddress "https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94" ;
+    core:hasGeometry "https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94" .
+
+<https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409> a core:PhysicalSite ;
+    rdfs:label "Abbey Road Studios: Studio 1"^^xsd:string ;
+    core:hasAddress "https://w3id.org/polifonia/resource/Address/address_c56fdea4_e81e_439a_a183_a52eb1141409" ;
+    core:hasGeometry "https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409" .
+
+<https://w3id.org/polifonia/resource/Recording/recording_00001> a mp:Recording ;
+    core:hasTitle "https://w3id.org/polifonia/resource/Title/i_saw_her_standing_there" ;
+    mp:hasRecordingPerformer "https://w3id.org/polifonia/resource/Agent/ella_fitzgerald",
+        "https://w3id.org/polifonia/resource/Agent/louis_armstrong" ;
+    mp:hasYoutubeID "mwBdWVTR-o8"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Session/00001_1> a mp:Session ;
+    core:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409" ;
+    core:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_1" ;
+    core:hasType "https://w3id.org/polifonia/ON/musical-performance/EditingSession" ;
+    mp:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00001" .
+
+<https://w3id.org/polifonia/resource/Session/00001_2> a mp:Session ;
+    core:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409" ;
+    core:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_2" ;
+    core:hasType "https://w3id.org/polifonia/ON/musical-performance/MixingSession" ;
+    mp:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00001" .
+
+<https://w3id.org/polifonia/resource/Session/00001_3> a mp:Session ;
+    core:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94" ;
+    core:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00001_3" ;
+    core:hasType "https://w3id.org/polifonia/ON/musical-performance/RecordingSession" ;
+    mp:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00001" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00001_1> a core:TimeInterval ;
+    core:endTime "1963-02-25" ;
+    core:startTime "1963-02-25" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00001_2> a core:TimeInterval ;
+    core:endTime "1963-02-25" ;
+    core:startTime "1963-02-25" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00001_3> a core:TimeInterval ;
+    core:endTime "1963-02-11" ;
+    core:startTime "1963-02-11" .
+
+<https://w3id.org/polifonia/resource/Title/i_saw_her_standing_there> a core:Title ;
+    rdfs:label "I Saw Her Standing There"^^xsd:string .
+
