@@ -1,4 +1,4 @@
-# Sonar Data Mappinf
+# Sonar Data Mapping
 Data Transformation Raw JSON -> Polifonia RDF
 
 There is a [related Github issue](https://github.com/polifonia-project/sonar2021_demo/issues/35) for this task.
