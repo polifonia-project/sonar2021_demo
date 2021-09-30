@@ -241,7 +241,7 @@
     ] ;
 
     rr:predicateObjectMap [
-        rr:predicate rdfs:haslabel;
+        rr:predicate rdfs:label;
         rr:objectMap [
             rml:reference "address";
             rr:datatype xs:string;
