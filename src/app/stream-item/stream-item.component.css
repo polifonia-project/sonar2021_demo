@@ -1,7 +1,17 @@
 .stream-item {
     margin-bottom: 20px;
+    transition: all 1s linear;
+    opacity: 0.3;
+    border-width: 1px;
+    border-style: solid;
 }
 
 .accordion-item {
     background-color: black !important;
+}
+
+.shine {
+    opacity: 1;
+    border-width: 0px;
+    border-color: rgb(0,0,0,0);
 }
