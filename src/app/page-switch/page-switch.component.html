@@ -1,6 +1,5 @@
-<div [ngSwitch]="currentPage">
-    <app-home *ngSwitchCase="AppPage.Home"></app-home>
-    <app-filter *ngSwitchCase="AppPage.Filter"></app-filter>
-    <app-playlist *ngSwitchCase="AppPage.Playlist"></app-playlist>
-    <app-home *ngSwitchDefault></app-home>
+<div *ngIf="currentPage">
+    <app-home [ngClass]="currentPage === AppPage.Home ? 'visible' : 'hidden'"></app-home>
+    <app-filter [ngClass]="currentPage === AppPage.Filter ? 'visible' : 'hidden'"></app-filter>
+    <app-playlist [ngClass]="currentPage === AppPage.Playlist ? 'visible' : 'hidden'"></app-playlist>
 </div>

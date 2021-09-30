@@ -12,7 +12,7 @@ export class PageSwitchService {
 
   appPageChange: BehaviorSubject<AppPage> = new BehaviorSubject<AppPage>(AppPage.Home);
 
-  constructor() {     
+  constructor() {
       this.appPageChange.subscribe((value) => {
         this.currentPage = value
       })
