@@ -1,0 +1,127 @@
+{
+    "tracks": [
+        {
+            "track_id": "00014",
+            "artist1": "The Beatles",
+            "artist1_for_iri": "the_beatles",
+            "title": "Twist And Shout",
+            "title_for_iri": "twist_and_shout",
+            "recording_places": [
+                {
+                	"session_id": "00001_2",
+                    "type": "mixed at",
+                    "session_type" : "MixingSession",
+                    "type-id": "11d74801_1493_4a5d_bc0f_4ddc537acddb",
+                    "target": "c56fdea4-e81e-439a-a183-a52eb1141409",
+                    "direction": "backward",
+                    "begin": "1963-02-25",
+                    "end": "1963-02-25",
+                    "ended": "true",
+                    "place": {
+                        "id": "c56fdea4_e81e_439a_a183_a52eb1141409",
+                        "type": "Studio",
+                        "name": "Abbey Road Studios: Studio 1",
+                        "address": "3 Abbey Road, St John\u2019s Wood, London",
+                        "coordinates": {
+                            "latitude": "51.53192",
+                            "longitude": "-0.17835"
+                        }
+                    },
+                    "ref_id": "00014"
+                },
+                {
+                	"session_id": "00001_3",
+                    "type": "recorded at",
+                    "session_type" : "RecordingSession",
+                    "type-id": "ad462279_14b0_4180_9b58_571d0eef7c51",
+                    "target": "6f12a5d2-52e5-4dec-9fed-494b1f65bb94",
+                    "direction": "backward",
+                    "begin": "1963-02-11",
+                    "end": "1963-02-11",
+                    "ended": "true",
+                    "place": {
+                        "id": "6f12a5d2_52e5_4dec_9fed_494b1f65bb94",
+                        "type": "Studio",
+                        "name": "Abbey Road Studios: Studio 2",
+                        "address": "3 Abbey Road, St John\u2019s Wood, London",
+                        "coordinates": {
+                            "latitude": "51.53192",
+                            "longitude": "-0.17835"
+                        }
+                    },
+                    "ref_id": "00014"
+                }
+            ],
+            "artist_country": "GB",
+            "artist_start": "Liverpool",
+            "youtube_id": "b-VAxGJdJeQ"
+        },
+        {
+            "track_id": "00195",
+            "artist1": "Queen",
+            "artist1_for_uri": "queen",
+            "title": "We Will Rock You",
+            "title_1": "we_will_rock_you",
+            "recording_places": [
+                {
+                    "session_id": "00001_3",
+                    "type": "recorded at",
+                    "session_type" : "RecordingSession",
+                    "type-id": "ad462279_14b0_4180_9b58_571d0eef7c51",
+                    "target": "5bfbd51e-ce05-439a-97dc-cf0507d213c7",
+                    "direction": "backward",
+                    "begin": "1977-08",
+                    "end": "1977-09",
+                    "ended": "true",
+                    "place": {
+                        "id": "5bfbd51e_ce05_439a_97dc_cf0507d213c7",
+                        "type": "Studio",
+                        "name": "Wessex Sound Studios",
+                        "address": "106 Highbury New Park, London N5",
+                        "coordinates": {
+                            "latitude": "51.554722",
+                            "longitude": "-0.091389"
+                        }
+                    },
+                    "ref_id": "00195"
+                }
+            ],
+            "artist_country": "GB",
+            "artist_start": "London",
+            "youtube_id": "-tJYN-eG1zk"
+        },
+        {
+            "track_id": "00509",
+            "artist1": "Dietrich Fischer-Dieskau",
+            "artist1_for_iri": "dietrich_fischer_dieskau",
+            "title": "Gerald Moore",
+            "title_for_iri": "gerald_moore",
+            "recording_places": [
+                {
+                    "session_id": "00001_3",
+                    "type": "recorded at",
+                    "session_type" : "RecordingSession",
+                    "type-id": "ad462279_14b0_4180_9b58_571d0eef7c51",
+                    "target": "bd55aeb7-19d1-4607-a500-14b8479d3fed",
+                    "direction": "backward",
+                    "begin": "1951-10-03",
+                    "end": "1951-10-07",
+                    "ended": "true",
+                    "place": {
+                        "id": "bd55aeb7_19d1_4607_a500_14b8479d3fed",
+                        "type": "Studio",
+                        "name": "Abbey Road Studios",
+                        "address": "3 Abbey Road, St John\u2019s Wood, London",
+                        "coordinates": {
+                            "latitude": "51.53192",
+                            "longitude": "-0.17835"
+                        }
+                    },
+                    "ref_id": "00509"
+                }
+            ],
+            "artist_country": "DE",
+            "artist_start": "Berlin"
+        }
+    ]
+}
