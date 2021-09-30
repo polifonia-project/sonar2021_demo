@@ -6,6 +6,7 @@ import {AnnotationService} from '../annotation.service';
 import {QueueService} from '../queue.service';
 import {Song} from '../song';
 import { SongService } from '../song.service';
+import {last} from 'rxjs/operators';
 
 @Component({
   selector: 'app-stream',
@@ -50,6 +51,13 @@ export class StreamComponent implements OnInit, OnDestroy {
     clearInterval(this.timer);
   }
 
+  getSimpleString(input: string): string {
+    // Take a complex URL string and return the part after the last slash, special characters removed
+    let lastPart = input.split('/').pop();
+    lastPart.replace(/[^a-zA-Z ]/g, '');
+    return lastPart;
+  }
+
   getCurrentSongAnnotations(songID: string): void {
     this.currentSongAnnotations = this.annotationService.getSongAnnotations(songID);
     // console.log (this.currentSongAnnotations);
@@ -67,22 +75,23 @@ export class StreamComponent implements OnInit, OnDestroy {
         }
       });
       if (!inStream && visible) {
+        annotation.simpleID = this.getSimpleString(annotation.id);
         this.streamService.addToStream(annotation);
       }
     });
   }
 
-  isPreviousSongAnnotation(annotationIndex: number) : boolean {
+  isPreviousSongAnnotation(annotationIndex: number): boolean {
 
-    const playingSong = this.currentSong.id
-    const lastAnnotationIndex = 0
-    const scannedAnnotationSong = this.stream[annotationIndex].songID
-    const lastAnnotationSongInTheStream = this.stream[lastAnnotationIndex].songID
+    const playingSong = this.currentSong.id;
+    const lastAnnotationIndex = 0;
+    const scannedAnnotationSong = this.stream[annotationIndex].songID;
+    const lastAnnotationSongInTheStream = this.stream[lastAnnotationIndex].songID;
 
     // this condition makes divisor pops when a song change but no annotation from new song are in the stream
     if (scannedAnnotationSong == lastAnnotationSongInTheStream && annotationIndex == lastAnnotationIndex) {
       if (scannedAnnotationSong != playingSong) {
-        return true
+        return true;
       }
     }
 
@@ -93,14 +102,14 @@ export class StreamComponent implements OnInit, OnDestroy {
     const previousSongAnnotation = this.stream[annotationIndex-1].songID
     // this condition makes divisor pops when an annotation is from a song different from following annotation
     if (scannedAnnotationSong != previousSongAnnotation) {
-      return true
+      return true;
     }
 
-    return false
+    return false;
   }
 
   getSongDetailsByAnnotationIndex(annotationIndex: number): Song {
-    return this.songService.getSongDetails(this.stream[annotationIndex].songID)
+    return this.songService.getSongDetails(this.stream[annotationIndex].songID);
   }
 
 }
