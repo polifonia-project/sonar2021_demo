@@ -26,10 +26,9 @@ export class SongService {
     if (!this.songsInitialised) {
       this.songs = this.getSongs();
     }
-    // tslint:disable-next-line:prefer-for-of
-    for (let i = 0; i < this.songs.length; i++){
-      if (this.songs[i].id === songID) {
-        return this.songs[i];
+    for (const item of this.songs) {
+      if (item.id === songID) {
+        return item;
       }
     }
 
