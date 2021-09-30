@@ -69,6 +69,7 @@ const toSonarAppAnnotation =  (sparqlRow : any) => {
         type: sparqlRow.type,
         description: sparqlRow.description,
         songID: sparqlRow.songID,
+        timestamp: Number.parseInt(sparqlRow.timestamp),
         metadata: {
             long: sparqlRow.long,
             lat: sparqlRow.lat,

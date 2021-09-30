@@ -33,10 +33,14 @@ export class VideoComponent implements OnInit {
   ngOnInit(): void {
     this.queueSubscription = this.queueService.currentQueue.subscribe( queue => this.queue = queue);
     this.currentSongSubscription = this.queueService.currentSong.subscribe( song => this.currentSong = song);
-    this.queueService.addToQueueByID('1001');
-    this.queueService.addToQueueByID('1002');
-    this.queueService.addToQueueByID('1003');
-    this.queueService.addToQueueByID('1004');
+    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00001');
+    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00002');
+    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00003');
+    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00004');
+    // this.queueService.addToQueueByID('1001');
+    // this.queueService.addToQueueByID('1002');
+    // this.queueService.addToQueueByID('1003');
+    // this.queueService.addToQueueByID('1004');
     this.forward();
     const tag = document.createElement('script');
     tag.src = 'https://www.youtube.com/iframe_api';

@@ -2,8 +2,8 @@ import { Injectable } from '@angular/core';
 import { Song } from './song';
 // @ts-ignore
 
-import ApplicationData from '../assets/data/data_v1.json';
-// import ApplicationData from '../assets/data/data_v3.json';
+// import ApplicationData from '../assets/data/data_v1.json';
+import ApplicationData from '../assets/data/data_v3.json';
 
 
 @Injectable({
