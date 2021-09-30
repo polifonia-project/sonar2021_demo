@@ -116,6 +116,9 @@ export class VideoComponent implements OnInit {
     else {
       this.queueService.backwards();
       this.initPlayer();
+      if (this.youtubePlayer && this.youtubePlayer.getPlayerState() >= 0) {
+        this.youtubePlayer.seekTo(0, true);
+      }
     }
   }
 
@@ -123,6 +126,10 @@ export class VideoComponent implements OnInit {
     // GO FORWARD IN THE PLAY QUEUE
     this.queueService.forwards();
     this.initPlayer();
+    if (this.youtubePlayer && this.youtubePlayer.getPlayerState() >= 0) {
+      this.youtubePlayer.seekTo(0, true);
+    }
+
   }
 
 }
