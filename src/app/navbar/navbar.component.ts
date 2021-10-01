@@ -26,12 +26,12 @@ export class NavbarComponent implements OnInit {
        icon : "filter_alt",
        page: AppPage.Filter
      }
-  ]
-  
-  constructor(private pageSwitchService : PageSwitchService) {}
+  ];
+
+  constructor(private pageSwitchService: PageSwitchService) {}
 
   ngOnInit(): void {
-    this.selectedItem = this.findNavItemForPage(this.pageSwitchService.currentPage)
+    this.selectedItem = this.findNavItemForPage(this.pageSwitchService.currentPage);
   }
 
   findNavItemForPage(page) {

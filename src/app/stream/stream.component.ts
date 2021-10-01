@@ -7,6 +7,7 @@ import {QueueService} from '../queue.service';
 import {Song} from '../song';
 import { SongService } from '../song.service';
 import {last} from 'rxjs/operators';
+import {StreamFilterService} from '../stream-filter.service';
 
 @Component({
   selector: 'app-stream',
@@ -15,6 +16,7 @@ import {last} from 'rxjs/operators';
 })
 export class StreamComponent implements OnInit, OnDestroy {
   stream: Annotation[] = [];
+  filters: {};
   currentSongAnnotations: Annotation[] = [];
   currentTime = 0;
   lastCheckedTime = 0;
@@ -25,18 +27,21 @@ export class StreamComponent implements OnInit, OnDestroy {
   streamSubscription: Subscription;
   timeSubscription: Subscription;
   currentSongSubscription: Subscription;
+  filtersSubscription: Subscription;
 
   constructor(
     private streamService: StreamService,
     private annotationService: AnnotationService,
     private queueService: QueueService,
-    private songService: SongService
+    private songService: SongService,
+    private streamFilterService: StreamFilterService
   ) { }
 
   ngOnInit(): void {
     this.streamSubscription = this.streamService.currentStream.subscribe(stream => this.stream = stream);
     this.timeSubscription = this.streamService.currentTime.subscribe( time => this.currentTime = time);
     this.currentSongSubscription = this.queueService.currentSong.subscribe( song => this.currentSong = song);
+    this.filtersSubscription = this.streamFilterService.currentFilters.subscribe( filters => this.filters = filters);
 
     // Start timer
     this.timer = setInterval(() => { this.checkForUpdates(); }, 1000);
