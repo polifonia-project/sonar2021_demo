@@ -3,6 +3,7 @@ import {StreamService} from '../stream.service';
 import {StreamFilterService} from '../stream-filter.service';
 import {Subscription} from 'rxjs';
 import {StreamFilterItem} from '../stream-filter-item';
+import { AnnotationGraphicsService } from '../annotation-graphics.service';
 
 @Component({
   selector: 'app-stream-filter',
@@ -15,12 +16,17 @@ export class StreamFilterComponent implements OnInit {
 
   constructor(
     private streamService: StreamService,
-    private streamFilterService: StreamFilterService
+    private streamFilterService: StreamFilterService,
+    private graphicsService: AnnotationGraphicsService
   ) { }
 
   ngOnInit(): void {
     this.streamFilterService.initFilters();
     this.streamFilterSubscription = this.streamFilterService.currentFilters.subscribe( filters => this.filters = filters);
+  }
+
+  getFilterGraphics(filter) {
+    return  this.graphicsService.getAnnotationGraphics(filter.type)
   }
 
   onSwitchToggle(type: string, event: any): void {
