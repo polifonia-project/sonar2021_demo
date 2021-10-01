@@ -34,7 +34,7 @@ As you can see from the figure above, for each **harmonic match** (a non-zero ha
 
 ## The harmonic network
 
-To conclude, you may want to visualise all the harmonic matches in a more compact way, so that you will be able to **spot interesting connections**. This is possible thanks to our interactive harmonic network, which can be visualised and inspected at [this link](https://andreapoltronieri.org/harmonic_similarity_graph/). Once you open the file, the graph might appear very condensed in a region, but you can zoom and interact with it.
+To conclude, you may want to visualise all the harmonic matches in a more compact way, so that you will be able to **spot interesting connections**. This is possible thanks to our interactive harmonic network, which can be visualised and inspected at <a href="https://andreapoltronieri.org/harmonic_similarity_graph/" target="_blank">this link</a>. Once you open the file, the graph might appear very condensed in a region, but you can zoom and interact with it.
 
 <p align="center">
 <img src="assets/full_graph.png" width="800">
