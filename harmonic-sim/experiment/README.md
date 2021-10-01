@@ -34,11 +34,13 @@ As you can see from the figure above, for each **harmonic match** (a non-zero ha
 
 ## The harmonic network
 
-To conlcude, you may want to visualise all the harmonic matches in a more compact way, so that you will be able to **spot interesting connections**.
+To conlcude, you may want to visualise all the harmonic matches in a more compact way, so that you will be able to **spot interesting connections**. This is possible thanks to our interactive harmonic network, which can be visualised and inspected at `graph.html` (you can simply open this file with your browser, just make sure that the actual extension on your file system in `.html` and not `.html.txt` for example). Once you open the file, the graph might appear very condensed in a region, but you can zoom and interact with it.
 
 <p align="center">
 <img src="assets/full_graph.png" width="800">
 </p>
+
+In the graph, each node corresponds to a track in our music datasets, whereas edges connect nodes if their value of harmonic similarity is greater than 0 (an harmonic match was found). A colourmap is used for edges in order to visually project the value of harmonic similarity they express: from *light grey* (low similarity) to *plain black* (high similarity). Instead, nodes are sized according to their **degree** (the number of connections/edges they have) and coloured according to their **community class**. This last information associates each node (track) to a cluster based on a community detection algorithm that was run on the network (the standard Clauset-Newman-Moore modularity maximisation procedure).
 
 <p align="center">
 <img src="assets/clusters.png" width="800">
