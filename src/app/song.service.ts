@@ -2,8 +2,8 @@ import { Injectable } from '@angular/core';
 import { Song } from './song';
 // @ts-ignore
 
-import ApplicationData from '../assets/data/data_v1.json';
-// import ApplicationData from '../assets/data/data_v3.json';
+// import ApplicationData from '../assets/data/data_v1.json';
+import ApplicationData from '../assets/data/data_v3.json';
 
 
 @Injectable({
@@ -26,10 +26,9 @@ export class SongService {
     if (!this.songsInitialised) {
       this.songs = this.getSongs();
     }
-    // tslint:disable-next-line:prefer-for-of
-    for (let i = 0; i < this.songs.length; i++){
-      if (this.songs[i].id === songID) {
-        return this.songs[i];
+    for (const item of this.songs) {
+      if (item.id === songID) {
+        return item;
       }
     }
 
