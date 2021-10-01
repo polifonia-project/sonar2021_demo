@@ -11,7 +11,7 @@ import {StreamFilterItem} from '../stream-filter-item';
 })
 export class StreamFilterComponent implements OnInit {
   streamFilterSubscription: Subscription;
-  filters: StreamFilterItem[] = [];
+  filters: {};
 
   constructor(
     private streamService: StreamService,
