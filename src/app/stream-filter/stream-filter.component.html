@@ -1,0 +1,14 @@
+
+<div *ngFor="let filter of filters" class="form-check form-switch">
+  <input
+    class="form-check-input"
+    type="checkbox"
+    id="{{'filterSwitch-' + filter.type}}"
+    [checked]="filter.enabled"
+    (change)="onSwitchToggle(filter.type, $event)"
+  >
+  <label class="form-check-label" for="{{'filterSwitch-' + filter.type}}">{{filter.label}}</label>
+</div>
+
+
+
