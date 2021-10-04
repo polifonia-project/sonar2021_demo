@@ -13,7 +13,7 @@ AN EXAMPLE - This works mostly well.
 - **ex_sources** --> folder with the example raw data which is the input for the mapping rules and PyRML;
 - **ex_polifonia_KG.ttl**--> the current output of applying the mapping rules to the example raw data with PyRML.
 
-FULL KG - This works mostly well.
+FULL KG - (This still has some major issues - e.g., the Performer entities are not being created)
 
 - **mapping_rules.ttl**--> the RML mapping rules, working with the full input;
 - **sources** --> folder with the full input raw data which is the input for the mapping rules and PyRML;
