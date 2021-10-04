@@ -1,0 +1,19 @@
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+
+SELECT ?p ?r WHERE {
+
+	SERVICE <x-sparql-anything:> {
+
+		fx:properties fx:location "data/places.json"  .
+
+		?s xyz:recording%5Fplaces ?o .
+		
+		?o ?li ?p .
+
+		?p ?r ?oo .
+
+
+
+	} 
+} LIMIT 10 

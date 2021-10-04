@@ -1,0 +1,69 @@
+# Query to extract data from preprocessed file with places related to Music domain
+# and build a Knowledge Graph according to Polifonia places ontology, using sparql.anything
+#
+# from following datasets:
+#      -
+#      -
+#
+# Raw file: https://raw.githubusercontent.com/polifonia-project/sonar2021_demo/datasets/places/places.json
+# 
+# Polifonia KG ontology: https://github.com/polifonia-project/sonar2021_demo/issues/14
+
+
+
+# POLIFONIA prefixes
+PREFIX core: <https://w3id.org/polifonia/ON/core/> 
+PREFIX mp: <https://w3id.org/polifonia/ON/musical-performance/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+# SPARQL anything prefixes
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+
+
+CONSTRUCT { 
+
+    ?recordingIRI core:hasTitle ?title ;
+                  core:hasYoutubeID ?youtubeID ;
+    
+                  # mp:RecordingProcess not reified. Just as blank node at the moment
+                  mp:isRecordingProducedBy [
+                        rdf:type mp:RecordingProcess ;
+                        mp:hasSession ?sessionIRI 
+                  ] .
+
+    ?sessionIRI core:hasType ?sessionType ;
+                rdf:type mp:Session .
+
+
+}
+    WHERE {
+
+	SERVICE <x-sparql-anything:> {
+
+        # location for json preprocessed file
+		fx:properties fx:location "data/places.json"  .
+
+
+        # querying
+
+		?recording  xyz:track%5Fid ?recordingID ;
+                    xyz:recording%5Fplaces ?recordingSessionList ;
+                    xyz:title ?title ;
+                    xyz:youtube%5Fid ?youtubeID .
+        
+
+        ?recordingSessionList ?li ?recordingSession .
+        ?recordingSession xyz:session%5Fid ?sessionID ;
+                          xyz:session%5Ftype ?sessionType .
+
+        
+        # generate resources/IRIs from string IDs
+
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Recording/recording_", ?recordingID)) AS ?recordingIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Session/session_", ?sessionID)) AS ?sessionIRI)
+
+
+
+	} 
+} 
