@@ -139,7 +139,7 @@
     rr:predicateObjectMap [
         rr:predicate core:hasType;
         rr:objectMap [
-            rr:template "https://w3id.org/polifonia/ON/musical-performance/{session_type}"
+            rr:template "{session_type}"
         ]
     ] ;
 
@@ -186,21 +186,6 @@
         ]
     ] .
 
-
-:SessionTypeTriplesMap 
-    rml:logicalSource :SessionTypeSource ;
-    rr:subjectMap [
-        rr:template "https://w3id.org/polifonia/ON/musical-performance/{session_type}";
-        rr:class mp:SessionType
-    ] ;
-
-    rr:predicateObjectMap [
-        rr:predicate rdfs:label;
-        rr:objectMap [
-            rml:reference "type";
-            rr:datatype xs:string;
-        ]
-    ] .
 
 
 :PhysicalSitesTriplesMap 
@@ -280,46 +265,46 @@
         ]
     ] .
 
-:RecordingSource rml:source "./sources/ex_input.json";
+:RecordingSource rml:source "./sources/full_input.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*]" .
 
-:Agent1Source rml:source "./sources/ex_input2a.json";
+:Agent1Source rml:source "./sources/full_input2a.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*]" .
 
-:Agent2Source rml:source "./sources/ex_input2b.json";
+:Agent2Source rml:source "./sources/full_input2b.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*]" .
 
-:Agent3Source rml:source "./sources/ex_input2c.json";
+:Agent3Source rml:source "./sources/full_input2c.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*]" .
 
-:TitleSource rml:source "./sources/ex_input3.json";
+:TitleSource rml:source "./sources/full_input3.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*]" .
 
-:SessionSource rml:source "./sources/ex_input4.json";
+:SessionSource rml:source "./sources/full_input4.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*].recording_places[*]" .
 
-:SessionTypeSource rml:source "./sources/ex_input5.json";
+:SessionTypeSource rml:source "./sources/full_input5.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*].recording_places[*]" .
 
-:PhysicalSiteSource rml:source "./sources/ex_input6.json";
+:PhysicalSiteSource rml:source "./sources/full_input6.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*].recording_places[*].place" .
 
-:GeometrySource rml:source "./sources/ex_input7.json";
+:GeometrySource rml:source "./sources/full_input7.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*].recording_places[*].place" .
 
-:AddressSource rml:source "./sources/ex_input8.json";
+:AddressSource rml:source "./sources/full_input8.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*].recording_places[*].place" .
 
-:TimeIntervalSource rml:source "./sources/ex_input9.json";
+:TimeIntervalSource rml:source "./sources/full_input9.json";
     rml:referenceFormulation ql:JSONPath ;
     rml:iterator "$.tracks[*].recording_places[*]" .
