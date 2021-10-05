@@ -12,9 +12,11 @@
 
 
 # POLIFONIA prefixes
-PREFIX core: <https://w3id.org/polifonia/ON/core/> 
-PREFIX mp: <https://w3id.org/polifonia/ON/musical-performance/>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX core:    <https://w3id.org/polifonia/ON/core/> 
+PREFIX mp:      <https://w3id.org/polifonia/ON/musical-performance/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX pr:      <https://w3id.org/polifonia/resource/>
 
 # SPARQL anything prefixes
 PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
@@ -24,10 +26,16 @@ PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 CONSTRUCT { 
 
     # Recording
-    ?recordingIRI core:hasTitle ?title ;
-                  core:hasYoutubeID ?youtubeID ;
-                  mp:isRecordingProducedBy ?recordingProcessIRI.
-    
+    ?recordingIRI   a mp:Recording ;
+                    core:hasTitle ?title ;
+                    core:hasYoutubeID ?youtubeID ;
+                    mp:isRecordingProducedBy ?recordingProcessIRI;
+                    mp:hasRecordingPerformer ?artistIRI .
+
+    # Agent
+    ?artistIRI  a core:Agent ; 
+                rdfs:label ?artistLabel .
+
 
     # RecordingProcess  
     ?recordingProcessIRI    rdf:type mp:RecordingProcess ;
@@ -46,9 +54,6 @@ CONSTRUCT {
                         core:startTime ?startTime ;
                         core:endTime ?endTime .
     
-    # SessionType
-    ?sessionTypeIndividualIRI a mp:SessionType .
-
     # PhysicalSite
     ?placeIRI a core:PhysicalSite ;
               core:hasAddress ?addressIRI ;
@@ -68,15 +73,23 @@ CONSTRUCT {
 	SERVICE <x-sparql-anything:> {
 
         # location for json preprocessed file
-		fx:properties fx:location "data/places.json"  .
-
+		fx:properties fx:location "data/places.json"  ;
+	  	fx:media-type "application/json" ;
+		fx:blank-nodes false    .
 
 
         # Recording
 		?recording  xyz:track%5Fid ?recordingID ;
                     xyz:recording%5Fplaces ?recordingSessionList ;
                     xyz:title ?title ;
-                    xyz:youtube%5Fid ?youtubeID .
+                    xyz:youtube%5Fid ?youtubeID ;
+                    ?pArtist ?artistLabel ;
+                    ?pArtistForIri ?artistID .
+
+                    FILTER(REGEX(STR(?pArtist),".*artist%5F[0-9]+$")) .
+		            FILTER(REGEX(STR(?pArtistForIri),".*artist%5Ffor%5Firi%5F[0-9]+$")) .
+
+
         
         # Session
         ?recordingSessionList ?li ?recordingSession .
@@ -100,18 +113,19 @@ CONSTRUCT {
         ?coordinates xyz:latitude ?lat ;
                      xyz:longitude ?long .
 
+	}
 
 
-        # generate resources IRIs from string IDs
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Recording/", ?recordingID)) AS ?recordingIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/RecordingProcess/", ?recordingID)) AS ?recordingProcessIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Session/", ?sessionID)) AS ?sessionIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/TimeInterval/", ?sessionID)) AS ?timeIntervalIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Place/", ?placeID)) AS ?placeIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Address/", ?placeID)) AS ?addressIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Geometry/", ?placeID)) AS ?geometryIRI)
-        # individuals IRIs from string IRI
-        BIND(IRI(?sessionType) AS ?sessionTypeIndividualIRI)
+    # generate resources IRIs from string IDs
+    BIND(IRI(CONCAT( STR(pr:) , "Recording/", ?recordingID)) AS ?recordingIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Agent/", ?artistID)) AS ?artistIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "RecordingProcess/", ?recordingID)) AS ?recordingProcessIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Session/", ?sessionID)) AS ?sessionIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "TimeInterval/", ?sessionID)) AS ?timeIntervalIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Place/", ?placeID)) AS ?placeIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Address/", ?placeID)) AS ?addressIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Geometry/", ?placeID)) AS ?geometryIRI)
+    # individuals IRIs from string IRI
+    BIND(IRI(?sessionType) AS ?sessionTypeIndividualIRI)
 
-	} 
 } 
