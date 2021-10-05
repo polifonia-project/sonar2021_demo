@@ -23,19 +23,45 @@ PREFIX xyz: <http://sparql.xyz/facade-x/data/>
 
 CONSTRUCT { 
 
+    # Recording
     ?recordingIRI core:hasTitle ?title ;
                   core:hasYoutubeID ?youtubeID ;
+                  mp:isRecordingProducedBy ?recordingProcessIRI.
     
-                  # mp:RecordingProcess not reified. Just as blank node at the moment
-                  mp:isRecordingProducedBy [
-                        rdf:type mp:RecordingProcess ;
-                        mp:hasSession ?sessionIRI 
-                  ] .
 
-    ?sessionIRI core:hasType ?sessionType ;
-                rdf:type mp:Session .
+    # RecordingProcess  
+    ?recordingProcessIRI    rdf:type mp:RecordingProcess ;
+                            mp:hasSession ?sessionIRI .
 
 
+
+    # Session
+    ?sessionIRI core:hasType ?sessionTypeIndividualIRI ;
+                rdf:type mp:Session ;
+                core:hasPlace ?placeIRI ;
+                core:hasTimeInterval ?timeIntervalIRI . 
+                
+    # TimeInterval
+    ?timeIntervalIRI    a core:TimeInterval ;
+                        core:startTime ?startTime ;
+                        core:endTime ?endTime .
+    
+    # SessionType
+    ?sessionTypeIndividualIRI a mp:SessionType .
+
+    # PhysicalSite
+    ?placeIRI a core:PhysicalSite ;
+              core:hasAddress ?addressIRI ;
+              core:hasGeometry ?geometryIRI .
+
+    # Address
+    ?addressIRI a core:Address ;
+                core:fullAddress ?fullAddress .
+
+    # Geometry
+    ?geometryIRI    a core:Geometry ;
+                    core:lat ?lat ;
+                    core:long ?long .
 }
     WHERE {
 
@@ -45,25 +71,47 @@ CONSTRUCT {
 		fx:properties fx:location "data/places.json"  .
 
 
-        # querying
 
+        # Recording
 		?recording  xyz:track%5Fid ?recordingID ;
                     xyz:recording%5Fplaces ?recordingSessionList ;
                     xyz:title ?title ;
                     xyz:youtube%5Fid ?youtubeID .
         
-
+        # Session
         ?recordingSessionList ?li ?recordingSession .
         ?recordingSession xyz:session%5Fid ?sessionID ;
-                          xyz:session%5Ftype ?sessionType .
-
+                          xyz:session%5Ftype ?sessionType ;
+                          xyz:place ?place ;
+                          xyz:begin ?startTime ;
+                          xyz:end ?endTime .
         
-        # generate resources/IRIs from string IDs
+        
 
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Recording/recording_", ?recordingID)) AS ?recordingIRI)
-        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Session/session_", ?sessionID)) AS ?sessionIRI)
+        # PhysicalSite
+        ?place  xyz:id ?placeID ;
+                xyz:name ?placeLabel ;
+                xyz:address ?fullAddress ;
+                xyz:coordinates ?coordinates .
+        
 
 
+        # Geometry
+        ?coordinates xyz:latitude ?lat ;
+                     xyz:longitude ?long .
+
+
+
+        # generate resources IRIs from string IDs
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Recording/", ?recordingID)) AS ?recordingIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/RecordingProcess/", ?recordingID)) AS ?recordingProcessIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Session/", ?sessionID)) AS ?sessionIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/TimeInterval/", ?sessionID)) AS ?timeIntervalIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Place/", ?placeID)) AS ?placeIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Address/", ?placeID)) AS ?addressIRI)
+        BIND(IRI(CONCAT("https://w3id.org/polifonia/resource/Geometry/", ?placeID)) AS ?geometryIRI)
+        # individuals IRIs from string IRI
+        BIND(IRI(?sessionType) AS ?sessionTypeIndividualIRI)
 
 	} 
 } 
