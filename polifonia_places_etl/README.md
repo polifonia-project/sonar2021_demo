@@ -14,5 +14,7 @@ To ouput a new version of knowledge graph in `kg/` folder you can run (in a UNIX
 
 
 
+### Tutorial
 
+```fx -q queries/tutorial.sparql -f JSON -o data/tutorial.jsonld```
 
