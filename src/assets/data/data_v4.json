@@ -1,0 +1,96 @@
+{
+  "songs": [
+    {
+      "name": "I Saw Her Standing There",
+      "artist": "The Beatles",
+      "artistId": "https://w3id.org/polifonia/resource/Artist/The Beatles",
+      "id": "https://w3id.org/polifonia/resource/Recording/00001",
+      "youtubeID": "vfxQ1oDiEJM"
+    },
+    {
+      "name": "Misery",
+      "artist": "The Beatles",
+      "artistId": "https://w3id.org/polifonia/resource/Artist/The Beatles",
+      "id": "https://w3id.org/polifonia/resource/Recording/00002",
+      "youtubeID": "vfxQ1oDiEJM"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "https://w3id.org/polifonia/resource/SpatialAnnotation/00001_edited_at",
+      "type": "spatial",
+      "description": "This track was edited at Abbey Road Studios: Studio 1",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00001",
+      "timestamp": 3,
+      "metadata": {
+        "long": "-0.17835",
+        "lat": "51.53192",
+        "placeName": "Abbey Road Studios: Studio 1"
+      },
+      "relationships": [
+        {
+          "annotationID": "https://w3id.org/polifonia/resource/SpatialAnnotation/00002_edited_at",
+          "type": "spatial",
+          "score": 0.910762874582187
+        }
+      ]
+    },
+    {
+      "id": "https://w3id.org/polifonia/resource/SpatialAnnotation/00001_mixed_at",
+      "type": "lyrics",
+      "description": "This track was mixed at Abbey Road Studios: Studio 1",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00001",
+      "timestamp": 9,
+      "metadata": {
+        "long": "-0.17835",
+        "lat": "51.53192",
+        "placeName": "Abbey Road Studios: Studio 1"
+      },
+      "relationships": [
+        {
+          "annotationID": "https://w3id.org/polifonia/resource/SpatialAnnotation/00002_mixed_at",
+          "type": "spatial",
+          "score": 0.3755374871784227
+        }
+      ]
+    },
+    {
+      "id": "https://w3id.org/polifonia/resource/SpatialAnnotation/00002_edited_at",
+      "type": "spatial",
+      "description": "This track was edited at Abbey Road Studios: Studio 1",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00002",
+      "timestamp": 15,
+      "metadata": {
+        "long": "-0.17835",
+        "lat": "51.53192",
+        "placeName": "Abbey Road Studios: Studio 1"
+      },
+      "relationships": [
+        {
+          "annotationID": "https://w3id.org/polifonia/resource/SpatialAnnotation/00001_edited_at",
+          "type": "spatial",
+          "score": 0.6956173667243932
+        }
+      ]
+    },
+    {
+      "id": "https://w3id.org/polifonia/resource/SpatialAnnotation/00002_mixed_at",
+      "type": "lyrics",
+      "description": "This track was mixed at Abbey Road Studios: Studio 1",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00002",
+      "timestamp": 15,
+      "metadata": {
+        "long": "-0.17835",
+        "lat": "51.53192",
+        "placeName": "Abbey Road Studios: Studio 1"
+      },
+      "relationships": [
+        {
+          "annotationID": "https://w3id.org/polifonia/resource/SpatialAnnotation/00001_mixed_at",
+          "type": "lyrics",
+          "score": 0.3827765479523355
+        }
+      ]
+    }
+  ]
+}
