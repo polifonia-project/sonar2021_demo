@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Annotation } from './annotation';
 import { Song } from './song';
 // @ts-ignore
-import ApplicationData from '../assets/data/data_v3.json';
+import ApplicationData from '../assets/data/data_v4.json';
 
 @Injectable({
   providedIn: 'root'
@@ -26,9 +26,9 @@ export class AnnotationService {
       this.initAnnotations();
     }
     let tempAnnotationArray: Annotation[] = [];
-    for (let i = 0; i < this.annotations.length; i++){
-      if (this.annotations[i].songID === songID){
-        tempAnnotationArray.push(this.annotations[i]);
+    for (const item of this.annotations) {
+      if (item.songID === songID){
+        tempAnnotationArray.push(item);
       }
     }
     return tempAnnotationArray;
@@ -40,6 +40,18 @@ export class AnnotationService {
       this.annotations.push(annotation);
     }
     this.annotationsInitialised = true;
+  }
+
+  getAnnotationFromID(annotationID: string): Annotation {
+    if (!this.annotationsInitialised) {
+      this.initAnnotations();
+    }
+    for (const item of this.annotations) {
+      if (item.id === annotationID) {
+        return item;
+      }
+    }
+    return null;
   }
 
 }

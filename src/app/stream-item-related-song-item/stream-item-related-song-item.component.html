@@ -1,5 +1,5 @@
 <li *ngIf="fullSong" class="d-flex flex-row related-song-item">
-  <div (click)="addToQueue(relationship.songID)" class="material-icons size add-song-icon" 
+  <div (click)="addToQueue(fullSong.id)" class="material-icons size add-song-icon"
   >add_button</div>
   <div>{{fullSong.name}} - {{fullSong.artist}} <em>({{relationship.type}})</em></div>
 </li>
