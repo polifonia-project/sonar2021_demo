@@ -27,10 +27,14 @@ CONSTRUCT {
 
     # Recording
     ?recordingIRI   a mp:Recording ;
-                    core:hasTitle ?title ;
+                    core:hasTitle ?titleIRI ;
                     core:hasYoutubeID ?youtubeID ;
                     mp:isRecordingProducedBy ?recordingProcessIRI;
                     mp:hasRecordingPerformer ?artistIRI .
+
+    # Title
+    ?titleIRI   a core:Title ;
+                rdfs:label ?titleLabel .
 
     # Agent
     ?artistIRI  a core:Agent ; 
@@ -81,7 +85,8 @@ CONSTRUCT {
         # Recording
 		?recording  xyz:track%5Fid ?recordingID ;
                     xyz:recording%5Fplaces ?recordingSessionList ;
-                    xyz:title ?title ;
+                    xyz:title ?titleLabel ;
+                    xyz:title%5Ffor%5Firi ?titleID ;
                     xyz:youtube%5Fid ?youtubeID ;
                     ?pArtist ?artistLabel ;
                     ?pArtistForIri ?artistID .
@@ -118,6 +123,7 @@ CONSTRUCT {
 
     # generate resources IRIs from string IDs
     BIND(IRI(CONCAT( STR(pr:) , "Recording/", ?recordingID)) AS ?recordingIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Title/", ?titleID)) AS ?titleIRI)
     BIND(IRI(CONCAT( STR(pr:) , "Agent/", ?artistID)) AS ?artistIRI)
     BIND(IRI(CONCAT( STR(pr:) , "RecordingProcess/", ?recordingID)) AS ?recordingProcessIRI)
     BIND(IRI(CONCAT( STR(pr:) , "Session/", ?sessionID)) AS ?sessionIRI)
