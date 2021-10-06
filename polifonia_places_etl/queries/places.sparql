@@ -60,6 +60,7 @@ CONSTRUCT {
     
     # PhysicalSite
     ?placeIRI a core:PhysicalSite ;
+              rdfs:label ?placeLabel ;
               core:hasAddress ?addressIRI ;
               core:hasGeometry ?geometryIRI .
 
@@ -87,12 +88,14 @@ CONSTRUCT {
                     xyz:recording%5Fplaces ?recordingSessionList ;
                     xyz:title ?titleLabel ;
                     xyz:title%5Ffor%5Firi ?titleID ;
-                    xyz:youtube%5Fid ?youtubeID ;
                     ?pArtist ?artistLabel ;
                     ?pArtistForIri ?artistID .
 
                     FILTER(REGEX(STR(?pArtist),".*artist%5F[0-9]+$")) .
 		            FILTER(REGEX(STR(?pArtistForIri),".*artist%5Ffor%5Firi%5F[0-9]+$")) .
+
+        OPTIONAL { ?recording xyz:youtube%5Fid ?youtubeID . }
+
 
 
         
@@ -123,7 +126,7 @@ CONSTRUCT {
 
     # generate resources IRIs from string IDs
     BIND(IRI(CONCAT( STR(pr:) , "Recording/", ?recordingID)) AS ?recordingIRI)
-    BIND(IRI(CONCAT( STR(pr:) , "Title/", ?titleID)) AS ?titleIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Title/", ENCODE_FOR_URI(?titleID))) AS ?titleIRI) # ENCODE_FOR_URI fix issues with unicode char in strings e.g. "wheni\u00e2\u20ac\u2122msixty\u00e2\u20ac\u0090four"
     BIND(IRI(CONCAT( STR(pr:) , "Agent/", ?artistID)) AS ?artistIRI)
     BIND(IRI(CONCAT( STR(pr:) , "RecordingProcess/", ?recordingID)) AS ?recordingProcessIRI)
     BIND(IRI(CONCAT( STR(pr:) , "Session/", ?sessionID)) AS ?sessionIRI)
