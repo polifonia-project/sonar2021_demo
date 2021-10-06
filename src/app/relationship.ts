@@ -1,5 +1,5 @@
 export interface Relationship {
-  songID: string;
+  annotationID: string;
   type: string;
   score: number;
 }
