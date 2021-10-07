@@ -1,0 +1,45 @@
+# POLIFONIA prefixes
+PREFIX core:    <https://w3id.org/polifonia/ON/core/> 
+PREFIX mp:      <https://w3id.org/polifonia/ON/musical-performance/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX pr:      <https://w3id.org/polifonia/resource/>
+
+# SPARQL anything prefixes
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+
+SELECT DISTINCT
+    ?recordingID
+    ?titleLabel
+    ?artist_count
+WHERE {
+
+    SERVICE <x-sparql-anything:> {
+
+        # location for json preprocessed file
+		fx:properties fx:location "data/places.json"  ;
+	  	fx:media-type "application/json" ;
+		fx:blank-nodes false    .
+
+
+        { SELECT DISTINCT ?recordingID ?titleLabel (COUNT(?artistID) as ?artist_count ) WHERE {
+
+        # Recording
+		?recording  xyz:track%5Fid ?recordingID ;
+                    xyz:title ?titleLabel ;
+                    ?pArtistForIri ?artistID .
+
+		            FILTER(REGEX(STR(?pArtistForIri),".*artist%5Ffor%5Firi%5F[0-9]+$")) .
+                    
+        } GROUP BY ?recordingID ?titleLabel }
+
+### Uncomment one of the filter to select songs just with 1,2 or 3 artists
+
+#        FILTER (?artist_count = 1)
+#        FILTER (?artist_count = 2)
+#        FILTER (?artist_count = 3)
+
+
+	}
+} 
