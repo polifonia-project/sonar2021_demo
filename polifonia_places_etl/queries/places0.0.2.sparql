@@ -105,7 +105,7 @@ CONSTRUCT {
         {
             # Recording with title label and title ID
 		    ?recording  xyz:track%5Fid ?recordingID ;
-                        xyz:youtube%5Fid ?titleLabel ;
+                        xyz:title ?titleLabel ;
                         xyz:title%5Ffor%5Firi ?titleID .
         }
         UNION
