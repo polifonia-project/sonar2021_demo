@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Annotation } from './annotation';
 import { Song } from './song';
 // @ts-ignore
-import ApplicationData from '../assets/data/data_v4.json';
+import ApplicationData from '../assets/data/data_v6.json';
 
 @Injectable({
   providedIn: 'root'
