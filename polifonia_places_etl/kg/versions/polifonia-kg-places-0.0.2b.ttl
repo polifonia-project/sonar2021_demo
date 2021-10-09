@@ -6,6 +6,18 @@
 @prefix xyz:   <http://sparql.xyz/facade-x/data/> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 
+
+mp:EditingSession rdfs:label "edited at" .
+
+mp:MixdownSession rdfs:label "mixed at" .
+
+mp:ProductionSession rdfs:label "produced at" .
+
+mp:RecordingSession rdfs:label "recorded at" .
+
+mp:EngineeringSession rdfs:label "engineered at" .
+
+
 <https://w3id.org/polifonia/resource/TimeInterval/00541_1>
         a               core:TimeInterval ;
         core:endTime    "1979-01" ;
