@@ -18,7 +18,7 @@ export class AnnotationGraphicsService {
       iconName: "border_color"
     },
     spatial: {
-      title: "Musical Locations",
+      title: "Location",
       color: "green",
       iconName: "place"
     }

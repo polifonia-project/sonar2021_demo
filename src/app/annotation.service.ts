@@ -10,6 +10,7 @@ import ApplicationData from '../assets/data/data_v7.json';
 export class AnnotationService {
   annotations: Annotation[] = [];
   annotationsInitialised = false;
+  randomTimestampWindow = 15;
 
   constructor() {
   }
@@ -37,6 +38,9 @@ export class AnnotationService {
   initAnnotations(): void {
     this.annotations = [];
     for (const annotation of ApplicationData.annotations) {
+      if (annotation.timestamp === 0) {
+        annotation.timestamp = this.getRandomTimestamp();
+      }
       this.annotations.push(annotation);
     }
     this.annotationsInitialised = true;
@@ -52,6 +56,10 @@ export class AnnotationService {
       }
     }
     return null;
+  }
+
+  getRandomTimestamp(): number {
+    return Math.floor(Math.random() * (this.randomTimestampWindow + 1));
   }
 
 }

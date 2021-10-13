@@ -11,14 +11,14 @@ import { AnnotationGraphicsService } from '../annotation-graphics.service';
 export class StreamItemHeaderComponent implements OnInit {
 
   @Input() annotation?: Annotation;
-  annotationGraphics?: AnnotationGraphics
+  annotationGraphics?: AnnotationGraphics;
 
   constructor(private annotationGraphicsService: AnnotationGraphicsService) {
   }
 
   ngOnInit(): void {
     if (this.annotation) {
-      this.annotationGraphics = this.annotationGraphicsService.getAnnotationGraphics(this.annotation.type)
+      this.annotationGraphics = this.annotationGraphicsService.getAnnotationGraphics(this.annotation.type);
     }
   }
 }
