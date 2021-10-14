@@ -13,7 +13,7 @@ export class PlayingSongDetailsComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    console.log('Song:', this.playingSong);
+    console.log('Playing song:', this.playingSong);
   }
 
 }

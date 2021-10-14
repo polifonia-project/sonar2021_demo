@@ -5,7 +5,7 @@ type AnnotationGraphicsMap = {
   lyrics: AnnotationGraphics,
   spatial: AnnotationGraphics,
   harmonic: AnnotationGraphics
-}
+};
 
 @Injectable({
   providedIn: 'root'
@@ -26,17 +26,17 @@ export class AnnotationGraphicsService {
     harmonic: {
       title: 'Harmonic',
       color: '#9090ff',
-      iconName: 'place'
+      iconName: 'music_note'
     }
-  }
+  };
 
   constructor() {}
 
-  getAnnotationGraphics(annotationType : string) : AnnotationGraphics | undefined {
+  getAnnotationGraphics(annotationType: string): AnnotationGraphics | undefined {
 
     // define what to do if annotation type is not in the map
 
-    return this.annotationGraphicsMap[annotationType]
+    return this.annotationGraphicsMap[annotationType];
   }
 
 }
