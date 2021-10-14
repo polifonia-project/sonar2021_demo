@@ -9,7 +9,7 @@ import { HomepageComponent } from './homepage/homepage.component';
 import { StreamComponent } from './stream/stream.component';
 import { QueueComponent } from './queue/queue.component';
 import { StreamItemComponent } from './stream-item/stream-item.component';
-import {VideoModule} from './video/video.module';
+import { VideoModule } from './video/video.module';
 import { NavbarComponent } from './navbar/navbar.component';
 import { NavbarItemComponent } from './navbar-item/navbar-item.component';
 import { TopbarComponent } from './topbar/topbar.component';
@@ -28,6 +28,7 @@ import { PlaylistComponent } from './page-switch/pages/playlist/playlist.compone
 import { FilterComponent } from './page-switch/pages/filter/filter.component';
 import { MessageComponent } from './message/message.component';
 import { StreamFilterComponent } from './stream-filter/stream-filter.component';
+import { HarmonicComponent } from './stream-item-secondary-info/annotation-type-specific-info/harmonic/harmonic.component';
 
 
 @NgModule({
@@ -56,6 +57,7 @@ import { StreamFilterComponent } from './stream-filter/stream-filter.component';
     FilterComponent,
     MessageComponent,
     StreamFilterComponent,
+    HarmonicComponent,
   ],
   imports: [
     BrowserModule,

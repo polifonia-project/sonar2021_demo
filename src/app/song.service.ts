@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Song } from './song';
 // @ts-ignore
 
-import ApplicationData from '../assets/data/data_v7.json';
+import ApplicationData from '../assets/data/data_v7b-harmonic-test.json';
 
 
 @Injectable({
