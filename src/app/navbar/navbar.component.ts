@@ -22,7 +22,7 @@ export class NavbarComponent implements OnInit {
        page: AppPage.Playlist
      },
        // filter item params
-     { title : "Filter",
+     { title : "Settings",
        icon : "filter_alt",
        page: AppPage.Filter
      }
