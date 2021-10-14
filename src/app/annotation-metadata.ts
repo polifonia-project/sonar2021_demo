@@ -3,8 +3,11 @@ export interface AnnotationMetadata {
 }
 
 export interface LocationMetadata extends AnnotationMetadata {
-    long?: number;
-    lat?: number;
+  placeLabel?: string;
+  placeFullAddress?: string;
+  placeLong?: number;
+  placeLat?: number;
+  sessionTypeLabel?: string;
 }
 
 export interface LyricsMetadata extends AnnotationMetadata {
