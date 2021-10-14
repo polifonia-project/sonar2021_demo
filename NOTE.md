@@ -1,7 +1,7 @@
 SONAR DEMO - APP FEATURES TO DEMO
 
 
-- explain the concept of annotations to songs. Information/metadata realted to songs. 
+- Explain the concept of annotations to songs. Information/metadata related to songs. 
 - Annotations:
 	- Type (spatial/harmonic/lyrical and so on)
 	- Type-specific attributes that describe the detail of the specific annotation
@@ -23,6 +23,6 @@ FUTURE DEVELOPMENT AND POINTS TO CONSIDER
 	- (c) Transform from KG to app-specific data
 	- (d) App
 	
-- Currently, step (c) builds a static input file, with hardcoded song <-> song relationships. Moving forwards, this is the step that would be replaced with some intelligent KG querying intermediary API/service. The process of the app internally querying for song info, annotations and relationships is abstrated to an easily swappable service/module. This currently uses the static input (JSON) file, but could also query an eternal API without any changes to the main app logic. This external KG-querying service or "agent" could potentially be the main takeaway from this exercise, rather than the app iteself. 
+- Currently, step (c) builds a static input file, with hardcoded song <-> song relationships. Moving forwards, this is the step that would be replaced with some intelligent KG querying intermediary API/service. The process of the app internally querying for song info, annotations and relationships is abstrated to an easily swappable service/module. This currently uses the static input (JSON) file, but could also query an external API without any changes to the main app logic. This external KG-querying service or "agent" could potentially be the main takeaway from this exercise, rather than the app iteself. 
 
-- Similarity thresholds - Currently, spatial relationships have a similarity threshold of 1, ie we only show related songs where two annotations have an idential place (IRI). Moving forwards, some GIS functionality here should look into spatial distance between song annotations in the same way we analyse 'lyrical distance' or harmonic distance' and generate links based on configurable thresholds. Lyrics and harmonics relationshops are already based on thresholds for similarity values (0.0 - 1.0).
+- Similarity thresholds - Currently, spatial relationships have a similarity threshold of 1, ie we only show related songs where two annotations have an idential place (IRI). Moving forwards, some GIS functionality here should look into spatial distance between song annotations in the same way we analyse 'lyrical distance' or 'harmonic distance' and generate links based on configurable thresholds. Lyrics and harmonics relationships are already based on thresholds for similarity values (0.0 - 1.0).
