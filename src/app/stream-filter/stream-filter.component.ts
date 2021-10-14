@@ -26,7 +26,7 @@ export class StreamFilterComponent implements OnInit {
   }
 
   getFilterGraphics(filter) {
-    return  this.graphicsService.getAnnotationGraphics(filter.type)
+    return  this.graphicsService.getAnnotationGraphics(filter.type);
   }
 
   onSwitchToggle(type: string, event: any): void {
