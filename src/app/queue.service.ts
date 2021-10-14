@@ -5,6 +5,7 @@ import {Song} from './song';
 import {BehaviorSubject} from 'rxjs';
 import {Annotation} from './annotation';
 import {SongService} from './song.service';
+import {AnnotationService} from './annotation.service';
 
 @Injectable({
   providedIn: 'root'
@@ -20,7 +21,8 @@ export class QueueService {
   queueInitialised = false;
 
   constructor(
-    private songService: SongService
+    private songService: SongService,
+    private annotationService: AnnotationService
   ) { }
 
   addToQueue(song: Song, addToHead: boolean = false): void {
@@ -49,12 +51,15 @@ export class QueueService {
   forwards(): void {
     // Move forwards to the next song in the queue
     // if there's a current song playing, move it into the history.
+    // if no more songs in the queue, add a random one from the list of related songs.
     if (this.currentSongSource.getValue() != null) {
       this.history.unshift(this.currentSongSource.getValue());
     }
 
     if (this.queueSource.getValue().length === 0) {
-      return;
+      // We have an empty queue, get all related songs and add a random one to the queue
+      const relatedSongs = this.annotationService.getRelatedSongs(this.currentSongSource.getValue().id);
+      this.addToQueueByID(relatedSongs[Math.floor(Math.random() * relatedSongs.length)]);
     }
 
     let newCurrentSong = this.queueSource.getValue()[0];

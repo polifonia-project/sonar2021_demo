@@ -69,11 +69,11 @@ export class VideoComponent implements OnInit {
     }
     else {
       if (this.playing) {
-        // We think we're still playing but the YT player thinks now, we've probably reached the end of a song or just loaded a new song
+        // We think we're still playing but the YT player thinks not, we've probably reached the end of a song or just loaded a new song
         this.play();
+      } else {
+        this.pause();
       }
-      this.playing = false;
-      this.stopTicker();
     }
   }
 
@@ -92,7 +92,10 @@ export class VideoComponent implements OnInit {
 
   play(): void {
     // PLAY THE SONG
-    // FIXME - If there is no current song, move forward in the queue
+    if (this.youtubeTarget.getPlayerState() === 0) { // state 0 = video ended
+      // Video has ended, move forwards
+      this.forward();
+    }
     // console.log('calling play function');
     this.playing = true;
     this.youtubeTarget.playVideo();

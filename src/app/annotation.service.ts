@@ -26,13 +26,26 @@ export class AnnotationService {
     if (!this.annotationsInitialised) {
       this.initAnnotations();
     }
-    let tempAnnotationArray: Annotation[] = [];
+    const tempAnnotationArray: Annotation[] = [];
     for (const item of this.annotations) {
       if (item.songID === songID){
         tempAnnotationArray.push(item);
       }
     }
     return tempAnnotationArray;
+  }
+
+  getRelatedSongs(sourceSongID: string): string[] {
+    const relatedSongs: string[] = [];
+    let songAnnotations: Annotation[];
+    songAnnotations = this.getSongAnnotations(sourceSongID);
+    for (const annotation of songAnnotations) {
+      for (const relation of annotation.relationships) {
+        const targetSongID = this.getAnnotationFromID(relation.annotationID).songID;
+        relatedSongs.push(targetSongID);
+      }
+    }
+    return relatedSongs;
   }
 
   initAnnotations(): void {
