@@ -9,5 +9,6 @@ export interface Annotation {
   timestamp: number;
   relationships: Relationship[];
   description?: string;
+  shortDescription?: string;
   metadata?: AnnotationMetadata;
 }

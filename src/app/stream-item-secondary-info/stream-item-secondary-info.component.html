@@ -1,6 +1,7 @@
+<!-- <p>{{annotation.description}}</p> -->
 <div *ngIf="annotation" [ngSwitch]="annotation.type">
     <app-lyrics *ngSwitchCase="'lyrics'" [metadata]="annotation.metadata"></app-lyrics>
-    <app-location *ngSwitchCase="'spatial'" [metadata]="annotation.metadata"></app-location>
+    <app-location *ngSwitchCase="'spatial'" [metadata]="annotation.metadata" [description]="annotation.description"></app-location>
     <app-harmonic *ngSwitchCase="'harmonic'" [metadata]="annotation.metadata"></app-harmonic>
     <div *ngSwitchDefault>No specific template for {{annotation.type}}. Create it!</div>
 </div>

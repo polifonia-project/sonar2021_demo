@@ -8,14 +8,15 @@ import { LocationMetadata } from 'src/app/annotation-metadata';
 })
 export class LocationComponent implements OnInit {
   @Input() metadata?: LocationMetadata;
+  @Input() description?: string;
 
   staticMapImageURL: string;
 
   constructor() {}
 
   ngOnInit(): void {
-    if (this.metadata.long && this.metadata.lat) {
-      this.staticMapImageURL = this.buildStaticMapImageURL(this.metadata.lat, this.metadata.long);
+    if (this.metadata.placeLong && this.metadata.placeLat) {
+      this.staticMapImageURL = this.buildStaticMapImageURL(this.metadata.placeLat, this.metadata.placeLong);
     }
     else {
       this.staticMapImageURL = null;

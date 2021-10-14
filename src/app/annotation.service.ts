@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
 import { Annotation } from './annotation';
 import { Song } from './song';
-// @ts-ignore
-import ApplicationData from '../assets/data/data_v7b-harmonic-test.json';
+import {HarmonicsMetadata, LocationMetadata, LyricsMetadata} from './annotation-metadata';
+import ApplicationData from '../assets/data/data_v8.json';
 
 @Injectable({
   providedIn: 'root'
@@ -50,10 +50,16 @@ export class AnnotationService {
 
   initAnnotations(): void {
     this.annotations = [];
-    for (const annotation of ApplicationData.annotations) {
+    let annotation: Annotation;
+    for (annotation of ApplicationData.annotations) {
+      // assign a timestamp if necessary
       if (annotation.timestamp === 0) {
         annotation.timestamp = this.getRandomTimestamp();
       }
+      // build annotation description
+      annotation = this.generateAnnotationDescriptions(annotation);
+
+      // push to main annotations list
       this.annotations.push(annotation);
     }
     this.annotationsInitialised = true;
@@ -73,6 +79,42 @@ export class AnnotationService {
 
   getRandomTimestamp(): number {
     return Math.floor(Math.random() * (this.randomTimestampWindow + 1));
+  }
+
+  generateAnnotationDescriptions(annotation: Annotation): Annotation {
+    let description: string = '';
+    let shortDescription: string = '';
+
+    switch (annotation.type) {
+      case 'spatial':
+        const spatialMetadata: LocationMetadata = annotation.metadata;
+        shortDescription = this.capitalizeFirstLetter(spatialMetadata.sessionTypeLabel) + ' ' + spatialMetadata.placeLabel;
+        description = spatialMetadata.sessionTypeLabel +
+          ' ' + spatialMetadata.placeLabel +
+          ' - ' + spatialMetadata.placeFullAddress;
+        break;
+      case 'harmonic':
+        const harmonicMetadata: HarmonicsMetadata = annotation.metadata;
+        shortDescription = 'Harmonic';
+        description = '';
+        break;
+      case 'lyrics':
+        const lyricsMetadata: LyricsMetadata = annotation.metadata;
+        shortDescription = 'Lyrics';
+        description = '';
+        break;
+      default:
+        shortDescription = 'Generic annotation';
+        description = '';
+      // code block
+    }
+    annotation.description = description;
+    annotation.shortDescription = shortDescription;
+    return annotation;
+  }
+
+  capitalizeFirstLetter(input: string): string {
+    return input.charAt(0).toUpperCase() + input.slice(1);
   }
 
 }
