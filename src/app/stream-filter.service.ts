@@ -16,7 +16,8 @@ export class StreamFilterService {
     // FIXME - This can load from local storage to preserve state for users, eventually.
     const filters = {
       spatial: undefined,
-      lyrics: undefined
+      lyrics: undefined,
+      harmonic: undefined,
     };
     filters.spatial = {
       type: 'spatial',
@@ -26,6 +27,11 @@ export class StreamFilterService {
     filters.lyrics = {
       type: 'lyrics',
       label: 'Lyrics',
+      enabled: true
+    };
+    filters.harmonic = {
+      type: 'harmonic',
+      label: 'Harmonic',
       enabled: true
     };
     this.filtersSource.next(filters);

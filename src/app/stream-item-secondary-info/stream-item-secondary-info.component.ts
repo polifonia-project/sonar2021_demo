@@ -8,7 +8,7 @@ import { Annotation } from '../annotation';
 })
 export class StreamItemSecondaryInfoComponent implements OnInit {
 
-  @Input() annotation? : Annotation;
+  @Input() annotation?: Annotation;
 
   constructor() { }
 

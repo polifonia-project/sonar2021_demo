@@ -3,7 +3,8 @@ import { AnnotationGraphics } from './annotation-graphics';
 
 type AnnotationGraphicsMap = {
   lyrics: AnnotationGraphics,
-  spatial: AnnotationGraphics
+  spatial: AnnotationGraphics,
+  harmonic: AnnotationGraphics
 }
 
 @Injectable({
@@ -11,16 +12,21 @@ type AnnotationGraphicsMap = {
 })
 export class AnnotationGraphicsService {
 
-  annotationGraphicsMap : AnnotationGraphicsMap = {
+  annotationGraphicsMap: AnnotationGraphicsMap = {
     lyrics: {
-      title: "Lyrics",
-      color: "purple",
-      iconName: "border_color"
+      title: 'Lyrics',
+      color: '#d020d0',
+      iconName: 'border_color'
     },
     spatial: {
-      title: "Location",
-      color: "green",
-      iconName: "place"
+      title: 'Location',
+      color: '#90ff90',
+      iconName: 'place'
+    },
+    harmonic: {
+      title: 'Harmonic',
+      color: '#9090ff',
+      iconName: 'place'
     }
   }
 
