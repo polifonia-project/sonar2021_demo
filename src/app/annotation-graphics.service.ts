@@ -5,7 +5,7 @@ type AnnotationGraphicsMap = {
   lyrics: AnnotationGraphics,
   spatial: AnnotationGraphics,
   harmonic: AnnotationGraphics
-}
+};
 
 @Injectable({
   providedIn: 'root'
