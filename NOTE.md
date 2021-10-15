@@ -13,6 +13,7 @@ SONAR DEMO - APP FEATURES TO DEMO
 - If we want to be taken on a surprise musical journey, we simply don't add anything to our playlist. As a song finishes, if the queue is empty, a randomly shuffled song that has some relationship with the current song will be played.
 - Settings - Here we can choose which musical annotations are of interest to us. For example, we may wish to switch off Lyrics-based annotations here and they will not appear in the live stream.
 
+![Data flow diagram](polifonia-sonar-data-flow.png)
 
 FUTURE DEVELOPMENT AND POINTS TO CONSIDER
 
