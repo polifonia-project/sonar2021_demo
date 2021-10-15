@@ -32,3 +32,5 @@ FUTURE DEVELOPMENT AND POINTS TO CONSIDER
 	- Validate and add weight to existing machine-generated relationships by letting users 'like' or score the suggestions made to them. 
 
 - Before the SONAR event, we need a carefully curated set of songs and annotations that best showcase the work that's been done so far
+
+- CHALLENGE - As the body of data starts to grow, how do we make a decision on what is interesting and potentially novel? There will clearly be many many links between songs that are likely to be common and mundane. Identifying interesting relationships that aren't immediately obvious to the casual listener is what will distinguish this kind of aplpication from regular music recommender services. 
