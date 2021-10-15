@@ -29,6 +29,7 @@ import { FilterComponent } from './page-switch/pages/filter/filter.component';
 import { MessageComponent } from './message/message.component';
 import { StreamFilterComponent } from './stream-filter/stream-filter.component';
 import { HarmonicComponent } from './stream-item-secondary-info/annotation-type-specific-info/harmonic/harmonic.component';
+import { SearchComponent } from './page-switch/pages/search/search.component';
 
 
 @NgModule({
@@ -58,6 +59,7 @@ import { HarmonicComponent } from './stream-item-secondary-info/annotation-type-
     MessageComponent,
     StreamFilterComponent,
     HarmonicComponent,
+    SearchComponent,
   ],
   imports: [
     BrowserModule,

@@ -14,12 +14,12 @@ export class PageSwitchService {
 
   constructor() {
       this.appPageChange.subscribe((value) => {
-        this.currentPage = value
-      })
+        this.currentPage = value;
+      });
   }
 
   changePage(newPage: AppPage) {
-    this.appPageChange.next(newPage)
+    this.appPageChange.next(newPage);
   }
 
 }

@@ -18,8 +18,8 @@ export class PageSwitchComponent implements OnInit {
 
   constructor(private pageSwitchService: PageSwitchService) {
     this.pageSwitchService.appPageChange.subscribe((value) => {
-      this.currentPage = value
-    })
+      this.currentPage = value;
+    });
   }
 
   ngOnInit(): void {

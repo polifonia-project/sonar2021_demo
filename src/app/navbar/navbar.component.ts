@@ -21,6 +21,11 @@ export class NavbarComponent implements OnInit {
        icon : "queue_music",
        page: AppPage.Playlist
      },
+    // Search page
+    { title : "Search",
+      icon : "search",
+      page: AppPage.Search
+    },
        // filter item params
      { title : "Settings",
        icon : "filter_alt",
