@@ -26,3 +26,9 @@ FUTURE DEVELOPMENT AND POINTS TO CONSIDER
 - Currently, step (c) builds a static input file, with hardcoded song <-> song relationships. Moving forwards, this is the step that would be replaced with some intelligent KG querying intermediary API/service. The process of the app internally querying for song info, annotations and relationships is abstrated to an easily swappable service/module. This currently uses the static input (JSON) file, but could also query an external API without any changes to the main app logic. This external KG-querying service or "agent" could potentially be the main takeaway from this exercise, rather than the app iteself. 
 
 - Similarity thresholds - Currently, spatial relationships have a similarity threshold of 1, ie we only show related songs where two annotations have an idential place (IRI). Moving forwards, some GIS functionality here should look into spatial distance between song annotations in the same way we analyse 'lyrical distance' or 'harmonic distance' and generate links based on configurable thresholds. Lyrics and harmonics relationships are already based on thresholds for similarity values (0.0 - 1.0).
+
+- Citizen curated data - this could be collected in a number of ways:
+	- Collect song <-> song relationship suggestions from users
+	- Validate and add weight to existing machine-generated relationships by letting users 'like' or score the suggestions made to them. 
+
+- Before the SONAR event, we need a carefully curated set of songs and annotations that best showcase the work that's been done so far
