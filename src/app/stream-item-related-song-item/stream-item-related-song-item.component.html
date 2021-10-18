@@ -2,6 +2,7 @@
   <div (click)="addToQueue(fullSong.id)" class="material-icons size add-song-icon">playlist_add</div>
   <div>
     {{fullSong.name}} - {{fullSong.artist}} <br />
+    Relationship score: <em>{{relationship.score}}</em> <br />
     <em>
       [{{relationship.type}}] - {{targetAnnotation.description}}
     </em>

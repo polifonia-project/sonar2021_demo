@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Annotation } from './annotation';
 import { Song } from './song';
 import {HarmonicsMetadata, LocationMetadata, LyricsMetadata} from './annotation-metadata';
-import ApplicationData from '../assets/data/data_v8.json';
+import ApplicationData from '../assets/data/data_v8-harmonic-sample.json';
 
 @Injectable({
   providedIn: 'root'
@@ -95,8 +95,8 @@ export class AnnotationService {
         break;
       case 'harmonic':
         const harmonicMetadata: HarmonicsMetadata = annotation.metadata;
-        shortDescription = 'Harmonic';
-        description = '';
+        shortDescription = 'Harmonic: Chord progression';
+        description = 'Longest chord progression: ' + harmonicMetadata.longestChordProgression;
         break;
       case 'lyrics':
         const lyricsMetadata: LyricsMetadata = annotation.metadata;

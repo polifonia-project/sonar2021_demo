@@ -14,8 +14,14 @@
 }
 
 
-/* This class is assigned to elements supposed to be shown in development environment. 
+/* This class is assigned to elements supposed to be shown in development environment.
    Uncomment the class to hide those elements*/
 .hidden-dev-element {
     display: none;
+}
+
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px /* or set it wider or narrower than 900px */
 }
