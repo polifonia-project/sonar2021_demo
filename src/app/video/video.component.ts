@@ -20,6 +20,9 @@ export class VideoComponent implements OnInit {
   playing = false;
   currentSong: Song;
   currentPlayTime = 0;
+  currentPlayTimeString: string = '0:00';
+  totalPlayTime = 0;
+  totalPlayTimeString: string;
   timer;
   queue: Song[];
   queueSubscription: Subscription;
@@ -62,9 +65,27 @@ export class VideoComponent implements OnInit {
     this.youtubeTarget = $event.target;
   }
 
+  formatSeconds(totalTime: number): string {
+    const minutes = Math.floor(totalTime / 60);
+    const seconds = Math.round(totalTime - (minutes * 60));
+    let minStr = minutes.toString();
+    let secStr = seconds.toString();
+    if (minStr.length < 2) {
+      minStr = '0' + minStr;
+    }
+    if (secStr.length < 2) {
+      secStr = '0' + secStr;
+    }
+    return minStr + ':' + secStr;
+  }
+
   onStateChange(event): void {
     // console.log(this.youtubePlayer);
     // console.log(this.youtubePlayer.getCurrentTime());
+    if (this.youtubePlayer) {
+      this.totalPlayTime = this.youtubePlayer.getDuration();
+      this.totalPlayTimeString = this.formatSeconds(this.totalPlayTime);
+    }
     if (this.youtubePlayer
       && this.youtubePlayer.getPlayerState() === YT.PlayerState.PLAYING) {
       this.playing = true;
@@ -96,6 +117,7 @@ export class VideoComponent implements OnInit {
 
   tick(): any {
     this.currentPlayTime = Math.round(this.youtubePlayer.getCurrentTime());
+    this.currentPlayTimeString = this.formatSeconds(this.currentPlayTime);
     this.streamService.setPlayTime(this.currentPlayTime);
   }
 

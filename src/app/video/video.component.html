@@ -13,17 +13,16 @@
             controls: 0
             }">
         </youtube-player>
-        <div class="hidden-dev-element">
-          <br />
-          Timer: {{currentPlayTime}}
-          <br />
-        </div>
         <div>
           <div class="audio-controller-container">
             <button (click)="backwards()" type="button" class="btn btn-primary btn-lg audio-button"><i class="fas fa-backward"></i></button>
              <button *ngIf="playing" (click)="pause()" type="button" class="btn btn-primary btn-xl audio-button play"><i class="fas fa-pause"></i></button>
              <button *ngIf="!playing" (click)="play()" type="button" class="btn btn-primary btn-xl audio-button pause"><i class="fas fa-play"></i></button>
              <button (click)="forward()" type="button" class="btn btn-primary btn-lg mx-1 audio-button"><i class="fas fa-forward"></i></button>
+          </div>
+          <!--<div class="hidden-dev-element">-->
+          <div class="">
+            {{currentPlayTimeString}} / {{this.totalPlayTimeString}}
           </div>
           <app-playing-song-details [playingSong]="currentSong"></app-playing-song-details>
         </div>
