@@ -4,7 +4,14 @@
     {{fullSong.name}} - {{fullSong.artist}} <br />
     Relationship score: <em>{{relationship.score}}</em> <br />
     <em>
-      [{{relationship.type}}] - {{targetAnnotation.description}}
+      <!-- [{{relationship.type}}] - -->{{targetAnnotation.description}}<br />
+      {{targetAnnotation.timestamp}} seconds
     </em>
+    <div
+      *ngIf="targetAnnotation.type === 'harmonic'"
+      (click)="emit({'songID': targetAnnotation.songID, 'timestamp': targetAnnotation.timestamp})"
+      class="material-icons size add-song-icon" >
+      shortcut
+    </div>
   </div>
 </li>

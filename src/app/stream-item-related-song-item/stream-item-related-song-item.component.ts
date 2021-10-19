@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 import { QueueService } from '../queue.service';
 import { Relationship } from '../relationship';
 import {SongService} from '../song.service';
@@ -16,6 +16,8 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
 
   @Input() relationship?: Relationship;
 
+  @Output() emitter: EventEmitter<any> = new EventEmitter<any>();
+
   fullSong: Song;
   targetAnnotation: Annotation;
 
@@ -31,6 +33,12 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
       this.targetAnnotation = this.annotationService.getAnnotationFromID(this.relationship.annotationID);
       this.fullSong = this.getSongDetails(this.targetAnnotation.songID);
     }
+  }
+
+  emit(value){
+    const message = 'Skipping ahead to : ' + value.timestamp + 'seconds';
+    this.messageService.showMessage(message,'info')
+    this.emitter.emit(value);
   }
 
   addToQueue(songID: string): void {

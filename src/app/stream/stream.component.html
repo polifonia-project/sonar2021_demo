@@ -12,6 +12,7 @@
           <div class="accordion-item" *ngFor="let annotation of stream; index as annotationIndex">
             <div *ngIf="isPreviousSongAnnotation(annotationIndex)" class="annotation-divisor">{{getSongDetailsByAnnotationIndex(annotationIndex).name}} - {{getSongDetailsByAnnotationIndex(annotationIndex).artist}}</div>
             <app-stream-item
+              (emitter)="emit($event)"
               *ngIf="filters[annotation.type].enabled"
               [annotation]="annotation">
             </app-stream-item>
