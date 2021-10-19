@@ -1,0 +1,248 @@
+{
+  "songs": [
+    {
+      "name": "Who Wants To Live Forever",
+      "artist": "Queen",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/queen",
+      "id": "https://w3id.org/polifonia/resource/Recording/00205",
+      "youtubeID": "_Jtpf8N5IDE"
+    },
+    {
+      "name": "Radio Ga Ga",
+      "artist": "Queen",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/queen",
+      "id": "https://w3id.org/polifonia/resource/Recording/00199",
+      "youtubeID": "azdwsXLmrHE"
+    },
+    {
+      "name": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/queen",
+      "id": "https://w3id.org/polifonia/resource/Recording/00188",
+      "youtubeID": "zO6D_BAuYCI"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "asdhasdoifasfiajsd",
+      "type": "harmonic",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00205",
+      "timestamp": 2,
+      "metadata": {
+        "longestChordProgression": "A:m, G:m, A:m",
+        "timestampIn": 2.8,
+        "timestampOut": 6.3
+      },
+      "relationships": [
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "harmonic",
+          "score": 0.82
+        }
+      ]
+    },
+    {
+      "id": "6t3QvkAChlISPdz5jzMGQ",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00205",
+      "timestamp": 48,
+      "description": "recorded at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "TjFMMFqynrM1YtP9zBx8e",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "bj6kHOv302sX9rIyBbD7q",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "CcEOrdq6w0-oHf0YTyBpY",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00199",
+      "timestamp": 59,
+      "description": "recorded at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "6t3QvkAChlISPdz5jzMGQ",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "TjFMMFqynrM1YtP9zBx8e",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "bj6kHOv302sX9rIyBbD7q",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "TjFMMFqynrM1YtP9zBx8e",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00199",
+      "timestamp": 28,
+      "description": "produced at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "6t3QvkAChlISPdz5jzMGQ",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "bj6kHOv302sX9rIyBbD7q",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "bj6kHOv302sX9rIyBbD7q",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00188",
+      "timestamp": 33,
+      "description": "recorded at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "6t3QvkAChlISPdz5jzMGQ",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "TjFMMFqynrM1YtP9zBx8e",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "kvOTHbSgp1nYd5rXH5X-y",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00188",
+      "timestamp": 52,
+      "description": "recorded at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "6t3QvkAChlISPdz5jzMGQ",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "TjFMMFqynrM1YtP9zBx8e",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "f803sOo0Wr86to7mhKxCl",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00205",
+      "timestamp": 7,
+      "description": "recorded at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "6t3QvkAChlISPdz5jzMGQ",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "TjFMMFqynrM1YtP9zBx8e",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "id": "QbxtqSd5d97UpIGz8ZzHI",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/00205",
+      "timestamp": 53,
+      "description": "recorded at Musicland Studios - Arabellastrasse",
+      "metadata": {
+        "long": "11.619503",
+        "lat": "48.150108",
+        "placeName": "Musicland Studios"
+      },
+      "relationships": [
+        {
+          "annotationID": "6t3QvkAChlISPdz5jzMGQ",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "CcEOrdq6w0-oHf0YTyBpY",
+          "type": "spatial",
+          "score": 1
+        },
+        {
+          "annotationID": "TjFMMFqynrM1YtP9zBx8e",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    }
+  ]
+}
