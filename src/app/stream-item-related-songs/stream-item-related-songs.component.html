@@ -1,7 +1,0 @@
-<div *ngIf="relationships && relationships.length > 0">
-    <strong>Related songs</strong>
-    <ul class="list-unstyled">
-        <app-stream-item-related-song-item *ngFor="let song of relationships" [relationship]="song">
-        </app-stream-item-related-song-item>
-    </ul>
-</div>
