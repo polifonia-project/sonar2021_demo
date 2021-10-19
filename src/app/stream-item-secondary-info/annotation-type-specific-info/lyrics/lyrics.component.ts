@@ -8,7 +8,7 @@ import { LyricsMetadata } from 'src/app/annotation-metadata';
 })
 export class LyricsComponent implements OnInit {
 
-  @Input() metadata? : LyricsMetadata;
+  @Input() metadata?: LyricsMetadata;
 
   constructor() { }
 
