@@ -1,5 +1,5 @@
 <div *ngIf="currentPage">
-    <app-home [ngClass]="currentPage === AppPage.Home ? 'visible' : 'hidden'"></app-home>
+    <app-home (emitter)="emit($event)" [ngClass]="currentPage === AppPage.Home ? 'visible' : 'hidden'"></app-home>
     <app-filter [ngClass]="currentPage === AppPage.Filter ? 'visible' : 'hidden'"></app-filter>
     <app-playlist [ngClass]="currentPage === AppPage.Playlist ? 'visible' : 'hidden'"></app-playlist>
     <app-search [ngClass]="currentPage === AppPage.Search ? 'visible' : 'hidden'"></app-search>

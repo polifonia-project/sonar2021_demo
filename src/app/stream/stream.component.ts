@@ -1,4 +1,4 @@
-import {Component, OnChanges, OnDestroy, OnInit, SimpleChanges} from '@angular/core';
+import {Component, EventEmitter, OnChanges, OnDestroy, OnInit, Output, SimpleChanges} from '@angular/core';
 import {Annotation} from '../annotation';
 import {Subscription} from 'rxjs';
 import {StreamService} from '../stream.service';
@@ -15,6 +15,7 @@ import {StreamFilterService} from '../stream-filter.service';
   styleUrls: ['./stream.component.css']
 })
 export class StreamComponent implements OnInit, OnDestroy {
+  @Output() emitter: EventEmitter<any> = new EventEmitter<any>();
   stream: Annotation[] = [];
   filters: {};
   currentSongAnnotations: Annotation[] = [];
@@ -54,6 +55,10 @@ export class StreamComponent implements OnInit, OnDestroy {
   ngOnDestroy(): void {
     // Kill the timer
     clearInterval(this.timer);
+  }
+
+  emit(value){
+    this.emitter.emit(value);
   }
 
   getSimpleString(input: string): string {

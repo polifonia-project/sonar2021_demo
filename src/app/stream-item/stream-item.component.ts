@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import {Component, OnInit, Input, Output, EventEmitter} from '@angular/core';
 import {Annotation} from '../annotation';
 import { AnnotationGraphics } from '../annotation-graphics';
 import { AnnotationGraphicsService } from '../annotation-graphics.service';
@@ -10,23 +10,28 @@ import { AnnotationGraphicsService } from '../annotation-graphics.service';
 })
 export class StreamItemComponent implements OnInit {
   @Input() annotation?: Annotation;
+  @Output() emitter: EventEmitter<any> = new EventEmitter<any>();
   isRendered: boolean;
-  annotationGraphics?: AnnotationGraphics
+  annotationGraphics?: AnnotationGraphics;
 
 
   constructor(private annotationGraphicsService: AnnotationGraphicsService) {
   }
-  
+
   ngOnInit(): void {
     if (this.annotation) {
       this.annotationGraphics = this.annotationGraphicsService.getAnnotationGraphics(this.annotation.type)
     }
   }
-  
+
   ngAfterContentInit() {
     setTimeout(
       () => {
-        this.isRendered = true
-      }, 10);    
+        this.isRendered = true;
+      }, 10);
+  }
+
+  emit(value){
+    this.emitter.emit(value);
   }
 }

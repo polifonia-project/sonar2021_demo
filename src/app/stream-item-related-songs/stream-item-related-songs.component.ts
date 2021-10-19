@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 import { Relationship } from '../relationship';
 
 @Component({
@@ -10,7 +10,13 @@ export class StreamItemRelatedSongsComponent implements OnInit {
 
   @Input() relationships?: Relationship[];
 
+  @Output() emitter: EventEmitter<any> = new EventEmitter<any>();
+
   constructor() { }
+
+  emit(value){
+    this.emitter.emit(value);
+  }
 
   ngOnInit(): void {
   }

@@ -12,4 +12,8 @@ export class HomepageComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  sendToVideo(event): void {
+
+  }
+
 }

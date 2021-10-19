@@ -1,7 +1,8 @@
 <div *ngIf="annotation" class="app-background stream-item" [ngClass]="{'shine' : isRendered}" [style.border-color]="annotationGraphics.color">
   <app-stream-item-header [annotation]="annotation"></app-stream-item-header>
   <app-stream-item-main-info [annotation]="annotation"></app-stream-item-main-info>
-  <app-stream-item-details [annotation]="annotation"
+  <app-stream-item-details  (emitter)="emit($event)"
+                            [annotation]="annotation"
                             id="{{'flush-collapse-' + annotation.simpleID}}"
                             class="accordion-collapse collapse"
                             [attr.aria-labelledby]="'flush-heading-' + annotation.simpleID"

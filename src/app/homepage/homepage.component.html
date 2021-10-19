@@ -1,5 +1,5 @@
 <div class="pt-5">
-  <app-video></app-video>
-  <app-page-switch></app-page-switch>
+  <app-video #videoComponent></app-video>
+  <app-page-switch (emitter)="videoComponent.jumpTo($event.songID, $event.timestamp)"></app-page-switch>
   <app-message></app-message>
 </div>

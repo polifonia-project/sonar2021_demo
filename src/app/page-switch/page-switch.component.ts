@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, EventEmitter, OnInit, Output} from '@angular/core';
 import { PageSwitchService } from '../page-switch.service';
 import { AppPage } from './AppPage';
 
@@ -12,6 +12,7 @@ import { AppPage } from './AppPage';
   styleUrls: ['./page-switch.component.css']
 })
 export class PageSwitchComponent implements OnInit {
+  @Output() emitter: EventEmitter<any> = new EventEmitter<any>();
 
   currentPage: AppPage = AppPage.Home
   AppPage = AppPage
@@ -23,6 +24,10 @@ export class PageSwitchComponent implements OnInit {
   }
 
   ngOnInit(): void {
+  }
+
+  emit(value){
+    this.emitter.emit(value);
   }
 
 }

@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 import { Annotation } from '../annotation';
 
 @Component({
@@ -10,10 +10,15 @@ export class StreamItemDetailsComponent implements OnInit {
 
 
   @Input() annotation?: Annotation;
+  @Output() emitter: EventEmitter<any> = new EventEmitter<any>();
 
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  emit(value){
+    this.emitter.emit(value);
   }
 
 }

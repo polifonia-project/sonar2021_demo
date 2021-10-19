@@ -6,6 +6,7 @@ import {QueueService} from '../queue.service';
 import {SongService} from '../song.service';
 import {Subscription} from 'rxjs';
 import {QueueItem} from '../queueitem';
+import {MessageService} from '../message.service';
 
 @Component({
   selector: 'app-video',
@@ -23,18 +24,20 @@ export class VideoComponent implements OnInit {
   queue: Song[];
   queueSubscription: Subscription;
   currentSongSubscription: Subscription;
+  waitingToJump = 0;
 
   constructor(
     private streamService: StreamService,
     private queueService: QueueService,
-    private songService: SongService
+    private songService: SongService,
+    private messageService: MessageService
   ) { }
 
   ngOnInit(): void {
     this.queueSubscription = this.queueService.currentQueue.subscribe( queue => this.queue = queue);
     this.currentSongSubscription = this.queueService.currentSong.subscribe( song => this.currentSong = song);
     this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00205');
-    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00188');
+    // this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00188');
     // this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00003');
     // this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00004');
     // this.queueService.addToQueueByID('1001');
@@ -66,6 +69,12 @@ export class VideoComponent implements OnInit {
       && this.youtubePlayer.getPlayerState() === YT.PlayerState.PLAYING) {
       this.playing = true;
       this.startTicker();
+      if (this.waitingToJump > 0) {
+        this.youtubePlayer.seekTo(this.waitingToJump, true);
+        this.currentPlayTime = Math.round(this.youtubePlayer.getCurrentTime());
+        this.streamService.setPlayTime(this.currentPlayTime);
+        this.waitingToJump = 0;
+      }
     }
     else {
       if (this.playing) {
@@ -130,9 +139,15 @@ export class VideoComponent implements OnInit {
     this.queueService.forwards();
     this.initPlayer();
     if (this.youtubePlayer && this.youtubePlayer.getPlayerState() >= 0) {
-      this.youtubePlayer.seekTo(0, true);
+      this.youtubePlayer.seekTo(20, true);
     }
+  }
 
+  jumpTo(songID: string, timestamp: number): void {
+    timestamp = Math.round(timestamp);
+    this.waitingToJump = timestamp;
+    this.queueService.addToQueueByID(songID, true);
+    this.queueService.forwards();
   }
 
 }
