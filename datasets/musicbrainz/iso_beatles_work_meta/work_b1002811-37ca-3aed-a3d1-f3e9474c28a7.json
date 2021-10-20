@@ -1,0 +1,2503 @@
+{
+    "work": {
+        "id": "b1002811-37ca-3aed-a3d1-f3e9474c28a7",
+        "type": "Song",
+        "title": "Because",
+        "language": "eng",
+        "iswc": "T-010.436.614-4",
+        "iswc-list": [
+            "T-010.436.614-4"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "97181"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0B0-1029-1"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "320160287"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02485002"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000008423"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "60 903 970 11"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "632112-001"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "1179"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001000800"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243795"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "1975021"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "43.987"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "1974805"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78200053100"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "220213"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9348486"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3999199"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 169 30"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "17761901"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "14614"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12031689"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358009"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358009"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6066888"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "37563T"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "017061025"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "5abe1786-1dde-427c-a9ae-c8b63d0a80e6",
+                "direction": "backward",
+                "label": {
+                    "id": "5abe1786-1dde-427c-a9ae-c8b63d0a80e6",
+                    "name": "Agent-Lennon/McCartney Writers",
+                    "sort-name": "Agent-Lennon/McCartney Writers"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "94cd6321-7413-4457-86a7-332def8200f5",
+                "direction": "backward",
+                "label": {
+                    "id": "94cd6321-7413-4457-86a7-332def8200f5",
+                    "type": "Publisher",
+                    "name": "ATV (Northern Songs Catalog)",
+                    "sort-name": "ATV (Northern Songs Catalog)"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7a3db714-fb21-4c04-bbc5-ab4e819c3b27",
+                "direction": "backward",
+                "label": {
+                    "id": "7a3db714-fb21-4c04-bbc5-ab4e819c3b27",
+                    "name": "EMI Blackwood Music Collecting",
+                    "sort-name": "EMI Blackwood Music Collecting"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "1bfeff53-8321-4156-9eb2-0c2396cb9cb3",
+                "direction": "backward",
+                "label": {
+                    "id": "1bfeff53-8321-4156-9eb2-0c2396cb9cb3",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Songs LLC",
+                    "sort-name": "Sony/ATV Songs LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+                "direction": "backward",
+                "label": {
+                    "id": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+                    "type": "Publisher",
+                    "name": "\u30bd\u30cb\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0 A\u4e8b\u696d\u90e8",
+                    "sort-name": "\u30bd\u30cb\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0 A\u4e8b\u696d\u90e8"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f63a9610-bfd9-4c4d-a96b-1bd707279b96",
+                "direction": "backward",
+                "begin": "1969-08-01",
+                "end": "1969-08-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f63a9610-bfd9-4c4d-a96b-1bd707279b96",
+                    "title": "Because (take 1 / instrumental)",
+                    "length": "187520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e1cf468-5593-423a-8744-d862472296bd",
+                "direction": "backward",
+                "begin": "1969-08-01",
+                "end": "1969-08-04",
+                "ended": "true",
+                "recording": {
+                    "id": "7e1cf468-5593-423a-8744-d862472296bd",
+                    "title": "Because",
+                    "length": "144000",
+                    "disambiguation": "Anthology remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e1d1f33-346c-4f9a-ad05-03aa715c2f37",
+                "direction": "backward",
+                "begin": "1969-08-01",
+                "end": "1969-08-05",
+                "ended": "true",
+                "recording": {
+                    "id": "1e1d1f33-346c-4f9a-ad05-03aa715c2f37",
+                    "title": "Because",
+                    "length": "166000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b67daba-2f81-4284-acbd-319a4c94d61a",
+                "direction": "backward",
+                "begin": "1969-10-22",
+                "end": "1969-11-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2b67daba-2f81-4284-acbd-319a4c94d61a",
+                    "title": "Because / Come Together",
+                    "length": "444533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38b6826a-f620-4e77-aa58-6d58440fdacd",
+                "direction": "backward",
+                "begin": "2001-01-29",
+                "end": "2001-01-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "38b6826a-f620-4e77-aa58-6d58440fdacd",
+                    "title": "Because",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "630332c1-c983-4cad-84ea-c05f7b9749df",
+                "direction": "backward",
+                "begin": "2002-06-20",
+                "end": "2002-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "630332c1-c983-4cad-84ea-c05f7b9749df",
+                    "title": "Because",
+                    "length": "252240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f536ee8-21c6-4044-9e94-e438113b82e9",
+                "direction": "backward",
+                "begin": "2009-10-05",
+                "end": "2009-10-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7f536ee8-21c6-4044-9e94-e438113b82e9",
+                    "title": "Because",
+                    "length": "271000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62a43636-9b42-4e1d-bb24-5a596c57d1d0",
+                "direction": "backward",
+                "begin": "2011-10",
+                "end": "2011-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "62a43636-9b42-4e1d-bb24-5a596c57d1d0",
+                    "title": "Because",
+                    "length": "168000",
+                    "disambiguation": "live, 2011-10: Gazarte"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ce0e88c-0b0c-4901-93b7-a25701846d94",
+                "direction": "backward",
+                "begin": "2012",
+                "end": "2012",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ce0e88c-0b0c-4901-93b7-a25701846d94",
+                    "title": "Because",
+                    "length": "210000",
+                    "disambiguation": "VS2012"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "269ec456-9354-4fa4-87ea-624b6c450326",
+                "direction": "backward",
+                "begin": "2014-10-20",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "269ec456-9354-4fa4-87ea-624b6c450326",
+                    "title": "Because",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e54b08f1-80aa-4d31-9120-feeac9937754",
+                "direction": "backward",
+                "begin": "2014-12-07",
+                "end": "2014-12-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e54b08f1-80aa-4d31-9120-feeac9937754",
+                    "title": "Because",
+                    "length": "187733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90250e45-2eae-4ab1-be42-3194ce70b4b8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "90250e45-2eae-4ab1-be42-3194ce70b4b8",
+                    "title": "Because",
+                    "length": "161534"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c683bd28-68c4-4f89-9ad9-1b63eeb87fdd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c683bd28-68c4-4f89-9ad9-1b63eeb87fdd",
+                    "title": "Because",
+                    "length": "207240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4878b42d-cf3b-422c-8cfe-b75dabadd01f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4878b42d-cf3b-422c-8cfe-b75dabadd01f",
+                    "title": "Because",
+                    "length": "169240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c065182-8c03-46bc-876e-ef9e942ce93c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5c065182-8c03-46bc-876e-ef9e942ce93c",
+                    "title": "Because",
+                    "length": "184000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cadfe94-56c9-42a0-b641-507a314dc5a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7cadfe94-56c9-42a0-b641-507a314dc5a1",
+                    "title": "Because",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c931f8e1-bba6-4912-abad-b2f6daa756e0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c931f8e1-bba6-4912-abad-b2f6daa756e0",
+                    "title": "Because"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6497e7c2-8441-48a4-80bd-5cb156610d19",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6497e7c2-8441-48a4-80bd-5cb156610d19",
+                    "title": "Because",
+                    "length": "193226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3369bbe8-4d40-433f-a51e-f6c3a6ce5114",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3369bbe8-4d40-433f-a51e-f6c3a6ce5114",
+                    "title": "Because",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b268f2ea-bb93-4514-b020-5a1d9f011a75",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b268f2ea-bb93-4514-b020-5a1d9f011a75",
+                    "title": "Because",
+                    "length": "138693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09977faa-7850-4a7a-b2bc-c4f7eceb9f80",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "09977faa-7850-4a7a-b2bc-c4f7eceb9f80",
+                    "title": "Because",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88ef721e-ebdf-451a-84b4-77aa117f66e2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "88ef721e-ebdf-451a-84b4-77aa117f66e2",
+                    "title": "Because",
+                    "length": "141880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12744721-5702-4200-a33e-2fabf57b3648",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "12744721-5702-4200-a33e-2fabf57b3648",
+                    "title": "Because",
+                    "length": "187506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cb06c21-e9fd-45ac-9681-de462279f66b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4cb06c21-e9fd-45ac-9681-de462279f66b",
+                    "title": "Because",
+                    "length": "163346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a085ef58-6fcb-464f-9ac0-e3bb8e9b68a5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a085ef58-6fcb-464f-9ac0-e3bb8e9b68a5",
+                    "title": "Because",
+                    "length": "163906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44ab4acb-f10d-4f1a-9844-fb1bb1ebcadf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "44ab4acb-f10d-4f1a-9844-fb1bb1ebcadf",
+                    "title": "Because",
+                    "length": "195094"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab92d352-3a24-45c3-89de-8d1f17fade1d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ab92d352-3a24-45c3-89de-8d1f17fade1d",
+                    "title": "Because",
+                    "length": "225000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77ef92f2-bab0-4fab-a7f9-98ddb1630708",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77ef92f2-bab0-4fab-a7f9-98ddb1630708",
+                    "title": "Because",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c57d4a9d-768a-4687-b5fd-66e5f673c108",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c57d4a9d-768a-4687-b5fd-66e5f673c108",
+                    "title": "Because",
+                    "length": "139973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13510486-1fd9-40ce-83ed-cdd9b3c05551",
+                "direction": "backward",
+                "recording": {
+                    "id": "13510486-1fd9-40ce-83ed-cdd9b3c05551",
+                    "title": "Because",
+                    "length": "196693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2662894-5c27-419b-80df-db8882ad212f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a2662894-5c27-419b-80df-db8882ad212f",
+                    "title": "Because",
+                    "length": "66000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bcaa3298-d189-4eff-8835-96da62307828",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bcaa3298-d189-4eff-8835-96da62307828",
+                    "title": "Because",
+                    "length": "199000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec71c7d9-d958-4bc2-b44e-f157e5191966",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec71c7d9-d958-4bc2-b44e-f157e5191966",
+                    "title": "Because",
+                    "length": "164000",
+                    "disambiguation": "Love version, 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca5bc67d-9099-4d24-b33b-13cfda36b963",
+                "direction": "backward",
+                "recording": {
+                    "id": "ca5bc67d-9099-4d24-b33b-13cfda36b963",
+                    "title": "Because",
+                    "length": "165000",
+                    "disambiguation": "Love version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef4081c8-196f-46fd-ad6a-798d685ed9b4",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef4081c8-196f-46fd-ad6a-798d685ed9b4",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f49455e2-e129-4896-b591-f84dcdd5d365",
+                "direction": "backward",
+                "recording": {
+                    "id": "f49455e2-e129-4896-b591-f84dcdd5d365",
+                    "title": "Because",
+                    "length": "163706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cba97e02-9748-4d1b-a72a-24fdf7a6f7d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "cba97e02-9748-4d1b-a72a-24fdf7a6f7d8",
+                    "title": "Because",
+                    "length": "193000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2790772-ad94-40d6-8506-5d515349e2d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e2790772-ad94-40d6-8506-5d515349e2d1",
+                    "title": "Because",
+                    "length": "326000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9044a279-61be-4435-9acc-8702340c5a65",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9044a279-61be-4435-9acc-8702340c5a65",
+                    "title": "Because",
+                    "length": "221000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6508d801-c799-4eb9-b96c-89fd1e96b554",
+                "direction": "backward",
+                "recording": {
+                    "id": "6508d801-c799-4eb9-b96c-89fd1e96b554",
+                    "title": "Because",
+                    "length": "165613",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36917d03-ac55-4dff-98ad-59b181c207d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "36917d03-ac55-4dff-98ad-59b181c207d6",
+                    "title": "Because",
+                    "length": "173380"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6fc6dc8-7a5b-46c7-8cdc-f10c4561825e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c6fc6dc8-7a5b-46c7-8cdc-f10c4561825e",
+                    "title": "Because"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d6abf3e-63e7-4509-ac1c-69d416fb2d72",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d6abf3e-63e7-4509-ac1c-69d416fb2d72",
+                    "title": "Because",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80e8b49b-a6b2-42c8-85d0-ff0f58049996",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "80e8b49b-a6b2-42c8-85d0-ff0f58049996",
+                    "title": "Because",
+                    "length": "163373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "991a91ad-b0aa-41ac-8e6f-ec48e2d679c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "991a91ad-b0aa-41ac-8e6f-ec48e2d679c8",
+                    "title": "Because",
+                    "length": "280000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60bb57ca-97cf-4422-b2d3-47d06f2adc61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "60bb57ca-97cf-4422-b2d3-47d06f2adc61",
+                    "title": "Because",
+                    "length": "224760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a5dba94-dd67-4413-a44e-bd7e9ec51d7d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a5dba94-dd67-4413-a44e-bd7e9ec51d7d",
+                    "title": "Because",
+                    "length": "255933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "875a4896-71b7-4804-8cba-532aefed43eb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "875a4896-71b7-4804-8cba-532aefed43eb",
+                    "title": "Because",
+                    "length": "175000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a187583f-caca-4e11-bec0-e6730bf6ce74",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a187583f-caca-4e11-bec0-e6730bf6ce74",
+                    "title": "Because",
+                    "length": "199200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a7a003f-4d5f-4e05-8bd4-8fade336e978",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a7a003f-4d5f-4e05-8bd4-8fade336e978",
+                    "title": "Because",
+                    "length": "600000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4df4d62-ff22-4a3f-a199-76e3c165ff7a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d4df4d62-ff22-4a3f-a199-76e3c165ff7a",
+                    "title": "Because",
+                    "length": "211133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47af0404-b6ee-47b5-a669-f3d5acdbec87",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "47af0404-b6ee-47b5-a669-f3d5acdbec87",
+                    "title": "Because",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3b2acaa-74ec-4cc7-8833-a2aae190dace",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a3b2acaa-74ec-4cc7-8833-a2aae190dace",
+                    "title": "Because",
+                    "length": "189560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8adddb4b-4665-43a7-b934-ae11139f570b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8adddb4b-4665-43a7-b934-ae11139f570b",
+                    "title": "Because",
+                    "length": "164400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23de6ba2-2bef-4e20-837c-88dee0822415",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "23de6ba2-2bef-4e20-837c-88dee0822415",
+                    "title": "Because",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67b63ca0-70ab-4014-b245-6b246a2c22ca",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "67b63ca0-70ab-4014-b245-6b246a2c22ca",
+                    "title": "Because",
+                    "length": "167000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15fcbd3d-82fc-4b64-8e4b-2ab006038fa2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "15fcbd3d-82fc-4b64-8e4b-2ab006038fa2",
+                    "title": "Because",
+                    "length": "198000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad3cff56-d69b-41b8-b893-ff926bcd9a80",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ad3cff56-d69b-41b8-b893-ff926bcd9a80",
+                    "title": "Because",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bcb334b-78a5-4fae-960d-a15e815a2f25",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3bcb334b-78a5-4fae-960d-a15e815a2f25",
+                    "title": "Because",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f681b1c3-2218-4362-9e2e-46f63ae87b3f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f681b1c3-2218-4362-9e2e-46f63ae87b3f",
+                    "title": "Because",
+                    "length": "165440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfdfcfa7-fa3e-4228-a73a-4a2227da5a5e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cfdfcfa7-fa3e-4228-a73a-4a2227da5a5e",
+                    "title": "Because",
+                    "length": "250000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51fad22b-a34c-44be-9633-054085490767",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "51fad22b-a34c-44be-9633-054085490767",
+                    "title": "Because",
+                    "length": "251000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d726cb3-2abc-4bfc-968f-9eb69c391d8f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3d726cb3-2abc-4bfc-968f-9eb69c391d8f",
+                    "title": "Because",
+                    "length": "235093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b3fd02b-224f-40aa-a9c6-84b2b5a2be51",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0b3fd02b-224f-40aa-a9c6-84b2b5a2be51",
+                    "title": "Because",
+                    "length": "38000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5878d659-5bf6-4e74-b7f6-e4e5d223e6ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5878d659-5bf6-4e74-b7f6-e4e5d223e6ac",
+                    "title": "Because",
+                    "length": "178933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "424f8e2e-cf61-44d5-a514-42e69fdc1bf4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "424f8e2e-cf61-44d5-a514-42e69fdc1bf4",
+                    "title": "Because",
+                    "length": "289000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b43321a-c215-4d5d-b178-1f3483569e4b",
+                "direction": "backward",
+                "recording": {
+                    "id": "5b43321a-c215-4d5d-b178-1f3483569e4b",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb554a55-6fea-4b11-828e-4bcd2956b1d9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb554a55-6fea-4b11-828e-4bcd2956b1d9",
+                    "title": "Because",
+                    "length": "291000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "455ae213-b66a-43f9-a02d-8c637f3debcd",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "455ae213-b66a-43f9-a02d-8c637f3debcd",
+                    "title": "Because",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8aa9b49d-7856-4114-9bb0-6e9922b05de4",
+                "direction": "backward",
+                "recording": {
+                    "id": "8aa9b49d-7856-4114-9bb0-6e9922b05de4",
+                    "title": "Because",
+                    "length": "37120"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5d28f1e-8df8-459c-aa04-1f99e4a23d72",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5d28f1e-8df8-459c-aa04-1f99e4a23d72",
+                    "title": "Because",
+                    "length": "37800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e1fe0cd-5cd3-4e9b-ad67-e08b0cf21b63",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e1fe0cd-5cd3-4e9b-ad67-e08b0cf21b63",
+                    "title": "Because",
+                    "length": "133666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24d72742-9178-43dd-89f6-0c5ef05130d8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "24d72742-9178-43dd-89f6-0c5ef05130d8",
+                    "title": "Because",
+                    "length": "147600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bca9877e-b9d1-4959-8aaf-df5746e5a054",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bca9877e-b9d1-4959-8aaf-df5746e5a054",
+                    "title": "Because",
+                    "length": "188000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "643d33e4-206c-4a02-b90f-17096aae20e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "643d33e4-206c-4a02-b90f-17096aae20e4",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d23efbe-69ec-4141-81cf-af391a0a903b",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d23efbe-69ec-4141-81cf-af391a0a903b",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02ec71bc-807d-4283-a1ef-2fcbf0383f83",
+                "direction": "backward",
+                "recording": {
+                    "id": "02ec71bc-807d-4283-a1ef-2fcbf0383f83",
+                    "title": "Because",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e543fd8e-d7eb-4c9a-961e-8c4495e99768",
+                "direction": "backward",
+                "recording": {
+                    "id": "e543fd8e-d7eb-4c9a-961e-8c4495e99768",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "248e8b4d-1864-4c4e-a2c7-cc43787ee360",
+                "direction": "backward",
+                "recording": {
+                    "id": "248e8b4d-1864-4c4e-a2c7-cc43787ee360",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f46ecba-445d-451d-b50f-4d4768a67b2c",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f46ecba-445d-451d-b50f-4d4768a67b2c",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c5598fe-39d2-4a3c-a3f7-21239c7bb722",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c5598fe-39d2-4a3c-a3f7-21239c7bb722",
+                    "title": "Because",
+                    "length": "139000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5c1c9f6-db62-4a67-906f-57390f0a0fe9",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5c1c9f6-db62-4a67-906f-57390f0a0fe9",
+                    "title": "Because",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36e4bac3-7169-4c6d-9266-10b341570249",
+                "direction": "backward",
+                "recording": {
+                    "id": "36e4bac3-7169-4c6d-9266-10b341570249",
+                    "title": "Because"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "286322bb-615b-4dee-a113-29d62c8f0ecf",
+                "direction": "backward",
+                "recording": {
+                    "id": "286322bb-615b-4dee-a113-29d62c8f0ecf",
+                    "title": "Because",
+                    "length": "136933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc8095b7-036d-4634-a0e2-3782d2d1fab1",
+                "direction": "backward",
+                "recording": {
+                    "id": "bc8095b7-036d-4634-a0e2-3782d2d1fab1",
+                    "title": "Because",
+                    "length": "138000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c43e7c3-f472-4ba1-baf3-3edb62e61fa9",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c43e7c3-f472-4ba1-baf3-3edb62e61fa9",
+                    "title": "Because",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6473e270-b4c3-498a-8535-6b488691bd75",
+                "direction": "backward",
+                "recording": {
+                    "id": "6473e270-b4c3-498a-8535-6b488691bd75",
+                    "title": "Because",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6100912-5822-4997-846d-15a866a0b025",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6100912-5822-4997-846d-15a866a0b025",
+                    "title": "Because",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1bd60b7-47f6-4e24-b51d-8b935d769583",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1bd60b7-47f6-4e24-b51d-8b935d769583",
+                    "title": "Because",
+                    "length": "134200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc4536b6-046d-48c2-97ba-81bf0a93121c",
+                "direction": "backward",
+                "recording": {
+                    "id": "bc4536b6-046d-48c2-97ba-81bf0a93121c",
+                    "title": "Because",
+                    "length": "134733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8c2decf-666f-4a1c-a129-5e74f21fd453",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8c2decf-666f-4a1c-a129-5e74f21fd453",
+                    "title": "Because",
+                    "length": "161000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71596962-2742-4b17-8f92-adc601d6342a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "71596962-2742-4b17-8f92-adc601d6342a",
+                    "title": "Because",
+                    "length": "271000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f89ecf0-4887-46cf-a4f1-7b36e945f392",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8f89ecf0-4887-46cf-a4f1-7b36e945f392",
+                    "title": "Because",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26aeb9b6-de58-40ba-8459-5ccc94dc7c5d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "26aeb9b6-de58-40ba-8459-5ccc94dc7c5d",
+                    "title": "Because",
+                    "length": "198440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cca458d0-854f-41e3-9085-816ee9907502",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cca458d0-854f-41e3-9085-816ee9907502",
+                    "title": "Because",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5778940d-77ee-4b6e-8e53-e3d0d928a8f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5778940d-77ee-4b6e-8e53-e3d0d928a8f9",
+                    "title": "Because",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2782f753-80b7-43de-9c99-4564d7e78bc9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2782f753-80b7-43de-9c99-4564d7e78bc9",
+                    "title": "Because",
+                    "length": "169773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29a70b87-4206-471e-8291-e749fcc60c81",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "29a70b87-4206-471e-8291-e749fcc60c81",
+                    "title": "Because",
+                    "length": "152789"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fe32756-000e-400a-b2de-fe7d4d21e789",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4fe32756-000e-400a-b2de-fe7d4d21e789",
+                    "title": "Because",
+                    "length": "247026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f197db1-632b-48a1-bad1-88803476fe15",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1f197db1-632b-48a1-bad1-88803476fe15",
+                    "title": "Because",
+                    "length": "197333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc95c4cd-92c9-4900-b509-239fc2afb552",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fc95c4cd-92c9-4900-b509-239fc2afb552",
+                    "title": "Because",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a944a99b-240a-4e0b-8c57-9764703a1abc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a944a99b-240a-4e0b-8c57-9764703a1abc",
+                    "title": "Because",
+                    "length": "208080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e055c4c1-4a01-4c95-9818-478cf75e2974",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e055c4c1-4a01-4c95-9818-478cf75e2974",
+                    "title": "BECAUSE",
+                    "length": "193000",
+                    "disambiguation": "LIVE AT BUDOKAN 20111127"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0190c133-4f22-4e61-a7a5-b13d2a73d94a",
+                "direction": "backward",
+                "recording": {
+                    "id": "0190c133-4f22-4e61-a7a5-b13d2a73d94a",
+                    "title": "Because (5.1 mix)",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bfdff990-9377-42b0-9fb4-41069727a663",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "bfdff990-9377-42b0-9fb4-41069727a663",
+                    "title": "Because (1969-05-26)",
+                    "length": "39000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09d98c34-9632-4129-a96d-64c965405673",
+                "direction": "backward",
+                "recording": {
+                    "id": "09d98c34-9632-4129-a96d-64c965405673",
+                    "title": "Because (1969-08-01/04)",
+                    "length": "139173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0a642f3-7a4c-4e7a-aaac-0aaee7b09e70",
+                "direction": "backward",
+                "recording": {
+                    "id": "c0a642f3-7a4c-4e7a-aaac-0aaee7b09e70",
+                    "title": "Because (1982 stereo mix)",
+                    "length": "134934"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "643b1853-604e-4c20-a4a4-e94fcc31bcc8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "643b1853-604e-4c20-a4a4-e94fcc31bcc8",
+                    "title": "Because (Aled's four part harmony)",
+                    "length": "141506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "786dc815-a0b8-4810-8c68-6fa7e26a116f",
+                "direction": "backward",
+                "recording": {
+                    "id": "786dc815-a0b8-4810-8c68-6fa7e26a116f",
+                    "title": "Because (alternate mix)",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "971d0620-15a5-4660-86a8-022e0b92f789",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "971d0620-15a5-4660-86a8-022e0b92f789",
+                    "title": "Because (Beatles cover)",
+                    "length": "140000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a844696c-20b9-4b46-afde-480bc2fb0791",
+                "direction": "backward",
+                "recording": {
+                    "id": "a844696c-20b9-4b46-afde-480bc2fb0791",
+                    "title": "Because (Canadian bed-in recordings of May 25)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f5b90ec-40a0-4d8d-b2d0-bd4dccb4de6d",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f5b90ec-40a0-4d8d-b2d0-bd4dccb4de6d",
+                    "title": "Because (Heavenly Voices Only)",
+                    "length": "138000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bc9090a-68f9-4f3d-832f-7274a441dc01",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bc9090a-68f9-4f3d-832f-7274a441dc01",
+                    "title": "Because (Mono)",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffeb030d-ee97-4e83-892d-b9f887a6e605",
+                "direction": "backward",
+                "recording": {
+                    "id": "ffeb030d-ee97-4e83-892d-b9f887a6e605",
+                    "title": "Because (pure harmonies, no instruments)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "524a67c9-caba-4281-9de6-46ba528a70d9",
+                "direction": "backward",
+                "recording": {
+                    "id": "524a67c9-caba-4281-9de6-46ba528a70d9",
+                    "title": "Because (Take 16 - Vocal Track)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2858ef16-57f2-4c41-bfb1-c55a1d32dd9a",
+                "direction": "backward",
+                "recording": {
+                    "id": "2858ef16-57f2-4c41-bfb1-c55a1d32dd9a",
+                    "title": "Because (Take 16 vocal)",
+                    "length": "139000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f82056b-f246-477c-92c1-5a5be0bd0219",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f82056b-f246-477c-92c1-5a5be0bd0219",
+                    "title": "Because (take 16, RS'95)",
+                    "length": "141426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20ca4e09-9de9-4e83-b6da-6ad0d1e9f5a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "20ca4e09-9de9-4e83-b6da-6ad0d1e9f5a0",
+                    "title": "Because (take 16)",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8ff5c57-4e13-435d-acc4-673c17613ae8",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8ff5c57-4e13-435d-acc4-673c17613ae8",
+                    "title": "Because (take 16)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "819ce88c-cbef-4bca-bba0-78628c1ee38c",
+                "direction": "backward",
+                "recording": {
+                    "id": "819ce88c-cbef-4bca-bba0-78628c1ee38c",
+                    "title": "Because (take 16)",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12260d6f-c350-4c66-ba37-9dcd11773ab5",
+                "direction": "backward",
+                "recording": {
+                    "id": "12260d6f-c350-4c66-ba37-9dcd11773ab5",
+                    "title": "Because (take 16)",
+                    "length": "135506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "426bee64-9b1d-4248-b419-14c36a9fd155",
+                "direction": "backward",
+                "recording": {
+                    "id": "426bee64-9b1d-4248-b419-14c36a9fd155",
+                    "title": "Because (take 16)",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "243896db-ebf0-4edc-bbf0-130d8468c0f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "243896db-ebf0-4edc-bbf0-130d8468c0f2",
+                    "title": "Because (Take 16)",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd69dc3c-9845-4392-ad18-4135be83aa5a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bd69dc3c-9845-4392-ad18-4135be83aa5a",
+                    "title": "Because (vocal)",
+                    "length": "236000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71ae38bb-6408-4877-b670-7467cbdfafd4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "71ae38bb-6408-4877-b670-7467cbdfafd4",
+                    "title": "Because / Eleanor Rigby",
+                    "length": "422000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cf3baa9-2d4a-435a-b735-2a0f5a03084b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1cf3baa9-2d4a-435a-b735-2a0f5a03084b",
+                    "title": "Just Because",
+                    "length": "281000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-because-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1924",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=198",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q210395",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "8e22f7fb-0f3d-4e8c-a862-18f5a1f61122",
+                "ordering-key": "1",
+                "direction": "backward",
+                "work": {
+                    "id": "8e22f7fb-0f3d-4e8c-a862-18f5a1f61122",
+                    "type": "Song",
+                    "title": "Because I'm Only Sleeping",
+                    "language": "zxx"
+                }
+            }
+        ],
+        "rating": {
+            "votes-count": "1",
+            "rating": "4"
+        }
+    }
+}

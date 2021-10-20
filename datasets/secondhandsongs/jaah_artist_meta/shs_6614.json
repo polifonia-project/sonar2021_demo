@@ -1,0 +1,32 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/6614",
+    "commonName": "Sonny Rollins",
+    "realName": "Theodore Walter Rollins",
+    "birthDate": "1930-09-07",
+    "deathDate": null,
+    "picture": "https://secondhandsongs.com/picture/174957",
+    "homeCountry": "US",
+    "comments": "Major jazz tenor saxophonist of the post-bop era and composer.",
+    "aliases": [
+        "Sonny Rollins & Co.",
+        "Sonny Rollins & The Contemporary Leaders",
+        "Sonny Rollins Quartet"
+    ],
+    "relations": [
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/192316",
+                "commonName": "Milestone Jazzstars"
+            },
+            "comments": null
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/6614/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/6614/works",
+    "releases": "https://secondhandsongs.com/artist/6614/releases"
+}

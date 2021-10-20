@@ -1,0 +1,380 @@
+{
+    "work": {
+        "id": "d091ee97-b4b3-31d4-abde-bcf30c142016",
+        "type": "Song",
+        "title": "You Like Me Too Much",
+        "language": "eng",
+        "attribute-list": [
+            {
+                "attribute": "Key",
+                "value": "G major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "173b407c-df73-4909-82cb-07554a9d058a",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "173b407c-df73-4909-82cb-07554a9d058a",
+                    "title": "You Like Me Too Much",
+                    "length": "158800",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d03fa80e-c25b-45e0-b658-577dae54997f",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "d03fa80e-c25b-45e0-b658-577dae54997f",
+                    "title": "You Like Me Too Much",
+                    "length": "157920",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2aaaf1b-bed1-442c-8d3b-3039714440a9",
+                "direction": "backward",
+                "begin": "1965-02-17",
+                "end": "1965-02-17",
+                "ended": "true",
+                "recording": {
+                    "id": "d2aaaf1b-bed1-442c-8d3b-3039714440a9",
+                    "title": "You Like Me Too Much",
+                    "length": "157000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be323a67-4e88-4d0b-b936-5d52a0a47202",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "be323a67-4e88-4d0b-b936-5d52a0a47202",
+                    "title": "You Like Me Too Much",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc53b6ad-d49a-47fc-bf34-10ae567186a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc53b6ad-d49a-47fc-bf34-10ae567186a3",
+                    "title": "You Like Me Too Much"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91fb9afb-6847-4631-9605-c75086bc383b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "91fb9afb-6847-4631-9605-c75086bc383b",
+                    "title": "You Like Me Too Much",
+                    "length": "200000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12a82128-9399-432d-892d-a4817f934f7d",
+                "direction": "backward",
+                "recording": {
+                    "id": "12a82128-9399-432d-892d-a4817f934f7d",
+                    "title": "You Like Me Too Much",
+                    "length": "159306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a43f6bce-e027-41fa-bb42-787e549cb80a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a43f6bce-e027-41fa-bb42-787e549cb80a",
+                    "title": "You Like Me Too Much",
+                    "length": "157466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5ec6cce-d443-413e-a6c5-aae2937ea28d",
+                "direction": "backward",
+                "recording": {
+                    "id": "d5ec6cce-d443-413e-a6c5-aae2937ea28d",
+                    "title": "You Like Me Too Much",
+                    "length": "157840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2a2e6e1-c26c-4012-bbb3-2655c728271b",
+                "direction": "backward",
+                "recording": {
+                    "id": "a2a2e6e1-c26c-4012-bbb3-2655c728271b",
+                    "title": "You Like Me Too Much",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "687f8cf4-9528-4b29-82c3-696df121e7fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "687f8cf4-9528-4b29-82c3-696df121e7fc",
+                    "title": "You Like Me Too Much",
+                    "length": "159000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15dd15ce-ba42-4895-9707-a3b106b91d34",
+                "direction": "backward",
+                "recording": {
+                    "id": "15dd15ce-ba42-4895-9707-a3b106b91d34",
+                    "title": "You Like Me Too Much"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbb4eb8e-6012-42c9-ba9e-4f4470f64f98",
+                "direction": "backward",
+                "recording": {
+                    "id": "fbb4eb8e-6012-42c9-ba9e-4f4470f64f98",
+                    "title": "You Like Me Too Much"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebef1b0e-028f-4f5e-a5c0-c5759a28383f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ebef1b0e-028f-4f5e-a5c0-c5759a28383f",
+                    "title": "You Like Me Too Much",
+                    "length": "173920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6949911e-edcb-4d69-978a-d6359116056b",
+                "direction": "backward",
+                "recording": {
+                    "id": "6949911e-edcb-4d69-978a-d6359116056b",
+                    "title": "You Like Me Too Much"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fd4b8dd-017b-4383-b8ed-2ab5e0f84002",
+                "direction": "backward",
+                "recording": {
+                    "id": "6fd4b8dd-017b-4383-b8ed-2ab5e0f84002",
+                    "title": "You Like Me Too Much (mono acetate)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60456d04-3faa-4fc0-bfa4-72183c612de3",
+                "direction": "backward",
+                "recording": {
+                    "id": "60456d04-3faa-4fc0-bfa4-72183c612de3",
+                    "title": "You Like Me Too Much (Mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a0417d4-6991-43cb-b412-a05a68c58e57",
+                "direction": "backward",
+                "recording": {
+                    "id": "3a0417d4-6991-43cb-b412-a05a68c58e57",
+                    "title": "You Like Me Too Much (RM)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8360aad6-ab38-4ab0-a13f-3c6add117677",
+                "direction": "backward",
+                "recording": {
+                    "id": "8360aad6-ab38-4ab0-a13f-3c6add117677",
+                    "title": "You Like Me Too Much (RM1 Take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acec5697-45d4-4cea-82e1-be35564649cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "acec5697-45d4-4cea-82e1-be35564649cb",
+                    "title": "You Like Me Too Much (RS1 Take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0e6a9e3-ff5e-4f51-8445-3d17486bd824",
+                "direction": "backward",
+                "recording": {
+                    "id": "a0e6a9e3-ff5e-4f51-8445-3d17486bd824",
+                    "title": "You Like Me Too Much (take 8)",
+                    "length": "162000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100354",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=11702",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q568291",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/You_Like_Me_Too_Much",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "697081fd-6c36-4938-82f5-7eec46bbd6eb",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "697081fd-6c36-4938-82f5-7eec46bbd6eb",
+                    "type": "Song",
+                    "title": "Une fille pour deux gar\u00e7ons",
+                    "language": "fra",
+                    "disambiguation": "You Like Me Too Much"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

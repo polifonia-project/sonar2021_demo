@@ -1,0 +1,71 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/3304",
+    "commonName": "Brian May [GB]",
+    "realName": "Brian Harold May",
+    "birthDate": "1947-07-19",
+    "deathDate": null,
+    "picture": "https://secondhandsongs.com/picture/183128",
+    "homeCountry": "GB",
+    "comments": "Guitarist, songwriter and occasional singer.  May also has obtained a doctorate degree in astrophysics in which field he has published scholarly papers.",
+    "aliases": [
+        "Brian May",
+        "T. E. Conway"
+    ],
+    "relations": [
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/115621",
+                "commonName": "Artists for Grenfell"
+            },
+            "comments": "(2017)"
+        },
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/15037",
+                "commonName": "Smile"
+            },
+            "comments": "(1968-1970)"
+        },
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/374",
+                "commonName": "Queen"
+            },
+            "comments": "(1970-...)"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/66495",
+                "commonName": "Anita Dobson"
+            },
+            "comments": "Wife"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/19065",
+                "commonName": "Larry Lurex"
+            },
+            "comments": null
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/3304/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/3304/works",
+    "releases": "https://secondhandsongs.com/artist/3304/releases"
+}

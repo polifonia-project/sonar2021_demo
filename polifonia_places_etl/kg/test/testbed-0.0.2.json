@@ -1,0 +1,73 @@
+{
+    "tests" : [
+        {
+            "description" : "Expected Recordings Count",
+            "query" : "PREFIX mp:  <https://w3id.org/polifonia/ON/musical-performance/> \n SELECT ?recording WHERE {?recording a mp:Recording } ",
+            "results" : 725,
+            "rows": null,
+            "bindings": null,
+            "skip": false
+        },
+        {
+            "description" : "Expected Artist Count",
+            "query" : "PREFIX core:    <https://w3id.org/polifonia/ON/core/> \n SELECT DISTINCT ?artist WHERE {?artist a core:Agent} ",
+            "results" : 103,
+            "rows": null,
+            "bindings": null,
+            "skip": false
+        },
+        {
+            "description" : "Expected Places Count",
+            "query" : "PREFIX core:    <https://w3id.org/polifonia/ON/core/> \n SELECT DISTINCT ?place WHERE {?place a core:PhysicalSite} ",
+            "results" : 37,
+            "rows": null,
+            "bindings": null,
+            "skip": false            
+        },
+        {
+            "description" : "Expected Sessions Count",
+            "query" : "PREFIX mp:    <https://w3id.org/polifonia/ON/musical-performance/> \n SELECT DISTINCT ?session WHERE {?session a mp:Session} ",
+            "results" : 673,
+            "rows": null,
+            "bindings": null,
+            "skip": false            
+        },
+        {
+            "description" : "Expected Song with 2 artists",
+            "query" : "PREFIX core:    <https://w3id.org/polifonia/ON/core/> \n PREFIX mp:  <https://w3id.org/polifonia/ON/musical-performance/> \n SELECT ?recording ?count WHERE { { SELECT ?recording (COUNT(?artist) AS ?count) WHERE {  ?recording  mp:hasRecordingPerformer ?artist .  }  GROUP BY ?recording  } FILTER (?count = 2) }",
+            "results" : 14,
+            "rows": null,
+            "bindings": null,
+            "skip": false            
+        },
+        {
+            "description" : "Expected Song with 3 artists",
+            "query" : "PREFIX core:    <https://w3id.org/polifonia/ON/core/> \n PREFIX mp:  <https://w3id.org/polifonia/ON/musical-performance/> \n SELECT ?recording ?count WHERE { { SELECT ?recording (COUNT(?artist) AS ?count) WHERE {  ?recording  mp:hasRecordingPerformer ?artist .  }  GROUP BY ?recording  } FILTER (?count = 3) }",
+            "results" : 1,
+            "rows": null,
+            "bindings": null,
+            "skip": false            
+        },
+        {
+            "description" : "Expected Song with matching attributes (label, titleLabel, ...)",
+            "query" : "PREFIX core:  <https://w3id.org/polifonia/ON/core/> PREFIX mp:    <https://w3id.org/polifonia/ON/musical-performance/> PREFIX rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>  PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>  SELECT ?recordingID ?performerID ?performerLabel ?recordingTitleLabel WHERE {   ?recordingID rdf:type mp:Recording ; core:hasTitle ?title ; mp:hasRecordingPerformer ?performerID . ?title rdfs:label ?recordingTitleLabel. ?performerID rdfs:label ?performerLabel. }",
+            "results" : null,
+            "rows" : [
+                {
+                    "performerLabel" : "The Beatles",
+                    "recordingTitleLabel" : "I Saw Her Standing There"
+                },
+                {
+                    "performerLabel" : "Dietrich Fischer-Dieskau",
+                    "recordingTitleLabel" : "Gerald Moore"
+                },
+                {
+                    "performerLabel" : "Thomas Allen",
+                    "recordingTitleLabel" : "Roger Vignoles"
+                }
+            ],
+            "bindings" : null,
+            "skip" : false
+        }
+    ]
+}

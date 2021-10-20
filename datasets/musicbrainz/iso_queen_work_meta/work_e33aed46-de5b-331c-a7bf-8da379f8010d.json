@@ -1,0 +1,425 @@
+{
+    "work": {
+        "id": "e33aed46-de5b-331c-a7bf-8da379f8010d",
+        "type": "Song",
+        "title": "You Don\u2019t Fool Me",
+        "language": "eng",
+        "iswc": "T-010.879.022-2",
+        "iswc-list": [
+            "T-010.879.022-2"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                "direction": "backward",
+                "artist": {
+                    "id": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                    "type": "Group",
+                    "name": "Queen",
+                    "sort-name": "Queen",
+                    "disambiguation": "UK rock group"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                "direction": "backward",
+                "artist": {
+                    "id": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+                    "type": "Group",
+                    "name": "Queen",
+                    "sort-name": "Queen",
+                    "disambiguation": "UK rock group"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df5b0151-51f3-4579-b6ae-10d26fbb1346",
+                "direction": "backward",
+                "begin": "2007-12-12",
+                "end": "2007-12-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "df5b0151-51f3-4579-b6ae-10d26fbb1346",
+                    "title": "You Don\u2019t Fool Me",
+                    "disambiguation": "live, 2007-12-12: Walter-K\u00f6bel-Sporthalle, R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad116e69-d17d-4563-853e-78c46032438f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ad116e69-d17d-4563-853e-78c46032438f",
+                    "title": "You Don't Fool Me",
+                    "length": "205173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00e9fb6e-b696-487d-bd73-a7129c6d2ec4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "00e9fb6e-b696-487d-bd73-a7129c6d2ec4",
+                    "title": "You Don't Fool Me",
+                    "length": "284000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8a08d01-e690-4ea6-b81a-b7e3bd4abb52",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8a08d01-e690-4ea6-b81a-b7e3bd4abb52",
+                    "title": "You Don't Fool Me",
+                    "length": "236240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c575fdc4-8dce-4381-ba3c-47c4511f58c2",
+                "direction": "backward",
+                "recording": {
+                    "id": "c575fdc4-8dce-4381-ba3c-47c4511f58c2",
+                    "title": "You Don't Fool Me",
+                    "length": "231000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48fb40e2-c73e-41a1-a1b8-ff129b303682",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "48fb40e2-c73e-41a1-a1b8-ff129b303682",
+                    "title": "You Don't Fool Me",
+                    "length": "324000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66f83ea0-ef0d-46d5-9dee-cc2f5efd642b",
+                "direction": "backward",
+                "recording": {
+                    "id": "66f83ea0-ef0d-46d5-9dee-cc2f5efd642b",
+                    "title": "You Don't Fool Me",
+                    "length": "325533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63882a0b-a078-43b8-af06-09371a6c0a7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "63882a0b-a078-43b8-af06-09371a6c0a7f",
+                    "title": "You Don't Fool Me"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b7163bf-7a4a-4ad2-a4c6-676b63a71b06",
+                "direction": "backward",
+                "recording": {
+                    "id": "8b7163bf-7a4a-4ad2-a4c6-676b63a71b06",
+                    "title": "You Don't Fool Me (Late mix)",
+                    "length": "628000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a00c29f-6745-4ecd-ac00-42d17e5863fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a00c29f-6745-4ecd-ac00-42d17e5863fc",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "326000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52ff5cf8-9215-45d3-b014-567ce26c041c",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "52ff5cf8-9215-45d3-b014-567ce26c041c",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "358000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05cb2ae2-8037-4292-9b3f-dff189b5bb36",
+                "direction": "backward",
+                "recording": {
+                    "id": "05cb2ae2-8037-4292-9b3f-dff189b5bb36",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "322000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c24ad659-4e25-440c-857d-2379b1834a08",
+                "direction": "backward",
+                "recording": {
+                    "id": "c24ad659-4e25-440c-857d-2379b1834a08",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "325000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7999933-4e81-4bf2-8527-4404c0f9b5a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7999933-4e81-4bf2-8527-4404c0f9b5a3",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "324840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "263fa210-8eee-43d5-9fd8-a6a561cf34da",
+                "direction": "backward",
+                "recording": {
+                    "id": "263fa210-8eee-43d5-9fd8-a6a561cf34da",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "233693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a08e7b1f-a87a-492c-8bff-eb5ae857184c",
+                "direction": "backward",
+                "recording": {
+                    "id": "a08e7b1f-a87a-492c-8bff-eb5ae857184c",
+                    "title": "You Don\u2019t Fool Me",
+                    "length": "323893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a8f34c7-873e-4258-bed5-519ddd6865a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a8f34c7-873e-4258-bed5-519ddd6865a2",
+                    "title": "You Don\u2019t Fool Me (album version)",
+                    "length": "324000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cde1fec-df90-42d1-8a9e-21031aec9952",
+                "direction": "backward",
+                "recording": {
+                    "id": "7cde1fec-df90-42d1-8a9e-21031aec9952",
+                    "title": "You Don\u2019t Fool Me (B.S. Project remix \u2013 edit)",
+                    "length": "195293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95c8d80b-3391-413f-a838-a0b1f4c45647",
+                "direction": "backward",
+                "recording": {
+                    "id": "95c8d80b-3391-413f-a838-a0b1f4c45647",
+                    "title": "You Don\u2019t Fool Me (Dancing Divaz Club mix)",
+                    "length": "427000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63e1baee-1dcd-43a8-a4ae-676556b2e0de",
+                "direction": "backward",
+                "recording": {
+                    "id": "63e1baee-1dcd-43a8-a4ae-676556b2e0de",
+                    "title": "You Don\u2019t Fool Me (demo)",
+                    "length": "17000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79b38d9a-4c93-419b-8296-c940464f3d8e",
+                "direction": "backward",
+                "recording": {
+                    "id": "79b38d9a-4c93-419b-8296-c940464f3d8e",
+                    "title": "You Don\u2019t Fool Me (Dutch single edit)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b817137d-fbfe-4609-86fa-9ce0bbac5023",
+                "direction": "backward",
+                "recording": {
+                    "id": "b817137d-fbfe-4609-86fa-9ce0bbac5023",
+                    "title": "You Don\u2019t Fool Me (edit)",
+                    "length": "234000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fdebdd12-4b44-48be-b226-f1ebf5c25b6e",
+                "direction": "backward",
+                "recording": {
+                    "id": "fdebdd12-4b44-48be-b226-f1ebf5c25b6e",
+                    "title": "You Don\u2019t Fool Me (edit)",
+                    "length": "281733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd9326e7-888d-422a-b432-0e4e43e4bfe1",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd9326e7-888d-422a-b432-0e4e43e4bfe1",
+                    "title": "You Don\u2019t Fool Me (Sexy club mix)",
+                    "length": "618933"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1088509",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "ce1d2b65-11cc-3916-b9dd-ca6b3690b0d7",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "ce1d2b65-11cc-3916-b9dd-ca6b3690b0d7",
+                    "title": "Mnie nie zwiedziesz"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

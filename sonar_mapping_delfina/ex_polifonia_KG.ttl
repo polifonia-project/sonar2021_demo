@@ -1,0 +1,137 @@
+@prefix ns1: <https://w3id.org/polifonia/ON/musical-performance/> .
+@prefix ns2: <https://w3id.org/polifonia/ON/core/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:mixingsession a ns1:SessionType ;
+    rdfs:label "mixed at"^^xsd:string .
+
+ns1:recordingsession a ns1:SessionType ;
+    rdfs:label "recorded at"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Address/address_5bfbd51e_ce05_439a_97dc_cf0507d213c7> a ns2:Address ;
+    rdfs:label "106 Highbury New Park, London N5"^^xsd:string ;
+    ns2:fullAddress "106 Highbury New Park, London N5"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94> a ns2:Address ;
+    rdfs:label "3 Abbey Road, St John’s Wood, London"^^xsd:string ;
+    ns2:fullAddress "3 Abbey Road, St John’s Wood, London"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Address/address_bd55aeb7_19d1_4607_a500_14b8479d3fed> a ns2:Address ;
+    rdfs:label "3 Abbey Road, St John’s Wood, London"^^xsd:string ;
+    ns2:fullAddress "3 Abbey Road, St John’s Wood, London"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Address/address_c56fdea4_e81e_439a_a183_a52eb1141409> a ns2:Address ;
+    rdfs:label "3 Abbey Road, St John’s Wood, London"^^xsd:string ;
+    ns2:fullAddress "3 Abbey Road, St John’s Wood, London"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Agent/> a ns2:Agent ;
+    rdfs:label "Queen"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Agent/dietrich_fischer_dieskau> a ns2:Agent ;
+    rdfs:label "Dietrich Fischer-Dieskau"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Agent/the_beatles> a ns2:Agent ;
+    rdfs:label "The Beatles"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Geometry/geometry_5bfbd51e_ce05_439a_97dc_cf0507d213c7> a ns2:Geometry ;
+    ns2:lat 51.554722 ;
+    ns2:long -0.091389 .
+
+<https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94> a ns2:Geometry ;
+    ns2:lat 51.53192 ;
+    ns2:long -0.17835 .
+
+<https://w3id.org/polifonia/resource/Geometry/geometry_bd55aeb7_19d1_4607_a500_14b8479d3fed> a ns2:Geometry ;
+    ns2:lat 51.53192 ;
+    ns2:long -0.17835 .
+
+<https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409> a ns2:Geometry ;
+    ns2:lat 51.53192 ;
+    ns2:long -0.17835 .
+
+<https://w3id.org/polifonia/resource/PhysicalSite/physical_site_5bfbd51e_ce05_439a_97dc_cf0507d213c7> a ns2:PhysicalSite ;
+    rdfs:label "Wessex Sound Studios"^^xsd:string ;
+    ns2:hasAddress "https://w3id.org/polifonia/resource/Address/address_5bfbd51e_ce05_439a_97dc_cf0507d213c7" ;
+    ns2:hasGeometry "https://w3id.org/polifonia/resource/Geometry/geometry_5bfbd51e_ce05_439a_97dc_cf0507d213c7" .
+
+<https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94> a ns2:PhysicalSite ;
+    rdfs:label "Abbey Road Studios: Studio 2"^^xsd:string ;
+    ns2:hasAddress "https://w3id.org/polifonia/resource/Address/address_6f12a5d2_52e5_4dec_9fed_494b1f65bb94" ;
+    ns2:hasGeometry "https://w3id.org/polifonia/resource/Geometry/geometry_6f12a5d2_52e5_4dec_9fed_494b1f65bb94" .
+
+<https://w3id.org/polifonia/resource/PhysicalSite/physical_site_bd55aeb7_19d1_4607_a500_14b8479d3fed> a ns2:PhysicalSite ;
+    rdfs:label "Abbey Road Studios"^^xsd:string ;
+    ns2:hasAddress "https://w3id.org/polifonia/resource/Address/address_bd55aeb7_19d1_4607_a500_14b8479d3fed" ;
+    ns2:hasGeometry "https://w3id.org/polifonia/resource/Geometry/geometry_bd55aeb7_19d1_4607_a500_14b8479d3fed" .
+
+<https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409> a ns2:PhysicalSite ;
+    rdfs:label "Abbey Road Studios: Studio 1"^^xsd:string ;
+    ns2:hasAddress "https://w3id.org/polifonia/resource/Address/address_c56fdea4_e81e_439a_a183_a52eb1141409" ;
+    ns2:hasGeometry "https://w3id.org/polifonia/resource/Geometry/geometry_c56fdea4_e81e_439a_a183_a52eb1141409" .
+
+<https://w3id.org/polifonia/resource/Recording/recording_00014> a ns1:Recording ;
+    ns2:hasTitle "https://w3id.org/polifonia/resource/Title/twist_and_shout" ;
+    ns1:hasRecordingPerformer "https://w3id.org/polifonia/resource/Agent/the_beatles" ;
+    ns1:hasYoutubeID "b-VAxGJdJeQ"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Recording/recording_00195> a ns1:Recording ;
+    ns2:hasTitle "https://w3id.org/polifonia/resource/Title/" ;
+    ns1:hasRecordingPerformer "https://w3id.org/polifonia/resource/Agent/" ;
+    ns1:hasYoutubeID "-tJYN-eG1zk"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Recording/recording_00509> a ns1:Recording ;
+    ns2:hasTitle "https://w3id.org/polifonia/resource/Title/gerald_moore" ;
+    ns1:hasRecordingPerformer "https://w3id.org/polifonia/resource/Agent/dietrich_fischer_dieskau" .
+
+<https://w3id.org/polifonia/resource/Session/00014_00001_2> a ns1:Session ;
+    ns2:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_c56fdea4_e81e_439a_a183_a52eb1141409" ;
+    ns2:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00014_00001_2" ;
+    ns2:hasType "https://w3id.org/polifonia/ON/musical-performance/MixingSession" ;
+    ns1:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00014" .
+
+<https://w3id.org/polifonia/resource/Session/00014_00001_3> a ns1:Session ;
+    ns2:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_6f12a5d2_52e5_4dec_9fed_494b1f65bb94" ;
+    ns2:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00014_00001_3" ;
+    ns2:hasType "https://w3id.org/polifonia/ON/musical-performance/RecordingSession" ;
+    ns1:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00014" .
+
+<https://w3id.org/polifonia/resource/Session/00195_00001_3> a ns1:Session ;
+    ns2:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_5bfbd51e_ce05_439a_97dc_cf0507d213c7" ;
+    ns2:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00195_00001_3" ;
+    ns2:hasType "https://w3id.org/polifonia/ON/musical-performance/RecordingSession" ;
+    ns1:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00195" .
+
+<https://w3id.org/polifonia/resource/Session/00509_00001_3> a ns1:Session ;
+    ns2:hasPlace "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_bd55aeb7_19d1_4607_a500_14b8479d3fed" ;
+    ns2:hasTimeInterval "https://w3id.org/polifonia/resource/TimeInterval/ti_00509_00001_3" ;
+    ns2:hasType "https://w3id.org/polifonia/ON/musical-performance/RecordingSession" ;
+    ns1:isSessionOfRecording "https://w3id.org/polifonia/resource/Recording/recording_00509" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00014_00001_2> a ns2:TimeInterval ;
+    ns2:endTime "1963-02-25" ;
+    ns2:startTime "1963-02-25" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00014_00001_3> a ns2:TimeInterval ;
+    ns2:endTime "1963-02-11" ;
+    ns2:startTime "1963-02-11" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00195_00001_3> a ns2:TimeInterval ;
+    ns2:endTime "1977-09" ;
+    ns2:startTime "1977-08" .
+
+<https://w3id.org/polifonia/resource/TimeInterval/ti_00509_00001_3> a ns2:TimeInterval ;
+    ns2:endTime "1951-10-07" ;
+    ns2:startTime "1951-10-03" .
+
+<https://w3id.org/polifonia/resource/Title/> a ns2:Title ;
+    rdfs:label "We Will Rock You"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Title/gerald_moore> a ns2:Title ;
+    rdfs:label "Gerald Moore"^^xsd:string .
+
+<https://w3id.org/polifonia/resource/Title/twist_and_shout> a ns2:Title ;
+    rdfs:label "Twist And Shout"^^xsd:string .
+

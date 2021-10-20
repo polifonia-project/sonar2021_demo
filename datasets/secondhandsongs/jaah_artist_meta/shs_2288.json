@@ -1,0 +1,80 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/2288",
+    "commonName": "Thelonious Monk",
+    "realName": "Thelonious Sphere Monk",
+    "birthDate": "1917-10-10",
+    "deathDate": "1982-02-17",
+    "picture": "https://secondhandsongs.com/picture/315958",
+    "homeCountry": "US",
+    "comments": "Legendary jazz pianist, composer, and one of the originators of bebop.",
+    "aliases": [
+        "Monk",
+        "The Thelonious Monk Quartet",
+        "Thelonious Monk Quartet Plus Two",
+        "Thelonious Monk Quintet",
+        "The Thelonious Monk Quintet",
+        "Thelonious Monk Quintet with Johnny Griffin",
+        "Thelonious Monk Septet",
+        "Thelonious Monk Sextet",
+        "The Thelonious Monk Sextet",
+        "The Thelonious Monk Trio",
+        "Thelonious Monk Trio"
+    ],
+    "relations": [
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/2483",
+                "commonName": "Thelonious Monk, Jr."
+            },
+            "comments": "Son"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/30725",
+                "commonName": "Nellie Monk"
+            },
+            "comments": "Spouse"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/127811",
+                "commonName": "Boo Boo Monk"
+            },
+            "comments": "Daughter"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/59374",
+                "commonName": "Sahib Shihab"
+            },
+            "comments": "Member of various of Monk's formations"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/30343",
+                "commonName": "Charlie Rouse"
+            },
+            "comments": null
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/2288/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/2288/works",
+    "releases": "https://secondhandsongs.com/artist/2288/releases"
+}

@@ -1,0 +1,847 @@
+{
+    "work": {
+        "id": "91a3d077-d8eb-4b99-bc8f-705854180a62",
+        "type": "Song",
+        "title": "Singin' the Blues",
+        "language": "eng",
+        "iswc": "T-914.831.970-4",
+        "iswc-list": [
+            "T-914.831.970-4"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Singin' The Blues",
+                "alias": "Singin' The Blues"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "e0d5ee4b-14af-42bc-8fd2-8a1ed84a592a",
+                "direction": "backward",
+                "artist": {
+                    "id": "e0d5ee4b-14af-42bc-8fd2-8a1ed84a592a",
+                    "type": "Person",
+                    "name": "Con Conrad",
+                    "sort-name": "Conrad, Con"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "5f2ffed7-6e8f-45b2-8a48-30fe87b50595",
+                "direction": "backward",
+                "artist": {
+                    "id": "5f2ffed7-6e8f-45b2-8a48-30fe87b50595",
+                    "type": "Person",
+                    "name": "J. Russel Robinson",
+                    "sort-name": "Robinson, J. Russel"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "7a1fc8ae-c8a3-4750-a26e-8faeed80140c",
+                "direction": "backward",
+                "artist": {
+                    "id": "7a1fc8ae-c8a3-4750-a26e-8faeed80140c",
+                    "type": "Person",
+                    "name": "Sam M. Lewis",
+                    "sort-name": "Lewis, Sam M.",
+                    "disambiguation": "US singer and lyricist"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "c0eea86f-4f42-4439-a2d4-3a50fa5241ff",
+                "direction": "backward",
+                "artist": {
+                    "id": "c0eea86f-4f42-4439-a2d4-3a50fa5241ff",
+                    "type": "Person",
+                    "name": "Joe Young",
+                    "sort-name": "Young, Joe",
+                    "disambiguation": "US lyricist"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "840fbb4f-3e9c-4d45-b414-c8f15e09192d",
+                "direction": "backward",
+                "begin": "1927-02-04",
+                "end": "1927-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "840fbb4f-3e9c-4d45-b414-c8f15e09192d",
+                    "title": "Singin' the Blues",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f038b865-cacb-4601-8bbc-a4eaa58dbefa",
+                "direction": "backward",
+                "begin": "1927-02-04",
+                "end": "1927-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "f038b865-cacb-4601-8bbc-a4eaa58dbefa",
+                    "title": "Singin' the Blues",
+                    "length": "183026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2451cd2-f44d-4d4f-8317-9b8455ca3185",
+                "direction": "backward",
+                "begin": "1927-02-04",
+                "end": "1927-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "d2451cd2-f44d-4d4f-8317-9b8455ca3185",
+                    "title": "Singin' the Blues",
+                    "length": "186266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce179b9f-03da-4fd7-a0d5-e4b76ae7eee7",
+                "direction": "backward",
+                "begin": "1927-02-04",
+                "end": "1927-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "ce179b9f-03da-4fd7-a0d5-e4b76ae7eee7",
+                    "title": "Singin' the Blues",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "168ea61b-9fdd-4d7f-908a-2970073becd1",
+                "direction": "backward",
+                "begin": "1927-02-04",
+                "end": "1927-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "168ea61b-9fdd-4d7f-908a-2970073becd1",
+                    "title": "Singin' the Blues (Til My Daddy Comes Home)",
+                    "length": "185000",
+                    "disambiguation": "matrix no. W-80393-C"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26204efc-6c4b-4126-bb3a-d029fcef632b",
+                "direction": "backward",
+                "begin": "1927-04-27",
+                "end": "1927-04-27",
+                "ended": "true",
+                "recording": {
+                    "id": "26204efc-6c4b-4126-bb3a-d029fcef632b",
+                    "title": "Singin' the Blues"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d75a4513-cbf8-48c4-9397-62e45acbc420",
+                "direction": "backward",
+                "begin": "1931-04-10",
+                "end": "1931-04-10",
+                "ended": "true",
+                "recording": {
+                    "id": "d75a4513-cbf8-48c4-9397-62e45acbc420",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "172000",
+                    "disambiguation": "1931-04-10"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55f22794-d11c-4193-8e56-cf0424694d1c",
+                "direction": "backward",
+                "begin": "1931-04-29",
+                "end": "1931-04-29",
+                "ended": "true",
+                "recording": {
+                    "id": "55f22794-d11c-4193-8e56-cf0424694d1c",
+                    "title": "Singin' the Blues ('til My Daddy Comes Home)",
+                    "length": "195000",
+                    "disambiguation": "1931-04-29"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06c2e4db-36d9-4db2-a16e-aec9573215ec",
+                "direction": "backward",
+                "begin": "1931-10-15",
+                "end": "1931-10-15",
+                "ended": "true",
+                "recording": {
+                    "id": "06c2e4db-36d9-4db2-a16e-aec9573215ec",
+                    "title": "Singin' the Blues",
+                    "length": "187000",
+                    "disambiguation": "1931-10-15"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "313871b1-3d04-4eee-8936-f84d8518da27",
+                "direction": "backward",
+                "begin": "1931-10-16",
+                "end": "1931-10-16",
+                "ended": "true",
+                "recording": {
+                    "id": "313871b1-3d04-4eee-8936-f84d8518da27",
+                    "title": "Singin' the Blues",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4e9cbad-a662-4016-beb3-e5638562b85f",
+                "direction": "backward",
+                "begin": "1939-12-21",
+                "end": "1939-12-21",
+                "ended": "true",
+                "recording": {
+                    "id": "f4e9cbad-a662-4016-beb3-e5638562b85f",
+                    "title": "Singin' the Blues",
+                    "length": "174173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2604efa4-6528-4f7b-a9fc-6737acc8446e",
+                "direction": "backward",
+                "begin": "1943-12-08",
+                "end": "1943-12-08",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2604efa4-6528-4f7b-a9fc-6737acc8446e",
+                    "title": "Singin' the Blues",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8769a257-905f-43eb-a279-d2b42881893e",
+                "direction": "backward",
+                "begin": "1955-04",
+                "end": "1955-04",
+                "ended": "true",
+                "recording": {
+                    "id": "8769a257-905f-43eb-a279-d2b42881893e",
+                    "title": "Singin' the Blues",
+                    "length": "259506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad14b9ae-1e25-4c8c-9a8f-659b84089001",
+                "direction": "backward",
+                "begin": "1956-09-29",
+                "end": "1956-09-29",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ad14b9ae-1e25-4c8c-9a8f-659b84089001",
+                    "title": "Singing the Blues",
+                    "length": "306253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee895789-60e2-44ab-9833-1ee05e436b44",
+                "direction": "backward",
+                "begin": "1957",
+                "end": "1957",
+                "ended": "true",
+                "recording": {
+                    "id": "ee895789-60e2-44ab-9833-1ee05e436b44",
+                    "title": "Singin' the Blues",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "061787b3-15c1-4d15-8391-30cd2c376d5b",
+                "direction": "backward",
+                "begin": "1993-01",
+                "end": "1993-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "061787b3-15c1-4d15-8391-30cd2c376d5b",
+                    "title": "Singin' the Blues",
+                    "length": "219000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12019812-247f-4aa2-a898-d33f6173820f",
+                "ordering-key": "3",
+                "direction": "backward",
+                "begin": "1998-05",
+                "end": "1998-05",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "12019812-247f-4aa2-a898-d33f6173820f",
+                    "title": "Rhapsody for Bix",
+                    "length": "1427493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bcd1f08-1817-4c06-9c6a-4e53eac37a36",
+                "direction": "backward",
+                "begin": "2008-03-19",
+                "end": "2008-03-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8bcd1f08-1817-4c06-9c6a-4e53eac37a36",
+                    "title": "Singin' the Blues",
+                    "length": "340120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "682f6a93-c793-43c5-ae9a-22b22d3aefa9",
+                "direction": "backward",
+                "recording": {
+                    "id": "682f6a93-c793-43c5-ae9a-22b22d3aefa9",
+                    "title": "Singin the Blues (Till My Daddy Comes Home)",
+                    "length": "168760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0dca7ead-eea9-475b-bea4-97e39b0513e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "0dca7ead-eea9-475b-bea4-97e39b0513e0",
+                    "title": "Singin' the Blues",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c61696dc-011d-4e8c-8c14-c5a9127c606f",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c61696dc-011d-4e8c-8c14-c5a9127c606f",
+                    "title": "Singin' the Blues",
+                    "length": "175560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "179f128f-c7b6-43ef-a33b-fb562befc132",
+                "direction": "backward",
+                "recording": {
+                    "id": "179f128f-c7b6-43ef-a33b-fb562befc132",
+                    "title": "Singin' the Blues",
+                    "length": "182106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "610bc165-0a16-4963-801e-6bcd9309fd73",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "610bc165-0a16-4963-801e-6bcd9309fd73",
+                    "title": "Singin' the Blues",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b728e36-ab6e-498a-911e-3d0f23903356",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b728e36-ab6e-498a-911e-3d0f23903356",
+                    "title": "Singin' the Blues",
+                    "length": "172866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "935576e3-b5e6-4d2e-962e-fe0fa7e20d04",
+                "direction": "backward",
+                "recording": {
+                    "id": "935576e3-b5e6-4d2e-962e-fe0fa7e20d04",
+                    "title": "Singin' the Blues",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "967261e1-db8b-401a-8aab-f70fbe24d2a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "967261e1-db8b-401a-8aab-f70fbe24d2a0",
+                    "title": "Singin' the Blues",
+                    "length": "179866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98802fa5-4b6c-48d9-8b68-511c40d82313",
+                "direction": "backward",
+                "recording": {
+                    "id": "98802fa5-4b6c-48d9-8b68-511c40d82313",
+                    "title": "Singin' the Blues",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c8b51a6-8dcb-4a9e-b6bb-aff652665ed2",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c8b51a6-8dcb-4a9e-b6bb-aff652665ed2",
+                    "title": "Singin' the Blues",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed40c252-dbc6-427d-95c8-4852f1d84ac3",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed40c252-dbc6-427d-95c8-4852f1d84ac3",
+                    "title": "Singin' the Blues",
+                    "length": "180306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53a3a420-6659-4777-b591-6e7c6c1c7afa",
+                "direction": "backward",
+                "recording": {
+                    "id": "53a3a420-6659-4777-b591-6e7c6c1c7afa",
+                    "title": "Singin' the Blues",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abaaec2e-b7c2-4a25-b91a-e54b7a8714d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "abaaec2e-b7c2-4a25-b91a-e54b7a8714d4",
+                    "title": "Singin' the Blues",
+                    "length": "199306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd9ec437-b9e0-455d-92f4-9070eadac770",
+                "direction": "backward",
+                "recording": {
+                    "id": "dd9ec437-b9e0-455d-92f4-9070eadac770",
+                    "title": "Singin' the Blues",
+                    "length": "175133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08d8f219-e8dd-4090-b422-735344e3360d",
+                "direction": "backward",
+                "recording": {
+                    "id": "08d8f219-e8dd-4090-b422-735344e3360d",
+                    "title": "Singin' the Blues",
+                    "length": "197560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f129c84-8e46-41cb-b591-da96efbebfdf",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f129c84-8e46-41cb-b591-da96efbebfdf",
+                    "title": "Singin' the Blues"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b0eb69e-f477-44e8-9f52-2a9505039ceb",
+                "direction": "backward",
+                "recording": {
+                    "id": "2b0eb69e-f477-44e8-9f52-2a9505039ceb",
+                    "title": "Singin' the Blues",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a2e1678-dea8-428d-9d6a-49e5a335c264",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a2e1678-dea8-428d-9d6a-49e5a335c264",
+                    "title": "Singin' The Blues",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a84677d3-7b48-40ee-8b80-7d920688cee1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a84677d3-7b48-40ee-8b80-7d920688cee1",
+                    "title": "Singin' The Blues",
+                    "length": "168095"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f34c608c-d9d8-41dc-bb5c-9655b6bddcb0",
+                "direction": "backward",
+                "recording": {
+                    "id": "f34c608c-d9d8-41dc-bb5c-9655b6bddcb0",
+                    "title": "Singin' The Blues",
+                    "length": "197426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48dc2fd2-233f-4e8a-a157-1d82965447df",
+                "direction": "backward",
+                "recording": {
+                    "id": "48dc2fd2-233f-4e8a-a157-1d82965447df",
+                    "title": "Singin' The Blues",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a16fe87f-7d92-4127-8103-50db15ab183f",
+                "direction": "backward",
+                "recording": {
+                    "id": "a16fe87f-7d92-4127-8103-50db15ab183f",
+                    "title": "Singin' The Blues ('Till My Daddy Comes Home)",
+                    "length": "184266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3550a717-d867-4618-9797-82ea35affecb",
+                "direction": "backward",
+                "recording": {
+                    "id": "3550a717-d867-4618-9797-82ea35affecb",
+                    "title": "Singin' the Blues (Till My Dad) 1",
+                    "length": "196106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46cf17a7-da57-4b94-913a-b7dd566878cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "46cf17a7-da57-4b94-913a-b7dd566878cc",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "344607"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55329cfa-8f93-41a1-8799-518ee37683b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "55329cfa-8f93-41a1-8799-518ee37683b8",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a881516-72a2-4de0-b9d2-f305cad58cf7",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a881516-72a2-4de0-b9d2-f305cad58cf7",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "175386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e3d1eb7-ddb3-4d60-a35a-32f86f20564e",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e3d1eb7-ddb3-4d60-a35a-32f86f20564e",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "200133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6006b1e4-7342-4123-88e5-106d9753a1b5",
+                "direction": "backward",
+                "recording": {
+                    "id": "6006b1e4-7342-4123-88e5-106d9753a1b5",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "192266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5fc1888-e29e-4b05-8acf-29c26c9ac12c",
+                "direction": "backward",
+                "recording": {
+                    "id": "a5fc1888-e29e-4b05-8acf-29c26c9ac12c",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "171506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e3c201b-7820-4f2a-9ffc-a4735d4d5ef5",
+                "direction": "backward",
+                "recording": {
+                    "id": "4e3c201b-7820-4f2a-9ffc-a4735d4d5ef5",
+                    "title": "Singin' the Blues (Till My Daddy Comes Home)",
+                    "length": "179840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54409766-ef1a-4417-9f0b-d967ada0f717",
+                "direction": "backward",
+                "recording": {
+                    "id": "54409766-ef1a-4417-9f0b-d967ada0f717",
+                    "title": "Singin' The Blues (Till My Daddy Comes Home)",
+                    "length": "169373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06a38bd0-8cb2-49e6-aa5b-a33914e3df4b",
+                "direction": "backward",
+                "recording": {
+                    "id": "06a38bd0-8cb2-49e6-aa5b-a33914e3df4b",
+                    "title": "Singin' the Blues Till My Daddy Comes Home",
+                    "length": "187933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd25ae33-5a6d-47e5-b881-d68baa483ecc",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd25ae33-5a6d-47e5-b881-d68baa483ecc",
+                    "title": "Singin' the Blues Till My Daddy Comes Home",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57860597-47ea-4cef-95d0-7bb9c73b5031",
+                "direction": "backward",
+                "recording": {
+                    "id": "57860597-47ea-4cef-95d0-7bb9c73b5031",
+                    "title": "Singin' The Blues Till My Daddy Comes Home"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20d2e920-782a-48ac-a965-21bfc98ef8a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "20d2e920-782a-48ac-a965-21bfc98ef8a9",
+                    "title": "Singin\u2019 the Blues",
+                    "length": "175720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78e4555e-6963-437e-85bb-c062800fb4b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "78e4555e-6963-437e-85bb-c062800fb4b1",
+                    "title": "Singin\u2019 the Blues (Till My Daddy Comes Home)",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0cfc988-2ab9-4bb8-8af7-0ee7fcdcfbaa",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0cfc988-2ab9-4bb8-8af7-0ee7fcdcfbaa",
+                    "title": "Singin\u2019 the Blues (Till My Daddy Comes Home)",
+                    "length": "189200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "560e161b-d0e9-40b9-9629-f4ea88d27331",
+                "direction": "backward",
+                "recording": {
+                    "id": "560e161b-d0e9-40b9-9629-f4ea88d27331",
+                    "title": "Singing the Blues",
+                    "length": "197160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "596f04fa-9b7b-4264-b7b4-ce4d30bfb927",
+                "direction": "backward",
+                "recording": {
+                    "id": "596f04fa-9b7b-4264-b7b4-ce4d30bfb927",
+                    "title": "Singing the Blues",
+                    "length": "168346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "014dcff4-f639-45c8-b9f7-88d40d81d22a",
+                "direction": "backward",
+                "recording": {
+                    "id": "014dcff4-f639-45c8-b9f7-88d40d81d22a",
+                    "title": "Singing the Blues Til My Daddy Comes Home",
+                    "length": "211333"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q17034691",
+                "direction": "backward"
+            }
+        ]
+    }
+}

@@ -1,0 +1,883 @@
+{
+    "work": {
+        "id": "cb7aa612-1c13-3e62-93ec-9bb4ba42a419",
+        "type": "Song",
+        "title": "Your Mother Should Know",
+        "language": "eng",
+        "iswc": "T-010.433.487-3",
+        "iswc-list": [
+            "T-010.433.487-3"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 289 20"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "10855166"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100428900"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "64.085"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358005"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358005"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "217347"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3354084"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "010756609"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "69 953 260 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "028651200"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "01961Q"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0Y0-0685-7"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "636120-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "64027"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6966788"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11267953"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000259703"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "550060941"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW03271252"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "8932619"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243685"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "13637501"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6281683"
+            },
+            {
+                "attribute": "Key",
+                "value": "A minor"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c93942e-4556-4117-8664-19eb3c659979",
+                "direction": "backward",
+                "begin": "1967-08-22",
+                "end": "1967-09-29",
+                "ended": "true",
+                "recording": {
+                    "id": "0c93942e-4556-4117-8664-19eb3c659979",
+                    "title": "Your Mother Should Know",
+                    "length": "151626",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2de2ab27-6fcf-46ec-8cd2-2ef5d51e39e8",
+                "direction": "backward",
+                "begin": "1967-08-22",
+                "end": "1967-09-29",
+                "ended": "true",
+                "recording": {
+                    "id": "2de2ab27-6fcf-46ec-8cd2-2ef5d51e39e8",
+                    "title": "Your Mother Should Know",
+                    "length": "149000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "877221d1-27c3-4f7c-9d71-b5776b93bc76",
+                "direction": "backward",
+                "begin": "1967-09-16",
+                "end": "1967-09-16",
+                "ended": "true",
+                "recording": {
+                    "id": "877221d1-27c3-4f7c-9d71-b5776b93bc76",
+                    "title": "Your Mother Should Know",
+                    "length": "182266",
+                    "disambiguation": "take 27"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a52b7cb8-6494-491a-82ae-ef56264c2d85",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a52b7cb8-6494-491a-82ae-ef56264c2d85",
+                    "title": "You Mother Should Know",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa6345d1-62fe-4113-9772-70b2edf0bb3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa6345d1-62fe-4113-9772-70b2edf0bb3e",
+                    "title": "Your Mother Should Know"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "388eda67-1736-4245-ae12-3919ddd60b6a",
+                "direction": "backward",
+                "recording": {
+                    "id": "388eda67-1736-4245-ae12-3919ddd60b6a",
+                    "title": "Your Mother Should Know",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82dd552b-0790-450e-8a38-237c1141e2f3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "82dd552b-0790-450e-8a38-237c1141e2f3",
+                    "title": "Your Mother Should Know",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69536103-6904-49ed-80d6-3c9589626422",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "69536103-6904-49ed-80d6-3c9589626422",
+                    "title": "Your Mother Should Know",
+                    "length": "149226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0703a88c-0ba5-4cf4-a032-e2e7e3001a5f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0703a88c-0ba5-4cf4-a032-e2e7e3001a5f",
+                    "title": "Your Mother Should Know",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b2fc37e-6a43-46b8-96bd-49c329c9f2d9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9b2fc37e-6a43-46b8-96bd-49c329c9f2d9",
+                    "title": "Your Mother Should Know",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5bf8665-f95c-4780-ba9a-cba652901ab1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5bf8665-f95c-4780-ba9a-cba652901ab1",
+                    "title": "Your Mother Should Know",
+                    "length": "109000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "616d98b3-83ca-426a-bf4c-a38295510fd5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "616d98b3-83ca-426a-bf4c-a38295510fd5",
+                    "title": "Your Mother Should Know",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46396593-78e8-44a5-99ab-4a976421056c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "46396593-78e8-44a5-99ab-4a976421056c",
+                    "title": "Your Mother Should Know"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2088c70-fb9a-4b7e-9b02-29bcabca3c7d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b2088c70-fb9a-4b7e-9b02-29bcabca3c7d",
+                    "title": "Your Mother Should Know",
+                    "length": "117763"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ad5d0de-2588-46f6-9f22-59d07af2df77",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6ad5d0de-2588-46f6-9f22-59d07af2df77",
+                    "title": "Your Mother Should Know",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76190c05-5c53-40d9-84d8-4e36623d88a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "76190c05-5c53-40d9-84d8-4e36623d88a6",
+                    "title": "Your Mother Should Know",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6e51636-14cd-4371-bb21-dee191b08bd2",
+                "direction": "backward",
+                "recording": {
+                    "id": "c6e51636-14cd-4371-bb21-dee191b08bd2",
+                    "title": "Your Mother Should Know",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f05690e-0f6d-49da-9830-11066e17dfb6",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f05690e-0f6d-49da-9830-11066e17dfb6",
+                    "title": "Your Mother Should Know",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cf517b5-992b-4874-aad4-864eb43db763",
+                "direction": "backward",
+                "recording": {
+                    "id": "7cf517b5-992b-4874-aad4-864eb43db763",
+                    "title": "Your Mother Should Know",
+                    "length": "159000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ec24bcc-8fc5-4b2f-9e37-e784e272989b",
+                "direction": "backward",
+                "recording": {
+                    "id": "9ec24bcc-8fc5-4b2f-9e37-e784e272989b",
+                    "title": "Your Mother Should Know"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac72b507-6a41-4c59-bab8-98f90d783aca",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac72b507-6a41-4c59-bab8-98f90d783aca",
+                    "title": "Your Mother Should Know"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f8da093-dbdb-4b3c-ad47-30b5f3776224",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3f8da093-dbdb-4b3c-ad47-30b5f3776224",
+                    "title": "Your Mother Should Know",
+                    "length": "133000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a429fe40-8f5e-4edb-aaaa-4249a18e6e67",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a429fe40-8f5e-4edb-aaaa-4249a18e6e67",
+                    "title": "Your Mother Should Know",
+                    "length": "170293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3712f911-329b-41db-b648-dcd199f71c39",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3712f911-329b-41db-b648-dcd199f71c39",
+                    "title": "Your Mother Should Know",
+                    "length": "147040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49bdf81d-53fd-416a-9e82-e8f12261a65b",
+                "direction": "backward",
+                "recording": {
+                    "id": "49bdf81d-53fd-416a-9e82-e8f12261a65b",
+                    "title": "Your Mother Should Know",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54704e65-9978-4ee1-b8a7-74a9c3610ed6",
+                "direction": "backward",
+                "recording": {
+                    "id": "54704e65-9978-4ee1-b8a7-74a9c3610ed6",
+                    "title": "Your Mother Should Know",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef883371-1490-40b0-bd97-bb64391a6610",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef883371-1490-40b0-bd97-bb64391a6610",
+                    "title": "Your Mother Should Know"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8151fcce-766a-4464-b5be-6bf5dafa445c",
+                "direction": "backward",
+                "recording": {
+                    "id": "8151fcce-766a-4464-b5be-6bf5dafa445c",
+                    "title": "Your Mother Should Know",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "563a8e03-2da4-4f7b-aa1f-e534cae20b26",
+                "direction": "backward",
+                "recording": {
+                    "id": "563a8e03-2da4-4f7b-aa1f-e534cae20b26",
+                    "title": "Your Mother Should Know",
+                    "length": "150453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07ab7d6d-67e9-42f3-bb29-da9c815997ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "07ab7d6d-67e9-42f3-bb29-da9c815997ec",
+                    "title": "Your Mother Should Know",
+                    "length": "149666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b3e396a-df42-42ab-bcfa-e9f77da03c2f",
+                "direction": "backward",
+                "recording": {
+                    "id": "2b3e396a-df42-42ab-bcfa-e9f77da03c2f",
+                    "title": "Your Mother Should Know",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15f51bcd-78c5-4e5b-86e0-0ec14da58ddb",
+                "direction": "backward",
+                "recording": {
+                    "id": "15f51bcd-78c5-4e5b-86e0-0ec14da58ddb",
+                    "title": "Your Mother Should Know",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4a4a55c-de65-40fa-9a6f-34cc6b0a3452",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e4a4a55c-de65-40fa-9a6f-34cc6b0a3452",
+                    "title": "Your Mother Should Know",
+                    "length": "218053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73da8c21-598b-4509-8490-1cacf1c4a02d",
+                "direction": "backward",
+                "recording": {
+                    "id": "73da8c21-598b-4509-8490-1cacf1c4a02d",
+                    "title": "Your Mother Should Know (alternate mono mix)",
+                    "length": "149493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc646687-d3e6-4ea0-9fb9-27922b17babb",
+                "direction": "backward",
+                "recording": {
+                    "id": "cc646687-d3e6-4ea0-9fb9-27922b17babb",
+                    "title": "Your Mother Should Know (alternate take)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c571a56-5dfc-432d-9363-10d4dba0ed7b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3c571a56-5dfc-432d-9363-10d4dba0ed7b",
+                    "title": "Your Mother Should Know (demo mix without Overdubs for Acetate)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49443078-cd58-4696-bd4e-d57b288de2b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "49443078-cd58-4696-bd4e-d57b288de2b7",
+                    "title": "Your Mother Should Know (Early mix)",
+                    "length": "155373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "067cb89d-4556-4cb0-8a95-e34cc693fad5",
+                "direction": "backward",
+                "recording": {
+                    "id": "067cb89d-4556-4cb0-8a95-e34cc693fad5",
+                    "title": "Your Mother Should Know (mono)",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1dc72b2-340f-4c33-9e38-f144a50a2620",
+                "direction": "backward",
+                "recording": {
+                    "id": "b1dc72b2-340f-4c33-9e38-f144a50a2620",
+                    "title": "Your Mother Should Know (Mono)",
+                    "length": "151053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eca84147-2d51-4b46-bca6-cd12f339171a",
+                "direction": "backward",
+                "recording": {
+                    "id": "eca84147-2d51-4b46-bca6-cd12f339171a",
+                    "title": "Your Mother Should Know (RM23?)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72460456-9bd2-4972-98e0-61ea1106fac5",
+                "direction": "backward",
+                "recording": {
+                    "id": "72460456-9bd2-4972-98e0-61ea1106fac5",
+                    "title": "Your Mother Should Know (RM25 Take 52)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eea9bf3c-ca28-4162-a316-318e360c3941",
+                "direction": "backward",
+                "recording": {
+                    "id": "eea9bf3c-ca28-4162-a316-318e360c3941",
+                    "title": "Your Mother Should Know (RS2 Take 52)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6cca3be-3372-4e50-9788-32b1d6c6487a",
+                "direction": "backward",
+                "recording": {
+                    "id": "e6cca3be-3372-4e50-9788-32b1d6c6487a",
+                    "title": "Your Mother Should Know (Stereo)",
+                    "length": "150506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f60068fc-9233-4576-bc80-13420b482114",
+                "direction": "backward",
+                "recording": {
+                    "id": "f60068fc-9233-4576-bc80-13420b482114",
+                    "title": "Your Mother Should Know (take 1)",
+                    "length": "149560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "812acf99-5cf4-487e-bb12-381e03961736",
+                "direction": "backward",
+                "recording": {
+                    "id": "812acf99-5cf4-487e-bb12-381e03961736",
+                    "title": "Your Mother Should Know (take 1)",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59c48688-1a6d-4fe0-bf34-92e69099bdb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "59c48688-1a6d-4fe0-bf34-92e69099bdb5",
+                    "title": "Your Mother Should Know (take 8 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f82fba02-6bce-494f-8bdd-4d2f3b104744",
+                "direction": "backward",
+                "recording": {
+                    "id": "f82fba02-6bce-494f-8bdd-4d2f3b104744",
+                    "title": "Your Mother Should Know (take 27 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cacc1adb-fa5c-4a2a-b727-8f7890b792ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cacc1adb-fa5c-4a2a-b727-8f7890b792ef",
+                    "title": "\u30e6\u30a2\u30fb\u30de\u30b6\u30fc\u30fb\u30b7\u30e5\u30c3\u30c9\u30fb\u30ce\u30fc"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100372",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-your-mother-should-know-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10379",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=137",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2071692",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Your_Mother_Should_Know",
+                "direction": "backward"
+            }
+        ]
+    }
+}

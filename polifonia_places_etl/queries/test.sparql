@@ -1,0 +1,17 @@
+# A query to extract data from produced KG
+
+
+
+# POLIFONIA prefixes
+PREFIX core:    <https://w3id.org/polifonia/ON/core/> 
+PREFIX mp:      <https://w3id.org/polifonia/ON/musical-performance/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX pr:      <https://w3id.org/polifonia/resource/>
+
+
+SELECT * WHERE {
+    ?recording  a mp:Recording ;
+                core:hasTitle ?title ;
+                mp:hasRecordingPerformer ?artist .
+}

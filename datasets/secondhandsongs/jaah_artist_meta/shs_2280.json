@@ -1,0 +1,53 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/2280",
+    "commonName": "Ant\u00f4nio Carlos Jobim",
+    "realName": "Ant\u00f4nio Carlos Brasileiro de Almeida Jobim",
+    "birthDate": "1927-01-25",
+    "deathDate": "1994-12-08",
+    "picture": "https://secondhandsongs.com/picture/248085",
+    "homeCountry": "BR",
+    "comments": "Legendary songwriter who is responsible for the composition of many jazz standards.  Jobim was a major force in the development of the bossa nova style.  He was also a pianist and singer.\r\nHe was inducted into the Songwriters Hall of Fame in 1990.",
+    "aliases": [
+        "Antonio Carlos Jobim",
+        "Antonio Carlos Jobim & Choir",
+        "Jobim",
+        "Tom Jobim"
+    ],
+    "relations": [
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/178682",
+                "commonName": "Maria Luiza Jobim"
+            },
+            "comments": "Daughter"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/122571",
+                "commonName": "Paulo Jobim"
+            },
+            "comments": "Son"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/124147",
+                "commonName": "Daniel Jobim"
+            },
+            "comments": "Grandson"
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/2280/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/2280/works",
+    "releases": "https://secondhandsongs.com/artist/2280/releases"
+}

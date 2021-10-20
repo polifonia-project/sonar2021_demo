@@ -1,0 +1,815 @@
+{
+    "work": {
+        "id": "cbe4f7d2-2bff-4f20-ab4e-7da3b29d94c1",
+        "type": "Song",
+        "title": "Friends Will Be Friends",
+        "language": "eng",
+        "iswc": "T-010.156.280-4",
+        "iswc-list": [
+            "T-010.156.280-4"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ce366a4-d488-499c-84de-e79def66bab9",
+                "direction": "backward",
+                "begin": "1986-06-21",
+                "end": "1986-06-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5ce366a4-d488-499c-84de-e79def66bab9",
+                    "title": "Friends Will Be Friends",
+                    "length": "119000",
+                    "disambiguation": "live, 1986-06-21: Reigns the World: Maimarktgel\u00e4nde, Mannheim, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "328f8f8d-0cd1-427d-b4f6-e9a0a5f87249",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "328f8f8d-0cd1-427d-b4f6-e9a0a5f87249",
+                    "title": "Friends Will Be Friends",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14bff55e-9477-4d12-88de-7af2271aa397",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "14bff55e-9477-4d12-88de-7af2271aa397",
+                    "title": "Friends Will Be Friends",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d0eed7a-e4c3-4006-aa80-84a1e296dacc",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0d0eed7a-e4c3-4006-aa80-84a1e296dacc",
+                    "title": "Friends Will Be Friends",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6173c122-1c8b-4be1-9cb9-c78de12db394",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6173c122-1c8b-4be1-9cb9-c78de12db394",
+                    "title": "Friends Will Be Friends",
+                    "length": "126200",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae3dd5d2-2f1a-408a-abb7-50818b2fc10d",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ae3dd5d2-2f1a-408a-abb7-50818b2fc10d",
+                    "title": "Friends Will Be Friends",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dda1d7b6-fb33-43d7-af26-bbd281d37f3a",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dda1d7b6-fb33-43d7-af26-bbd281d37f3a",
+                    "title": "Friends Will Be Friends",
+                    "length": "121000",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f37bbb7b-dff8-4bc0-9065-9e5b2417e4cc",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f37bbb7b-dff8-4bc0-9065-9e5b2417e4cc",
+                    "title": "Friends Will Be Friends",
+                    "length": "132293",
+                    "disambiguation": "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50aaec1e-b27e-462b-8e69-7043cf8e2b1a",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "50aaec1e-b27e-462b-8e69-7043cf8e2b1a",
+                    "title": "Friends Will Be Friends",
+                    "length": "69733",
+                    "disambiguation": "live, 1986-08-09: Knebworth Park, Stevenage, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1f06b6c-dd72-4582-bcc1-869f1d426edc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a1f06b6c-dd72-4582-bcc1-869f1d426edc",
+                    "title": "Friends Will Be Friends",
+                    "length": "266373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a338f10-4cee-40a4-b5de-deb648a3f04a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8a338f10-4cee-40a4-b5de-deb648a3f04a",
+                    "title": "Friends Will Be Friends",
+                    "length": "275306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a746b4d8-93f2-4301-a022-d5cc3dfbc964",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a746b4d8-93f2-4301-a022-d5cc3dfbc964",
+                    "title": "Friends Will Be Friends",
+                    "length": "231520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "718f942d-4e77-4a5e-a881-593c4879049b",
+                "direction": "backward",
+                "recording": {
+                    "id": "718f942d-4e77-4a5e-a881-593c4879049b",
+                    "title": "Friends Will Be Friends"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fff092ac-724c-4191-b87e-a47cf67fca04",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fff092ac-724c-4191-b87e-a47cf67fca04",
+                    "title": "Friends Will Be Friends",
+                    "length": "126000",
+                    "disambiguation": "live, 1985: Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38ccb15b-f5a3-4e87-bd00-55f914c0e4b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "38ccb15b-f5a3-4e87-bd00-55f914c0e4b2",
+                    "title": "Friends Will Be Friends",
+                    "length": "243106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8d63341-0352-471e-aab0-9314b7b4e0a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8d63341-0352-471e-aab0-9314b7b4e0a8",
+                    "title": "Friends Will Be Friends",
+                    "length": "271000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ea6628d-ff96-4019-837f-d3dd70bcb780",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ea6628d-ff96-4019-837f-d3dd70bcb780",
+                    "title": "Friends Will Be Friends",
+                    "length": "246920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "205d2b79-7050-4a4d-b424-8770dfe8e067",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "205d2b79-7050-4a4d-b424-8770dfe8e067",
+                    "title": "Friends Will Be Friends",
+                    "length": "126493",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fde6e9ce-e9a8-4686-91a7-00671a439ff7",
+                "direction": "backward",
+                "recording": {
+                    "id": "fde6e9ce-e9a8-4686-91a7-00671a439ff7",
+                    "title": "Friends Will Be Friends",
+                    "length": "249360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0755f7f3-b6da-463d-9830-e96ae3f0274d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0755f7f3-b6da-463d-9830-e96ae3f0274d",
+                    "title": "Friends Will Be Friends",
+                    "length": "120933",
+                    "disambiguation": "live, 1986-07-27: Nepstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac5a4739-dc81-476e-9e0d-3efb3f4ad631",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac5a4739-dc81-476e-9e0d-3efb3f4ad631",
+                    "title": "Friends Will Be Friends",
+                    "length": "250040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1251844b-8503-4a9a-a0eb-4016e8bf6fb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "1251844b-8503-4a9a-a0eb-4016e8bf6fb5",
+                    "title": "Friends Will Be Friends",
+                    "length": "250000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "148090b4-3a1b-499e-8d41-f9e028299a63",
+                "direction": "backward",
+                "recording": {
+                    "id": "148090b4-3a1b-499e-8d41-f9e028299a63",
+                    "title": "Friends Will Be Friends",
+                    "length": "242986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70cfc070-7f18-4d68-a9bc-c7189c6ef0c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "70cfc070-7f18-4d68-a9bc-c7189c6ef0c7",
+                    "title": "Friends Will Be Friends",
+                    "length": "248000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38dc1aa0-d1be-4df6-801e-f613c74d8c98",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "38dc1aa0-d1be-4df6-801e-f613c74d8c98",
+                    "title": "Friends Will Be Friends",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c202228b-b6fd-481f-b076-718c60123389",
+                "direction": "backward",
+                "recording": {
+                    "id": "c202228b-b6fd-481f-b076-718c60123389",
+                    "title": "Friends Will Be Friends",
+                    "length": "247000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cba31d4a-4ed1-4d35-b255-ec966a5dd965",
+                "direction": "backward",
+                "recording": {
+                    "id": "cba31d4a-4ed1-4d35-b255-ec966a5dd965",
+                    "title": "Friends Will Be Friends",
+                    "length": "248000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08aad923-b454-483e-bf46-1f60f765ac31",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "08aad923-b454-483e-bf46-1f60f765ac31",
+                    "title": "Friends Will Be Friends",
+                    "length": "225000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dabd236b-f4e1-453e-b748-8084a8c4b6ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dabd236b-f4e1-453e-b748-8084a8c4b6ae",
+                    "title": "Friends Will Be Friends",
+                    "length": "215000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2c83cff-9d08-4ab2-abcf-2b0f3d0bb939",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d2c83cff-9d08-4ab2-abcf-2b0f3d0bb939",
+                    "title": "Friends Will Be Friends",
+                    "length": "280093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5ec051a-77af-484f-9196-830936409d5b",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e5ec051a-77af-484f-9196-830936409d5b",
+                    "title": "Friends Will Be Friends",
+                    "length": "258413",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79efdf50-5b74-4870-9461-1ca2d1626392",
+                "direction": "backward",
+                "recording": {
+                    "id": "79efdf50-5b74-4870-9461-1ca2d1626392",
+                    "title": "Friends Will Be Friends",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23546c8d-a46f-4488-900d-3dcfb1ee56da",
+                "direction": "backward",
+                "recording": {
+                    "id": "23546c8d-a46f-4488-900d-3dcfb1ee56da",
+                    "title": "Friends Will Be Friends",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33b5e6a5-359b-4230-9cb7-69f30a1415cb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "33b5e6a5-359b-4230-9cb7-69f30a1415cb",
+                    "title": "Friends Will Be Friends",
+                    "length": "309000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f16412c7-6f8a-47f7-a41f-894b4194181b",
+                "direction": "backward",
+                "recording": {
+                    "id": "f16412c7-6f8a-47f7-a41f-894b4194181b",
+                    "title": "Friends Will Be Friends",
+                    "length": "248080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c350a78-ac8a-4c0a-a7b3-9eb11744c10b",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c350a78-ac8a-4c0a-a7b3-9eb11744c10b",
+                    "title": "Friends Will Be Friends",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38827790-d354-40f5-90d8-ea32773ac104",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "38827790-d354-40f5-90d8-ea32773ac104",
+                    "title": "Friends Will Be Friends",
+                    "length": "215466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4071c0d-ae63-41a8-8aa0-4ddac35e92a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4071c0d-ae63-41a8-8aa0-4ddac35e92a5",
+                    "title": "Friends Will Be Friends (12\u2033 extended version)",
+                    "length": "351000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38dda203-de28-4fbd-8f75-75c5d6386c5f",
+                "direction": "backward",
+                "recording": {
+                    "id": "38dda203-de28-4fbd-8f75-75c5d6386c5f",
+                    "title": "Friends Will Be Friends (12\u2033 version)",
+                    "length": "373066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0391472-1f52-44a7-bf19-44341ecdb552",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0391472-1f52-44a7-bf19-44341ecdb552",
+                    "title": "Friends Will Be Friends (extended version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d112cd5e-4370-46c3-a4bf-2be5d9c2b20b",
+                "direction": "backward",
+                "recording": {
+                    "id": "d112cd5e-4370-46c3-a4bf-2be5d9c2b20b",
+                    "title": "Friends Will Be Friends (extended version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bc10a78-3278-4544-b34a-7cc7b0ad708a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4bc10a78-3278-4544-b34a-7cc7b0ad708a",
+                    "title": "Friends Will Be Friends Will Be Friends\u2026",
+                    "length": "358200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a94a06ea-dff8-4275-8b60-7d672932df84",
+                "direction": "backward",
+                "recording": {
+                    "id": "a94a06ea-dff8-4275-8b60-7d672932df84",
+                    "title": "Friends Will Be Friends, Will Be Friends",
+                    "length": "355893"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1003996",
+                "direction": "backward"
+            }
+        ]
+    }
+}

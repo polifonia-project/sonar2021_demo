@@ -1,0 +1,335 @@
+{
+    "work": {
+        "id": "67e059ac-4cb4-44d0-8b11-b6c474dfc84a",
+        "type": "Song",
+        "title": "The Invisible Man",
+        "language": "eng",
+        "iswc": "T-010.156.305-6",
+        "iswc-list": [
+            "T-010.156.305-6"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "The Invisible Man (12\" version)",
+                "alias": "The Invisible Man (12\" version)"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9437f86f-640a-406b-9812-b64673057f8a",
+                "direction": "backward",
+                "begin": "1988-08",
+                "end": "1988-08",
+                "ended": "true",
+                "recording": {
+                    "id": "9437f86f-640a-406b-9812-b64673057f8a",
+                    "title": "The Invisible Man (early version with guide vocal, August 1988)",
+                    "length": "303573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e26b6b74-d2b5-4e84-99f3-cc36cc4270e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "e26b6b74-d2b5-4e84-99f3-cc36cc4270e1",
+                    "title": "The Invisible Man",
+                    "length": "238600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72391003-ef10-47cb-929a-9e933b9721be",
+                "direction": "backward",
+                "recording": {
+                    "id": "72391003-ef10-47cb-929a-9e933b9721be",
+                    "title": "The Invisible Man",
+                    "length": "259000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba95e927-9eaa-4417-9da2-ea7649e10be8",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba95e927-9eaa-4417-9da2-ea7649e10be8",
+                    "title": "The Invisible Man",
+                    "length": "328800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecddeb6d-793d-495c-a6a7-49db3b7b8dd2",
+                "direction": "backward",
+                "recording": {
+                    "id": "ecddeb6d-793d-495c-a6a7-49db3b7b8dd2",
+                    "title": "The Invisible Man",
+                    "length": "219000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9dd03043-9bfa-433a-a03a-e2f4bb91c3a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "9dd03043-9bfa-433a-a03a-e2f4bb91c3a1",
+                    "title": "The Invisible Man",
+                    "length": "242506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4715a58-496c-4cd2-8f99-b2cc115ebdfc",
+                "direction": "backward",
+                "recording": {
+                    "id": "b4715a58-496c-4cd2-8f99-b2cc115ebdfc",
+                    "title": "The Invisible Man",
+                    "length": "333000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e808f49e-1739-4aae-81b9-0a07a0ba157a",
+                "direction": "backward",
+                "recording": {
+                    "id": "e808f49e-1739-4aae-81b9-0a07a0ba157a",
+                    "title": "The Invisible Man",
+                    "length": "219000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f166035-e6d6-4f2f-b848-ef64ac7c4608",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f166035-e6d6-4f2f-b848-ef64ac7c4608",
+                    "title": "The Invisible Man",
+                    "length": "237000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41e374a5-26fc-4537-b12a-61933b5a020c",
+                "direction": "backward",
+                "recording": {
+                    "id": "41e374a5-26fc-4537-b12a-61933b5a020c",
+                    "title": "The Invisible Man",
+                    "length": "237000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1b12c59-c092-43cc-87a2-cf469f11d252",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a1b12c59-c092-43cc-87a2-cf469f11d252",
+                    "title": "The Invisible Man",
+                    "length": "257959",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5858496-cb22-42f0-b6ed-d1704d47aee4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5858496-cb22-42f0-b6ed-d1704d47aee4",
+                    "title": "The Invisible Man",
+                    "length": "206600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebfd13c5-c344-4fea-b3f0-3bb732c10d84",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ebfd13c5-c344-4fea-b3f0-3bb732c10d84",
+                    "title": "The Invisible Man",
+                    "length": "206786"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9bded074-0bd5-400c-81c2-b049abed91ff",
+                "direction": "backward",
+                "recording": {
+                    "id": "9bded074-0bd5-400c-81c2-b049abed91ff",
+                    "title": "The Invisible Man (12\u2033 version)",
+                    "length": "328360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fda4946a-277a-42c3-9582-490c51a99d52",
+                "direction": "backward",
+                "recording": {
+                    "id": "fda4946a-277a-42c3-9582-490c51a99d52",
+                    "title": "The Invisible Man (alternate take)",
+                    "length": "84000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90c8125c-a721-44f2-a310-8b34bbb3422f",
+                "direction": "backward",
+                "recording": {
+                    "id": "90c8125c-a721-44f2-a310-8b34bbb3422f",
+                    "title": "The Invisible Man (single version)",
+                    "length": "236000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88536107-034d-495d-b33b-6d47aa0ad98a",
+                "direction": "backward",
+                "recording": {
+                    "id": "88536107-034d-495d-b33b-6d47aa0ad98a",
+                    "title": "The Invisible Man (video mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "747bc311-bb5a-4e49-9523-143a57bb5648",
+                "direction": "backward",
+                "recording": {
+                    "id": "747bc311-bb5a-4e49-9523-143a57bb5648",
+                    "title": "The Invisible Man (video mix)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1075319",
+                "direction": "backward"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-14.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-14> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-14.json> ;
+        xyz:lyrics    "Der Reif hat einen weißen Schein\nmir übers Haar gestreuet;\nda glaubt' ich schon ein Greis zu sein\nund hab mich sehr gefreuet. \n\nDoch bald ist er hinweggetaut,\nhab wieder schwarze Haare,\ndaß mir's vor meiner Jugend graut\nwie weit noch bis zur Bahre!\nwie weit noch bis zur Bahre! \n\nVom Abendrot zum Morgenlicht\nward mancher Kopf zum Greise.\nWer glaubt's? und meiner ward es nicht\nauf dieser ganzen Reise,\nauf dieser ganzen Reise!" ;
+        xyz:title     "Schubert_D911-14" .

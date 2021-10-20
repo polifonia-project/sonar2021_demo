@@ -1,0 +1,709 @@
+{
+    "work": {
+        "id": "eb29d4b5-646d-3bf5-a405-f178a304278f",
+        "type": "Song",
+        "title": "Schwanengesang, D. 957: XIV. Die Taubenpost, D. 965a",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Die Taubenpost",
+                "alias": "Die Taubenpost"
+            },
+            {
+                "sort-name": "Schwanengesang, D 957: Die Taubenpost",
+                "alias": "Schwanengesang, D 957: Die Taubenpost"
+            },
+            {
+                "sort-name": "Schwanengesang, D. 957: XIV. Taubenpost",
+                "alias": "Schwanengesang, D. 957: XIV. Taubenpost"
+            }
+        ],
+        "alias-count": 3,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1828",
+                "end": "1828",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "19fc893a-92c1-4f5f-b0f8-ee97747c21a7",
+                "direction": "backward",
+                "artist": {
+                    "id": "19fc893a-92c1-4f5f-b0f8-ee97747c21a7",
+                    "type": "Person",
+                    "name": "Johann Gabriel Seidl",
+                    "sort-name": "Seidl, Johann Gabriel",
+                    "disambiguation": "Austrian archeologist, poet, storyteller and dramatist"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f51adec3-14cb-4407-b596-62eb1dfa6580",
+                "direction": "backward",
+                "begin": "1937-08-27",
+                "end": "1937-08-27",
+                "ended": "true",
+                "recording": {
+                    "id": "f51adec3-14cb-4407-b596-62eb1dfa6580",
+                    "title": "Schwanengesang D957 (1997 Remastered Version): Die Taubenpost (Seidl)",
+                    "length": "219640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d6382f0-5724-4884-9e8f-ef701cfc6ddf",
+                "direction": "backward",
+                "begin": "1954-05-28",
+                "end": "1954-05-30",
+                "ended": "true",
+                "recording": {
+                    "id": "4d6382f0-5724-4884-9e8f-ef701cfc6ddf",
+                    "title": "Schwanengesang: XIV. Die Taubenpost",
+                    "length": "205000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64e5a4d0-9314-4b26-aa12-a0d866f33f52",
+                "direction": "backward",
+                "begin": "1954",
+                "end": "1954",
+                "ended": "true",
+                "recording": {
+                    "id": "64e5a4d0-9314-4b26-aa12-a0d866f33f52",
+                    "title": "Schwanengesang, D. 957 (D. 965a): 14. Die Taubenpost",
+                    "length": "221000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ef15b06-3d79-4cae-87db-c8c7e15ff371",
+                "direction": "backward",
+                "begin": "1957-09-20",
+                "end": "1957-09-21",
+                "ended": "true",
+                "recording": {
+                    "id": "9ef15b06-3d79-4cae-87db-c8c7e15ff371",
+                    "title": "Schwanengesang, D 957 No. 14: Die Taubenpost",
+                    "length": "224666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e906cc3-ee41-4ee5-a39d-370426d94a71",
+                "direction": "backward",
+                "begin": "1959-04",
+                "end": "1959-04",
+                "ended": "true",
+                "recording": {
+                    "id": "8e906cc3-ee41-4ee5-a39d-370426d94a71",
+                    "title": "Schwanengesang, D. 957: Die Taubenpost, D. 965a",
+                    "length": "224000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c43c0757-906f-4042-b440-23afb281c136",
+                "direction": "backward",
+                "begin": "1962-05-07",
+                "end": "1962-09-08",
+                "ended": "true",
+                "recording": {
+                    "id": "c43c0757-906f-4042-b440-23afb281c136",
+                    "title": "Schwanengesang, D. 957: XIV. Die Taubenpost",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd1a3a9b-7024-4849-ad60-ea2414535de2",
+                "direction": "backward",
+                "begin": "1972-03",
+                "end": "1972-03",
+                "ended": "true",
+                "recording": {
+                    "id": "cd1a3a9b-7024-4849-ad60-ea2414535de2",
+                    "title": "Schwanengesang, D. 957: 14. \"Die Taubenpost\"",
+                    "length": "215000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "747d7a04-d315-4055-aa15-62b15a71fb2a",
+                "direction": "backward",
+                "begin": "1982-09",
+                "end": "1982-09",
+                "ended": "true",
+                "recording": {
+                    "id": "747d7a04-d315-4055-aa15-62b15a71fb2a",
+                    "title": "Schwanengesang, D 957: 14. Die Taubenpost (Seidl)",
+                    "length": "249293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff8bbaad-0856-47f7-b59a-66836376b4fe",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "ff8bbaad-0856-47f7-b59a-66836376b4fe",
+                    "title": "Die Taubenpost",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9f60734-a1b1-4b54-9960-b535356b965d",
+                "direction": "backward",
+                "begin": "1989-08",
+                "end": "1989-08",
+                "ended": "true",
+                "recording": {
+                    "id": "e9f60734-a1b1-4b54-9960-b535356b965d",
+                    "title": "Schwanengesang, D. 957: Die Taubenpost",
+                    "length": "238360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80b65ff1-8426-4f4e-9bb7-fb018454064e",
+                "direction": "backward",
+                "begin": "1994-02",
+                "end": "1994-02",
+                "ended": "true",
+                "recording": {
+                    "id": "80b65ff1-8426-4f4e-9bb7-fb018454064e",
+                    "title": "Schwanengesang, D 957: XIV. Die Taubenpost",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8a0928f-fd52-4528-bba1-90bff19fec75",
+                "direction": "backward",
+                "begin": "1994-09",
+                "end": "1994-12",
+                "ended": "true",
+                "recording": {
+                    "id": "c8a0928f-fd52-4528-bba1-90bff19fec75",
+                    "title": "Svanas\u00f6gnur: D\u00fafup\u00f3sturinn",
+                    "length": "233426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb958ee8-b4a2-421e-b02a-0055c8574d8f",
+                "direction": "backward",
+                "begin": "1997-06-21",
+                "end": "1997-06-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bb958ee8-b4a2-421e-b02a-0055c8574d8f",
+                    "title": "Die Taubenpost (\u201cIch hab\u2019 eine brieftaub\u2019\u201d), song for voice & piano (Schwanengesang), D. 965a (D. 957/14)",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba32711e-5ce6-4d46-80ed-4af8c6daa9a2",
+                "direction": "backward",
+                "begin": "1998-03",
+                "end": "1998-06",
+                "ended": "true",
+                "recording": {
+                    "id": "ba32711e-5ce6-4d46-80ed-4af8c6daa9a2",
+                    "title": "Die Taubenpost, D. 965A",
+                    "length": "222000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3211dec6-e6fa-48d0-b22e-e9cfd09fd829",
+                "direction": "backward",
+                "begin": "2003-11-05",
+                "end": "2003-11-07",
+                "ended": "true",
+                "recording": {
+                    "id": "3211dec6-e6fa-48d0-b22e-e9cfd09fd829",
+                    "title": "Schwanengesang, D 957: Die Taubenpost",
+                    "length": "257706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55f7d3df-e6f3-43b8-a595-8962088b9f9b",
+                "direction": "backward",
+                "begin": "2003-11-15",
+                "end": "2003-11-15",
+                "ended": "true",
+                "recording": {
+                    "id": "55f7d3df-e6f3-43b8-a595-8962088b9f9b",
+                    "title": "Die Taubenpost",
+                    "length": "250000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5991457-72cb-4dac-b4b4-ad9b10410502",
+                "direction": "backward",
+                "begin": "2010-10",
+                "end": "2010-10",
+                "ended": "true",
+                "recording": {
+                    "id": "f5991457-72cb-4dac-b4b4-ad9b10410502",
+                    "title": "Schwanengesang, D.957: Die Taubenpost",
+                    "length": "284000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d46ae227-aed4-4df2-8e22-a536bdcd0b38",
+                "direction": "backward",
+                "begin": "2014-07",
+                "end": "2014-07",
+                "ended": "true",
+                "recording": {
+                    "id": "d46ae227-aed4-4df2-8e22-a536bdcd0b38",
+                    "title": "Die Taubenpost, D 965",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98394bb5-6b32-4c0d-9e0e-0a95e5e4d4aa",
+                "direction": "backward",
+                "begin": "2015-01",
+                "end": "2015-01",
+                "ended": "true",
+                "recording": {
+                    "id": "98394bb5-6b32-4c0d-9e0e-0a95e5e4d4aa",
+                    "title": "Schwanengesang, D. 957: Die Taubenpost",
+                    "length": "252000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "feacf148-0506-4300-ace5-4678b82f9a86",
+                "direction": "backward",
+                "begin": "2018-10-04",
+                "end": "2018-10-06",
+                "ended": "true",
+                "recording": {
+                    "id": "feacf148-0506-4300-ace5-4678b82f9a86",
+                    "title": "Die Taubenpost, D965a",
+                    "length": "262000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa8e9c8b-a011-4a98-8a15-9a683cbee24c",
+                "direction": "backward",
+                "begin": "2019-04-30",
+                "end": "2019-05-02",
+                "ended": "true",
+                "recording": {
+                    "id": "fa8e9c8b-a011-4a98-8a15-9a683cbee24c",
+                    "title": "Schwanengesang, D 957: 14. Die Taubenpost",
+                    "length": "248000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98e0dd38-4476-4c24-8350-c0010a0fd27e",
+                "direction": "backward",
+                "begin": "2020-02",
+                "end": "2020-02",
+                "ended": "true",
+                "recording": {
+                    "id": "98e0dd38-4476-4c24-8350-c0010a0fd27e",
+                    "title": "Die Taubenpost, D. 965A",
+                    "length": "226720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52d74ec7-9833-4a5b-9ef6-447d21a64511",
+                "direction": "backward",
+                "recording": {
+                    "id": "52d74ec7-9833-4a5b-9ef6-447d21a64511",
+                    "title": "\"Die Taubenpost\", 1828",
+                    "length": "199680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "438e7623-b204-41e4-b2d4-58866b670f0d",
+                "direction": "backward",
+                "recording": {
+                    "id": "438e7623-b204-41e4-b2d4-58866b670f0d",
+                    "title": "\"Die Taubenpost\", D. 957, no. 14",
+                    "length": "230066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a344f2e-d224-4906-a3a7-3ca9a9fe2d02",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a344f2e-d224-4906-a3a7-3ca9a9fe2d02",
+                    "title": "Die Taubenpost",
+                    "length": "230466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e5b342c-eff9-4092-8e1e-6351be1a5e89",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e5b342c-eff9-4092-8e1e-6351be1a5e89",
+                    "title": "Die Taubenpost",
+                    "length": "217933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7e20be9-5f4f-47ca-8ba6-9e00b2b0ed23",
+                "direction": "backward",
+                "recording": {
+                    "id": "a7e20be9-5f4f-47ca-8ba6-9e00b2b0ed23",
+                    "title": "Die Taubenpost",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25902871-fe65-41a1-8931-9d71b7a5941b",
+                "direction": "backward",
+                "recording": {
+                    "id": "25902871-fe65-41a1-8931-9d71b7a5941b",
+                    "title": "Die Taubenpost",
+                    "length": "232000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07c4d477-e354-409d-a127-188a8187594b",
+                "direction": "backward",
+                "recording": {
+                    "id": "07c4d477-e354-409d-a127-188a8187594b",
+                    "title": "Die Taubenpost D. 957 no. 14",
+                    "length": "218000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9f0935e-24b6-48e5-b437-c275a791a800",
+                "direction": "backward",
+                "recording": {
+                    "id": "a9f0935e-24b6-48e5-b437-c275a791a800",
+                    "title": "Die Taubenpost, D 957/14",
+                    "length": "199000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bae4b9a4-44e7-4f1a-acd2-317f40f2c4c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "bae4b9a4-44e7-4f1a-acd2-317f40f2c4c7",
+                    "title": "Schwanengesang (Swan Song), song cycle for voice & piano, D. 957: Die Taubenpost",
+                    "length": "214000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5298b4a-8c13-49df-bafa-0706b1d8b77d",
+                "direction": "backward",
+                "recording": {
+                    "id": "a5298b4a-8c13-49df-bafa-0706b1d8b77d",
+                    "title": "Schwanengesang D. 957 No. 14: Die Taubenpost",
+                    "length": "251160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab16b601-db2f-4e21-9d8d-69bda1984b32",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab16b601-db2f-4e21-9d8d-69bda1984b32",
+                    "title": "Schwanengesang D. 957: XIV. Die Taubenpost",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ca0cd32-db0b-46cd-8497-8b779ea29422",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ca0cd32-db0b-46cd-8497-8b779ea29422",
+                    "title": "Schwanengesang D.957: XIV. Die Taubenpost",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e76f58c1-9450-4bfa-a044-fa94908c282e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e76f58c1-9450-4bfa-a044-fa94908c282e",
+                    "title": "Schwanengesang D957 - Die Taubenpost",
+                    "length": "209000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "397935b0-0f3f-459a-bbe3-84027345d791",
+                "direction": "backward",
+                "recording": {
+                    "id": "397935b0-0f3f-459a-bbe3-84027345d791",
+                    "title": "Schwanengesang D957: Die Taubenpost",
+                    "length": "243533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a06b4096-1c48-4153-ac6f-5b4ca910a14e",
+                "direction": "backward",
+                "recording": {
+                    "id": "a06b4096-1c48-4153-ac6f-5b4ca910a14e",
+                    "title": "Schwanengesang, D 957: Die Taubenpost",
+                    "length": "250000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b587722-afbd-4881-a3f5-ac5000830395",
+                "direction": "backward",
+                "recording": {
+                    "id": "5b587722-afbd-4881-a3f5-ac5000830395",
+                    "title": "Schwanengesang, D. 957 No. 14: Die Taubenpost",
+                    "length": "229000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a1a6e2d-b383-42b2-89a0-e69dde1e269d",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a1a6e2d-b383-42b2-89a0-e69dde1e269d",
+                    "title": "Schwanengesang, D. 957 No. 14: Die Taubenpost",
+                    "length": "237000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3e62f0a-3c55-42ec-aa58-30545a9c53a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "f3e62f0a-3c55-42ec-aa58-30545a9c53a5",
+                    "title": "Schwanengesang, D. 957: Die Taubenpost",
+                    "length": "206666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18ba19ef-c9b4-44d5-b36c-0d59ec305cc2",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "18ba19ef-c9b4-44d5-b36c-0d59ec305cc2",
+                    "title": "Schwanengesang, D. 957: Die Taubenpost",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e8127c1-cb99-45e7-bba3-42589d2eb6b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e8127c1-cb99-45e7-bba3-42589d2eb6b2",
+                    "title": "Schwanengesang, D. 957: Die Taubenpost, D. 965a",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "048b859e-b4a7-4fb6-b8a3-6ec33e7a3993",
+                "direction": "backward",
+                "recording": {
+                    "id": "048b859e-b4a7-4fb6-b8a3-6ec33e7a3993",
+                    "title": "Schwanengesang, D. 957: Nr. 14. Die Taubenpost",
+                    "length": "226386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3eb8afe8-466d-498e-9d00-b5b13911ede5",
+                "direction": "backward",
+                "recording": {
+                    "id": "3eb8afe8-466d-498e-9d00-b5b13911ede5",
+                    "title": "Schwanengesang, D. 957: XIV. Die Taubenpost",
+                    "length": "241893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d52c611-6860-4f00-8653-fd9e6949573a",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d52c611-6860-4f00-8653-fd9e6949573a",
+                    "title": "Schwanengesang, D. 957: XIV. Taubenpost",
+                    "length": "236000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd933ee8-a5ee-4e6b-9211-9a817158f233",
+                "direction": "backward",
+                "recording": {
+                    "id": "dd933ee8-a5ee-4e6b-9211-9a817158f233",
+                    "title": "Schwanengesang, D957: Die Taubenpost",
+                    "length": "217920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "233b624f-f479-4298-a9c4-fc4e3cde3027",
+                "direction": "backward",
+                "recording": {
+                    "id": "233b624f-f479-4298-a9c4-fc4e3cde3027",
+                    "title": "Schwanengesang: \"Die Taubenpost\"",
+                    "length": "229000"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "429ddd80-97ad-4d48-8607-8a4e88a40845",
+                "direction": "forward",
+                "work": {
+                    "id": "429ddd80-97ad-4d48-8607-8a4e88a40845",
+                    "title": "Die Taubenpost, D. 957 Nr. 14",
+                    "language": "zxx",
+                    "disambiguation": "for flute and piano, B\u00f6hm"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "70824076-241c-4673-a0fd-4bf0b77773bb",
+                "direction": "forward",
+                "work": {
+                    "id": "70824076-241c-4673-a0fd-4bf0b77773bb",
+                    "title": "Schwanengesang, S. 560: No. 13. Die Taubenpost",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "562818da-7acc-4dbf-afb6-c80cfa96a8b1",
+                "direction": "forward",
+                "work": {
+                    "id": "562818da-7acc-4dbf-afb6-c80cfa96a8b1",
+                    "type": "Song",
+                    "title": "Die Taubenpost, D. 957",
+                    "language": "deu",
+                    "disambiguation": "for soprano, violin, cello and accordion, Cavanna"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                "ordering-key": "14",
+                "direction": "backward",
+                "work": {
+                    "id": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                    "type": "Song-cycle",
+                    "title": "Schwanengesang, D. 957",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

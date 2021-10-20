@@ -1,0 +1,934 @@
+{
+    "work": {
+        "id": "7a74f92d-0a91-31d4-bd07-49c5577fbadd",
+        "type": "Song",
+        "title": "No Reply",
+        "language": "eng",
+        "iswc": "T-010.164.757-7",
+        "iswc-list": [
+            "T-010.164.757-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 240 50"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "8174"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "73648655"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100246600"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "28.219"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366477"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366477"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "212012"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3352287"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "008872668"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014481600"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "40388J"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635100-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "6123017"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2271972"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000082166"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "440057378"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "910060656"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00296017"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "8963999"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243415"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "3877601"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6214532"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4051488"
+            },
+            {
+                "attribute": "Key",
+                "value": "C major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a10e314-4326-46cf-95e2-9017533be833",
+                "direction": "backward",
+                "begin": "1964-06-03",
+                "end": "1964-06-03",
+                "ended": "true",
+                "recording": {
+                    "id": "1a10e314-4326-46cf-95e2-9017533be833",
+                    "title": "No Reply (demo)",
+                    "length": "106240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1615f600-2a50-4299-8cb7-3c5d524d7e60",
+                "direction": "backward",
+                "begin": "1964-09-30",
+                "end": "1964-09-30",
+                "ended": "true",
+                "recording": {
+                    "id": "1615f600-2a50-4299-8cb7-3c5d524d7e60",
+                    "title": "No Reply",
+                    "length": "136066",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f07ba13-b2bb-4b6b-995a-5c09e7335264",
+                "direction": "backward",
+                "begin": "1964-09-30",
+                "end": "1964-09-30",
+                "ended": "true",
+                "recording": {
+                    "id": "7f07ba13-b2bb-4b6b-995a-5c09e7335264",
+                    "title": "No Reply",
+                    "length": "149000",
+                    "disambiguation": "outtake"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e936441e-ee84-4218-b5be-d4db11e458c5",
+                "direction": "backward",
+                "begin": "1964-09-30",
+                "end": "1964-09-30",
+                "ended": "true",
+                "recording": {
+                    "id": "e936441e-ee84-4218-b5be-d4db11e458c5",
+                    "title": "No Reply",
+                    "length": "138000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e98b1a38-2517-4ba2-90a7-e352d66ef958",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e98b1a38-2517-4ba2-90a7-e352d66ef958",
+                    "title": "Don't Bother Me / No Reply / Little Child",
+                    "length": "211000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d3b4710-466c-487a-8ba8-3d405f1b7020",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d3b4710-466c-487a-8ba8-3d405f1b7020",
+                    "title": "No Replay",
+                    "length": "135973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ce6dbdf-8781-4a48-a2fd-240b4cf2515e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ce6dbdf-8781-4a48-a2fd-240b4cf2515e",
+                    "title": "No Reply",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47d9da94-2829-40f7-a3d0-2f88a74951b1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "47d9da94-2829-40f7-a3d0-2f88a74951b1",
+                    "title": "No Reply",
+                    "length": "194640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e3c4513-3e47-4281-9ffa-118243f19578",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e3c4513-3e47-4281-9ffa-118243f19578",
+                    "title": "No Reply",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c817def8-519d-4cf7-ade2-be261d72beea",
+                "direction": "backward",
+                "recording": {
+                    "id": "c817def8-519d-4cf7-ade2-be261d72beea",
+                    "title": "No Reply",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2336b3b-e6fd-4e63-be39-8d9194bcfb00",
+                "direction": "backward",
+                "recording": {
+                    "id": "b2336b3b-e6fd-4e63-be39-8d9194bcfb00",
+                    "title": "No Reply",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ac70c5d-066a-4918-8277-11325d5645c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ac70c5d-066a-4918-8277-11325d5645c6",
+                    "title": "No Reply"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab7fdd27-2537-43be-8a93-9be2b2a782cb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ab7fdd27-2537-43be-8a93-9be2b2a782cb",
+                    "title": "No Reply",
+                    "length": "163426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5757facf-46e2-4195-b1ab-10fcb9f58eaf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5757facf-46e2-4195-b1ab-10fcb9f58eaf",
+                    "title": "No Reply",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb78b17f-eecd-47e3-b4aa-97c69d39c085",
+                "direction": "backward",
+                "recording": {
+                    "id": "bb78b17f-eecd-47e3-b4aa-97c69d39c085",
+                    "title": "No Reply",
+                    "length": "137640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21280e45-9bea-450f-b041-f725d7d38d29",
+                "direction": "backward",
+                "recording": {
+                    "id": "21280e45-9bea-450f-b041-f725d7d38d29",
+                    "title": "No Reply",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ac6e47f-5d2d-4faf-9687-8eee2c902f1b",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ac6e47f-5d2d-4faf-9687-8eee2c902f1b",
+                    "title": "No Reply",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6307c380-b4b9-4d73-9e03-c150031ff182",
+                "direction": "backward",
+                "recording": {
+                    "id": "6307c380-b4b9-4d73-9e03-c150031ff182",
+                    "title": "No Reply",
+                    "length": "137200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6352ee50-f4dc-4cf1-977d-44b4b9e5091b",
+                "direction": "backward",
+                "recording": {
+                    "id": "6352ee50-f4dc-4cf1-977d-44b4b9e5091b",
+                    "title": "No Reply",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1048e322-f610-4c53-8574-88225670c5b9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1048e322-f610-4c53-8574-88225670c5b9",
+                    "title": "No Reply",
+                    "length": "170920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f26a1ae8-d146-4134-b09f-7382857b147f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f26a1ae8-d146-4134-b09f-7382857b147f",
+                    "title": "No Reply",
+                    "length": "139000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d2e5e46-8c5a-44fa-98d1-d2d1fb416580",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d2e5e46-8c5a-44fa-98d1-d2d1fb416580",
+                    "title": "No Reply",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a88f2adc-09c6-4f96-b36f-936193c62f08",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a88f2adc-09c6-4f96-b36f-936193c62f08",
+                    "title": "No Reply",
+                    "length": "212786"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50fcbe00-655d-4a26-bf77-3d90f9b15ed0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "50fcbe00-655d-4a26-bf77-3d90f9b15ed0",
+                    "title": "No Reply",
+                    "length": "112266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb3598ed-f407-48f5-b4b2-e5826a9a6606",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eb3598ed-f407-48f5-b4b2-e5826a9a6606",
+                    "title": "No Reply",
+                    "length": "144000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32911fd0-d7f2-4a80-8f2a-6359a52f7250",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32911fd0-d7f2-4a80-8f2a-6359a52f7250",
+                    "title": "No Reply",
+                    "length": "184293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbe34561-fd2f-4f0f-a124-0d4340449be7",
+                "direction": "backward",
+                "recording": {
+                    "id": "bbe34561-fd2f-4f0f-a124-0d4340449be7",
+                    "title": "No Reply"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca05b771-4eb2-4121-b9a5-d31264ec32f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "ca05b771-4eb2-4121-b9a5-d31264ec32f6",
+                    "title": "No Reply",
+                    "length": "107120"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5093524-fc72-4a15-900c-131b3757fd1e",
+                "direction": "backward",
+                "recording": {
+                    "id": "b5093524-fc72-4a15-900c-131b3757fd1e",
+                    "title": "No Reply"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d764d99b-d9b7-49d3-ad87-938e38ddc6c8",
+                "direction": "backward",
+                "recording": {
+                    "id": "d764d99b-d9b7-49d3-ad87-938e38ddc6c8",
+                    "title": "No Reply",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "015b015d-4716-4444-9890-2f437d410401",
+                "direction": "backward",
+                "recording": {
+                    "id": "015b015d-4716-4444-9890-2f437d410401",
+                    "title": "No Reply",
+                    "length": "136306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5f71f1e-fe1d-4ce8-b121-bd6e8c335b1d",
+                "direction": "backward",
+                "recording": {
+                    "id": "f5f71f1e-fe1d-4ce8-b121-bd6e8c335b1d",
+                    "title": "No Reply",
+                    "length": "136013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83a97b7e-5ddb-463c-a69b-d3828d904f08",
+                "direction": "backward",
+                "recording": {
+                    "id": "83a97b7e-5ddb-463c-a69b-d3828d904f08",
+                    "title": "No Reply",
+                    "length": "136866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d10efbf-13a2-4849-924c-67e55fbaaa7d",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d10efbf-13a2-4849-924c-67e55fbaaa7d",
+                    "title": "No Reply",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20d3ef0e-af29-440b-91da-9d54f6fb73d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "20d3ef0e-af29-440b-91da-9d54f6fb73d8",
+                    "title": "No Reply (demo take 1, complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec1ce322-c3bc-4b92-963b-90b0076c97cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec1ce322-c3bc-4b92-963b-90b0076c97cd",
+                    "title": "No Reply (demo take 1)",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e4ab80b-5279-412d-909c-be96f0bbdac1",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e4ab80b-5279-412d-909c-be96f0bbdac1",
+                    "title": "No Reply (RM2 Take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ad2cae8-dec9-4e9f-84e8-61ce20fb961c",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ad2cae8-dec9-4e9f-84e8-61ce20fb961c",
+                    "title": "No Reply (RS1 Take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8a96c81-5317-4db1-88b4-1e62d0469ec3",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8a96c81-5317-4db1-88b4-1e62d0469ec3",
+                    "title": "No Reply (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1d16353-a797-4f1a-a6e2-3a2564d8a5fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "c1d16353-a797-4f1a-a6e2-3a2564d8a5fb",
+                    "title": "No Reply (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e182a979-bc7a-456e-a9af-c1cffb7de33e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e182a979-bc7a-456e-a9af-c1cffb7de33e",
+                    "title": "No Reply (take 1)",
+                    "length": "40000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "431f39a4-f50c-4be4-85ab-626473da89df",
+                "direction": "backward",
+                "recording": {
+                    "id": "431f39a4-f50c-4be4-85ab-626473da89df",
+                    "title": "No Reply (take 1)",
+                    "length": "40000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef47640e-5013-466c-87a9-c4e98a8fb4d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef47640e-5013-466c-87a9-c4e98a8fb4d6",
+                    "title": "No Reply (take 1)",
+                    "length": "40640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11beb1c8-e76f-4c81-a8e3-95b0daf798c5",
+                "direction": "backward",
+                "recording": {
+                    "id": "11beb1c8-e76f-4c81-a8e3-95b0daf798c5",
+                    "title": "No Reply (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c8bf821-fb9e-4d4e-bdef-60abe9dd4a57",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c8bf821-fb9e-4d4e-bdef-60abe9dd4a57",
+                    "title": "No Reply (take 2)",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6628f1b9-a6ae-4006-a6e5-ba5cebd50f07",
+                "direction": "backward",
+                "recording": {
+                    "id": "6628f1b9-a6ae-4006-a6e5-ba5cebd50f07",
+                    "title": "No Reply (take 2)",
+                    "length": "148760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23fbf87d-953c-4b47-be3d-ce006b1e46d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "23fbf87d-953c-4b47-be3d-ce006b1e46d4",
+                    "title": "\u041e\u0442\u0432\u0435\u0442\u0430 \u041d\u0435\u0442 = No Reply",
+                    "length": "135000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100319",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-no-reply-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10792",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=53",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1926993",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                "direction": "backward",
+                "work": {
+                    "id": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                    "title": "Beatles Medley",
+                    "language": "eng",
+                    "disambiguation": "Stars on 45"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "cac17b3f-5625-444c-b835-9c11ae6c0192",
+                "ordering-key": "7",
+                "direction": "backward",
+                "work": {
+                    "id": "cac17b3f-5625-444c-b835-9c11ae6c0192",
+                    "type": "Song",
+                    "title": "Stars on 45",
+                    "language": "eng",
+                    "disambiguation": "12\u2033 single"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "b29db6f7-841e-418a-a4ea-cff314ee3d77",
+                "ordering-key": "4",
+                "direction": "backward",
+                "work": {
+                    "id": "b29db6f7-841e-418a-a4ea-cff314ee3d77",
+                    "type": "Song",
+                    "title": "Stars on 45",
+                    "language": "eng",
+                    "disambiguation": "Beatles Medley 7\u2033 Mix"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "df28fb18-94c8-43d2-8372-9fe3c471b002",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "df28fb18-94c8-43d2-8372-9fe3c471b002",
+                    "type": "Song",
+                    "title": "Lass mich rein",
+                    "language": "deu",
+                    "disambiguation": "No Reply"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

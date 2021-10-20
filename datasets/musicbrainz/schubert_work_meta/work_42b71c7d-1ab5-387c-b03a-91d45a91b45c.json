@@ -1,0 +1,439 @@
+{
+    "work": {
+        "id": "42b71c7d-1ab5-387c-b03a-91d45a91b45c",
+        "type": "Song",
+        "title": "Der Einsame, D. 800",
+        "language": "deu",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "22d93444-e1fe-4797-ac6f-9aaaa187b311",
+                "direction": "backward",
+                "artist": {
+                    "id": "22d93444-e1fe-4797-ac6f-9aaaa187b311",
+                    "type": "Person",
+                    "name": "Karl Lappe",
+                    "sort-name": "Lappe, Karl"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40fad6c1-f03f-4764-acbf-a04fdd79a0d2",
+                "direction": "backward",
+                "begin": "1934",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "40fad6c1-f03f-4764-acbf-a04fdd79a0d2",
+                    "title": "Der Einsame, D. 800",
+                    "length": "257000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c35a9960-4b50-4634-a716-c8080f2d7ae9",
+                "direction": "backward",
+                "begin": "1937-03-10",
+                "end": "1937-03-10",
+                "ended": "true",
+                "recording": {
+                    "id": "c35a9960-4b50-4634-a716-c8080f2d7ae9",
+                    "title": "Der Einsame, D. 800",
+                    "length": "234440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02460588-6156-47eb-96e8-51756b1f7547",
+                "direction": "backward",
+                "begin": "1955-05-02",
+                "end": "1955-05-13",
+                "ended": "true",
+                "recording": {
+                    "id": "02460588-6156-47eb-96e8-51756b1f7547",
+                    "title": "Der Einsame, D. 800b",
+                    "length": "268266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "deca719c-7c79-44e0-bd5b-434cfdd5e7ec",
+                "direction": "backward",
+                "begin": "1959-04",
+                "end": "1959-04",
+                "ended": "true",
+                "recording": {
+                    "id": "deca719c-7c79-44e0-bd5b-434cfdd5e7ec",
+                    "title": "Der Einsame, op. 41, D.800",
+                    "length": "254000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e72e555d-45dc-4201-bb8a-3c81abfb8274",
+                "direction": "backward",
+                "begin": "1965-08-19",
+                "end": "1965-08-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e72e555d-45dc-4201-bb8a-3c81abfb8274",
+                    "title": "Der Einsame op.41",
+                    "length": "263706",
+                    "disambiguation": "live, 1965-08-19: Mozarteum, Salzburg, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8dd844a-9375-4d0e-8770-db495a659d36",
+                "direction": "backward",
+                "begin": "1965-08-22",
+                "end": "1965-08-27",
+                "ended": "true",
+                "recording": {
+                    "id": "d8dd844a-9375-4d0e-8770-db495a659d36",
+                    "title": "Der Einsame, D. 800",
+                    "length": "271160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c975db08-7fcc-407e-a80a-798648d25594",
+                "direction": "backward",
+                "begin": "1966-07",
+                "end": "1966-07",
+                "ended": "true",
+                "recording": {
+                    "id": "c975db08-7fcc-407e-a80a-798648d25594",
+                    "title": "Der Einsame, op. 41, D. 800",
+                    "length": "263493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb3ea54a-c79a-4684-8417-b229047859b7",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "cb3ea54a-c79a-4684-8417-b229047859b7",
+                    "title": "Der Einsame, D. 800",
+                    "length": "256000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "169e75ff-c453-4764-8fb2-27f2b22e3d12",
+                "direction": "backward",
+                "begin": "1982-08",
+                "end": "1982-08",
+                "ended": "true",
+                "recording": {
+                    "id": "169e75ff-c453-4764-8fb2-27f2b22e3d12",
+                    "title": "Der Einsame, D 800 (Lappe)",
+                    "length": "251706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2824d5a0-f6b5-446e-98f2-da4fb25ac09f",
+                "direction": "backward",
+                "begin": "1983-08-30",
+                "end": "1983-08-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2824d5a0-f6b5-446e-98f2-da4fb25ac09f",
+                    "title": "Der Einsame",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "534ff566-fd15-44b2-9704-d8f5dd52215e",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "534ff566-fd15-44b2-9704-d8f5dd52215e",
+                    "title": "Der Einsame, D. 800",
+                    "length": "243760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ccc0e9b-7979-4af3-8990-7ecaa27a1446",
+                "direction": "backward",
+                "begin": "1986-07",
+                "end": "1986-07",
+                "ended": "true",
+                "recording": {
+                    "id": "9ccc0e9b-7979-4af3-8990-7ecaa27a1446",
+                    "title": "Der Einsame, D. 800",
+                    "length": "247000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38ae846d-dc81-4352-9d72-02069973f743",
+                "direction": "backward",
+                "begin": "1996-01",
+                "end": "1996-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "38ae846d-dc81-4352-9d72-02069973f743",
+                    "title": "Der Einsame",
+                    "length": "238000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e04a2c7d-ab3f-4293-a2a6-fed4b127fa1d",
+                "direction": "backward",
+                "recording": {
+                    "id": "e04a2c7d-ab3f-4293-a2a6-fed4b127fa1d",
+                    "title": "\"Der Einsame\", D. 800",
+                    "length": "259906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b98110b2-879a-4839-bb99-e27c6395bdbe",
+                "direction": "backward",
+                "recording": {
+                    "id": "b98110b2-879a-4839-bb99-e27c6395bdbe",
+                    "title": "Der Einsame",
+                    "length": "250000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2320d7bb-4f12-4038-859e-39197e0bec17",
+                "direction": "backward",
+                "recording": {
+                    "id": "2320d7bb-4f12-4038-859e-39197e0bec17",
+                    "title": "Der Einsame D 800",
+                    "length": "261000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "070272e6-10de-4b00-866a-6b73d3c06fb4",
+                "direction": "backward",
+                "recording": {
+                    "id": "070272e6-10de-4b00-866a-6b73d3c06fb4",
+                    "title": "Der Einsame D 800 - \"Wenn meine Grillen schwirren\" (2004 Digital Remaster)",
+                    "length": "271186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2f87da9-741b-425d-a024-bc888548bec2",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2f87da9-741b-425d-a024-bc888548bec2",
+                    "title": "Der Einsame D800",
+                    "length": "254000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5161cce2-5af0-4a77-880c-459987d1175f",
+                "direction": "backward",
+                "recording": {
+                    "id": "5161cce2-5af0-4a77-880c-459987d1175f",
+                    "title": "Der Einsame, D 800",
+                    "length": "275000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84040c7f-9a52-4308-953d-0038a16ab91f",
+                "direction": "backward",
+                "recording": {
+                    "id": "84040c7f-9a52-4308-953d-0038a16ab91f",
+                    "title": "Der Einsame, D 800",
+                    "length": "240160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ff0411d-6325-4f68-b6a1-fd127ef4ad72",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ff0411d-6325-4f68-b6a1-fd127ef4ad72",
+                    "title": "Der Einsame, D. 800",
+                    "length": "282000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdc89d19-5628-490e-9465-f770f5feb131",
+                "direction": "backward",
+                "recording": {
+                    "id": "cdc89d19-5628-490e-9465-f770f5feb131",
+                    "title": "Der Einsame, D. 800",
+                    "length": "247222"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "274c4b28-e059-4eac-aa43-e511cf702dfa",
+                "direction": "backward",
+                "recording": {
+                    "id": "274c4b28-e059-4eac-aa43-e511cf702dfa",
+                    "title": "Der Einsame, D. 800",
+                    "length": "271000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b26180b2-f2d8-4f62-9cdb-5727994e0441",
+                "direction": "backward",
+                "recording": {
+                    "id": "b26180b2-f2d8-4f62-9cdb-5727994e0441",
+                    "title": "Der Einsame, D. 800",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "532785fb-721f-46e8-8826-96009c4d2a90",
+                "direction": "backward",
+                "recording": {
+                    "id": "532785fb-721f-46e8-8826-96009c4d2a90",
+                    "title": "Der Einsame, D.800",
+                    "length": "252160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42d412ec-837f-41a9-b39b-7494aae21aa1",
+                "direction": "backward",
+                "recording": {
+                    "id": "42d412ec-837f-41a9-b39b-7494aae21aa1",
+                    "title": "Der Einsame, op. 41, D.800",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8773aaa5-bf64-4714-92c4-d64086f53d86",
+                "direction": "backward",
+                "recording": {
+                    "id": "8773aaa5-bf64-4714-92c4-d64086f53d86",
+                    "title": "Der Einsame, op. 41, D.800",
+                    "length": "260000"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "616",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 800",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002358067",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Der_Einsame,_D.800_(Schubert,_Franz)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

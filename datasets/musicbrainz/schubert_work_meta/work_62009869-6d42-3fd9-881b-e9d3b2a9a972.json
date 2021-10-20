@@ -1,0 +1,793 @@
+{
+    "work": {
+        "id": "62009869-6d42-3fd9-881b-e9d3b2a9a972",
+        "type": "Song",
+        "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Liebesbotschaft",
+                "alias": "Liebesbotschaft"
+            },
+            {
+                "sort-name": "Schwanengesang, D 957: Liebesbotschaft",
+                "alias": "Schwanengesang, D 957: Liebesbotschaft"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1828",
+                "end": "1828",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "74baf230-2fc5-4507-917b-b6593f016dfa",
+                "direction": "backward",
+                "artist": {
+                    "id": "74baf230-2fc5-4507-917b-b6593f016dfa",
+                    "type": "Person",
+                    "name": "Ludwig Rellstab",
+                    "sort-name": "Rellstab, Ludwig"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3290bde9-7bcd-4ec0-9d82-bad0b940054e",
+                "direction": "backward",
+                "begin": "1909",
+                "end": "1909",
+                "ended": "true",
+                "recording": {
+                    "id": "3290bde9-7bcd-4ec0-9d82-bad0b940054e",
+                    "title": "Schwanengesang D957 (1997 - Remaster): Liebesbotschaft (Rellstab)",
+                    "length": "201240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ec0cfaf-7368-4ba3-8e34-921378d6e0bc",
+                "direction": "backward",
+                "begin": "1933",
+                "end": "1945",
+                "ended": "true",
+                "recording": {
+                    "id": "0ec0cfaf-7368-4ba3-8e34-921378d6e0bc",
+                    "title": "Liebesbotschaft, D. 957/1",
+                    "length": "159106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc4c00a7-d388-4d8b-a329-4efa3d466289",
+                "direction": "backward",
+                "begin": "1934",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "dc4c00a7-d388-4d8b-a329-4efa3d466289",
+                    "title": "Liebesbotschaft, D. 957/1",
+                    "length": "157720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "377ed6b2-1c49-47f8-b15e-0bf3f231bee4",
+                "direction": "backward",
+                "begin": "1935-01-15",
+                "end": "1935-01-15",
+                "ended": "true",
+                "recording": {
+                    "id": "377ed6b2-1c49-47f8-b15e-0bf3f231bee4",
+                    "title": "Schwanengesang D957 (1997 - Remaster): Liebesbotschaft (Rellstab)",
+                    "length": "165093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8053c0c-f2fe-4af6-a9a9-2354acf2dfd0",
+                "direction": "backward",
+                "begin": "1935",
+                "end": "1935",
+                "ended": "true",
+                "recording": {
+                    "id": "a8053c0c-f2fe-4af6-a9a9-2354acf2dfd0",
+                    "title": "Liebesbotschaft, D. 957/1",
+                    "length": "165093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf8af17e-74ec-43be-97b3-f23581cb92c5",
+                "direction": "backward",
+                "begin": "1936-11-26",
+                "end": "1936-11-26",
+                "ended": "true",
+                "recording": {
+                    "id": "bf8af17e-74ec-43be-97b3-f23581cb92c5",
+                    "title": "Liebesbotschaft (\"Schwanengesang\", No.1), D. 957",
+                    "length": "158333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3ba71a9-f447-4ae6-8995-7bd0df2dd607",
+                "direction": "backward",
+                "begin": "1941",
+                "end": "1941",
+                "ended": "true",
+                "recording": {
+                    "id": "a3ba71a9-f447-4ae6-8995-7bd0df2dd607",
+                    "title": "Liebesbotschaft",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59b6eb42-aaf5-48ca-930d-37815bb563a6",
+                "direction": "backward",
+                "begin": "1950-01-03",
+                "end": "1950-01-03",
+                "ended": "true",
+                "recording": {
+                    "id": "59b6eb42-aaf5-48ca-930d-37815bb563a6",
+                    "title": "Schwanengesang (Swan Song) D. 957: Liebesbotschaft",
+                    "length": "167440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9f66e8e-9295-4258-97e4-6208a4d9a5d0",
+                "direction": "backward",
+                "begin": "1954-05-28",
+                "end": "1954-05-30",
+                "ended": "true",
+                "recording": {
+                    "id": "b9f66e8e-9295-4258-97e4-6208a4d9a5d0",
+                    "title": "Schwanengesang: I. Liebesbotschaft",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37822215-586f-4ce9-af28-73e0cfe4f27b",
+                "direction": "backward",
+                "begin": "1954",
+                "end": "1954",
+                "ended": "true",
+                "recording": {
+                    "id": "37822215-586f-4ce9-af28-73e0cfe4f27b",
+                    "title": "Schwanengesang, D. 957: 1. Liebesbotschaft",
+                    "length": "161000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6456b31-82b5-4ea0-b05b-67943133066c",
+                "direction": "backward",
+                "begin": "1955-05-02",
+                "end": "1955-05-13",
+                "ended": "true",
+                "recording": {
+                    "id": "d6456b31-82b5-4ea0-b05b-67943133066c",
+                    "title": "Schwanengesang, D 957 No. 1: Liebesbotschaft",
+                    "length": "164880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9501a9d-0227-4c82-9ffd-5c87f6bbe814",
+                "direction": "backward",
+                "begin": "1962-05-07",
+                "end": "1962-09-08",
+                "ended": "true",
+                "recording": {
+                    "id": "c9501a9d-0227-4c82-9ffd-5c87f6bbe814",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "length": "160720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "617bed2b-d9ae-4d33-ab6b-80243cda50c6",
+                "direction": "backward",
+                "begin": "1972-03",
+                "end": "1972-03",
+                "ended": "true",
+                "recording": {
+                    "id": "617bed2b-d9ae-4d33-ab6b-80243cda50c6",
+                    "title": "Schwanengesang, D. 957: 1. \"Liebesbotschaft\"",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cabed486-a916-4b67-bfab-54aba82057f4",
+                "direction": "backward",
+                "begin": "1982-09",
+                "end": "1982-09",
+                "ended": "true",
+                "recording": {
+                    "id": "cabed486-a916-4b67-bfab-54aba82057f4",
+                    "title": "Schwanengesang, D 957: 1. Liebesbotschaft (Rellstab)",
+                    "length": "179840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32d26064-4506-41be-a742-15e9483d5bdf",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "32d26064-4506-41be-a742-15e9483d5bdf",
+                    "title": "Liebesbotschaft",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "055d7426-f4fc-4749-9e6c-090c50b50bf3",
+                "direction": "backward",
+                "begin": "1989-08",
+                "end": "1989-08",
+                "ended": "true",
+                "recording": {
+                    "id": "055d7426-f4fc-4749-9e6c-090c50b50bf3",
+                    "title": "Schwanengesang, D. 957: Liebesbotschaft",
+                    "length": "163093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3088917d-c8af-4dd6-ad9f-33e32e74187f",
+                "direction": "backward",
+                "begin": "1992-09",
+                "end": "1992-09",
+                "ended": "true",
+                "recording": {
+                    "id": "3088917d-c8af-4dd6-ad9f-33e32e74187f",
+                    "title": "Schwanengesang, D. 957: Liebesbotschaft",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4139c0fb-00d6-475c-b6a5-9e0c74da66cc",
+                "direction": "backward",
+                "begin": "1994-09",
+                "end": "1994-12",
+                "ended": "true",
+                "recording": {
+                    "id": "4139c0fb-00d6-475c-b6a5-9e0c74da66cc",
+                    "title": "Svanas\u00f6gnur: \u00c1staror\u00f0sending",
+                    "length": "162560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a63a947a-ba65-4ba3-ad0b-3d089dba06c3",
+                "direction": "backward",
+                "begin": "1998-03",
+                "end": "1998-06",
+                "ended": "true",
+                "recording": {
+                    "id": "a63a947a-ba65-4ba3-ad0b-3d089dba06c3",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e17fc90e-cc39-4904-9221-a17eebb58b56",
+                "direction": "backward",
+                "begin": "2003-11-05",
+                "end": "2003-11-07",
+                "ended": "true",
+                "recording": {
+                    "id": "e17fc90e-cc39-4904-9221-a17eebb58b56",
+                    "title": "Schwanengesang, D 957: Liebesbotschaft",
+                    "length": "189053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c920170-87b9-4af2-acb8-10f6de57b7f0",
+                "direction": "backward",
+                "begin": "2010-10",
+                "end": "2010-10",
+                "ended": "true",
+                "recording": {
+                    "id": "3c920170-87b9-4af2-acb8-10f6de57b7f0",
+                    "title": "Schwanengesang, D.957: Liebesbotschaft",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "382235db-725f-4bdc-a334-0f208984daf4",
+                "direction": "backward",
+                "begin": "2015-01",
+                "end": "2015-01",
+                "ended": "true",
+                "recording": {
+                    "id": "382235db-725f-4bdc-a334-0f208984daf4",
+                    "title": "Schwanengesang, D. 957: Liebesbotschaft",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee15d450-0f2a-4e95-ba1e-abb92c6c05a2",
+                "direction": "backward",
+                "begin": "2016-11-28",
+                "end": "2016-12-02",
+                "ended": "true",
+                "recording": {
+                    "id": "ee15d450-0f2a-4e95-ba1e-abb92c6c05a2",
+                    "title": "Schwanengesang, D. 957 no. 1: \u201cLiebesbotschaft\u201d",
+                    "length": "183413"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8d38c9a-877d-447a-b60c-1b9b387df52d",
+                "direction": "backward",
+                "begin": "2018-10-04",
+                "end": "2018-10-06",
+                "ended": "true",
+                "recording": {
+                    "id": "e8d38c9a-877d-447a-b60c-1b9b387df52d",
+                    "title": "Schwanengesang, D957: Liebesbotschaft",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0785eef-1355-421a-b64b-5be7bc87bd69",
+                "direction": "backward",
+                "begin": "2019-04-30",
+                "end": "2019-05-02",
+                "ended": "true",
+                "recording": {
+                    "id": "e0785eef-1355-421a-b64b-5be7bc87bd69",
+                    "title": "Schwanengesang, D 957: 1. Liebesbotschaft",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5188e85d-c5c3-4647-b1ce-2fc9e514be95",
+                "direction": "backward",
+                "recording": {
+                    "id": "5188e85d-c5c3-4647-b1ce-2fc9e514be95",
+                    "title": "Liebesbotschaft",
+                    "length": "188560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "390065aa-8c06-4dab-be3d-2ff3db494d1a",
+                "direction": "backward",
+                "recording": {
+                    "id": "390065aa-8c06-4dab-be3d-2ff3db494d1a",
+                    "title": "Liebesbotschaft",
+                    "length": "166506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5add592b-0577-49aa-9ec9-fc4ebb735c7b",
+                "direction": "backward",
+                "recording": {
+                    "id": "5add592b-0577-49aa-9ec9-fc4ebb735c7b",
+                    "title": "Liebesbotschaft",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76059d10-80fe-4d6b-bc20-92d0a678c344",
+                "direction": "backward",
+                "recording": {
+                    "id": "76059d10-80fe-4d6b-bc20-92d0a678c344",
+                    "title": "Liebesbotschaft",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31f86294-bdf9-4a50-b5bb-e952809a7067",
+                "direction": "backward",
+                "recording": {
+                    "id": "31f86294-bdf9-4a50-b5bb-e952809a7067",
+                    "title": "Liebesbotschaft",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e71d90c-c22f-4621-873d-5d557b37a61f",
+                "direction": "backward",
+                "recording": {
+                    "id": "3e71d90c-c22f-4621-873d-5d557b37a61f",
+                    "title": "Liebesbotschaft - Schwanengesang I",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "231c8467-31eb-4db9-aaef-d020bc461d38",
+                "direction": "backward",
+                "recording": {
+                    "id": "231c8467-31eb-4db9-aaef-d020bc461d38",
+                    "title": "Liebesbotschaft (\"Rauschendes B\u00e4chlein\"), song for voice & piano (Schwanengesang), D. 957/1",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebe2ed7a-6948-4ecb-9df3-82c1b006aba9",
+                "direction": "backward",
+                "recording": {
+                    "id": "ebe2ed7a-6948-4ecb-9df3-82c1b006aba9",
+                    "title": "Liebesbotschaft D. 957 no. 1",
+                    "length": "169733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a848170-893e-46b1-9a26-6ab198047dce",
+                "direction": "backward",
+                "recording": {
+                    "id": "7a848170-893e-46b1-9a26-6ab198047dce",
+                    "title": "Liebesbotschaft, D 957/1",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d9e2d4e-01f9-4df7-8d58-343af93adf67",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d9e2d4e-01f9-4df7-8d58-343af93adf67",
+                    "title": "Lieder: Liebesbotschaft",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c4e0ba8-8862-4730-8c25-21cdec420aae",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c4e0ba8-8862-4730-8c25-21cdec420aae",
+                    "title": "Schwanengesang (Swan Song), song cycle for voice & piano, D. 957: Liebesbotschaft",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c934a95-f598-4293-b585-7f1c97cfdb08",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c934a95-f598-4293-b585-7f1c97cfdb08",
+                    "title": "Schwanengesang D. 957 No. 1: Liebesbotschaft",
+                    "length": "163373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c2cfb01-ff5f-47c5-b986-964d2de437c4",
+                "direction": "backward",
+                "recording": {
+                    "id": "8c2cfb01-ff5f-47c5-b986-964d2de437c4",
+                    "title": "Schwanengesang D. 957: I. Liebesbotschaft.",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1b56cbf-ff33-4090-81bd-3c1f8b9454c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "b1b56cbf-ff33-4090-81bd-3c1f8b9454c3",
+                    "title": "Schwanengesang D.957: I. Liebesbotschaft",
+                    "length": "202000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f4e88e3-317e-479b-99c5-7a36d3af52d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f4e88e3-317e-479b-99c5-7a36d3af52d8",
+                    "title": "Schwanengesang D957 - Liebesbotschaft",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "180c4819-b1e7-4507-be05-50ebf39f21f8",
+                "direction": "backward",
+                "recording": {
+                    "id": "180c4819-b1e7-4507-be05-50ebf39f21f8",
+                    "title": "Schwanengesang D957: Liebesbotschaft",
+                    "length": "190640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a2422e9-d2f6-47b5-a876-1d059b990cde",
+                "direction": "backward",
+                "recording": {
+                    "id": "3a2422e9-d2f6-47b5-a876-1d059b990cde",
+                    "title": "Schwanengesang, D 957: Liebesbotschaft",
+                    "length": "185000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "baef6cfb-d61a-423b-b7f8-75c3d136d177",
+                "direction": "backward",
+                "recording": {
+                    "id": "baef6cfb-d61a-423b-b7f8-75c3d136d177",
+                    "title": "Schwanengesang, D. 957 No. 1: Liebesbotschaft",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d1ad529-a055-48ae-96d4-2ffa22f70bf4",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d1ad529-a055-48ae-96d4-2ffa22f70bf4",
+                    "title": "Schwanengesang, D. 957 No. 1: Liebesbotschaft",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d338ba0-6712-45f9-bbe9-cb0c03715a7b",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d338ba0-6712-45f9-bbe9-cb0c03715a7b",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4acd9fd4-b26d-421c-843c-6b3377608159",
+                "direction": "backward",
+                "recording": {
+                    "id": "4acd9fd4-b26d-421c-843c-6b3377608159",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "length": "189986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ad2f730-2cb3-4dd1-a005-e7367fb256a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "0ad2f730-2cb3-4dd1-a005-e7367fb256a3",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "length": "168760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ca47a0a-0d35-4f3b-9572-9933154c5409",
+                "direction": "backward",
+                "recording": {
+                    "id": "0ca47a0a-0d35-4f3b-9572-9933154c5409",
+                    "title": "Schwanengesang, D. 957: Liebesbotschaft",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58e51dc8-6675-4d22-b08a-8231b92707fc",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "58e51dc8-6675-4d22-b08a-8231b92707fc",
+                    "title": "Schwanengesang, D. 957: Liebesbotschaft",
+                    "length": "173480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35bf0add-4800-477e-acbe-798f51c4e15a",
+                "direction": "backward",
+                "recording": {
+                    "id": "35bf0add-4800-477e-acbe-798f51c4e15a",
+                    "title": "Schwanengesang, D. 957: Liebesbotschaft",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26bd0b24-6ed6-431d-ad3b-e0b473116f70",
+                "direction": "backward",
+                "recording": {
+                    "id": "26bd0b24-6ed6-431d-ad3b-e0b473116f70",
+                    "title": "Schwanengesang, D. 957: Nr. 1. Liebesbotschaft",
+                    "length": "188666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fda9d30-f4a9-4817-ae81-2935b80cc4bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "3fda9d30-f4a9-4817-ae81-2935b80cc4bd",
+                    "title": "Schwanengesang, D957: Liebesbotschaft",
+                    "length": "166680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6455b6a2-0722-49a1-98ab-d55d328143a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "6455b6a2-0722-49a1-98ab-d55d328143a9",
+                    "title": "Schwanengesang: \"Liebesbotschaft\"",
+                    "length": "175000"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "9e9e5841-5782-46c1-be05-216f2542f5cc",
+                "direction": "forward",
+                "work": {
+                    "id": "9e9e5841-5782-46c1-be05-216f2542f5cc",
+                    "title": "Schwanengesang, S. 560: No. 10. Liebesbotschaft",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "83434e48-b752-4932-aa46-1b4096ee3fb2",
+                "direction": "forward",
+                "work": {
+                    "id": "83434e48-b752-4932-aa46-1b4096ee3fb2",
+                    "title": "Three Songs from Schwanengesang: Liebesbotschaft",
+                    "language": "zxx",
+                    "disambiguation": "for cello octet, Birchall"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "73cbcf93-5278-4e86-9879-64a922706c68",
+                "direction": "forward",
+                "work": {
+                    "id": "73cbcf93-5278-4e86-9879-64a922706c68",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "language": "zxx",
+                    "disambiguation": "for guitar solo, Mertz"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "9fca8928-fb3e-47ea-aad1-67523960382e",
+                "direction": "forward",
+                "work": {
+                    "id": "9fca8928-fb3e-47ea-aad1-67523960382e",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Godowsky"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "6c568614-9be1-4fb1-923d-46e8b93b3c02",
+                "direction": "forward",
+                "work": {
+                    "id": "6c568614-9be1-4fb1-923d-46e8b93b3c02",
+                    "title": "Schwanengesang, D. 957: I. Liebesbotschaft",
+                    "language": "zxx",
+                    "disambiguation": "for piano, Godowsky"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                "ordering-key": "1",
+                "direction": "backward",
+                "work": {
+                    "id": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                    "type": "Song-cycle",
+                    "title": "Schwanengesang, D. 957",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

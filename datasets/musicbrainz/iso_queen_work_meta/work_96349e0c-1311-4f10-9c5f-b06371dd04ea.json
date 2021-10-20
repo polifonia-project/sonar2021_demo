@@ -1,0 +1,333 @@
+{
+    "work": {
+        "id": "96349e0c-1311-4f10-9c5f-b06371dd04ea",
+        "type": "Song",
+        "title": "No\u2010One but You (Only the Good Die Young)",
+        "language": "eng",
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "4484369"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "610e368a-47ac-42a7-af22-da9461f968ff",
+                "direction": "backward",
+                "begin": "2001-11-24",
+                "end": "2001-11-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "610e368a-47ac-42a7-af22-da9461f968ff",
+                    "title": "No One but You",
+                    "disambiguation": "live, 2001-11-24: Ocean, Hackney, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c06f7655-0ebc-4914-8c1e-bda95fda5daf",
+                "direction": "backward",
+                "begin": "2002-04-30",
+                "end": "2002-04-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c06f7655-0ebc-4914-8c1e-bda95fda5daf",
+                    "title": "No-One but You (Only the Good Die Young)",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8f5a8bc-bebb-4343-a9d0-a4f55a26bcde",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f8f5a8bc-bebb-4343-a9d0-a4f55a26bcde",
+                    "title": "No-One but You (Only the Good Die Young)",
+                    "length": "283000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a87f3a44-7d62-45fe-9374-8c238de45850",
+                "direction": "backward",
+                "begin": "2011-06-18",
+                "end": "2011-06-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a87f3a44-7d62-45fe-9374-8c238de45850",
+                    "title": "No One But You",
+                    "length": "252453",
+                    "disambiguation": "live, 2011-06"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaa0e928-8c21-444b-9acf-a5e449084d55",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "aaa0e928-8c21-444b-9acf-a5e449084d55",
+                    "title": "No One but You",
+                    "length": "364186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "936f644d-be4e-4eab-aef4-717cccdcde2a",
+                "direction": "backward",
+                "recording": {
+                    "id": "936f644d-be4e-4eab-aef4-717cccdcde2a",
+                    "title": "No One but You (Only the Good Die Young) (from \"We Will Rock You\")",
+                    "length": "274493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0647fd43-7df0-4394-9abc-0ec070cb318f",
+                "direction": "backward",
+                "recording": {
+                    "id": "0647fd43-7df0-4394-9abc-0ec070cb318f",
+                    "title": "No-One but You",
+                    "length": "318720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bc065c1-1b7b-4419-96f9-b8e7dff54e9e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4bc065c1-1b7b-4419-96f9-b8e7dff54e9e",
+                    "title": "No-One but You (Only the Good Die Young)",
+                    "length": "274813",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a567b233-98be-4001-86d5-48a3aaccaae5",
+                "direction": "backward",
+                "recording": {
+                    "id": "a567b233-98be-4001-86d5-48a3aaccaae5",
+                    "title": "No\u2010One but You (Only the Good Die Young)",
+                    "length": "251000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c907d963-b682-488d-a2df-80a2140b406d",
+                "direction": "backward",
+                "recording": {
+                    "id": "c907d963-b682-488d-a2df-80a2140b406d",
+                    "title": "No\u2010One but You (Only the Good Die Young)",
+                    "length": "253493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50839bf8-ed06-4ebd-ad4b-31c863dcaf2b",
+                "direction": "backward",
+                "recording": {
+                    "id": "50839bf8-ed06-4ebd-ad4b-31c863dcaf2b",
+                    "title": "No\u2010One but You (Only the Good Die Young)",
+                    "length": "251333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34e16595-fa02-4fa1-bf7b-f8e98848ba69",
+                "direction": "backward",
+                "recording": {
+                    "id": "34e16595-fa02-4fa1-bf7b-f8e98848ba69",
+                    "title": "No\u2010One But You (Only the Good Die Young)",
+                    "length": "253000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q76369699",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "675184c8-99fb-48e5-aec7-9c8a7a519fda",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "675184c8-99fb-48e5-aec7-9c8a7a519fda",
+                    "type": "Song",
+                    "title": "S\u00f3lo por ti",
+                    "language": "spa",
+                    "disambiguation": "Spanish version of Queen's \"No-One but You\""
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            }
+        ]
+    }
+}

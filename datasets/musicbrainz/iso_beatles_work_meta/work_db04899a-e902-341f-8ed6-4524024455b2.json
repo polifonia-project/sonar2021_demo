@@ -1,0 +1,1835 @@
+{
+    "work": {
+        "id": "db04899a-e902-341f-8ed6-4524024455b2",
+        "type": "Song",
+        "title": "Words of Love",
+        "language": "eng",
+        "iswc": "T-070.200.753-1",
+        "iswc-list": [
+            "T-070.200.753-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000213 259 25"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "39885"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "10845665"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "76101559800"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "30.994"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "986736"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "986736"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "217146"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "2078884"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "26 927 014 11"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "66 064 683 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001619400"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "21598KN"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "735207-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "7178880"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "200754"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "1973186"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11186669"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000119840"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "530107607"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00307931"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "2350159"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5433323"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "79375401"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4699695"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5031961"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "d352f5dd-3023-4565-a7bb-52396bf8821d",
+                "direction": "backward",
+                "artist": {
+                    "id": "d352f5dd-3023-4565-a7bb-52396bf8821d",
+                    "type": "Person",
+                    "name": "Buddy Holly",
+                    "sort-name": "Holly, Buddy",
+                    "disambiguation": "1950s rock & roll singer-songwriter"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "d352f5dd-3023-4565-a7bb-52396bf8821d",
+                "direction": "backward",
+                "artist": {
+                    "id": "d352f5dd-3023-4565-a7bb-52396bf8821d",
+                    "type": "Person",
+                    "name": "Buddy Holly",
+                    "sort-name": "Holly, Buddy",
+                    "disambiguation": "1950s rock & roll singer-songwriter"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "dd7257cc-90fa-4aed-9b81-62a9f7ba33b6",
+                "direction": "backward",
+                "label": {
+                    "id": "dd7257cc-90fa-4aed-9b81-62a9f7ba33b6",
+                    "type": "Holding",
+                    "name": "MPL Communications Inc.",
+                    "sort-name": "MPL Communications Inc.",
+                    "disambiguation": "Paul McCartney-related, NYC-based company"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a42ce7c2-e4de-4873-802f-098d46aa5cc4",
+                "direction": "backward",
+                "label": {
+                    "id": "a42ce7c2-e4de-4873-802f-098d46aa5cc4",
+                    "type": "Publisher",
+                    "name": "Peermusic UK",
+                    "sort-name": "Peermusic UK",
+                    "disambiguation": "UK publisher"
+                },
+                "target-credit": "Peermusic (UK) Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "eea8f944-b7e3-4e0a-bf23-6b27ce5d97da",
+                "direction": "backward",
+                "label": {
+                    "id": "eea8f944-b7e3-4e0a-bf23-6b27ce5d97da",
+                    "type": "Publisher",
+                    "name": "Southern Music Pub. Co. Ltd.",
+                    "sort-name": "Southern Music Pub. Co. Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d112839b-ec89-4af9-af9d-c80d86b18391",
+                "direction": "backward",
+                "begin": "1957-04-08",
+                "end": "1957-04-08",
+                "ended": "true",
+                "recording": {
+                    "id": "d112839b-ec89-4af9-af9d-c80d86b18391",
+                    "title": "Words of Love",
+                    "length": "112440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71449a35-a8b3-4281-b774-c873fb8da14c",
+                "direction": "backward",
+                "begin": "1963-07-16",
+                "end": "1963-07-16",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "71449a35-a8b3-4281-b774-c873fb8da14c",
+                    "title": "Words of Love",
+                    "length": "115746",
+                    "disambiguation": "live, 1963\u201007\u201016: Paris Theatre, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "568de193-cb26-494b-ba64-74275226d667",
+                "direction": "backward",
+                "begin": "1964-10-18",
+                "end": "1964-10-18",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "568de193-cb26-494b-ba64-74275226d667",
+                    "title": "Words of Love",
+                    "length": "130000",
+                    "disambiguation": "original stereo studio mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59e4621f-455e-4e61-b9a4-7435901d6580",
+                "direction": "backward",
+                "begin": "1964-10-18",
+                "end": "1964-10-18",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "59e4621f-455e-4e61-b9a4-7435901d6580",
+                    "title": "Words of Love",
+                    "length": "135000",
+                    "disambiguation": "original mono studio mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52935438-3523-4ccb-acb2-a68f37a278f8",
+                "direction": "backward",
+                "begin": "2013-03-10",
+                "end": "2013-03-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "52935438-3523-4ccb-acb2-a68f37a278f8",
+                    "title": "Words of Love",
+                    "length": "138986",
+                    "disambiguation": "live, 2013-03-10: Concert Hall, Sydney Opera House, Sydney, Australia"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d31bf73-1d6a-4140-bfab-235154cd36e6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5d31bf73-1d6a-4140-bfab-235154cd36e6",
+                    "title": "Words of Love",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "910d6edf-dd9e-4fec-bf82-80ce59abc284",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "910d6edf-dd9e-4fec-bf82-80ce59abc284",
+                    "title": "Words of Love",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c004b97f-6a6d-4077-a817-75c53add952c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c004b97f-6a6d-4077-a817-75c53add952c",
+                    "title": "Words of Love",
+                    "length": "134600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14eaa673-ca23-4b2f-b11b-caa02809c2ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "14eaa673-ca23-4b2f-b11b-caa02809c2ff",
+                    "title": "Words of Love",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fea918c8-5126-40ff-a366-97ce9e6b218d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fea918c8-5126-40ff-a366-97ce9e6b218d",
+                    "title": "Words of Love",
+                    "length": "126560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9f07e3f-c5ac-4c1e-9235-a4a5af437daf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d9f07e3f-c5ac-4c1e-9235-a4a5af437daf",
+                    "title": "Words of Love",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aad8e68b-c83a-43ee-9009-159aecbe46e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "aad8e68b-c83a-43ee-9009-159aecbe46e1",
+                    "title": "Words of Love",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8dc017f9-b88a-495c-b461-7522603391b6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8dc017f9-b88a-495c-b461-7522603391b6",
+                    "title": "Words of Love",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0adad1ad-55eb-48a7-b6f9-ca69ab540727",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0adad1ad-55eb-48a7-b6f9-ca69ab540727",
+                    "title": "Words of Love",
+                    "length": "148626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "823fa7f3-92f4-49a7-a6f0-047c63e63452",
+                "direction": "backward",
+                "recording": {
+                    "id": "823fa7f3-92f4-49a7-a6f0-047c63e63452",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7bc14cd6-dfc9-4e61-a7fc-88435b04d63a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7bc14cd6-dfc9-4e61-a7fc-88435b04d63a",
+                    "title": "Words of Love",
+                    "length": "202000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ef86e4f-6016-4558-acba-1eaf10830c2c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4ef86e4f-6016-4558-acba-1eaf10830c2c",
+                    "title": "Words of Love",
+                    "length": "133333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eed5e8a6-848c-4cee-8236-e6e65f5e1353",
+                "direction": "backward",
+                "recording": {
+                    "id": "eed5e8a6-848c-4cee-8236-e6e65f5e1353",
+                    "title": "Words of Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f178545-3b5f-4299-8cc6-a40006dd5e9a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0f178545-3b5f-4299-8cc6-a40006dd5e9a",
+                    "title": "Words of Love",
+                    "length": "143000",
+                    "disambiguation": "1989 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56f7bc5b-8418-48fd-9c00-c8214138ae61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "56f7bc5b-8418-48fd-9c00-c8214138ae61",
+                    "title": "Words of Love",
+                    "length": "159280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d56e61fc-a06e-43ec-a588-0787fb5c0b6c",
+                "direction": "backward",
+                "recording": {
+                    "id": "d56e61fc-a06e-43ec-a588-0787fb5c0b6c",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5fad33d-b7fd-456e-aa8f-f8b4f6347d5d",
+                "direction": "backward",
+                "recording": {
+                    "id": "a5fad33d-b7fd-456e-aa8f-f8b4f6347d5d",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ff9f496-9347-4f1f-9bcb-6a08d6ed068f",
+                "direction": "backward",
+                "recording": {
+                    "id": "0ff9f496-9347-4f1f-9bcb-6a08d6ed068f",
+                    "title": "Words of Love",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac53d3f4-858e-4a8a-b627-1d0cec66f193",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac53d3f4-858e-4a8a-b627-1d0cec66f193",
+                    "title": "Words of Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3839358f-2297-4633-bbc8-63159edeeaa0",
+                "direction": "backward",
+                "recording": {
+                    "id": "3839358f-2297-4633-bbc8-63159edeeaa0",
+                    "title": "Words of Love",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e490790-d46c-4252-8433-381f8a2fbbf9",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e490790-d46c-4252-8433-381f8a2fbbf9",
+                    "title": "Words of Love",
+                    "length": "116213"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2effa7f-7601-4eeb-a721-ed0c8d92c451",
+                "direction": "backward",
+                "recording": {
+                    "id": "d2effa7f-7601-4eeb-a721-ed0c8d92c451",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6022c06-ac56-4e4d-97cb-abb671ad5900",
+                "direction": "backward",
+                "recording": {
+                    "id": "c6022c06-ac56-4e4d-97cb-abb671ad5900",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7500053-36dc-4c1b-b8e5-d1434fd70775",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7500053-36dc-4c1b-b8e5-d1434fd70775",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66900f23-b01f-4576-999f-7498623b859e",
+                "direction": "backward",
+                "recording": {
+                    "id": "66900f23-b01f-4576-999f-7498623b859e",
+                    "title": "Words of Love",
+                    "length": "116386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc46912e-17b6-4883-94f2-d92a05388fc8",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc46912e-17b6-4883-94f2-d92a05388fc8",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f109d6fa-d530-4c12-a63c-177701995090",
+                "direction": "backward",
+                "recording": {
+                    "id": "f109d6fa-d530-4c12-a63c-177701995090",
+                    "title": "Words of Love",
+                    "length": "135520"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8d623cb-90a9-4a97-b0d5-83ece42bc4e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8d623cb-90a9-4a97-b0d5-83ece42bc4e4",
+                    "title": "Words of Love",
+                    "length": "114893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "758bad48-1758-44e0-b40c-a9679e1ca04d",
+                "direction": "backward",
+                "recording": {
+                    "id": "758bad48-1758-44e0-b40c-a9679e1ca04d",
+                    "title": "Words of Love",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fbf88d7-4676-430e-97d0-26bd7c904eb2",
+                "direction": "backward",
+                "recording": {
+                    "id": "5fbf88d7-4676-430e-97d0-26bd7c904eb2",
+                    "title": "Words of Love",
+                    "length": "118000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "392e771a-33a9-4cc4-b85c-1e03cdc97608",
+                "direction": "backward",
+                "recording": {
+                    "id": "392e771a-33a9-4cc4-b85c-1e03cdc97608",
+                    "title": "Words of Love",
+                    "length": "116617"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e80e01d2-161b-4be5-b681-9473ee570999",
+                "direction": "backward",
+                "recording": {
+                    "id": "e80e01d2-161b-4be5-b681-9473ee570999",
+                    "title": "Words of Love",
+                    "length": "117000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6106975-4dd4-4fec-aa20-db81b982b945",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6106975-4dd4-4fec-aa20-db81b982b945",
+                    "title": "Words of Love",
+                    "length": "116400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "573717d3-9694-43fa-9694-325faa1b1e29",
+                "direction": "backward",
+                "recording": {
+                    "id": "573717d3-9694-43fa-9694-325faa1b1e29",
+                    "title": "Words of Love",
+                    "length": "113653"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c884dfeb-37ef-4f58-9e5f-bbc4d930e638",
+                "direction": "backward",
+                "recording": {
+                    "id": "c884dfeb-37ef-4f58-9e5f-bbc4d930e638",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6ecb3a0-bebb-40c9-a759-f78b11f38983",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6ecb3a0-bebb-40c9-a759-f78b11f38983",
+                    "title": "Words of Love",
+                    "length": "115293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11ae029f-8602-454f-ad19-3438d0665434",
+                "direction": "backward",
+                "recording": {
+                    "id": "11ae029f-8602-454f-ad19-3438d0665434",
+                    "title": "Words of Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ea60c96-59f7-4048-81d5-225a455fa445",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ea60c96-59f7-4048-81d5-225a455fa445",
+                    "title": "Words of Love",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22e3b746-8efc-4f38-aacc-e824d65575ea",
+                "direction": "backward",
+                "recording": {
+                    "id": "22e3b746-8efc-4f38-aacc-e824d65575ea",
+                    "title": "Words of Love",
+                    "length": "112693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0692af9c-2f7b-4eb9-81c4-f12ce8dc6acd",
+                "direction": "backward",
+                "recording": {
+                    "id": "0692af9c-2f7b-4eb9-81c4-f12ce8dc6acd",
+                    "title": "Words of Love",
+                    "length": "115733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "424df4f8-2d57-4796-b7ba-ab59a1aa479a",
+                "direction": "backward",
+                "recording": {
+                    "id": "424df4f8-2d57-4796-b7ba-ab59a1aa479a",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e35750cd-4128-4da6-81f3-54ec81d1c350",
+                "direction": "backward",
+                "recording": {
+                    "id": "e35750cd-4128-4da6-81f3-54ec81d1c350",
+                    "title": "Words of Love",
+                    "length": "117226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "561a0253-62cd-4df3-92bd-a79395e24da7",
+                "direction": "backward",
+                "recording": {
+                    "id": "561a0253-62cd-4df3-92bd-a79395e24da7",
+                    "title": "Words of Love",
+                    "length": "114964"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad9d1c63-808b-4fb9-a8be-ce8e0efbf28e",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad9d1c63-808b-4fb9-a8be-ce8e0efbf28e",
+                    "title": "Words of Love",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7c547a7-4d91-4169-a684-e1075ada0839",
+                "direction": "backward",
+                "recording": {
+                    "id": "a7c547a7-4d91-4169-a684-e1075ada0839",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c39c5a1d-0e50-404f-8e64-1a2333656f89",
+                "direction": "backward",
+                "recording": {
+                    "id": "c39c5a1d-0e50-404f-8e64-1a2333656f89",
+                    "title": "Words of Love",
+                    "length": "117000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff9fc1b6-901b-46af-890e-5f7fa12e2603",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff9fc1b6-901b-46af-890e-5f7fa12e2603",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9518a0a-5499-4374-a5cc-4071d837a7da",
+                "direction": "backward",
+                "recording": {
+                    "id": "d9518a0a-5499-4374-a5cc-4071d837a7da",
+                    "title": "Words of Love",
+                    "length": "117080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f38d480-2f5d-4934-8496-e16b4270a077",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f38d480-2f5d-4934-8496-e16b4270a077",
+                    "title": "Words of Love",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7cf4a38-7fd6-4062-947d-93c2e0682699",
+                "direction": "backward",
+                "recording": {
+                    "id": "b7cf4a38-7fd6-4062-947d-93c2e0682699",
+                    "title": "Words of Love",
+                    "length": "112906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f4f5b84-620f-4c29-84d2-43284eeba3ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f4f5b84-620f-4c29-84d2-43284eeba3ab",
+                    "title": "Words of Love",
+                    "length": "117333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efee2236-ca40-4135-9126-707c6b47578f",
+                "direction": "backward",
+                "recording": {
+                    "id": "efee2236-ca40-4135-9126-707c6b47578f",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02e70c2f-a1ce-4a5c-8e9f-7dadab34cc8e",
+                "direction": "backward",
+                "recording": {
+                    "id": "02e70c2f-a1ce-4a5c-8e9f-7dadab34cc8e",
+                    "title": "Words of Love",
+                    "length": "116800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a28849c1-66c5-4d0f-bbd2-7c323c247cb8",
+                "direction": "backward",
+                "recording": {
+                    "id": "a28849c1-66c5-4d0f-bbd2-7c323c247cb8",
+                    "title": "Words of Love",
+                    "length": "113000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c043aa63-00fc-49f1-a2de-7727f2ee8c43",
+                "direction": "backward",
+                "recording": {
+                    "id": "c043aa63-00fc-49f1-a2de-7727f2ee8c43",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35580efd-b0a7-4f36-abfd-319358141b6a",
+                "direction": "backward",
+                "recording": {
+                    "id": "35580efd-b0a7-4f36-abfd-319358141b6a",
+                    "title": "Words of Love",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77cea7dc-792f-4299-883d-fbced80a7089",
+                "direction": "backward",
+                "recording": {
+                    "id": "77cea7dc-792f-4299-883d-fbced80a7089",
+                    "title": "Words of Love",
+                    "length": "117173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05ca6eee-c5a0-47e3-80d0-48cba595e5e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "05ca6eee-c5a0-47e3-80d0-48cba595e5e0",
+                    "title": "Words of Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54a1867a-c9c5-4d2c-9154-f0cf30d78e8e",
+                "direction": "backward",
+                "recording": {
+                    "id": "54a1867a-c9c5-4d2c-9154-f0cf30d78e8e",
+                    "title": "Words of Love",
+                    "length": "171106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f9c3002-386c-42de-8039-83e2c350c1d1",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f9c3002-386c-42de-8039-83e2c350c1d1",
+                    "title": "Words of Love",
+                    "length": "116400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32640ca6-839d-4e38-9abf-0410fd2d75ba",
+                "direction": "backward",
+                "recording": {
+                    "id": "32640ca6-839d-4e38-9abf-0410fd2d75ba",
+                    "title": "Words of Love",
+                    "length": "112000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1bf447d6-751a-4c54-8ab3-14ae9fd24199",
+                "direction": "backward",
+                "recording": {
+                    "id": "1bf447d6-751a-4c54-8ab3-14ae9fd24199",
+                    "title": "Words of Love",
+                    "length": "112320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d02d4907-4bcb-4e20-a753-4f02cf3deda9",
+                "direction": "backward",
+                "recording": {
+                    "id": "d02d4907-4bcb-4e20-a753-4f02cf3deda9",
+                    "title": "Words of Love",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "499e5be5-0eff-44d0-960d-a59b2a2c9214",
+                "direction": "backward",
+                "recording": {
+                    "id": "499e5be5-0eff-44d0-960d-a59b2a2c9214",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63cf2d8d-869d-4560-b282-2676de6da904",
+                "direction": "backward",
+                "recording": {
+                    "id": "63cf2d8d-869d-4560-b282-2676de6da904",
+                    "title": "Words of Love",
+                    "length": "118946"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2692f5ff-5761-44be-a749-588fb1358d00",
+                "direction": "backward",
+                "recording": {
+                    "id": "2692f5ff-5761-44be-a749-588fb1358d00",
+                    "title": "Words of Love",
+                    "length": "113306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfb452ef-ff18-404c-903a-32fad356b9db",
+                "direction": "backward",
+                "recording": {
+                    "id": "dfb452ef-ff18-404c-903a-32fad356b9db",
+                    "title": "Words of Love",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a59d4fc-96fe-4702-b43a-48eb55552b00",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a59d4fc-96fe-4702-b43a-48eb55552b00",
+                    "title": "Words of Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04ffe946-1f1e-42ee-a436-9409f40c5706",
+                "direction": "backward",
+                "recording": {
+                    "id": "04ffe946-1f1e-42ee-a436-9409f40c5706",
+                    "title": "Words of Love",
+                    "length": "93000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "550f5255-c41c-4017-9fc5-9b9ec89c8f73",
+                "direction": "backward",
+                "recording": {
+                    "id": "550f5255-c41c-4017-9fc5-9b9ec89c8f73",
+                    "title": "Words of Love",
+                    "length": "94533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d9fc145-ba00-4c3d-9655-fc210f6badda",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d9fc145-ba00-4c3d-9655-fc210f6badda",
+                    "title": "Words of Love",
+                    "length": "115666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a4224ce-7dd5-4707-acd5-0872aa5e6c3f",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a4224ce-7dd5-4707-acd5-0872aa5e6c3f",
+                    "title": "Words of Love",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79674cb3-79bd-49a1-839e-43b1e11ce0ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "79674cb3-79bd-49a1-839e-43b1e11ce0ac",
+                    "title": "Words of Love",
+                    "length": "112706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a69d36ac-d8d1-417c-8e96-e6d7e98228cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "a69d36ac-d8d1-417c-8e96-e6d7e98228cc",
+                    "title": "Words of Love",
+                    "length": "114854"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ec26ce2-d75a-4b9b-a2e0-346f883996a4",
+                "direction": "backward",
+                "recording": {
+                    "id": "1ec26ce2-d75a-4b9b-a2e0-346f883996a4",
+                    "title": "Words of Love",
+                    "length": "112920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d903658d-63b1-4c3b-9063-a6ce8eeda1ca",
+                "direction": "backward",
+                "recording": {
+                    "id": "d903658d-63b1-4c3b-9063-a6ce8eeda1ca",
+                    "title": "Words of Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c0836ab-683b-4752-9898-74092ee3e039",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c0836ab-683b-4752-9898-74092ee3e039",
+                    "title": "Words of Love",
+                    "length": "115840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6941eb4a-d00f-4983-9bea-d90c14a92e45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6941eb4a-d00f-4983-9bea-d90c14a92e45",
+                    "title": "Words of Love",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd0e75c5-f2b1-49e1-8752-04d163c06d1b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cd0e75c5-f2b1-49e1-8752-04d163c06d1b",
+                    "title": "Words of Love",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed1ae937-400d-474b-99e8-855ab96331a6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ed1ae937-400d-474b-99e8-855ab96331a6",
+                    "title": "Words of Love",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4533bff-313f-44c1-aafe-16bbae9168a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d4533bff-313f-44c1-aafe-16bbae9168a0",
+                    "title": "Words of Love",
+                    "length": "134240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e67f8ead-bd07-4e5f-a2b9-427337c4885a",
+                "direction": "backward",
+                "recording": {
+                    "id": "e67f8ead-bd07-4e5f-a2b9-427337c4885a",
+                    "title": "Words of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ccc1d0c-6c24-4717-8818-fe298c3c3887",
+                "direction": "backward",
+                "recording": {
+                    "id": "2ccc1d0c-6c24-4717-8818-fe298c3c3887",
+                    "title": "Words of Love",
+                    "length": "116360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40251f8a-08dd-49f4-8fbd-245bd9a79727",
+                "direction": "backward",
+                "recording": {
+                    "id": "40251f8a-08dd-49f4-8fbd-245bd9a79727",
+                    "title": "Words of Love",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d48a3bb9-bda0-4f73-84f0-687da891ce61",
+                "direction": "backward",
+                "recording": {
+                    "id": "d48a3bb9-bda0-4f73-84f0-687da891ce61",
+                    "title": "Words of Love",
+                    "length": "117333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2130425-ac8f-49ee-af8f-5fd0d86509d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e2130425-ac8f-49ee-af8f-5fd0d86509d0",
+                    "title": "Words of Love",
+                    "length": "191000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9a6ea8f-97a8-47ab-bb7d-2f624efe9990",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f9a6ea8f-97a8-47ab-bb7d-2f624efe9990",
+                    "title": "Words of Love",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85b59f07-ffbc-47a9-bb2b-68fb9e4f88a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "85b59f07-ffbc-47a9-bb2b-68fb9e4f88a8",
+                    "title": "Words of Love",
+                    "length": "113440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e84a120-8eba-4d0f-bfa3-82968710bc93",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1e84a120-8eba-4d0f-bfa3-82968710bc93",
+                    "title": "Words of Love",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e34ce065-b139-40bb-bb01-8ea4b506f964",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e34ce065-b139-40bb-bb01-8ea4b506f964",
+                    "title": "Words of Love",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cc4c18a-335b-4af6-bbaa-2f9feef0953b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2cc4c18a-335b-4af6-bbaa-2f9feef0953b",
+                    "title": "Words of Love",
+                    "length": "135000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82a4637b-279f-4cb2-a566-8386f45aee76",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "82a4637b-279f-4cb2-a566-8386f45aee76",
+                    "title": "Words of Love",
+                    "length": "133573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd5bda04-a9e5-417a-a4e8-aab92a9a3078",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd5bda04-a9e5-417a-a4e8-aab92a9a3078",
+                    "title": "Words of Love",
+                    "length": "111000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f5a70c3-d6a9-4244-b24c-8d99f3c4ade6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5f5a70c3-d6a9-4244-b24c-8d99f3c4ade6",
+                    "title": "Words of Love",
+                    "length": "132626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b997193d-fea4-4e7e-b4e3-ec361147a3b6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b997193d-fea4-4e7e-b4e3-ec361147a3b6",
+                    "title": "Words of Love",
+                    "length": "122773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "124dd32d-afd4-4b1a-9534-cdf0956a03d2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "124dd32d-afd4-4b1a-9534-cdf0956a03d2",
+                    "title": "Words of Love",
+                    "length": "124280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "442462ec-745d-49f3-8b48-b64baa300dae",
+                "direction": "backward",
+                "recording": {
+                    "id": "442462ec-745d-49f3-8b48-b64baa300dae",
+                    "title": "Words Of Love",
+                    "length": "115600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0133419d-a9e3-450f-a548-2a5086762bf3",
+                "direction": "backward",
+                "recording": {
+                    "id": "0133419d-a9e3-450f-a548-2a5086762bf3",
+                    "title": "Words Of Love",
+                    "length": "116640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b84210b9-902b-429c-afb4-cf345d9b6be1",
+                "direction": "backward",
+                "recording": {
+                    "id": "b84210b9-902b-429c-afb4-cf345d9b6be1",
+                    "title": "Words Of Love",
+                    "length": "115293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e46f1eb4-4a6b-4a99-bf2f-e5bcdc882927",
+                "direction": "backward",
+                "recording": {
+                    "id": "e46f1eb4-4a6b-4a99-bf2f-e5bcdc882927",
+                    "title": "Words Of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3741525-ab30-4083-822d-8abcd045d73a",
+                "direction": "backward",
+                "recording": {
+                    "id": "f3741525-ab30-4083-822d-8abcd045d73a",
+                    "title": "Words Of Love",
+                    "length": "114240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc0a300b-ab30-4bad-a0d8-f3dcf549dc1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc0a300b-ab30-4bad-a0d8-f3dcf549dc1c",
+                    "title": "Words Of Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba599d17-94b6-431b-b0c9-7660431fe4ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba599d17-94b6-431b-b0c9-7660431fe4ae",
+                    "title": "Words Of Love",
+                    "length": "119493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a67b3e9-eb36-43c0-94a9-394afee6f28e",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a67b3e9-eb36-43c0-94a9-394afee6f28e",
+                    "title": "Words Of Love",
+                    "length": "113000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c23906fb-e738-47e1-9291-a378842a4fc9",
+                "direction": "backward",
+                "recording": {
+                    "id": "c23906fb-e738-47e1-9291-a378842a4fc9",
+                    "title": "Words of Love (acoustic \u2013 Hartford, CT 10/1/83)",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53f50be0-4e60-4164-9823-af40582c1fc0",
+                "direction": "backward",
+                "recording": {
+                    "id": "53f50be0-4e60-4164-9823-af40582c1fc0",
+                    "title": "Words of Love (demo)",
+                    "length": "94733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6992eac5-5b11-43fa-a121-b1416d30a51c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6992eac5-5b11-43fa-a121-b1416d30a51c",
+                    "title": "Words of Love (Mono)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdb6498a-add1-4e26-b966-8121d9f7a5fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bdb6498a-add1-4e26-b966-8121d9f7a5fd",
+                    "title": "Words Of Love (RM1 Take 3)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f69758e4-ff82-46b5-9620-d6717d5065d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f69758e4-ff82-46b5-9620-d6717d5065d1",
+                    "title": "Words Of Love (RS1 Take 3)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fccfbfb3-5254-4b9f-bd1d-f0e8b18ea20a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fccfbfb3-5254-4b9f-bd1d-f0e8b18ea20a",
+                    "title": "Words of Love 23.28",
+                    "length": "83000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/52134",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2565537",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Words_of_Love",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "d436e0b2-fe5e-4fcd-9f2f-cfe4cfe1a540",
+                "direction": "forward",
+                "work": {
+                    "id": "d436e0b2-fe5e-4fcd-9f2f-cfe4cfe1a540",
+                    "type": "Song",
+                    "title": "Lieveling",
+                    "language": "nld"
+                }
+            }
+        ]
+    }
+}

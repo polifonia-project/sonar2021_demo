@@ -1,0 +1,96 @@
+{
+    "work": {
+        "id": "832165b1-f5a2-4d4e-83ab-e04aec78beb2",
+        "type": "Song",
+        "title": "Barnyard Blues",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "56ccb1ca-96b4-4314-a167-944e7c01bec8",
+                "direction": "backward",
+                "artist": {
+                    "id": "56ccb1ca-96b4-4314-a167-944e7c01bec8",
+                    "type": "Person",
+                    "name": "Nick LaRocca",
+                    "sort-name": "LaRocca, Nick"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b50d0f09-c2e1-4962-ac1a-9484ab6f58ce",
+                "direction": "backward",
+                "begin": "1917-02-26",
+                "end": "1917-02-26",
+                "ended": "true",
+                "recording": {
+                    "id": "b50d0f09-c2e1-4962-ac1a-9484ab6f58ce",
+                    "title": "Livery Stable Blues",
+                    "length": "188000",
+                    "disambiguation": "studio, 1917-02-26, Victor, matrix 19331-1"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a659962b-b14b-4467-9c0f-e23563a6bb1e",
+                "direction": "backward",
+                "begin": "1923-04",
+                "end": "1923-04",
+                "ended": "true",
+                "recording": {
+                    "id": "a659962b-b14b-4467-9c0f-e23563a6bb1e",
+                    "title": "Barnyard Blues",
+                    "length": "180466",
+                    "disambiguation": "studio, 1923-04, for Okeh"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f58d9090-01f3-4707-b86a-f0a76a2c96d1",
+                "direction": "backward",
+                "begin": "1936-11-10",
+                "end": "1936-11-10",
+                "ended": "true",
+                "recording": {
+                    "id": "f58d9090-01f3-4707-b86a-f0a76a2c96d1",
+                    "title": "Barn Yard Blues",
+                    "length": "156053",
+                    "disambiguation": "studio, 1936-11-10, Victor, matrix 02488-1"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6bcbd3e7-9caf-4439-b2d3-d35c77071a86",
+                "direction": "backward",
+                "begin": "1946-04-06",
+                "end": "1946-04-06",
+                "ended": "true",
+                "recording": {
+                    "id": "6bcbd3e7-9caf-4439-b2d3-d35c77071a86",
+                    "title": "Barnyard Blues",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad473878-0815-43d8-936c-2e12a1b57c30",
+                "direction": "backward",
+                "begin": "1946-04-06",
+                "end": "1946-04-06",
+                "ended": "true",
+                "recording": {
+                    "id": "ad473878-0815-43d8-936c-2e12a1b57c30",
+                    "title": "Barnyard Blues No. 2",
+                    "length": "216000"
+                }
+            }
+        ]
+    }
+}

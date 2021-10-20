@@ -1,0 +1,1181 @@
+{
+    "work": {
+        "id": "2b563c5e-3eed-3405-949d-065c58191284",
+        "type": "Song",
+        "title": "You\u2019re My Best Friend",
+        "language": "eng",
+        "iswc": "T-010.117.366-3",
+        "iswc-list": [
+            "T-010.117.366-3"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "71e25609-33f3-4c22-b341-708f74a943e0",
+                "direction": "backward",
+                "label": {
+                    "id": "71e25609-33f3-4c22-b341-708f74a943e0",
+                    "type": "Publisher",
+                    "name": "B. Feldman & Co. Ltd.",
+                    "sort-name": "B. Feldman & Co. Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "aac11752-a2f6-45c6-a887-3f4eb1b2e4ad",
+                "direction": "backward",
+                "label": {
+                    "id": "aac11752-a2f6-45c6-a887-3f4eb1b2e4ad",
+                    "type": "Publisher",
+                    "name": "EMI Music",
+                    "sort-name": "EMI Music",
+                    "disambiguation": "do not use as release label! this is a music publisher"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09845059-3e25-43b1-8e3b-fc9a2d122ffe",
+                "direction": "backward",
+                "begin": "1976-09-18",
+                "end": "1976-09-18",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "09845059-3e25-43b1-8e3b-fc9a2d122ffe",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "123306",
+                    "disambiguation": "live, 1976-09-18: Hyde Park, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a862086-ff92-4e35-9eb8-a4c9ec5b3c16",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "8a862086-ff92-4e35-9eb8-a4c9ec5b3c16",
+                    "title": "Medley: 1. Killer Queen / 2. The Millionaire Waltz / 3. You're My Best Friend / 4. Bring Back That Leroy Brown",
+                    "length": "489200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c643510-efe7-436b-8b52-7d28ec568466",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8c643510-efe7-436b-8b52-7d28ec568466",
+                    "title": "You\u2019re My Best Friend",
+                    "disambiguation": "live, 1977-03-13: Seattle Center Arena, Seattle, WA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0af0b31c-6d54-46bc-ab5b-95ffd47acd61",
+                "direction": "backward",
+                "begin": "1977-06-06",
+                "end": "1977-06-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "0af0b31c-6d54-46bc-ab5b-95ffd47acd61",
+                    "title": "The Millionaire Waltz / You\u2019re My Best Friend",
+                    "length": "453000",
+                    "disambiguation": "live, 1977-06-06: Earl's Court, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52eaf6b3-6c03-4f06-abcb-bff9ebce5541",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "52eaf6b3-6c03-4f06-abcb-bff9ebce5541",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "141413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c38d56e-3cb0-48b6-a9f0-125dde5d4983",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c38d56e-3cb0-48b6-a9f0-125dde5d4983",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "134764",
+                    "disambiguation": "mono soundboard recorded live, 1977-12-11: The Summit, Houstan, Texas, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a9781a5-637c-405b-8a2c-ebe296d37350",
+                "direction": "backward",
+                "begin": "1978-11-19",
+                "end": "1978-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1a9781a5-637c-405b-8a2c-ebe296d37350",
+                    "title": "You\u2019re My Best Friend",
+                    "disambiguation": "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0331a941-e8de-4576-b348-d70667988057",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0331a941-e8de-4576-b348-d70667988057",
+                    "title": "You\u2019re My Best Friend"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "006759c6-4a2d-47f2-8dae-a600dbead3bc",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "006759c6-4a2d-47f2-8dae-a600dbead3bc",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "171013",
+                    "disambiguation": "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "918b9476-fb67-4744-856a-18040ef4fab5",
+                "direction": "backward",
+                "begin": "1978-12-14",
+                "end": "1978-12-14",
+                "ended": "true",
+                "recording": {
+                    "id": "918b9476-fb67-4744-856a-18040ef4fab5",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "140000",
+                    "disambiguation": "live, 1978-12-14: PNE Coliseum, Vancouver, BC, Canada"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d892405-b309-4ad1-ab1d-c31790a4f9a5",
+                "direction": "backward",
+                "begin": "1979-01-24",
+                "end": "1979-01-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5d892405-b309-4ad1-ab1d-c31790a4f9a5",
+                    "title": "You\u2019re My Best Friend",
+                    "disambiguation": "live, 1979-01-24: Deutschlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad17c6de-c38b-44d0-88f6-01dfdfdd698d",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ad17c6de-c38b-44d0-88f6-01dfdfdd698d",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "128000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b45749b-b4fc-4d28-899f-113a94ecc83b",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1b45749b-b4fc-4d28-899f-113a94ecc83b",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "128000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1851e3bf-1c45-4a5e-867c-5cfa56c61ecb",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1851e3bf-1c45-4a5e-867c-5cfa56c61ecb",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "119000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70f9fe6e-0133-4113-8f20-9814245a1c46",
+                "direction": "backward",
+                "begin": "1979-01",
+                "end": "1979-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "70f9fe6e-0133-4113-8f20-9814245a1c46",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "130706",
+                    "disambiguation": "live, 1979"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5df4d58-9e0d-4c1e-a7e4-c5e603dfa2d3",
+                "direction": "backward",
+                "begin": "1979-12-03",
+                "end": "1979-12-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e5df4d58-9e0d-4c1e-a7e4-c5e603dfa2d3",
+                    "title": "You\u2019re My Best Friend",
+                    "disambiguation": "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d61848a8-3d0b-4cca-9bfc-610c4c0b3dd3",
+                "direction": "backward",
+                "begin": "1981-12-08",
+                "end": "1981-12-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d61848a8-3d0b-4cca-9bfc-610c4c0b3dd3",
+                    "title": "You're My Best Friend",
+                    "length": "215800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db14b829-4e5a-4357-9072-61beab10ff0a",
+                "direction": "backward",
+                "begin": "2007-12-12",
+                "end": "2007-12-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "db14b829-4e5a-4357-9072-61beab10ff0a",
+                    "title": "You\u2019re My Best Friend",
+                    "disambiguation": "live, 2007-12-12: Walter-K\u00f6bel-Sporthalle, R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbee0fac-9476-4d02-976c-b6dc4f4d00be",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cbee0fac-9476-4d02-976c-b6dc4f4d00be",
+                    "title": "Best Friend",
+                    "length": "184333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b2ccb44-1ddb-4462-aa4e-d8b228096445",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8b2ccb44-1ddb-4462-aa4e-d8b228096445",
+                    "title": "Best Friend",
+                    "length": "151280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c7304e7-e992-486c-ab3b-7844593bca99",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "6c7304e7-e992-486c-ab3b-7844593bca99",
+                    "title": "Friend Medley",
+                    "length": "128060"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f991f883-1294-4111-aa4e-70e0c2933580",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f991f883-1294-4111-aa4e-70e0c2933580",
+                    "title": "You're My Best Friend",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "daf5773e-309b-41d2-b075-49a16d3e5cf2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "daf5773e-309b-41d2-b075-49a16d3e5cf2",
+                    "title": "You're My Best Friend",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acef2727-6aad-48ce-b6e1-64da654838be",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "acef2727-6aad-48ce-b6e1-64da654838be",
+                    "title": "You're My Best Friend",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25ad34b4-13b9-4ade-a9bd-2c4cdc46d722",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "25ad34b4-13b9-4ade-a9bd-2c4cdc46d722",
+                    "title": "You're My Best Friend",
+                    "length": "173413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dddd0e84-e121-4e43-8e8b-c0435b9def71",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dddd0e84-e121-4e43-8e8b-c0435b9def71",
+                    "title": "You're My Best Friend",
+                    "length": "145000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17ed2c69-9ac8-4542-bdbe-34a4ff3187e9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "17ed2c69-9ac8-4542-bdbe-34a4ff3187e9",
+                    "title": "You're My Best Friend",
+                    "length": "152080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "868d7717-d5a2-4e74-9436-0129cd078e45",
+                "direction": "backward",
+                "recording": {
+                    "id": "868d7717-d5a2-4e74-9436-0129cd078e45",
+                    "title": "You're My Best Friend",
+                    "length": "169893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ef8928b-d978-4723-87af-a227d8e64139",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6ef8928b-d978-4723-87af-a227d8e64139",
+                    "title": "You're My Best Friend",
+                    "length": "192000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de270d45-31d8-4b08-af15-c6d3833a6d70",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "de270d45-31d8-4b08-af15-c6d3833a6d70",
+                    "title": "You're My Best Friend",
+                    "length": "205400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "122b4916-a8b1-42e6-8861-d7faee37cfdc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "122b4916-a8b1-42e6-8861-d7faee37cfdc",
+                    "title": "You're My Best Friend",
+                    "length": "145213"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8aa09a1f-abde-4fe1-b053-4b1c2cd482a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8aa09a1f-abde-4fe1-b053-4b1c2cd482a0",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "187986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "471dc436-80be-4f06-bc8f-7e2685876cfc",
+                "direction": "backward",
+                "recording": {
+                    "id": "471dc436-80be-4f06-bc8f-7e2685876cfc",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06671ed0-3b03-4d62-a10c-f4b126a05eae",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "06671ed0-3b03-4d62-a10c-f4b126a05eae",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "173400",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d2b51b8-0a1f-4ac8-9e35-c1af27d495a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d2b51b8-0a1f-4ac8-9e35-c1af27d495a0",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "178093",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6b5ec94-8807-456a-a5a4-6d74e89fe648",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e6b5ec94-8807-456a-a5a4-6d74e89fe648",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "182560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2eb6d64c-214e-4778-afca-24bc72d27639",
+                "direction": "backward",
+                "recording": {
+                    "id": "2eb6d64c-214e-4778-afca-24bc72d27639",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dde9e222-5a30-4655-b880-43306a551ec9",
+                "direction": "backward",
+                "recording": {
+                    "id": "dde9e222-5a30-4655-b880-43306a551ec9",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "161493",
+                    "disambiguation": "live, 1979-12-26: Hammersmith Odeon, London, England, UK"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6cf7e423-e1a9-4aa4-8f2e-6823fd740994",
+                "direction": "backward",
+                "recording": {
+                    "id": "6cf7e423-e1a9-4aa4-8f2e-6823fd740994",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "138000",
+                    "disambiguation": "live, 1978-12-01: Rainbow Theatre, London, England"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f22552a-53c8-49f5-a63f-65e89ddd192c",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f22552a-53c8-49f5-a63f-65e89ddd192c",
+                    "title": "You\u2019re My Best Friend"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaae5fe8-8b01-40a5-8504-6cace54661d3",
+                "direction": "backward",
+                "recording": {
+                    "id": "aaae5fe8-8b01-40a5-8504-6cace54661d3",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "170920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce5be117-ddb1-4a9c-8741-925f1a741e3a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ce5be117-ddb1-4a9c-8741-925f1a741e3a",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "178093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2b34778-2b6a-4bce-9ca2-e3d368208b94",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e2b34778-2b6a-4bce-9ca2-e3d368208b94",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "241640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82958d18-c270-4bba-8c4b-01de94e0185a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "82958d18-c270-4bba-8c4b-01de94e0185a",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "189000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e378738-9e39-4e51-a1dd-df9a467b46f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e378738-9e39-4e51-a1dd-df9a467b46f3",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f9d5797-e821-4680-a2ec-b9934cf3e08d",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f9d5797-e821-4680-a2ec-b9934cf3e08d",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "170000",
+                    "disambiguation": "2002 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1014e8ba-1183-4172-85f0-b7d95f0ea586",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1014e8ba-1183-4172-85f0-b7d95f0ea586",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "184666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e32de60-c365-49b7-87a8-e2b6868298c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e32de60-c365-49b7-87a8-e2b6868298c3",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "170000",
+                    "disambiguation": "2001 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a19c0cf-6a7f-4225-bf60-744dd3fe9eda",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a19c0cf-6a7f-4225-bf60-744dd3fe9eda",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "172000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "773fe6db-0c37-4e55-b08d-cceec71f14bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "773fe6db-0c37-4e55-b08d-cceec71f14bb",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "85994",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "449574f0-2d54-4a98-9afa-cd98fa2d054f",
+                "direction": "backward",
+                "recording": {
+                    "id": "449574f0-2d54-4a98-9afa-cd98fa2d054f",
+                    "title": "You\u2019re My Best Friend"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc1f7f88-fa92-4ae4-b722-fba96876b726",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc1f7f88-fa92-4ae4-b722-fba96876b726",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c3306e5-3414-414d-8746-4744a9e4f87a",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c3306e5-3414-414d-8746-4744a9e4f87a",
+                    "title": "You\u2019re My Best Friend",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7cdd160-1510-46d8-a468-03723b8d8810",
+                "direction": "backward",
+                "recording": {
+                    "id": "e7cdd160-1510-46d8-a468-03723b8d8810",
+                    "title": "You\u2019re My Best Friend (1991 bonus remix by Matt Wallace)",
+                    "length": "171960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79143e84-fb21-4031-b79b-9e8c0e265561",
+                "direction": "backward",
+                "recording": {
+                    "id": "79143e84-fb21-4031-b79b-9e8c0e265561",
+                    "title": "You\u2019re My Best Friend (backing track mix 2011)",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec543ec1-1e45-4a87-8c1c-50d9fbd78ac6",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec543ec1-1e45-4a87-8c1c-50d9fbd78ac6",
+                    "title": "You\u2019re My Best Friend (Hollywood remix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59278d09-c70f-4041-a62b-764909503dfc",
+                "direction": "backward",
+                "recording": {
+                    "id": "59278d09-c70f-4041-a62b-764909503dfc",
+                    "title": "You\u2019re My Best Friend (with commentary)",
+                    "length": "125506"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/8439",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q839848",
+                "direction": "backward"
+            }
+        ]
+    }
+}

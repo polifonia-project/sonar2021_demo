@@ -1,0 +1,4431 @@
+{
+    "work": {
+        "id": "7368c546-3275-3490-af03-1b4772a14892",
+        "type": "Song",
+        "title": "Lucy in the Sky With Diamonds",
+        "language": "eng",
+        "iswc": "T-010.434.501-8",
+        "iswc-list": [
+            "T-010.434.501-8"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 232 49"
+            },
+            {
+                "attribute": "SPAC ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12299074"
+            },
+            {
+                "attribute": "SOBODAYCOM ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75201455200"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "8104057000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.068.665"
+            },
+            {
+                "attribute": "SGACEDOM ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366429"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366429"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "868168"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "2092936"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3323126"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009958647"
+            },
+            {
+                "attribute": "SACIM ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "000904600"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "12912A"
+            },
+            {
+                "attribute": "NICAUTOR ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0L0-2126-2"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634886-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "6930"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11280139"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000069800"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "420138916"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW03528120"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3306646"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "11864401"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6027786"
+            },
+            {
+                "attribute": "AEI ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "AACIMH ID",
+                "value": "3383352"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "935613"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb808f38-ffea-476f-8697-089c5a2af073",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-01",
+                "ended": "true",
+                "recording": {
+                    "id": "eb808f38-ffea-476f-8697-089c5a2af073",
+                    "title": "Lucy in the Sky With Diamonds (speech, false start and take 5)",
+                    "length": "248480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc31d83d-da0a-41c0-9a7a-64b3ae9d4f6a",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-01",
+                "ended": "true",
+                "recording": {
+                    "id": "fc31d83d-da0a-41c0-9a7a-64b3ae9d4f6a",
+                    "title": "Lucy in the Sky With Diamonds (take 1 and speech at the end)",
+                    "length": "220320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aefed410-5c42-4194-b577-29dd6aa31841",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-01",
+                "ended": "true",
+                "recording": {
+                    "id": "aefed410-5c42-4194-b577-29dd6aa31841",
+                    "title": "Lucy in the Sky With Diamonds (take 1)",
+                    "length": "238867"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "860e70cf-1686-40e3-a542-42507d5af3de",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "860e70cf-1686-40e3-a542-42507d5af3de",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "207000",
+                    "disambiguation": "5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93dd1e2f-e851-47cd-8f09-f7c9ad69e919",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "93dd1e2f-e851-47cd-8f09-f7c9ad69e919",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "185280",
+                    "disambiguation": "Anthology remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23b342d3-1f0b-4a0b-a419-d873cec3b259",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "23b342d3-1f0b-4a0b-a419-d873cec3b259",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "209000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "075e2dd0-421f-44ae-9515-8f8a6bf7febe",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "075e2dd0-421f-44ae-9515-8f8a6bf7febe",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "207680",
+                    "disambiguation": "2017 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0dc96b5b-7b20-41e6-99c2-409015a0a651",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "0dc96b5b-7b20-41e6-99c2-409015a0a651",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "211026",
+                    "disambiguation": "1999 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e766a942-00ac-48bc-9ea3-05d4a0c3997a",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "e766a942-00ac-48bc-9ea3-05d4a0c3997a",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "207333",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e04b651-82bb-4132-a12c-a78f074673c6",
+                "direction": "backward",
+                "begin": "1967-03-01",
+                "end": "1967-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "7e04b651-82bb-4132-a12c-a78f074673c6",
+                    "title": "Lucy in the Sky With Diamonds (original mono mix \u2013 no. 11)",
+                    "length": "229826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "424794b9-c584-4c30-ba87-aa7f91f1213b",
+                "direction": "backward",
+                "begin": "1967-09-13",
+                "end": "1967-09-13",
+                "ended": "true",
+                "recording": {
+                    "id": "424794b9-c584-4c30-ba87-aa7f91f1213b",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff0deb12-a33e-4862-872d-2280612dbb31",
+                "direction": "backward",
+                "begin": "1967-09-17",
+                "end": "1967-09-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ff0deb12-a33e-4862-872d-2280612dbb31",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "582000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecf68c1f-472e-4346-8d95-e27233f0f2cd",
+                "direction": "backward",
+                "begin": "1974-11-28",
+                "end": "1974-11-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ecf68c1f-472e-4346-8d95-e27233f0f2cd",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "372000",
+                    "disambiguation": "live, 1974-11-28: Madison Square Garden, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6dd2ace1-b346-416e-a4a1-3f8e2e0008f5",
+                "direction": "backward",
+                "begin": "1974-11-28",
+                "end": "1974-11-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6dd2ace1-b346-416e-a4a1-3f8e2e0008f5",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "375000",
+                    "disambiguation": "live, 1974-11-28: Madison Square Garden, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4756e2c0-7585-4251-876a-6e8d697edc21",
+                "direction": "backward",
+                "begin": "1974-11-28",
+                "end": "1974-11-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4756e2c0-7585-4251-876a-6e8d697edc21",
+                    "title": "Lucy in the Sky With Diamonds (live)",
+                    "length": "359573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a11d0a1-0789-4bbc-b3bc-ef7233472eb3",
+                "direction": "backward",
+                "begin": "1977-04",
+                "end": "1977-04",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7a11d0a1-0789-4bbc-b3bc-ef7233472eb3",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "233000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5672180-87fd-43ee-9d47-76de0caa9950",
+                "direction": "backward",
+                "begin": "1985-10-15",
+                "end": "1985-10-15",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a5672180-87fd-43ee-9d47-76de0caa9950",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "230160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eea7d83a-c69c-4b3f-a7d5-64175aad65cf",
+                "direction": "backward",
+                "begin": "1995-03-17",
+                "end": "1995-03-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "eea7d83a-c69c-4b3f-a7d5-64175aad65cf",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "478000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a8e2607-f25e-43f8-a720-61baf3c57de6",
+                "direction": "backward",
+                "begin": "1998-06-02",
+                "end": "1998-06-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7a8e2607-f25e-43f8-a720-61baf3c57de6",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "disambiguation": "live, 1998-06-02: Ibrox Stadium, Glasgow, Scotland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1856443c-359d-4b1f-bdbc-a5496cdfe9da",
+                "direction": "backward",
+                "begin": "2002-02-23",
+                "end": "2002-02-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1856443c-359d-4b1f-bdbc-a5496cdfe9da",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f74246e-8f67-4a01-9698-ae46e039d308",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9f74246e-8f67-4a01-9698-ae46e039d308",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47887e1c-edc6-4f36-bc84-555c86483728",
+                "direction": "backward",
+                "begin": "2013-11-08",
+                "end": "2013-11-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "47887e1c-edc6-4f36-bc84-555c86483728",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "201000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7717c213-c7e3-4dd6-837b-4843baab0d6f",
+                "direction": "backward",
+                "begin": "2016-10",
+                "end": "2016-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7717c213-c7e3-4dd6-837b-4843baab0d6f",
+                    "title": "Lucy in the Sky With Diamond",
+                    "length": "228000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee711d7c-1637-4220-9e0d-c710d700c7d5",
+                "direction": "backward",
+                "begin": "2016",
+                "end": "2016",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ee711d7c-1637-4220-9e0d-c710d700c7d5",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "224947"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5dcb622f-52df-476e-b193-cc0c2db3a0f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5dcb622f-52df-476e-b193-cc0c2db3a0f7",
+                    "title": "Louisiana Hooker With Herpes",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20a5081e-b1b6-4ef5-82ef-4cc0a6e7ad90",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "20a5081e-b1b6-4ef5-82ef-4cc0a6e7ad90",
+                    "title": "Lucy in the Sky",
+                    "length": "287160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b668931b-1a09-4f40-ac9c-faf225428846",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b668931b-1a09-4f40-ac9c-faf225428846",
+                    "title": "Lucy in the Sky in Diamonds",
+                    "length": "375000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77298b01-f5d6-4c27-94e4-70388164de9d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77298b01-f5d6-4c27-94e4-70388164de9d",
+                    "title": "Lucy in the Sky with Diamonds",
+                    "length": "208000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3b5dbed-25e2-4e18-b2af-5f3648c326a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "a3b5dbed-25e2-4e18-b2af-5f3648c326a1",
+                    "title": "Lucy in the Sky with Diamonds",
+                    "length": "376000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "587fbe13-7388-48c1-84c0-a02eca2ca1cd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "587fbe13-7388-48c1-84c0-a02eca2ca1cd",
+                    "title": "Lucy in the Sky with Diamonds",
+                    "length": "293000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20549108-ced1-47d6-bf2b-39bb787100d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "20549108-ced1-47d6-bf2b-39bb787100d0",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "377000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "181d2afa-ba47-4e54-9d8e-1775ee5f768b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "181d2afa-ba47-4e54-9d8e-1775ee5f768b",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e87dc7f-76ca-4d5c-9fd8-38c974b4c90b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8e87dc7f-76ca-4d5c-9fd8-38c974b4c90b",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14f0e13d-36c6-424f-ac2e-72767b569e8a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "14f0e13d-36c6-424f-ac2e-72767b569e8a",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35bc728b-d1fc-440f-9c2b-00ecc982ad83",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "35bc728b-d1fc-440f-9c2b-00ecc982ad83",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "245933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f68e190-ec34-45f2-9426-cb654289a867",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2f68e190-ec34-45f2-9426-cb654289a867",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "338000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7be6c5f7-0bec-4b92-b2f7-f3a7968837b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "7be6c5f7-0bec-4b92-b2f7-f3a7968837b9",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed8f2d0a-7656-405b-8e91-8ee7c553b4a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed8f2d0a-7656-405b-8e91-8ee7c553b4a3",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d995317-03af-4202-93e0-b079ab41fe8b",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d995317-03af-4202-93e0-b079ab41fe8b",
+                    "title": "Lucy in the Sky With Diamonds"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7eddbe7e-1630-434c-bb49-6a3abe76bcca",
+                "direction": "backward",
+                "recording": {
+                    "id": "7eddbe7e-1630-434c-bb49-6a3abe76bcca",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "209000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7714f432-ccf5-4a95-85a8-99bbf0e19f00",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7714f432-ccf5-4a95-85a8-99bbf0e19f00",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "295000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c5e74c2-2399-4a6d-829a-89ea3fd52ad8",
+                "direction": "backward",
+                "recording": {
+                    "id": "7c5e74c2-2399-4a6d-829a-89ea3fd52ad8",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "375000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f08be7e-07dd-434c-8f31-4291702c405a",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f08be7e-07dd-434c-8f31-4291702c405a",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "373400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6baaae63-26c3-41ee-afd3-1725a8236c95",
+                "direction": "backward",
+                "recording": {
+                    "id": "6baaae63-26c3-41ee-afd3-1725a8236c95",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "375000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf937c87-92e4-4046-bd37-79b6fd195ad0",
+                "direction": "backward",
+                "recording": {
+                    "id": "bf937c87-92e4-4046-bd37-79b6fd195ad0",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "357733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56f75cce-1bc6-468a-96d2-4d3ffa416296",
+                "direction": "backward",
+                "recording": {
+                    "id": "56f75cce-1bc6-468a-96d2-4d3ffa416296",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "195000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8603fd2b-5310-421b-867a-255d91f075d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "8603fd2b-5310-421b-867a-255d91f075d2",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "362240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3311df7-ac91-4dfb-86c1-deb3f55fae4c",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3311df7-ac91-4dfb-86c1-deb3f55fae4c",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "367000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e660a359-50a8-40fc-a01f-49be29a0a80f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e660a359-50a8-40fc-a01f-49be29a0a80f",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "228000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07610fc1-4e1e-485f-9b03-47179cdb1504",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "07610fc1-4e1e-485f-9b03-47179cdb1504",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "231706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e67e88fe-c4ed-4117-900c-cee9cf3b0301",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e67e88fe-c4ed-4117-900c-cee9cf3b0301",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "199840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0011f2e-571c-48f1-a4cf-4d19cb917bb0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e0011f2e-571c-48f1-a4cf-4d19cb917bb0",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "286000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e020956d-dfb1-454a-bb00-17402583e057",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e020956d-dfb1-454a-bb00-17402583e057",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "188000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de486c4a-bc57-4984-b97f-b9138b72a7da",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "de486c4a-bc57-4984-b97f-b9138b72a7da",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "420720"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ad2a3b5-efac-4399-91c5-3de11e7faff8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ad2a3b5-efac-4399-91c5-3de11e7faff8",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "237453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d5f046a-b0f3-4e5d-b618-71b5fd4d9786",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6d5f046a-b0f3-4e5d-b618-71b5fd4d9786",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "220400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c1ce592-49c8-48f2-92ee-d2fd54297641",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1c1ce592-49c8-48f2-92ee-d2fd54297641",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "308346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd18c84f-d954-4c69-86f0-6d1f7063759d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd18c84f-d954-4c69-86f0-6d1f7063759d",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "264000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e2751d1-68d0-448d-9c93-d432c3a95967",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2e2751d1-68d0-448d-9c93-d432c3a95967",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b7072f0-2db7-486a-8c8a-1fb558030855",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6b7072f0-2db7-486a-8c8a-1fb558030855",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "201000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba8a61b5-5536-4220-a823-6ab54f217680",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba8a61b5-5536-4220-a823-6ab54f217680",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "324000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71fcaca5-b757-4c4d-a99f-03f8e3075669",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "71fcaca5-b757-4c4d-a99f-03f8e3075669",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "284000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "daf3e9da-e0c5-4f13-997b-51013c9b481a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "daf3e9da-e0c5-4f13-997b-51013c9b481a",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "266760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2adc4f43-cf23-475d-9d76-6c002956c690",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2adc4f43-cf23-475d-9d76-6c002956c690",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "220400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34b881cf-f11f-4cfb-846c-469565a7e21a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "34b881cf-f11f-4cfb-846c-469565a7e21a",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "149240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c97ce4ff-15af-48ec-abf7-8ac6c892512d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c97ce4ff-15af-48ec-abf7-8ac6c892512d",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "201800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "457223f8-1a4a-4d96-89e4-0397bdffb2a6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "457223f8-1a4a-4d96-89e4-0397bdffb2a6",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f37d6e93-282c-444e-8ce2-d4f9d0c469d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f37d6e93-282c-444e-8ce2-d4f9d0c469d1",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "214000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd0a729a-e3b9-4750-919d-ae74951c64de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd0a729a-e3b9-4750-919d-ae74951c64de",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "352000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd7c9104-c787-453b-86ba-4e344484d0e9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd7c9104-c787-453b-86ba-4e344484d0e9",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "338000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26be86fe-0026-4877-9f61-67a51a19cb69",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "26be86fe-0026-4877-9f61-67a51a19cb69",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "356093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94f2d427-fc19-4b02-abf9-2e2e0eded42a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "94f2d427-fc19-4b02-abf9-2e2e0eded42a",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "348666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a5af0ad-c844-452c-b8df-b02d741aa137",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5a5af0ad-c844-452c-b8df-b02d741aa137",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "221573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d9efaf2-212b-48a4-a29f-f39465f3ba5f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4d9efaf2-212b-48a4-a29f-f39465f3ba5f",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "227640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1357c826-7d9d-497a-be6b-ced2e6d0325e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1357c826-7d9d-497a-be6b-ced2e6d0325e",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "242173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "914a6074-6a86-4920-afb1-250c603dd3ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "914a6074-6a86-4920-afb1-250c603dd3ae",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "129666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a71cea67-a500-43a8-b71e-d173defc0779",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a71cea67-a500-43a8-b71e-d173defc0779",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "336067"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7840ee5c-df38-472c-94ac-869dd8eb8eaf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7840ee5c-df38-472c-94ac-869dd8eb8eaf",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f0542f4-a6b1-48a0-9693-8afd71bd3bc3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2f0542f4-a6b1-48a0-9693-8afd71bd3bc3",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "276320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6012573-39ab-4673-bbe9-13b9e50ca332",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b6012573-39ab-4673-bbe9-13b9e50ca332",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "381000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7d46f47-fe32-45d1-a4ac-38075375f68c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a7d46f47-fe32-45d1-a4ac-38075375f68c",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8015df0-3a90-42ae-9e2c-eeb093eaff52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f8015df0-3a90-42ae-9e2c-eeb093eaff52",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "147386"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "666e6cbe-27b4-48a4-b9f0-7ae9b51023e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "666e6cbe-27b4-48a4-b9f0-7ae9b51023e1",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "232973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d990aa7-41b9-47ef-8dca-b0eb04e8c852",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5d990aa7-41b9-47ef-8dca-b0eb04e8c852",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "293000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c702c5e-5cb9-4879-baa9-0d75606dc719",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7c702c5e-5cb9-4879-baa9-0d75606dc719",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "222440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b412a99e-7de4-4f17-be83-f48903a2c553",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b412a99e-7de4-4f17-be83-f48903a2c553",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "343722"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b53149ca-a3e0-489d-b083-700e85ad401b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b53149ca-a3e0-489d-b083-700e85ad401b",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "213800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "090063ec-2fee-40b3-addd-901d09df68fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "090063ec-2fee-40b3-addd-901d09df68fd",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "233013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4efb7409-c2c8-4756-b947-388e487a8c12",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4efb7409-c2c8-4756-b947-388e487a8c12",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "369760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0e65624-a1bc-4ea2-b040-3ec515953228",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b0e65624-a1bc-4ea2-b040-3ec515953228",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "189493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54560962-5a65-4d84-baa3-83217a89e92d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54560962-5a65-4d84-baa3-83217a89e92d",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "357626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0dac242b-e33e-49af-94bf-3f82e29423f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "0dac242b-e33e-49af-94bf-3f82e29423f6",
+                    "title": "Lucy in the Sky With Diamonds"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf7ee444-3b5b-4b61-8218-b4c6fd90655c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bf7ee444-3b5b-4b61-8218-b4c6fd90655c",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "214000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8403c43d-a553-4ad8-92fe-63078b2c07a9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8403c43d-a553-4ad8-92fe-63078b2c07a9",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a1e4eb6-6e17-4a4c-a3c0-4ab62faaab34",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1a1e4eb6-6e17-4a4c-a3c0-4ab62faaab34",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "342666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "263e9524-bde4-4656-ab91-3fe18030fa20",
+                "direction": "backward",
+                "recording": {
+                    "id": "263e9524-bde4-4656-ab91-3fe18030fa20",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "303000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7386227-7f9e-418d-957f-deb2763a04f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e7386227-7f9e-418d-957f-deb2763a04f0",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "240000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c09dbc8c-dfa1-4e50-b9bc-7c23b343643f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c09dbc8c-dfa1-4e50-b9bc-7c23b343643f",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "211000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "513fa603-2d86-460e-8784-2e8199dea784",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "513fa603-2d86-460e-8784-2e8199dea784",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "235976"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbde6417-4d57-440c-a7aa-897c11e95eb5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cbde6417-4d57-440c-a7aa-897c11e95eb5",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "108000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32350e57-24e3-4637-bd9e-43865ca8dd04",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32350e57-24e3-4637-bd9e-43865ca8dd04",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "193675"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45b9609c-a550-4226-835a-70e1fc8a1dda",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "45b9609c-a550-4226-835a-70e1fc8a1dda",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "266000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c42e26d4-4716-4eb3-9b58-95b36cf221b4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c42e26d4-4716-4eb3-9b58-95b36cf221b4",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "252000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90378511-ac08-4c49-bbe7-09e23726eafb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "90378511-ac08-4c49-bbe7-09e23726eafb",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "216000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5451a162-f585-449f-89be-e11f54e815e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5451a162-f585-449f-89be-e11f54e815e1",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "218960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67de1432-a73d-4f06-bbad-8ea591c84916",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "67de1432-a73d-4f06-bbad-8ea591c84916",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91e1f77e-ce56-426a-8168-0a3ca5a3f10c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "91e1f77e-ce56-426a-8168-0a3ca5a3f10c",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "212000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75ea29ba-b071-4c21-9075-7761615a342f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "75ea29ba-b071-4c21-9075-7761615a342f",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "175000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c92048a4-2a41-4b08-a329-f86d8b3c2428",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c92048a4-2a41-4b08-a329-f86d8b3c2428",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "278000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2588726-8a62-4aa8-aa4d-e6b95925f4eb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e2588726-8a62-4aa8-aa4d-e6b95925f4eb",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "210280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2290487d-35f1-48e2-83d1-eefdd031d930",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2290487d-35f1-48e2-83d1-eefdd031d930",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "233000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac96c2cc-0336-4b5d-b5aa-23665938b7b2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ac96c2cc-0336-4b5d-b5aa-23665938b7b2",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "306293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e244322-fc51-47af-84e4-d880f2dd275b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0e244322-fc51-47af-84e4-d880f2dd275b",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "244600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae933e33-2c50-437d-bdf5-5173f9ae98a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ae933e33-2c50-437d-bdf5-5173f9ae98a7",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "302d3f7d-617b-4769-997d-553a035d9497",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "302d3f7d-617b-4769-997d-553a035d9497",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "200426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eff4b1a2-718b-4945-ab4c-9a80599e7755",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "eff4b1a2-718b-4945-ab4c-9a80599e7755",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "381760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8b201ad-fa34-4081-9236-6f7f7e3974f3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a8b201ad-fa34-4081-9236-6f7f7e3974f3",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "232466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ef78360-888f-4f31-b6cd-3856a7513228",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3ef78360-888f-4f31-b6cd-3856a7513228",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "246040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "330739aa-5cf0-4a53-9bc3-a3c830a41ccd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "330739aa-5cf0-4a53-9bc3-a3c830a41ccd",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "244000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c3b6bc7-f5c2-47ba-a6d1-d71f5e786b8f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5c3b6bc7-f5c2-47ba-a6d1-d71f5e786b8f",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "357000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14a9b924-9e39-41aa-b09f-e007ddd66ace",
+                "direction": "backward",
+                "recording": {
+                    "id": "14a9b924-9e39-41aa-b09f-e007ddd66ace",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "210466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fc2693d-2b07-44c1-958b-c1afbf3c18b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "3fc2693d-2b07-44c1-958b-c1afbf3c18b7",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "208509"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1730a89-71f1-4735-a0d0-2b7f1c9aa243",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f1730a89-71f1-4735-a0d0-2b7f1c9aa243",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "234026",
+                    "disambiguation": "live",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24010003-87fa-449c-8b00-410bebd622c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "24010003-87fa-449c-8b00-410bebd622c1",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17607449-37a4-4dbc-b20c-4936966f1034",
+                "direction": "backward",
+                "recording": {
+                    "id": "17607449-37a4-4dbc-b20c-4936966f1034",
+                    "title": "Lucy in the Sky With Diamonds"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad748af2-392f-4978-b75f-03a8a09c6e1b",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad748af2-392f-4978-b75f-03a8a09c6e1b",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "370000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b313cb0e-84e7-4b43-a299-53489997a4f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "b313cb0e-84e7-4b43-a299-53489997a4f0",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "53000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ff2f203-1f0a-4bd0-bb0b-36135a322e66",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ff2f203-1f0a-4bd0-bb0b-36135a322e66",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "249000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f01909d3-7779-456e-8da7-c13b9953d382",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f01909d3-7779-456e-8da7-c13b9953d382",
+                    "title": "Lucy in the Sky With Diamonds"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfca3fee-2e66-4f1a-a8fb-45ec534d1ebf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dfca3fee-2e66-4f1a-a8fb-45ec534d1ebf",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "359000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77d0a268-318b-4f8f-a8e1-4cd90eea29c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77d0a268-318b-4f8f-a8e1-4cd90eea29c6",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "159146"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64aeb1cc-1884-4421-bf03-bde15de30818",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "64aeb1cc-1884-4421-bf03-bde15de30818",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "207000",
+                    "disambiguation": "live, 2014-06: Spain/Portugal",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38474167-93c0-47b0-9212-2101624f34d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "38474167-93c0-47b0-9212-2101624f34d4",
+                    "title": "Lucy in the Sky With Diamonds"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6452d582-bff0-473c-bac5-083d4d9cf5a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "6452d582-bff0-473c-bac5-083d4d9cf5a8",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "251000",
+                    "disambiguation": "Love version, 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e59cd08d-0354-4377-a4d2-f1a3652fef5b",
+                "direction": "backward",
+                "recording": {
+                    "id": "e59cd08d-0354-4377-a4d2-f1a3652fef5b",
+                    "title": "Lucy in the Sky With Diamonds"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf3627ec-1c02-4297-baef-badf5d03d0db",
+                "direction": "backward",
+                "recording": {
+                    "id": "bf3627ec-1c02-4297-baef-badf5d03d0db",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "203000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a471485b-6436-41e5-8386-761170378746",
+                "direction": "backward",
+                "recording": {
+                    "id": "a471485b-6436-41e5-8386-761170378746",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "413e6b64-d73e-483d-95a1-973321e7bd50",
+                "direction": "backward",
+                "recording": {
+                    "id": "413e6b64-d73e-483d-95a1-973321e7bd50",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "208840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2244290f-b73b-451e-ba64-efdaeca95fb9",
+                "direction": "backward",
+                "recording": {
+                    "id": "2244290f-b73b-451e-ba64-efdaeca95fb9",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "203386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07f88140-7ab1-4b8a-bd15-7153cd55b013",
+                "direction": "backward",
+                "recording": {
+                    "id": "07f88140-7ab1-4b8a-bd15-7153cd55b013",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "240026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d96cc36-d8a9-4181-8dd1-38e10f1527ef",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d96cc36-d8a9-4181-8dd1-38e10f1527ef",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "218813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30c04e34-7c7a-45eb-8006-34533f68b352",
+                "direction": "backward",
+                "recording": {
+                    "id": "30c04e34-7c7a-45eb-8006-34533f68b352",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "62200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f4b889d-7c27-4224-8fd1-ab04a811f942",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f4b889d-7c27-4224-8fd1-ab04a811f942",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "204333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "459abca5-b373-48c8-8aab-d4ad42a201c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "459abca5-b373-48c8-8aab-d4ad42a201c0",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "220013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "020bbd1e-0883-4b59-b6a7-53b56a8a7012",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "020bbd1e-0883-4b59-b6a7-53b56a8a7012",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "297482"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d721c434-b3e3-4ed2-8b66-844b1670f9fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d721c434-b3e3-4ed2-8b66-844b1670f9fd",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "301000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01bef54d-5975-4477-97dc-10ac84ae3adc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "01bef54d-5975-4477-97dc-10ac84ae3adc",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "226506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f631508-e520-4cb6-b3dd-d55b29b70ff6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8f631508-e520-4cb6-b3dd-d55b29b70ff6",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "200440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df1c820d-ca39-41fc-9a2a-ddf53f1cb99f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "df1c820d-ca39-41fc-9a2a-ddf53f1cb99f",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "293373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbc436e7-e08e-4e1c-8e2e-e9ac3c4142e8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bbc436e7-e08e-4e1c-8e2e-e9ac3c4142e8",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "175240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e635417c-05da-4882-aad9-158fa5156e6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e635417c-05da-4882-aad9-158fa5156e6b",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "275746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e635417c-05da-4882-aad9-158fa5156e6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e635417c-05da-4882-aad9-158fa5156e6b",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "275746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bddc758c-2271-46b8-be28-7b60a1c20fb6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bddc758c-2271-46b8-be28-7b60a1c20fb6",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "179973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c5ba2f2-8574-49d9-8193-7ac9ee1cba63",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1c5ba2f2-8574-49d9-8193-7ac9ee1cba63",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "376706",
+                    "disambiguation": "All This and World War II version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c17bbe5c-5575-4a36-8d13-f88bdc9a8d17",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c17bbe5c-5575-4a36-8d13-f88bdc9a8d17",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "486000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9296b150-b8e1-4fa2-b62f-f4e90a465142",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9296b150-b8e1-4fa2-b62f-f4e90a465142",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf164107-3416-41bb-ae93-aa598ce96eee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bf164107-3416-41bb-ae93-aa598ce96eee",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "131000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1812792-a4f8-4426-a22c-9206ce835d52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e1812792-a4f8-4426-a22c-9206ce835d52",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "142066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "818ae187-1f50-4ed1-b8a0-384b52bb2a9d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "818ae187-1f50-4ed1-b8a0-384b52bb2a9d",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "236626",
+                    "disambiguation": "live, 1986: Amnesty International Concert, Giants Stadium"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "720d2031-9d83-48c8-a3b6-0e80ef2f1f9c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "720d2031-9d83-48c8-a3b6-0e80ef2f1f9c",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "212760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f21eac32-4bd2-4d1f-8181-3e15dcbadeec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f21eac32-4bd2-4d1f-8181-3e15dcbadeec",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "230026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8b2f09d-b85c-4ca0-9b50-252520e1b868",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b8b2f09d-b85c-4ca0-9b50-252520e1b868",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "246000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e763622-a262-47cb-b759-1eaeb793738e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e763622-a262-47cb-b759-1eaeb793738e",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "273000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e19534f7-772d-4f88-9eb2-83f0ccd71e4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e19534f7-772d-4f88-9eb2-83f0ccd71e4a",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "298360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "989dbe0f-cdd0-4c9b-9537-333d62761d45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "989dbe0f-cdd0-4c9b-9537-333d62761d45",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "547d3686-b5b3-434b-8237-b5e75cf3401e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "547d3686-b5b3-434b-8237-b5e75cf3401e",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "243826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53dc78fb-2af8-4458-8349-2b8906879105",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "53dc78fb-2af8-4458-8349-2b8906879105",
+                    "title": "Lucy in the Sky With Diamonds",
+                    "length": "262400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "661f5e04-8a23-461d-95c7-afee9a35c0e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "661f5e04-8a23-461d-95c7-afee9a35c0e1",
+                    "title": "Lucy In the Sky With Diamonds",
+                    "length": "228813"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffeb1cc7-b845-49b6-979a-6799e8cb7355",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ffeb1cc7-b845-49b6-979a-6799e8cb7355",
+                    "title": "Lucy In the Sky With Diamonds",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01ce368d-b623-4b4a-a9af-dc8af193e412",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "01ce368d-b623-4b4a-a9af-dc8af193e412",
+                    "title": "Lucy In the Sky With Diamonds",
+                    "length": "263000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e406d26-9d86-40ad-b3b5-1b1775ee4d67",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e406d26-9d86-40ad-b3b5-1b1775ee4d67",
+                    "title": "Lucy In The Sky With Diamonds",
+                    "length": "260000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "997ba756-8279-4ca5-9feb-8f5450d0fd9f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "997ba756-8279-4ca5-9feb-8f5450d0fd9f",
+                    "title": "Lucy In The Sky With Diamonds",
+                    "length": "250000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e262473-2c6d-4d0f-92e5-2259f5cce312",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1e262473-2c6d-4d0f-92e5-2259f5cce312",
+                    "title": "Lucy In The Sky With Diamonds",
+                    "length": "275000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05886ff2-015d-426f-95a6-f6326dfce693",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "05886ff2-015d-426f-95a6-f6326dfce693",
+                    "title": "Lucy In The Sky With Diamonds",
+                    "length": "293946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e38045f9-ea51-415c-b6d9-9102b72fa2b4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e38045f9-ea51-415c-b6d9-9102b72fa2b4",
+                    "title": "Lucy In The Sky With Diamonds",
+                    "length": "217600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fd6af2a-c60f-4c66-ba56-bdafa7a6133e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2fd6af2a-c60f-4c66-ba56-bdafa7a6133e",
+                    "title": "Lucy In The Sky With Diamonds ->",
+                    "length": "267000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f55433c-da48-4d0e-95c5-493273b2df72",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7f55433c-da48-4d0e-95c5-493273b2df72",
+                    "title": "Lucy in the Sky With Diamonds (acoustic version)",
+                    "length": "187266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f4fcced-9e86-4ad7-baba-3fcb32f6201d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3f4fcced-9e86-4ad7-baba-3fcb32f6201d",
+                    "title": "Lucy in the Sky With Diamonds (acoustic version)",
+                    "length": "227680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b8afdcb-ea18-4c3f-98ea-55f184f0eaec",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7b8afdcb-ea18-4c3f-98ea-55f184f0eaec",
+                    "title": "Lucy In The Sky With Diamonds (Audience Source)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "071277c6-4e77-4869-b386-1157b88e8da5",
+                "direction": "backward",
+                "recording": {
+                    "id": "071277c6-4e77-4869-b386-1157b88e8da5",
+                    "title": "Lucy in the Sky With Diamonds (edit Takes 6-8, Rs 95)",
+                    "length": "186160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2a82808-8451-4fa2-bf95-76c1b742a8ea",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a2a82808-8451-4fa2-bf95-76c1b742a8ea",
+                    "title": "Lucy in the Sky with Diamonds (encore)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e39c9c45-b623-4ba8-8748-b9e1113fae59",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e39c9c45-b623-4ba8-8748-b9e1113fae59",
+                    "title": "Lucy in the Sky With Diamonds (encore)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc16616b-e199-4279-a68a-e4de246decba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dc16616b-e199-4279-a68a-e4de246decba",
+                    "title": "Lucy in the Sky With Diamonds (instrumental)",
+                    "length": "271000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af5783db-ac0a-4ba2-a24b-25a0d4f1982d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "af5783db-ac0a-4ba2-a24b-25a0d4f1982d",
+                    "title": "Lucy in the Sky With Diamonds (live at the Tower Theatre)",
+                    "length": "231306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8921540c-e9f5-442f-8bbb-dfcd67ec9f80",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8921540c-e9f5-442f-8bbb-dfcd67ec9f80",
+                    "title": "Lucy in the Sky With Diamonds (live version)",
+                    "length": "225680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee301689-21d5-4d12-a65f-bdbfc61bfb8e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ee301689-21d5-4d12-a65f-bdbfc61bfb8e",
+                    "title": "Lucy in the Sky with Diamonds (live)",
+                    "length": "293800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb6b42ea-af21-479b-b051-0a60f6fcedfc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fb6b42ea-af21-479b-b051-0a60f6fcedfc",
+                    "title": "Lucy in the Sky With Diamonds (live)",
+                    "length": "236440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa66f762-1f16-4fdc-a30e-a30f46645ff7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fa66f762-1f16-4fdc-a30e-a30f46645ff7",
+                    "title": "Lucy in the Sky With Diamonds (live)",
+                    "length": "226000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34419f03-0fea-43f8-945b-3c3f468f693e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "34419f03-0fea-43f8-945b-3c3f468f693e",
+                    "title": "Lucy in the Sky With Diamonds (live)",
+                    "length": "248000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1694ee09-a9a9-4430-a834-25bb5f1d2ca3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1694ee09-a9a9-4430-a834-25bb5f1d2ca3",
+                    "title": "Lucy in the Sky With Diamonds (live) (single version)",
+                    "length": "229306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7de47c05-7794-4d75-9f1d-da3b3654f424",
+                "direction": "backward",
+                "recording": {
+                    "id": "7de47c05-7794-4d75-9f1d-da3b3654f424",
+                    "title": "Lucy in the Sky With Diamonds (mono version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "400bcfce-81f7-4e84-94c1-4b6f6937b6b6",
+                "direction": "backward",
+                "recording": {
+                    "id": "400bcfce-81f7-4e84-94c1-4b6f6937b6b6",
+                    "title": "Lucy in the Sky With Diamonds (mono)",
+                    "length": "206494"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93ef46ab-914e-4795-b8de-8e36c84701e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "93ef46ab-914e-4795-b8de-8e36c84701e6",
+                    "title": "Lucy in the Sky With Diamonds (Playback)",
+                    "length": "171973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a948868-c554-49d6-89be-1aa96d7af64a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3a948868-c554-49d6-89be-1aa96d7af64a",
+                    "title": "Lucy in the Sky with Diamonds (reprise)",
+                    "length": "35400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94995043-5e5b-4d18-ab9c-44257182e2b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "94995043-5e5b-4d18-ab9c-44257182e2b7",
+                    "title": "Lucy in the Sky With Diamonds (RM4 take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e315ac9a-ae7c-492a-b81b-4988cfa8616b",
+                "direction": "backward",
+                "recording": {
+                    "id": "e315ac9a-ae7c-492a-b81b-4988cfa8616b",
+                    "title": "Lucy in the Sky With Diamonds (RM20)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29cf5ff8-4c5e-4ac9-a870-c71118983418",
+                "direction": "backward",
+                "recording": {
+                    "id": "29cf5ff8-4c5e-4ac9-a870-c71118983418",
+                    "title": "Lucy in the Sky With Diamonds (RS5 take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad989103-feed-488c-8995-0c708a0cfef9",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad989103-feed-488c-8995-0c708a0cfef9",
+                    "title": "Lucy in the Sky With Diamonds (take 6 With G. Martin)",
+                    "length": "63000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63896c3d-440c-4ac8-ac0b-9378e809c892",
+                "direction": "backward",
+                "recording": {
+                    "id": "63896c3d-440c-4ac8-ac0b-9378e809c892",
+                    "title": "Lucy in the Sky With Diamonds (take 6)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b232762-cbf5-4022-b0c2-cf4896cae645",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b232762-cbf5-4022-b0c2-cf4896cae645",
+                    "title": "Lucy in the Sky With Diamonds (take 8, Rm 4)",
+                    "length": "205493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e0b5837-9b2a-4403-9b3d-e4d77d02286e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e0b5837-9b2a-4403-9b3d-e4d77d02286e",
+                    "title": "Lucy in the Sky With Diamonds (take 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "321dfe13-e140-4a21-b12b-e8ae913105ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "321dfe13-e140-4a21-b12b-e8ae913105ab",
+                    "title": "Lucy in the Sky With Diamonds (takes 6, 7 & 8 - complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "484c1f0e-701d-4e22-8146-69534d75d75e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "484c1f0e-701d-4e22-8146-69534d75d75e",
+                    "title": "Lucy In The Sky With Diamonds (\u30eb\u30fc\u30b7\u30fc\u30fb\u30a4\u30f3\u30fb\u30b6\u30fb\u30b9\u30ab\u30a4\u30fb\u30a6\u30a3\u30ba\u30fb\u30c0\u30a4\u30e2\u30f3\u30ba)",
+                    "length": "239693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b46346f4-b354-41cc-99ea-bfad3e7a955c",
+                "direction": "backward",
+                "recording": {
+                    "id": "b46346f4-b354-41cc-99ea-bfad3e7a955c",
+                    "title": "Lucy in the Sky With Diamonts",
+                    "length": "206960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "347aaad1-16cb-4101-8313-2f4d44b30a2a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "347aaad1-16cb-4101-8313-2f4d44b30a2a",
+                    "title": "Lucy in the Sky With Dianonds",
+                    "length": "252226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "720c4939-dfd2-45ba-8a45-4407ddf3132b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "720c4939-dfd2-45ba-8a45-4407ddf3132b",
+                    "title": "Spleen / Lucy in the Sky with Diamonds",
+                    "length": "364573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e06e865-9fef-4ecc-a1b7-d0ed5e6611c3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6e06e865-9fef-4ecc-a1b7-d0ed5e6611c3",
+                    "title": "Spleen / Lucy in the Sky With Diamonds",
+                    "length": "358466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ab92025-588f-4851-be24-c3f2f0a227cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "9ab92025-588f-4851-be24-c3f2f0a227cf",
+                    "title": "The Tribute: Sgt. Pepper's Lonely Hearts Club Band / Lucy in the Sky With Diamonds / Magical Mystery Tour / I Am the Walrus / Strawberry Fields Forever",
+                    "length": "449933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36e47a29-b6d5-477c-8175-23a2e0011509",
+                "direction": "backward",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "36e47a29-b6d5-477c-8175-23a2e0011509",
+                    "title": "Whatever Gets You Through the Night / Lucy in the Sky With Diamonds (live)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-lucy-in-the-sky-with-diamonds-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/3170",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=120",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q723178",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "8a6f5f37-d88b-447d-836e-d3cad3620dcc",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "8a6f5f37-d88b-447d-836e-d3cad3620dcc",
+                    "title": "Louisiana Hooker With Herpes"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "1d580488-0e22-3fad-83ad-7b161d88a856",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody",
+                    "translated"
+                ],
+                "work": {
+                    "id": "1d580488-0e22-3fad-83ad-7b161d88a856",
+                    "title": "L'Usine in the sky"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    },
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "6399a68c-0022-4e3e-80a6-2dbd2bd33d7c",
+                "direction": "forward",
+                "work": {
+                    "id": "6399a68c-0022-4e3e-80a6-2dbd2bd33d7c",
+                    "type": "Song",
+                    "title": "Lucy in the Sky With Diamonds (Love version)",
+                    "language": "eng",
+                    "iswc": "T-900.221.428-0",
+                    "iswc-list": [
+                        "T-900.221.428-0"
+                    ]
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "d3d1d14f-27d0-4918-9535-7b4069fbafd1",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "d3d1d14f-27d0-4918-9535-7b4069fbafd1",
+                    "type": "Song",
+                    "title": "LSF",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "239a7d9c-16db-4293-9421-00c317f9f69e",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "239a7d9c-16db-4293-9421-00c317f9f69e",
+                    "type": "Song",
+                    "title": "Voc\u00ea ainda pode sonhar",
+                    "language": "por"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

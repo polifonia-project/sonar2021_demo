@@ -1,0 +1,613 @@
+{
+    "work": {
+        "id": "97dcce15-d0c1-3aad-9269-9366e5be85cd",
+        "type": "Song",
+        "title": "Schwanengesang, D. 957: VII. Abschied",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Abschied",
+                "alias": "Abschied"
+            },
+            {
+                "sort-name": "Schwanengesang, D 957: Abschied",
+                "alias": "Schwanengesang, D 957: Abschied"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1828",
+                "end": "1828",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "74baf230-2fc5-4507-917b-b6593f016dfa",
+                "direction": "backward",
+                "artist": {
+                    "id": "74baf230-2fc5-4507-917b-b6593f016dfa",
+                    "type": "Person",
+                    "name": "Ludwig Rellstab",
+                    "sort-name": "Rellstab, Ludwig"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab258d07-ab43-41b3-a400-ec2d32ab4db6",
+                "direction": "backward",
+                "begin": "1904-01-22",
+                "end": "1904-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "ab258d07-ab43-41b3-a400-ec2d32ab4db6",
+                    "title": "Abschied (Schwanengesang D957 No.7)",
+                    "length": "136066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed1fbe8b-a1f7-48b1-93c6-871a40df9db8",
+                "direction": "backward",
+                "begin": "1954-05-28",
+                "end": "1954-05-30",
+                "ended": "true",
+                "recording": {
+                    "id": "ed1fbe8b-a1f7-48b1-93c6-871a40df9db8",
+                    "title": "Schwanengesang: VII. Abschied",
+                    "length": "250960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ddaa83c-6a83-4566-aeb7-ece64c0acd13",
+                "direction": "backward",
+                "begin": "1955-05-02",
+                "end": "1955-05-13",
+                "ended": "true",
+                "recording": {
+                    "id": "6ddaa83c-6a83-4566-aeb7-ece64c0acd13",
+                    "title": "Schwanengesang, D 957 No. 7: Abschied",
+                    "length": "184000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d71d3bf-c71f-489f-820f-ec2417cdb67a",
+                "direction": "backward",
+                "begin": "1957-08-05",
+                "end": "1957-08-05",
+                "ended": "true",
+                "recording": {
+                    "id": "5d71d3bf-c71f-489f-820f-ec2417cdb67a",
+                    "title": "Abschied, D 957 n.\u00ba 7",
+                    "length": "208080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e43eecd-9432-46aa-b05c-93b74d6f5a9b",
+                "direction": "backward",
+                "begin": "1962-05-07",
+                "end": "1962-09-08",
+                "ended": "true",
+                "recording": {
+                    "id": "7e43eecd-9432-46aa-b05c-93b74d6f5a9b",
+                    "title": "Schwanengesang, D. 957: VII. Abschied",
+                    "length": "258000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d82a5d9b-de5c-4222-b0bb-1ad9af9c4831",
+                "direction": "backward",
+                "begin": "1972-03",
+                "end": "1972-03",
+                "ended": "true",
+                "recording": {
+                    "id": "d82a5d9b-de5c-4222-b0bb-1ad9af9c4831",
+                    "title": "Schwanengesang, D. 957: 7. \"Abschied\"",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58a88036-bf5e-4a85-be9f-8ff184674ca6",
+                "direction": "backward",
+                "begin": "1982-09",
+                "end": "1982-09",
+                "ended": "true",
+                "recording": {
+                    "id": "58a88036-bf5e-4a85-be9f-8ff184674ca6",
+                    "title": "Schwanengesang, D 957: 7. Abschied (Rellstab)",
+                    "length": "275800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4465973-5d66-4ed2-bda0-b52f87208156",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "a4465973-5d66-4ed2-bda0-b52f87208156",
+                    "title": "Abschied",
+                    "length": "278000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5854cab-7f38-463a-9e03-bf6dd4a95860",
+                "direction": "backward",
+                "begin": "1989-08",
+                "end": "1989-08",
+                "ended": "true",
+                "recording": {
+                    "id": "b5854cab-7f38-463a-9e03-bf6dd4a95860",
+                    "title": "Schwanengesang, D. 957: Abschied",
+                    "length": "266066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f36acee0-2be3-4232-855c-bcb54fb05f5b",
+                "direction": "backward",
+                "begin": "1989",
+                "end": "1989",
+                "ended": "true",
+                "recording": {
+                    "id": "f36acee0-2be3-4232-855c-bcb54fb05f5b",
+                    "title": "Schwanengesang, Nr. 7: \"Abschied\"",
+                    "length": "257000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87621b94-df4a-49c4-8e62-e22fefc2d757",
+                "direction": "backward",
+                "begin": "1994-09",
+                "end": "1994-12",
+                "ended": "true",
+                "recording": {
+                    "id": "87621b94-df4a-49c4-8e62-e22fefc2d757",
+                    "title": "Svanas\u00f6gnur: Kve\u00f0ja",
+                    "length": "256200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d05ef67c-b97b-41d5-b506-61df4df6ffc6",
+                "direction": "backward",
+                "begin": "1998-03",
+                "end": "1998-06",
+                "ended": "true",
+                "recording": {
+                    "id": "d05ef67c-b97b-41d5-b506-61df4df6ffc6",
+                    "title": "Schwanengesang, D. 957: VII. Abschied",
+                    "length": "293000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7ea84f9-fc16-42b0-977e-73b77291589d",
+                "direction": "backward",
+                "begin": "2003-11-05",
+                "end": "2003-11-07",
+                "ended": "true",
+                "recording": {
+                    "id": "e7ea84f9-fc16-42b0-977e-73b77291589d",
+                    "title": "Schwanengesang, D 957: Abschied",
+                    "length": "269893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "beafa7d0-7b81-45ac-96fc-19cf5d2c5fb7",
+                "direction": "backward",
+                "begin": "2010-10",
+                "end": "2010-10",
+                "ended": "true",
+                "recording": {
+                    "id": "beafa7d0-7b81-45ac-96fc-19cf5d2c5fb7",
+                    "title": "Schwanengesang, D.957: Abschied",
+                    "length": "290000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "296f70eb-851a-4f17-a496-9762d60c4753",
+                "direction": "backward",
+                "begin": "2015-01",
+                "end": "2015-01",
+                "ended": "true",
+                "recording": {
+                    "id": "296f70eb-851a-4f17-a496-9762d60c4753",
+                    "title": "Schwanengesang, D. 957: Abschied",
+                    "length": "279000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed2371fd-80bc-4129-829a-aeca2307bcbc",
+                "direction": "backward",
+                "begin": "2018-10-04",
+                "end": "2018-10-06",
+                "ended": "true",
+                "recording": {
+                    "id": "ed2371fd-80bc-4129-829a-aeca2307bcbc",
+                    "title": "Schwanengesang, D957: Abschied",
+                    "length": "280000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eec8b71b-4882-424d-9a1c-2896aed77cf2",
+                "direction": "backward",
+                "begin": "2019-04-30",
+                "end": "2019-05-02",
+                "ended": "true",
+                "recording": {
+                    "id": "eec8b71b-4882-424d-9a1c-2896aed77cf2",
+                    "title": "Schwanengesang, D 957: 7. Abschied",
+                    "length": "283000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9ded1b3-c95f-40bf-bfa1-e6e5e856b1bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "f9ded1b3-c95f-40bf-bfa1-e6e5e856b1bc",
+                    "title": "Abschied",
+                    "length": "259000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a7f5696-baaf-4de1-a93c-6864d0c92f1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "3a7f5696-baaf-4de1-a93c-6864d0c92f1c",
+                    "title": "Abschied",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c596219-f496-4710-b424-dd28ae961950",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c596219-f496-4710-b424-dd28ae961950",
+                    "title": "Abschied",
+                    "length": "302000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdfdcc31-35bc-489d-9413-4381015ba321",
+                "direction": "backward",
+                "recording": {
+                    "id": "bdfdcc31-35bc-489d-9413-4381015ba321",
+                    "title": "Abschied",
+                    "length": "199293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69af8d49-a4fc-4e94-9fd4-f1d641a07679",
+                "direction": "backward",
+                "recording": {
+                    "id": "69af8d49-a4fc-4e94-9fd4-f1d641a07679",
+                    "title": "Abschied \"Le Chant du cygne\", n\u00ba 7, D. 957",
+                    "length": "188666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0514cf87-c291-4945-bf5d-0837f45adeae",
+                "direction": "backward",
+                "recording": {
+                    "id": "0514cf87-c291-4945-bf5d-0837f45adeae",
+                    "title": "Abschied D. 957 no. 7",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffa857bd-ec02-4dd3-9e35-0cd541a2e857",
+                "direction": "backward",
+                "recording": {
+                    "id": "ffa857bd-ec02-4dd3-9e35-0cd541a2e857",
+                    "title": "Schwanengesang (Swan Song), song cycle for voice & piano, D. 957: Abschied",
+                    "length": "296000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7362c25-2a5d-4ce3-98f0-2117f5ecf328",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7362c25-2a5d-4ce3-98f0-2117f5ecf328",
+                    "title": "Schwanengesang D. 957 No. 7: Abschied",
+                    "length": "282986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7953ea74-683d-4aa1-b90e-1b77dade1712",
+                "direction": "backward",
+                "recording": {
+                    "id": "7953ea74-683d-4aa1-b90e-1b77dade1712",
+                    "title": "Schwanengesang D. 957: VII. Abschied",
+                    "length": "245000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "953960a1-4ada-431e-b052-9078445f82b3",
+                "direction": "backward",
+                "recording": {
+                    "id": "953960a1-4ada-431e-b052-9078445f82b3",
+                    "title": "Schwanengesang D.957: VII. Abschied",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f9635bd-4882-42fb-a779-2bc72317d283",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f9635bd-4882-42fb-a779-2bc72317d283",
+                    "title": "Schwanengesang D957 - Abschied",
+                    "length": "261000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ef5eb1b-677f-457b-bde8-c2dabdc29da7",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ef5eb1b-677f-457b-bde8-c2dabdc29da7",
+                    "title": "Schwanengesang D957: Abschied",
+                    "length": "316493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85fce638-eb93-4291-8722-902cac5b5186",
+                "direction": "backward",
+                "recording": {
+                    "id": "85fce638-eb93-4291-8722-902cac5b5186",
+                    "title": "Schwanengesang, D 957: Abschied",
+                    "length": "255000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c23ef39-d30a-4eaf-b95c-9b367aa8060d",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c23ef39-d30a-4eaf-b95c-9b367aa8060d",
+                    "title": "Schwanengesang, D 957: no. 7, Abschied",
+                    "length": "185000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6182dfb5-568c-43a2-9d25-f5d2d3e68b2a",
+                "direction": "backward",
+                "recording": {
+                    "id": "6182dfb5-568c-43a2-9d25-f5d2d3e68b2a",
+                    "title": "Schwanengesang, D. 957 No. 7: Abschied",
+                    "length": "270000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bce90e26-089e-4dd8-8f40-79fb50e65baf",
+                "direction": "backward",
+                "recording": {
+                    "id": "bce90e26-089e-4dd8-8f40-79fb50e65baf",
+                    "title": "Schwanengesang, D. 957 No. 7: Abschied",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "942817a4-2ca2-4214-8865-4e9dfa416d88",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "942817a4-2ca2-4214-8865-4e9dfa416d88",
+                    "title": "Schwanengesang, D. 957: Abschied",
+                    "length": "302493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad5f45df-0e3d-4455-873b-46668fcd28e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad5f45df-0e3d-4455-873b-46668fcd28e0",
+                    "title": "Schwanengesang, D. 957: Abschied",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f204b95-5a95-4c26-805b-c1b2e7011bdb",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f204b95-5a95-4c26-805b-c1b2e7011bdb",
+                    "title": "Schwanengesang, D. 957: Abschied",
+                    "length": "260533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f156a96-498a-4ef4-b64f-1b3e263179d5",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f156a96-498a-4ef4-b64f-1b3e263179d5",
+                    "title": "Schwanengesang, D. 957: IV. Abscheid",
+                    "length": "258253"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3de115c6-6480-4594-9c4b-17b809261a33",
+                "direction": "backward",
+                "recording": {
+                    "id": "3de115c6-6480-4594-9c4b-17b809261a33",
+                    "title": "Schwanengesang, D. 957: Nr. 7. Abschied",
+                    "length": "272453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fd3b9d5-2241-483d-80a4-185b25d65d4e",
+                "direction": "backward",
+                "recording": {
+                    "id": "2fd3b9d5-2241-483d-80a4-185b25d65d4e",
+                    "title": "Schwanengesang, D. 957: VII. Abschied",
+                    "length": "270000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f2230c8-aa34-467f-a0b5-24901e641e28",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f2230c8-aa34-467f-a0b5-24901e641e28",
+                    "title": "Schwanengesang, D. 957: VII. Abschied",
+                    "length": "315346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "921be285-2900-425e-b3c1-acfe010f1452",
+                "direction": "backward",
+                "recording": {
+                    "id": "921be285-2900-425e-b3c1-acfe010f1452",
+                    "title": "Schwanengesang, D957: Abschied",
+                    "length": "222746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "becf5fd8-ebf2-47c3-8732-790d22463c3b",
+                "direction": "backward",
+                "recording": {
+                    "id": "becf5fd8-ebf2-47c3-8732-790d22463c3b",
+                    "title": "Schwanengesang: \"Abschied\"",
+                    "length": "270000"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "bc5adc1f-7d2f-4d1c-b167-7c62e641d771",
+                "direction": "forward",
+                "work": {
+                    "id": "bc5adc1f-7d2f-4d1c-b167-7c62e641d771",
+                    "title": "Schwanengesang, S. 560: No. 5. Abschied",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt"
+                }
+            },
+            {
+                "type": "orchestration",
+                "type-id": "dd372cb2-5f4d-4dcd-868e-7564782f460b",
+                "target": "98fa4464-d9c5-4d13-bf9a-515b2c0d13b4",
+                "direction": "forward",
+                "work": {
+                    "id": "98fa4464-d9c5-4d13-bf9a-515b2c0d13b4",
+                    "type": "Song",
+                    "title": "Abschied, S. 375 no. 6",
+                    "language": "deu",
+                    "disambiguation": "orchestrated by Liszt"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                "ordering-key": "7",
+                "direction": "backward",
+                "work": {
+                    "id": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                    "type": "Song-cycle",
+                    "title": "Schwanengesang, D. 957",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

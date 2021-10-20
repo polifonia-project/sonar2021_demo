@@ -1,0 +1,148 @@
+{
+    "work": {
+        "id": "10ab323c-646f-4975-8a5c-f94e40e39eb9",
+        "type": "Song",
+        "title": "An die Geliebte, D. 303",
+        "language": "deu",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1815-10-15",
+                "end": "1815-10-15",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "be4f0de2-1cd0-4005-849b-214fe1bf3f00",
+                "direction": "backward",
+                "artist": {
+                    "id": "be4f0de2-1cd0-4005-849b-214fe1bf3f00",
+                    "type": "Person",
+                    "name": "Josef Ludwig Stoll",
+                    "sort-name": "Stoll, Josef Ludwig"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59179956-7349-4409-9661-b4beae4dfb1c",
+                "direction": "backward",
+                "begin": "1938-06-01",
+                "end": "1938-06-01",
+                "ended": "true",
+                "recording": {
+                    "id": "59179956-7349-4409-9661-b4beae4dfb1c",
+                    "title": "An die Geliebte D303 (1997 - Remaster)",
+                    "length": "113560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c48e6c68-9347-4096-bff2-37e951fe2b99",
+                "direction": "backward",
+                "begin": "1938-06-01",
+                "end": "1938-06-01",
+                "ended": "true",
+                "recording": {
+                    "id": "c48e6c68-9347-4096-bff2-37e951fe2b99",
+                    "title": "An die Geliebte, D. 303",
+                    "length": "117306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aff81cc2-7443-4282-8621-deede11d19fc",
+                "direction": "backward",
+                "begin": "1938",
+                "end": "1938",
+                "ended": "true",
+                "recording": {
+                    "id": "aff81cc2-7443-4282-8621-deede11d19fc",
+                    "title": "An die Geliebte, D. 303",
+                    "length": "117666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71fc0ca6-864f-4b7e-a866-ddb2f5b6003c",
+                "direction": "backward",
+                "begin": "1968-02",
+                "end": "1968-02",
+                "ended": "true",
+                "recording": {
+                    "id": "71fc0ca6-864f-4b7e-a866-ddb2f5b6003c",
+                    "title": "An die Geliebte, D. 303",
+                    "length": "90000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50e96f2f-6622-44ba-9078-22c2d7feb25d",
+                "direction": "backward",
+                "begin": "1990-05-29",
+                "end": "1990-05-31",
+                "ended": "true",
+                "recording": {
+                    "id": "50e96f2f-6622-44ba-9078-22c2d7feb25d",
+                    "title": "An die Geliebte, D. 303",
+                    "length": "145000"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "228",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 303",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002382988",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/An_die_Geliebte,_D.303_(Schubert,_Franz)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

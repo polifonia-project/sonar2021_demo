@@ -1,0 +1,1104 @@
+{
+    "work": {
+        "id": "0719a844-7338-3428-b286-b18f4e156ada",
+        "type": "Song",
+        "title": "Honey Pie",
+        "language": "eng",
+        "iswc": "T-900.305.951-6",
+        "iswc-list": [
+            "T-900.305.951-6"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SABAM ID",
+                "value": "000935801"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "582392"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbdbe249-bc4c-4d29-aaf8-36451fecfe92",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "dbdbe249-bc4c-4d29-aaf8-36451fecfe92",
+                    "title": "Honey Pie",
+                    "length": "79000",
+                    "disambiguation": "Esher session"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a6d8f10-19fc-466c-831c-a84b9383dbe2",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "8a6d8f10-19fc-466c-831c-a84b9383dbe2",
+                    "title": "Honey Pie",
+                    "length": "119907",
+                    "disambiguation": "Esher demo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79eaa087-edbe-43af-b7d2-de06ecf8cd90",
+                "direction": "backward",
+                "begin": "1968-10-01",
+                "end": "1968-10-04",
+                "ended": "true",
+                "recording": {
+                    "id": "79eaa087-edbe-43af-b7d2-de06ecf8cd90",
+                    "title": "Honey Pie",
+                    "length": "162466",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fa5b816-9be0-4b64-bace-ec46ba1eaac8",
+                "direction": "backward",
+                "begin": "1968-10-01",
+                "end": "1968-10-04",
+                "ended": "true",
+                "recording": {
+                    "id": "2fa5b816-9be0-4b64-bace-ec46ba1eaac8",
+                    "title": "Honey Pie",
+                    "length": "161160",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3133e1d5-08a8-47e6-8149-b5ae01623d6e",
+                "direction": "backward",
+                "begin": "1968-10-01",
+                "end": "1968-10-04",
+                "ended": "true",
+                "recording": {
+                    "id": "3133e1d5-08a8-47e6-8149-b5ae01623d6e",
+                    "title": "Honey Pie",
+                    "length": "160520",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "939d105c-a22a-473a-ba40-6f0b2a0344c8",
+                "direction": "backward",
+                "begin": "1968-10-01",
+                "end": "1968-10-04",
+                "ended": "true",
+                "recording": {
+                    "id": "939d105c-a22a-473a-ba40-6f0b2a0344c8",
+                    "title": "Honey Pie (5.1 mix)",
+                    "length": "161000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0467383c-a704-47d4-9e59-150455f85bcf",
+                "direction": "backward",
+                "begin": "1968-10-01",
+                "end": "1968-10-04",
+                "ended": "true",
+                "recording": {
+                    "id": "0467383c-a704-47d4-9e59-150455f85bcf",
+                    "title": "Honey Pie (instrumental backing track)",
+                    "length": "163106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05c0ba7b-5a96-49c9-a879-a75734ed65ae",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "05c0ba7b-5a96-49c9-a879-a75734ed65ae",
+                    "title": "Honey Pie",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcb6d1b5-49b1-4a67-9a3f-8baee228659d",
+                "direction": "backward",
+                "begin": "2016-11-14",
+                "end": "2016-11-16",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dcb6d1b5-49b1-4a67-9a3f-8baee228659d",
+                    "title": "Honey Pie",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5eaed345-97c6-44ab-8545-6f3955309b14",
+                "ordering-key": "7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "5eaed345-97c6-44ab-8545-6f3955309b14",
+                    "title": "A Beatles Overture (medley)",
+                    "length": "587973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4833bc14-71b0-41ab-a01d-af588610f8ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4833bc14-71b0-41ab-a01d-af588610f8ef",
+                    "title": "Honey Pie",
+                    "length": "198000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54fc6c34-982a-4c36-a374-c2d3a47e01be",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54fc6c34-982a-4c36-a374-c2d3a47e01be",
+                    "title": "Honey Pie",
+                    "length": "192693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6abdcc43-10bc-461d-86bf-b693c69957d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6abdcc43-10bc-461d-86bf-b693c69957d4",
+                    "title": "Honey Pie",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad646e7e-d747-4300-bb25-581819459ead",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ad646e7e-d747-4300-bb25-581819459ead",
+                    "title": "Honey Pie",
+                    "length": "121520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d03e091a-030f-4fd2-b242-be94b75ed185",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d03e091a-030f-4fd2-b242-be94b75ed185",
+                    "title": "Honey Pie",
+                    "length": "164629"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "142491c8-bf4b-4288-950e-1359e4189b31",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "142491c8-bf4b-4288-950e-1359e4189b31",
+                    "title": "Honey Pie",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99c77143-2b07-4d6b-8818-c8e014c419d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "99c77143-2b07-4d6b-8818-c8e014c419d7",
+                    "title": "Honey Pie",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0358941d-89f4-4cbe-b6d0-b3a8741fbb62",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0358941d-89f4-4cbe-b6d0-b3a8741fbb62",
+                    "title": "Honey Pie",
+                    "length": "154826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4835c86e-2248-4a1c-bb83-8df077b89c67",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4835c86e-2248-4a1c-bb83-8df077b89c67",
+                    "title": "Honey Pie",
+                    "length": "123533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e449a6d1-193d-497d-9865-986876089abb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e449a6d1-193d-497d-9865-986876089abb",
+                    "title": "Honey Pie",
+                    "length": "159040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e043949-a26d-42aa-982b-202a11297abe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4e043949-a26d-42aa-982b-202a11297abe",
+                    "title": "Honey Pie",
+                    "length": "160200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c8bb6c0-5f0f-40b1-9d42-8c4642c9d565",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6c8bb6c0-5f0f-40b1-9d42-8c4642c9d565",
+                    "title": "Honey Pie",
+                    "length": "154000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "951efdbf-bacb-49b4-96cd-4edffb400027",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "951efdbf-bacb-49b4-96cd-4edffb400027",
+                    "title": "Honey Pie",
+                    "length": "189000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf793c8d-1a85-4878-a0b8-222e8d0ccb49",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cf793c8d-1a85-4878-a0b8-222e8d0ccb49",
+                    "title": "Honey Pie",
+                    "length": "269000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf35109b-6489-4a05-88ae-ff64b9a81ed2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bf35109b-6489-4a05-88ae-ff64b9a81ed2",
+                    "title": "Honey Pie",
+                    "length": "123706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a26bf44-08a9-436f-a27a-fcf19902c81d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2a26bf44-08a9-436f-a27a-fcf19902c81d",
+                    "title": "Honey Pie",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2715a548-70be-4542-bfe6-c384da61c054",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2715a548-70be-4542-bfe6-c384da61c054",
+                    "title": "Honey Pie",
+                    "length": "169000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7aff582-fe86-4814-bbf0-ae254e3aa1d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b7aff582-fe86-4814-bbf0-ae254e3aa1d6",
+                    "title": "Honey Pie",
+                    "length": "139640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d697f82-7374-4d0e-bf7a-a704ccb297a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d697f82-7374-4d0e-bf7a-a704ccb297a1",
+                    "title": "Honey Pie",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b393d7ca-7ad0-4d11-bd90-9bf3d81d65e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "b393d7ca-7ad0-4d11-bd90-9bf3d81d65e2",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f06f713c-5363-4237-b1da-43a290e26215",
+                "direction": "backward",
+                "recording": {
+                    "id": "f06f713c-5363-4237-b1da-43a290e26215",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a864a9d-9063-4e04-be26-edd3ea31dcb9",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a864a9d-9063-4e04-be26-edd3ea31dcb9",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e4243ae-f3d9-49ea-96dc-634ed9afabab",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e4243ae-f3d9-49ea-96dc-634ed9afabab",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "899eef3a-a174-4ffc-b278-5114401ca302",
+                "direction": "backward",
+                "recording": {
+                    "id": "899eef3a-a174-4ffc-b278-5114401ca302",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87b761b6-208a-4127-85c7-09f867950a29",
+                "direction": "backward",
+                "recording": {
+                    "id": "87b761b6-208a-4127-85c7-09f867950a29",
+                    "title": "Honey Pie",
+                    "length": "118990"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "435a8f9d-3e25-4d91-9ab3-d1efed8daf11",
+                "direction": "backward",
+                "recording": {
+                    "id": "435a8f9d-3e25-4d91-9ab3-d1efed8daf11",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff8a703f-5deb-4430-8b42-e67f2e3ebdb2",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff8a703f-5deb-4430-8b42-e67f2e3ebdb2",
+                    "title": "Honey Pie",
+                    "length": "161000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5453dac2-b017-4fbd-bbd2-7ff239b5c965",
+                "direction": "backward",
+                "recording": {
+                    "id": "5453dac2-b017-4fbd-bbd2-7ff239b5c965",
+                    "title": "Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1bd2b70-31df-44d1-a59e-c644870a0366",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1bd2b70-31df-44d1-a59e-c644870a0366",
+                    "title": "Honey Pie",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6699400-3a77-45d5-b434-0bc06349b29c",
+                "direction": "backward",
+                "recording": {
+                    "id": "d6699400-3a77-45d5-b434-0bc06349b29c",
+                    "title": "Honey Pie",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1d45dfa-464d-4417-9c6e-65501bac2d8c",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1d45dfa-464d-4417-9c6e-65501bac2d8c",
+                    "title": "Honey Pie",
+                    "length": "159000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ba1f5f0-56ca-4dd1-b89f-e432eb8a5925",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ba1f5f0-56ca-4dd1-b89f-e432eb8a5925",
+                    "title": "Honey Pie",
+                    "length": "122200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d071f998-5ee7-4d40-90fc-4f6e7ca225a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "d071f998-5ee7-4d40-90fc-4f6e7ca225a8",
+                    "title": "Honey Pie",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d31d4916-609a-4eac-9416-63b1cb4dbc58",
+                "direction": "backward",
+                "recording": {
+                    "id": "d31d4916-609a-4eac-9416-63b1cb4dbc58",
+                    "title": "Honey Pie",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd99d129-cc4e-4c4f-ac41-7de34d261631",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd99d129-cc4e-4c4f-ac41-7de34d261631",
+                    "title": "Honey Pie",
+                    "length": "117320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2db2f907-e23d-4993-b74b-c3ac14741736",
+                "direction": "backward",
+                "recording": {
+                    "id": "2db2f907-e23d-4993-b74b-c3ac14741736",
+                    "title": "Honey Pie",
+                    "length": "123960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12ef5676-7cc6-459e-ac54-9b60e41133ab",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "12ef5676-7cc6-459e-ac54-9b60e41133ab",
+                    "title": "Honey Pie",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8c66edc-82af-4981-bd60-9ffc5923fcb7",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8c66edc-82af-4981-bd60-9ffc5923fcb7",
+                    "title": "Honey Pie",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6078b187-6c48-44cc-9ee7-83642fdfc912",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6078b187-6c48-44cc-9ee7-83642fdfc912",
+                    "title": "Honey Pie",
+                    "length": "123266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "390583cf-69ec-47f7-803b-ad37fa4e740a",
+                "direction": "backward",
+                "recording": {
+                    "id": "390583cf-69ec-47f7-803b-ad37fa4e740a",
+                    "title": "Honey Pie",
+                    "length": "17480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5abc1772-147c-4e09-85b5-70e4bc24b1be",
+                "direction": "backward",
+                "recording": {
+                    "id": "5abc1772-147c-4e09-85b5-70e4bc24b1be",
+                    "title": "Honey Pie",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1290148-4561-4786-b456-b0b6225a9d3d",
+                "direction": "backward",
+                "recording": {
+                    "id": "e1290148-4561-4786-b456-b0b6225a9d3d",
+                    "title": "Honey Pie",
+                    "length": "128946"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57a6059e-6b6f-4db0-996f-aad553744e61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "57a6059e-6b6f-4db0-996f-aad553744e61",
+                    "title": "Honey Pie",
+                    "length": "120040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5528dc3-5b59-4984-aa1b-7e3236dfbce4",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5528dc3-5b59-4984-aa1b-7e3236dfbce4",
+                    "title": "Honey Pie (alternate mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a80a29fe-61a9-4c0a-97cb-34e2768a05fe",
+                "direction": "backward",
+                "recording": {
+                    "id": "a80a29fe-61a9-4c0a-97cb-34e2768a05fe",
+                    "title": "Honey Pie (Anthology edit)",
+                    "length": "77973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4d6d8e1-afae-4d45-898a-764b11b2a6b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4d6d8e1-afae-4d45-898a-764b11b2a6b1",
+                    "title": "Honey Pie (Anthology mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c46bbb01-bcad-4c5c-9c6c-add95d0960d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "c46bbb01-bcad-4c5c-9c6c-add95d0960d6",
+                    "title": "Honey Pie (demo) (Alt mix)",
+                    "length": "125866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da9eda75-775d-464d-894c-398c07017952",
+                "direction": "backward",
+                "recording": {
+                    "id": "da9eda75-775d-464d-894c-398c07017952",
+                    "title": "Honey Pie (Esher demo)",
+                    "length": "125733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e74d3ee5-c976-41e2-a380-677bed86f64f",
+                "direction": "backward",
+                "recording": {
+                    "id": "e74d3ee5-c976-41e2-a380-677bed86f64f",
+                    "title": "Honey Pie (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9488ead-8ca5-4660-b27e-4dd24663d7f7",
+                "direction": "backward",
+                "recording": {
+                    "id": "d9488ead-8ca5-4660-b27e-4dd24663d7f7",
+                    "title": "Honey Pie (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a106898e-adf8-4011-93ed-c1f3c56ac6c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "a106898e-adf8-4011-93ed-c1f3c56ac6c0",
+                    "title": "Honey Pie (RM1 take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0fe24c5-d1fd-4475-920b-ff89cc6879f4",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0fe24c5-d1fd-4475-920b-ff89cc6879f4",
+                    "title": "Honey Pie (RS1 Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0225793-4480-4f98-914d-87c86c8406fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0225793-4480-4f98-914d-87c86c8406fc",
+                    "title": "Honey Pie (take 1, RM1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f5ee25b-77a0-408d-9352-1b8491989a1a",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f5ee25b-77a0-408d-9352-1b8491989a1a",
+                    "title": "Horny Pie",
+                    "length": "154000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-honey-pie-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10086",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=171",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2343711",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "c82e4d3c-3c61-44ef-a588-4130721df695",
+                "direction": "forward",
+                "work": {
+                    "id": "c82e4d3c-3c61-44ef-a588-4130721df695",
+                    "type": "Concerto",
+                    "title": "Beatles Concerto Grosso No. 1 (In the Style of Handel): Honey Pie - Allegro",
+                    "language": "zxx"
+                }
+            }
+        ]
+    }
+}

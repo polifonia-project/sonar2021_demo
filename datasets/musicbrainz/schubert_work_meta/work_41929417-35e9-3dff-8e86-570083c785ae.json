@@ -1,0 +1,668 @@
+{
+    "work": {
+        "id": "41929417-35e9-3dff-8e86-570083c785ae",
+        "type": "Song",
+        "title": "Schwanengesang, D. 957: X. Das Fischerm\u00e4dchen",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Das Fischerm\u00e4dchen",
+                "alias": "Das Fischerm\u00e4dchen"
+            },
+            {
+                "sort-name": "Schwanengesang, D 957: Das Fischerm\u00e4dchen",
+                "alias": "Schwanengesang, D 957: Das Fischerm\u00e4dchen"
+            },
+            {
+                "sort-name": "Schwanengesang, D 957: X. Das Fischerm\u00e4dchen",
+                "alias": "Schwanengesang, D 957: X. Das Fischerm\u00e4dchen"
+            }
+        ],
+        "alias-count": 3,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1828",
+                "end": "1828",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "d5efb3bf-4d84-4c70-a461-d8e3cdb4b755",
+                "direction": "backward",
+                "artist": {
+                    "id": "d5efb3bf-4d84-4c70-a461-d8e3cdb4b755",
+                    "type": "Person",
+                    "name": "Heinrich Heine",
+                    "sort-name": "Heine, Heinrich",
+                    "disambiguation": "German poet"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5cd9374-42c7-4f23-a7ad-04e48c516230",
+                "direction": "backward",
+                "begin": "1951-10-03",
+                "end": "1951-10-07",
+                "ended": "true",
+                "recording": {
+                    "id": "a5cd9374-42c7-4f23-a7ad-04e48c516230",
+                    "title": "Schwanengesang D957 (1997 Remastered Version): Das Fischerm\u00e4dchen (Heine)",
+                    "length": "129266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f11d83e5-531c-4af2-87ab-39fe0e7d1e95",
+                "direction": "backward",
+                "begin": "1951-10-03",
+                "end": "1951-10-07",
+                "ended": "true",
+                "recording": {
+                    "id": "f11d83e5-531c-4af2-87ab-39fe0e7d1e95",
+                    "title": "Schwanengesang, D 957 No. 10: Das Fischerm\u00e4dchen",
+                    "length": "128706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ed7523c-c226-43d4-abfe-6a0c4b7d1a78",
+                "direction": "backward",
+                "begin": "1954-05-28",
+                "end": "1954-05-30",
+                "ended": "true",
+                "recording": {
+                    "id": "7ed7523c-c226-43d4-abfe-6a0c4b7d1a78",
+                    "title": "Schwanengesang: X. Das Fischerm\u00e4dchen",
+                    "length": "124906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c03f3d16-4a66-413b-969f-e5178e646f2e",
+                "direction": "backward",
+                "begin": "1956-08-13",
+                "end": "1956-08-13",
+                "ended": "true",
+                "recording": {
+                    "id": "c03f3d16-4a66-413b-969f-e5178e646f2e",
+                    "title": "Seis canciones de \u201cSchwanengesang\u201d, D 957 n.\u00ba 10: Das Fischerm\u00e4dchen",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9bc72bd-d96e-4e7a-ac32-575ded0690c5",
+                "direction": "backward",
+                "begin": "1962-05-07",
+                "end": "1962-09-08",
+                "ended": "true",
+                "recording": {
+                    "id": "e9bc72bd-d96e-4e7a-ac32-575ded0690c5",
+                    "title": "Schwanengesang, D. 957: X. Das Fischerm\u00e4dchen",
+                    "length": "118000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2473b1da-b408-4417-afe1-68cd8416f16b",
+                "direction": "backward",
+                "begin": "1972-03",
+                "end": "1972-03",
+                "ended": "true",
+                "recording": {
+                    "id": "2473b1da-b408-4417-afe1-68cd8416f16b",
+                    "title": "Schwanengesang, D. 957: 10. \"Das Fischerm\u00e4dchen\"",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d314646e-7826-49ea-a9f5-3e55ec74b26d",
+                "direction": "backward",
+                "begin": "1979-07-30",
+                "end": "1979-07-30",
+                "ended": "true",
+                "recording": {
+                    "id": "d314646e-7826-49ea-a9f5-3e55ec74b26d",
+                    "title": "Das Fischerm\u00e4dchen",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81922cac-3211-4c41-acae-157bdb221da7",
+                "direction": "backward",
+                "begin": "1982-09",
+                "end": "1982-09",
+                "ended": "true",
+                "recording": {
+                    "id": "81922cac-3211-4c41-acae-157bdb221da7",
+                    "title": "Schwanengesang, D 957: 10. Das Fischerm\u00e4dchen (Heine)",
+                    "length": "121600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45b4b485-03c0-4089-aa58-b7d96ef40773",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "45b4b485-03c0-4089-aa58-b7d96ef40773",
+                    "title": "Das Fischerm\u00e4dchen",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaff29b4-03df-4006-bb46-3440c1780d16",
+                "direction": "backward",
+                "begin": "1989-08",
+                "end": "1989-08",
+                "ended": "true",
+                "recording": {
+                    "id": "aaff29b4-03df-4006-bb46-3440c1780d16",
+                    "title": "Schwanengesang, D. 957: Das Fischerm\u00e4dchen",
+                    "length": "128240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb47faf5-35f9-4955-9d91-04d887547b80",
+                "direction": "backward",
+                "begin": "1993-11-21",
+                "end": "1993-12-02",
+                "ended": "true",
+                "recording": {
+                    "id": "bb47faf5-35f9-4955-9d91-04d887547b80",
+                    "title": "Schwanengesang, D 957: X. Du sch\u00f6nes Fischerm\u00e4dchen",
+                    "length": "102000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "727235ae-8d1d-4673-9bc7-9cc5d8025e5b",
+                "direction": "backward",
+                "begin": "1994-02",
+                "end": "1994-02",
+                "ended": "true",
+                "recording": {
+                    "id": "727235ae-8d1d-4673-9bc7-9cc5d8025e5b",
+                    "title": "Schwanengesang, D 957: X. Das Fischerm\u00e4dchen",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8292b081-ca2e-4370-9bad-99016616f4a3",
+                "direction": "backward",
+                "begin": "1994-09",
+                "end": "1994-12",
+                "ended": "true",
+                "recording": {
+                    "id": "8292b081-ca2e-4370-9bad-99016616f4a3",
+                    "title": "Svanas\u00f6gnur: Fiskist\u00falkan",
+                    "length": "144066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6855daa0-041e-4c1b-a90a-8009d0f1f452",
+                "direction": "backward",
+                "begin": "1998-03",
+                "end": "1998-06",
+                "ended": "true",
+                "recording": {
+                    "id": "6855daa0-041e-4c1b-a90a-8009d0f1f452",
+                    "title": "Schwanengesang, D. 957: X. Das Fischerm\u00e4dchen",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d1bde20-5b6d-4cbd-9d91-5840cee7b089",
+                "direction": "backward",
+                "begin": "2003-11-05",
+                "end": "2003-11-07",
+                "ended": "true",
+                "recording": {
+                    "id": "1d1bde20-5b6d-4cbd-9d91-5840cee7b089",
+                    "title": "Schwanengesang, D 957: Das Fischerm\u00e4dchen",
+                    "length": "133106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06f8cbc7-5a8b-4282-9124-4dbfa11dacb6",
+                "direction": "backward",
+                "begin": "2010-10",
+                "end": "2010-10",
+                "ended": "true",
+                "recording": {
+                    "id": "06f8cbc7-5a8b-4282-9124-4dbfa11dacb6",
+                    "title": "Schwanengesang, D.957: Das Fischerm\u00e4dchen",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "440ef1ee-c452-4811-920f-72a6ab5eab5c",
+                "direction": "backward",
+                "begin": "2015-01",
+                "end": "2015-01",
+                "ended": "true",
+                "recording": {
+                    "id": "440ef1ee-c452-4811-920f-72a6ab5eab5c",
+                    "title": "Schwanengesang, D. 957: Das Fischerm\u00e4dchen",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bea67a55-f761-4437-b3b0-8c7f70f7e006",
+                "direction": "backward",
+                "begin": "2018-10-04",
+                "end": "2018-10-06",
+                "ended": "true",
+                "recording": {
+                    "id": "bea67a55-f761-4437-b3b0-8c7f70f7e006",
+                    "title": "Schwanengesang, D957: Das Fischerm\u00e4dchen",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a170d840-4f47-453a-8ff8-cd97a8db482d",
+                "direction": "backward",
+                "begin": "2019-04-30",
+                "end": "2019-05-02",
+                "ended": "true",
+                "recording": {
+                    "id": "a170d840-4f47-453a-8ff8-cd97a8db482d",
+                    "title": "Schwanengesang, D 957: 10. Das Fischerm\u00e4dchen",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c388e9da-5033-40c0-8c5e-46d6b60ce57f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c388e9da-5033-40c0-8c5e-46d6b60ce57f",
+                    "title": "Das Fischermadchen",
+                    "length": "110000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbfe24ee-772e-4bfc-9e12-f35bdccda1be",
+                "direction": "backward",
+                "recording": {
+                    "id": "dbfe24ee-772e-4bfc-9e12-f35bdccda1be",
+                    "title": "Das Fischerm\u00e4dchen",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80ba59a1-d43f-4694-8ab2-8d8746c1c300",
+                "direction": "backward",
+                "recording": {
+                    "id": "80ba59a1-d43f-4694-8ab2-8d8746c1c300",
+                    "title": "Das Fischerm\u00e4dchen",
+                    "length": "144426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8437487-c7ad-4102-b9a2-6e9dbe58471a",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8437487-c7ad-4102-b9a2-6e9dbe58471a",
+                    "title": "Das Fischerm\u00e4dchen (\"Du sch\u00f6nes Fischerm\u00e4dchen\"), aus: Schwanengesang D. 957",
+                    "length": "126973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24a9b376-d205-43f5-8762-f028495f2060",
+                "direction": "backward",
+                "recording": {
+                    "id": "24a9b376-d205-43f5-8762-f028495f2060",
+                    "title": "Das Fischerm\u00e4dchen D. 957 no. 10",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d40ba5c0-e7eb-47d4-baf7-3907a95bb332",
+                "direction": "backward",
+                "recording": {
+                    "id": "d40ba5c0-e7eb-47d4-baf7-3907a95bb332",
+                    "title": "Schwanengesang (Swan Song), song cycle for voice & piano, D. 957: Das Fischerm\u00e4dchen",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "653383b0-fad8-4e08-8d47-1ca982dec142",
+                "direction": "backward",
+                "recording": {
+                    "id": "653383b0-fad8-4e08-8d47-1ca982dec142",
+                    "title": "Schwanengesang D. 957 No. 10: Das Fischerm\u00e4dchen",
+                    "length": "116373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77de2f55-7dd5-4c06-98c3-c4beb03aa48c",
+                "direction": "backward",
+                "recording": {
+                    "id": "77de2f55-7dd5-4c06-98c3-c4beb03aa48c",
+                    "title": "Schwanengesang D. 957: X. Das Fischerm\u00e4dchen",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aeefb45a-1b2b-4e37-bdec-0992100781be",
+                "direction": "backward",
+                "recording": {
+                    "id": "aeefb45a-1b2b-4e37-bdec-0992100781be",
+                    "title": "Schwanengesang D.957: X. Das Fischerm\u00e4dchen",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9663e126-f32b-471a-b74b-68c1b9df62ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "9663e126-f32b-471a-b74b-68c1b9df62ec",
+                    "title": "Schwanengesang D957 - Das Fischerm\u00e4dchen",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f545c462-636a-49af-97cd-b4a2c64bba41",
+                "direction": "backward",
+                "recording": {
+                    "id": "f545c462-636a-49af-97cd-b4a2c64bba41",
+                    "title": "Schwanengesang D957: Die Stadt",
+                    "length": "172333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38e6e1f5-daed-479d-a34b-c9e715256acb",
+                "direction": "backward",
+                "recording": {
+                    "id": "38e6e1f5-daed-479d-a34b-c9e715256acb",
+                    "title": "Schwanengesang, D 957: Das Fischerm\u00e4dchen",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "606185c7-92f6-4cd6-b675-ace1103354e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "606185c7-92f6-4cd6-b675-ace1103354e0",
+                    "title": "Schwanengesang, D. 957 No. 10: Das Fischerm\u00e4dchen",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ba16dd6-cd76-43c4-9ed8-a8e5d00f61de",
+                "direction": "backward",
+                "recording": {
+                    "id": "9ba16dd6-cd76-43c4-9ed8-a8e5d00f61de",
+                    "title": "Schwanengesang, D. 957 No. 10: Das Fischerm\u00e4dchen",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80361828-33ae-401a-b67f-5980ab2cbfa9",
+                "direction": "backward",
+                "recording": {
+                    "id": "80361828-33ae-401a-b67f-5980ab2cbfa9",
+                    "title": "Schwanengesang, D. 957 No. 10: Das Fischerm\u00e4dchen (tenor: Christoph Pr\u00e9gardien, piano: Andreas Staier)",
+                    "length": "105800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94e734a4-26c4-4cdd-b545-10acf4c11936",
+                "direction": "backward",
+                "recording": {
+                    "id": "94e734a4-26c4-4cdd-b545-10acf4c11936",
+                    "title": "Schwanengesang, D. 957: Das Fischermadchen",
+                    "length": "125266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99cc0713-6251-4524-9178-0ad590da5e3a",
+                "direction": "backward",
+                "recording": {
+                    "id": "99cc0713-6251-4524-9178-0ad590da5e3a",
+                    "title": "Schwanengesang, D. 957: Das Fischerm\u00e4dchen",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e01c7c3a-36de-4257-b6c5-8755e872b26b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e01c7c3a-36de-4257-b6c5-8755e872b26b",
+                    "title": "Schwanengesang, D. 957: Das Fischerm\u00e4dchen",
+                    "length": "127000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25b0cb9f-f31e-484b-930f-d40c06a54c97",
+                "direction": "backward",
+                "recording": {
+                    "id": "25b0cb9f-f31e-484b-930f-d40c06a54c97",
+                    "title": "Schwanengesang, D. 957: Das Fischerm\u00e4dchen",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "733940b8-b3c9-43a3-9e0f-90033fc9e509",
+                "direction": "backward",
+                "recording": {
+                    "id": "733940b8-b3c9-43a3-9e0f-90033fc9e509",
+                    "title": "Schwanengesang, D. 957: Nr. 10. Das Fischerm\u00e4dchen",
+                    "length": "131040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e1e955b-de09-4c67-a841-5fb6dacfc620",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e1e955b-de09-4c67-a841-5fb6dacfc620",
+                    "title": "Schwanengesang, D. 957: VIII. Das Fischerm\u00e4dchen",
+                    "length": "136147"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "507ed4b0-39ed-4d9a-9cf4-93788a11d655",
+                "direction": "backward",
+                "recording": {
+                    "id": "507ed4b0-39ed-4d9a-9cf4-93788a11d655",
+                    "title": "Schwanengesang, D. 957: X. Das Fischermadchen",
+                    "length": "172333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "430ca010-41c6-4f8a-9ea1-722a962ef8ee",
+                "direction": "backward",
+                "recording": {
+                    "id": "430ca010-41c6-4f8a-9ea1-722a962ef8ee",
+                    "title": "Schwanengesang, D. 957: X. Das Fischerm\u00e4dchen",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98ea1a48-afb1-4793-a69c-3cd96853c263",
+                "direction": "backward",
+                "recording": {
+                    "id": "98ea1a48-afb1-4793-a69c-3cd96853c263",
+                    "title": "Schwanengesang, D957: Das Fischerm\u00e4dchen",
+                    "length": "107160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59a99091-f369-4a2c-8714-0768906ed9fa",
+                "direction": "backward",
+                "recording": {
+                    "id": "59a99091-f369-4a2c-8714-0768906ed9fa",
+                    "title": "Schwanengesang: \"Das Fischerm\u00e4dchen\"",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15b491e8-100b-49e5-860f-214af9b4bc0d",
+                "direction": "backward",
+                "recording": {
+                    "id": "15b491e8-100b-49e5-860f-214af9b4bc0d",
+                    "title": "Schwanengesang: Das Fischerm\u00e4dchen",
+                    "length": "117866"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "0f6b29bf-7073-4c26-9b21-c067ef802cfb",
+                "direction": "forward",
+                "work": {
+                    "id": "0f6b29bf-7073-4c26-9b21-c067ef802cfb",
+                    "title": "Das Fischerm\u00e4dchen, D. 957 Nr. 10",
+                    "language": "zxx",
+                    "disambiguation": "for flute and piano, B\u00f6hm"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "3d8494d5-0499-429c-81ad-c1289dbdfd84",
+                "direction": "forward",
+                "work": {
+                    "id": "3d8494d5-0499-429c-81ad-c1289dbdfd84",
+                    "title": "Schwanengesang, S. 560: No. 2. Das Fischerm\u00e4dchen",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "4236aad3-15de-47b0-82dd-fc528a377045",
+                "direction": "forward",
+                "work": {
+                    "id": "4236aad3-15de-47b0-82dd-fc528a377045",
+                    "title": "Schwanengesang, D. 957: X. Das Fischerm\u00e4dchen",
+                    "language": "zxx",
+                    "disambiguation": "for guitar solo, Mertz"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                "ordering-key": "10",
+                "direction": "backward",
+                "work": {
+                    "id": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                    "type": "Song-cycle",
+                    "title": "Schwanengesang, D. 957",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

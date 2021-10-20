@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-22.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-22> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-22.json> ;
+        xyz:lyrics    "Fliegt der Schnee mir ins Gesicht,\nschüttl ich ihn herunter.\nWenn mein Herz im Busen spricht,\nsing ich hell und munter; \n\nhöre nicht, was es mir sagt,\nhabe keine Ohren,\nfühle nicht, was es mir klagt,\nKlagen ist für Toren. \n\nLustig in die Welt hinein\ngegen Wind und Wetter!\nwill kein Gott auf Erden sein,\nsind wir selber Götter! \n\nLustig in die Welt hinein\ngegen Wind und Wetter!\nwill kein Gott auf Erden sein,\nsind wir selber Götter!" ;
+        xyz:title     "Schubert_D911-22" .

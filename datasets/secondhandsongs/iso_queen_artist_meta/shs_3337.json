@@ -1,0 +1,48 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/3337",
+    "commonName": "Freddie Mercury",
+    "realName": "Farrokh  Bulsara",
+    "birthDate": "1946-09-05",
+    "deathDate": "1991-11-24",
+    "picture": "https://secondhandsongs.com/picture/48206",
+    "homeCountry": "GB",
+    "comments": null,
+    "aliases": [],
+    "relations": [
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/374",
+                "commonName": "Queen"
+            },
+            "comments": "(1970-1991)"
+        },
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/130994",
+                "commonName": "Ibex"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/19065",
+                "commonName": "Larry Lurex"
+            },
+            "comments": null
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/3337/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/3337/works",
+    "releases": "https://secondhandsongs.com/artist/3337/releases"
+}

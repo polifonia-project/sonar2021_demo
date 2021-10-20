@@ -1,0 +1,1570 @@
+{
+    "work": {
+        "id": "758a4781-726a-35b8-9fe6-a4ba175e07c6",
+        "type": "Song",
+        "title": "The End",
+        "language": "eng",
+        "iswc": "T-010.436.800-4",
+        "iswc-list": [
+            "T-010.436.800-4"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "374639"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "350059822"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01882853"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633481-001"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "28761"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000239701"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "63 018 230 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "426104500"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243797"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "55.677"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "4825118"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100106500"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "220240"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3447718"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000087 226 93"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "17762201"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "25019"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12123310"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3260376"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358016"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358016"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6212220"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "4966000"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0E0-1137-0"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "39360A"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-001672889"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "019627670"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0806803d-6514-4b1b-bdb0-e52f743ee225",
+                "direction": "backward",
+                "begin": "1967-02-22",
+                "end": "1969-08-18",
+                "ended": "true",
+                "recording": {
+                    "id": "0806803d-6514-4b1b-bdb0-e52f743ee225",
+                    "title": "The End",
+                    "length": "171000",
+                    "disambiguation": "Anthology remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3383afc5-5c68-4dd6-b14c-c4371201d0c8",
+                "direction": "backward",
+                "begin": "1969-07-23",
+                "end": "1969-07-23",
+                "ended": "true",
+                "recording": {
+                    "id": "3383afc5-5c68-4dd6-b14c-c4371201d0c8",
+                    "title": "The End (take 3)",
+                    "length": "131080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb903881-cdc2-4de6-af05-028636647a4e",
+                "ordering-key": "9",
+                "direction": "backward",
+                "begin": "1969-07-23",
+                "end": "1969-07-23",
+                "ended": "true",
+                "recording": {
+                    "id": "fb903881-cdc2-4de6-af05-028636647a4e",
+                    "title": "The Long One: You Never Give Me Your Money / Sun King / Mean Mr Mustard / Her Majesty / Polythene Pam / She Came in Through the Bathroom Window / Golden Slumbers / Carry That Weight / The End",
+                    "length": "970466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ad78393-77c2-451e-beb1-074df7e06e57",
+                "direction": "backward",
+                "begin": "1969-07-23",
+                "end": "1969-08-18",
+                "ended": "true",
+                "recording": {
+                    "id": "5ad78393-77c2-451e-beb1-074df7e06e57",
+                    "title": "The End",
+                    "length": "140000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb4f30d9-69e8-4951-a00a-1c421071483f",
+                "direction": "backward",
+                "begin": "1969-10-22",
+                "end": "1969-11-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb4f30d9-69e8-4951-a00a-1c421071483f",
+                    "title": "Something / Octopus\u2019s Garden / The End",
+                    "length": "382467"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "600b59bb-e386-4057-9e35-f88cacbabefb",
+                "direction": "backward",
+                "begin": "1990-03-07",
+                "end": "1990-03-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "600b59bb-e386-4057-9e35-f88cacbabefb",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "disambiguation": "live, 1990-03-07: Tokyo Dome, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d094d876-2fb7-42a8-a520-e13c8e66ae1d",
+                "direction": "backward",
+                "begin": "1997-09-15",
+                "end": "1997-09-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "d094d876-2fb7-42a8-a520-e13c8e66ae1d",
+                    "title": "Golden Slumber/Carry That Weight/The End",
+                    "length": "514000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855000",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855040",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7dce1cb-cb2a-4e3f-b213-75855d40e760",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "f7dce1cb-cb2a-4e3f-b213-75855d40e760",
+                    "title": "Sgt. Pepper's (Reprise) / The End",
+                    "disambiguation": "live, 2002: USA Tour",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d81a53f0-3de9-4f8f-9c1d-948248a5d843",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d81a53f0-3de9-4f8f-9c1d-948248a5d843",
+                    "title": "Sgt. Pepper\u2019s / The End",
+                    "length": "280373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec288f0a-71c4-4965-8349-d8dc29be306a",
+                "direction": "backward",
+                "begin": "2005-09-22",
+                "end": "2005-09-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ec288f0a-71c4-4965-8349-d8dc29be306a",
+                    "title": "Sgt Pepper's (reprise) / Abbey Road Jam / The End",
+                    "disambiguation": "live, 2005-09-22: Wachovia Center, Philadelphia, PA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5161882-f176-4d3c-8b76-f6cb20936868",
+                "direction": "backward",
+                "begin": "2005-10-26",
+                "end": "2005-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b5161882-f176-4d3c-8b76-f6cb20936868",
+                    "title": "Sgt. Pepper's (reprise) / The End",
+                    "disambiguation": "live, 2005-10-26: Xcel Energy Center, St. Paul, MN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35847938-12dd-4fae-8a18-f2acd0c155d8",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "35847938-12dd-4fae-8a18-f2acd0c155d8",
+                    "title": "The End",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2baa974-5305-470a-8143-486512bd709e",
+                "direction": "backward",
+                "begin": "2009-07",
+                "end": "2009-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e2baa974-5305-470a-8143-486512bd709e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band / The End",
+                    "disambiguation": "live, 2009-07: Citi Field, New York City, New York, USA",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61e0b0f2-4bfa-47a5-87e8-eeae04759bf2",
+                "direction": "backward",
+                "begin": "2009-07",
+                "end": "2009-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "61e0b0f2-4bfa-47a5-87e8-eeae04759bf2",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band / The End",
+                    "length": "278786",
+                    "disambiguation": "live, 2009-07: Citi Field, New York City, New York, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff77eb56-316c-40da-ab9a-8787dc6225ab",
+                "direction": "backward",
+                "begin": "2018-12-05",
+                "end": "2018-12-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ff77eb56-316c-40da-ab9a-8787dc6225ab",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "427180",
+                    "disambiguation": "live, 2018-12-05: Wiener Stadthalle, Wien, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f6e66fe-029c-407c-b283-571020e46ea3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "0f6e66fe-029c-407c-b283-571020e46ea3",
+                    "title": "Abby Road Suite",
+                    "length": "423346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6647889-b409-4990-b403-e905d4312c6f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b6647889-b409-4990-b403-e905d4312c6f",
+                    "title": "Beatles Medley: Golden Slumbers / Carry That Weight / The End",
+                    "length": "221040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3b81847-b862-4cdd-ad62-a40d7acb5320",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c3b81847-b862-4cdd-ad62-a40d7acb5320",
+                    "title": "Carry That Weight / The End / Her Majesty"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c333185c-c406-40bb-bd86-48560ce532f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c333185c-c406-40bb-bd86-48560ce532f6",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "391000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3c13f98-428f-4664-ad4b-5f066849b938",
+                "direction": "backward",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b3c13f98-428f-4664-ad4b-5f066849b938",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "387000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24c95a01-becf-452d-b0ac-817366c74aff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "24c95a01-becf-452d-b0ac-817366c74aff",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "339000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44c7125a-3bd1-4c31-afbf-851aa9825a6e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "44c7125a-3bd1-4c31-afbf-851aa9825a6e",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "247026",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d1d2798-265e-4b50-9b8c-e9995e743bd6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "2d1d2798-265e-4b50-9b8c-e9995e743bd6",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "266000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abae5719-97c2-40c3-a3bb-d888e9d3f6cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "abae5719-97c2-40c3-a3bb-d888e9d3f6cf",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "401466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3238352d-d2fd-41b2-8146-d0b695476323",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "3238352d-d2fd-41b2-8146-d0b695476323",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "352706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "afcf908b-5529-493b-99a4-fe063d96c0ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "afcf908b-5529-493b-99a4-fe063d96c0ad",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "330000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d96a50b-d9eb-47a2-aceb-2e38bcf169d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d96a50b-d9eb-47a2-aceb-2e38bcf169d4",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "331000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f56425fe-2f11-4a37-a3e5-ebbd9e5822a5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "f56425fe-2f11-4a37-a3e5-ebbd9e5822a5",
+                    "title": "Golden Slumbers / Carry That Weight / The End (medley)",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f016cef4-7db2-49a1-9ddc-ca5bd304327a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "f016cef4-7db2-49a1-9ddc-ca5bd304327a",
+                    "title": "Golden Slumbers / The End",
+                    "length": "257106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66d69ad0-1d6e-44f2-9ef3-8eb7b59b6694",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "66d69ad0-1d6e-44f2-9ef3-8eb7b59b6694",
+                    "title": "Golden Slumbers, Carry That Weight, the End"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b82eed2-eb0c-4d4b-a126-232035ee5262",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "6b82eed2-eb0c-4d4b-a126-232035ee5262",
+                    "title": "Hey Jude/The End",
+                    "length": "232000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                    "title": "Suite Charlotte Pike / Abbey Road",
+                    "length": "1888840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "992421b1-526b-4672-bd53-c660c710c078",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "992421b1-526b-4672-bd53-c660c710c078",
+                    "title": "The End",
+                    "length": "149000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "934d6d97-e986-45eb-857b-fad88212e47e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "934d6d97-e986-45eb-857b-fad88212e47e",
+                    "title": "The End",
+                    "length": "52000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f14cdfce-0622-4631-b8bf-3d8d37bc6744",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f14cdfce-0622-4631-b8bf-3d8d37bc6744",
+                    "title": "The End",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea93c8df-b3ba-41ca-bd32-66292e7b01d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ea93c8df-b3ba-41ca-bd32-66292e7b01d3",
+                    "title": "The End",
+                    "length": "35986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbfb92cd-8a64-4526-b222-5f970b8a1111",
+                "direction": "backward",
+                "recording": {
+                    "id": "fbfb92cd-8a64-4526-b222-5f970b8a1111",
+                    "title": "The End",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a5e5984-d0a3-4613-9fa4-ce51cccdf4a3",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2a5e5984-d0a3-4613-9fa4-ce51cccdf4a3",
+                    "title": "The End",
+                    "length": "32800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9db27e83-5908-4860-bc5c-f929f2ea7170",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9db27e83-5908-4860-bc5c-f929f2ea7170",
+                    "title": "The End",
+                    "length": "131000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "156a9adb-eb21-4767-89fa-1f61d00462af",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "156a9adb-eb21-4767-89fa-1f61d00462af",
+                    "title": "The End",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5c2ca14-28ec-40a5-84c9-346980217103",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b5c2ca14-28ec-40a5-84c9-346980217103",
+                    "title": "The End",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6db5ac2-853d-4be8-bf6c-3b3ba02e5b0c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c6db5ac2-853d-4be8-bf6c-3b3ba02e5b0c",
+                    "title": "The End",
+                    "length": "244000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db5bb43a-adfc-48d1-bc5c-18ca52ac8f87",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "db5bb43a-adfc-48d1-bc5c-18ca52ac8f87",
+                    "title": "The End",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d17b108-1554-4633-8dc1-03a0db9b843d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "4d17b108-1554-4633-8dc1-03a0db9b843d",
+                    "title": "The End",
+                    "length": "37000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e927a1b-2e0d-4e54-b3d5-d03c13b2123a",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e927a1b-2e0d-4e54-b3d5-d03c13b2123a",
+                    "title": "The End",
+                    "length": "141906",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ae2aca0-2258-4a8a-8fbf-b987a2969616",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4ae2aca0-2258-4a8a-8fbf-b987a2969616",
+                    "title": "The End",
+                    "length": "82200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9911cf10-2b4f-4fdb-92c1-6d133b144f67",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9911cf10-2b4f-4fdb-92c1-6d133b144f67",
+                    "title": "The End",
+                    "length": "155027"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77f6cc13-172c-49cf-b7f2-ccab8a8c356a",
+                "direction": "backward",
+                "recording": {
+                    "id": "77f6cc13-172c-49cf-b7f2-ccab8a8c356a",
+                    "title": "The End",
+                    "length": "60186",
+                    "disambiguation": "part of \u201cDeck Safari, Part 1\u201d DJ-mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1433c7e8-62af-41e3-8dd2-e4d91028d1c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "1433c7e8-62af-41e3-8dd2-e4d91028d1c1",
+                    "title": "The End"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e14e8dc-96d9-484c-a1a7-ecc14bcfcd3d",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e14e8dc-96d9-484c-a1a7-ecc14bcfcd3d",
+                    "title": "The End"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "797bbfba-939e-482f-b2e5-46fca14a72cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "797bbfba-939e-482f-b2e5-46fca14a72cb",
+                    "title": "The End"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e4bc44e-3488-4cad-a5b4-e1bf31d982fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e4bc44e-3488-4cad-a5b4-e1bf31d982fc",
+                    "title": "The End"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c53d502-7cbf-4614-9815-dc908f8748de",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c53d502-7cbf-4614-9815-dc908f8748de",
+                    "title": "The End",
+                    "length": "119960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96053a4f-80cf-4ef5-b387-96b25f9ff8f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "96053a4f-80cf-4ef5-b387-96b25f9ff8f9",
+                    "title": "The End",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48b78ca8-f7b6-4911-a48d-155008dc496e",
+                "direction": "backward",
+                "recording": {
+                    "id": "48b78ca8-f7b6-4911-a48d-155008dc496e",
+                    "title": "The End",
+                    "length": "40000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a777ae35-034e-44f3-8811-43a35c57f78b",
+                "direction": "backward",
+                "recording": {
+                    "id": "a777ae35-034e-44f3-8811-43a35c57f78b",
+                    "title": "The End",
+                    "length": "118000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2defa2c4-6a85-4a86-9166-7e2c178d97e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "2defa2c4-6a85-4a86-9166-7e2c178d97e0",
+                    "title": "The End (5.1 mix)",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "baf374a6-3f44-4d5e-9735-1d4ab47ee1c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "baf374a6-3f44-4d5e-9735-1d4ab47ee1c9",
+                    "title": "The End (1996 remix)",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa054a1c-6261-423e-82b7-8f2d1023e7df",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "aa054a1c-6261-423e-82b7-8f2d1023e7df",
+                    "title": "The End (early instrumental mix)",
+                    "length": "120000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c83149be-25c1-413e-a0e5-6cd32dd7547c",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c83149be-25c1-413e-a0e5-6cd32dd7547c",
+                    "title": "The End (instrumental)",
+                    "length": "147333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf1c5f3f-ce85-45d1-97ad-e3151a77656b",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf1c5f3f-ce85-45d1-97ad-e3151a77656b",
+                    "title": "The End (Mono)",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4033b14-b1b9-463d-8239-e86d39ddf163",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4033b14-b1b9-463d-8239-e86d39ddf163",
+                    "title": "The End (Take 7, RS 1)",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acb1a1bd-a030-437d-a736-0e0d40cf124d",
+                "direction": "backward",
+                "recording": {
+                    "id": "acb1a1bd-a030-437d-a736-0e0d40cf124d",
+                    "title": "The End (take 7, RS1 -mono)",
+                    "length": "124680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9207c7c2-dd02-4fff-a163-0f966529394e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9207c7c2-dd02-4fff-a163-0f966529394e",
+                    "title": "The End (take 7)",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78dc372d-4955-41db-ad20-8ca442b242da",
+                "direction": "backward",
+                "recording": {
+                    "id": "78dc372d-4955-41db-ad20-8ca442b242da",
+                    "title": "The End (take 7)",
+                    "length": "91120"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce769b01-6d84-4f65-9261-8d4a21ec13eb",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce769b01-6d84-4f65-9261-8d4a21ec13eb",
+                    "title": "The End (Take 7)",
+                    "length": "102000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cccbb536-1a0f-488c-a7f7-c999f1ba87de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "cccbb536-1a0f-488c-a7f7-c999f1ba87de",
+                    "title": "The End: If I Fell / Michelle / Yesterday / Blackbird / Hey Jude / The End",
+                    "length": "512706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-the-end-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1132",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=206",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q210301",
+                "direction": "backward"
+            }
+        ],
+        "rating": {
+            "votes-count": "1",
+            "rating": "5"
+        }
+    }
+}

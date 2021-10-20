@@ -1,0 +1,1745 @@
+{
+    "work": {
+        "id": "45bffa5b-0990-3829-87ec-c3bdce0b4c84",
+        "type": "Song",
+        "title": "Baby\u2019s in Black",
+        "language": "eng",
+        "iswc": "T-010.835.530-1",
+        "iswc-list": [
+            "T-010.835.530-1",
+            "T-011.601.809-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 166 36"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "948"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75101373600"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "28.200"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357910"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357910"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "211910"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "830920"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3351101"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "60 766 336 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014126800"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "30712P"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "632065-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "13134"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "3232380"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "5989611"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11269694"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000007032"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "320133299"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "910060572"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW03184764"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9262638"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243397"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "10075101"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6130413"
+            },
+            {
+                "attribute": "Key",
+                "value": "A major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcd4b3ac-20f0-45a2-911c-ebb1e80dbca5",
+                "direction": "backward",
+                "begin": "1964-08-11",
+                "end": "1964-08-11",
+                "ended": "true",
+                "recording": {
+                    "id": "dcd4b3ac-20f0-45a2-911c-ebb1e80dbca5",
+                    "title": "Baby\u2019s in Black",
+                    "length": "125000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7a53cec-1318-495a-ab05-849d2ebc38f8",
+                "direction": "backward",
+                "begin": "1964-08-11",
+                "end": "1964-08-11",
+                "ended": "true",
+                "recording": {
+                    "id": "d7a53cec-1318-495a-ab05-849d2ebc38f8",
+                    "title": "Baby\u2019s in Black",
+                    "length": "128000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49d23294-255a-4b57-aa41-99ba42853bdf",
+                "direction": "backward",
+                "begin": "1965-04-11",
+                "end": "1965-04-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "49d23294-255a-4b57-aa41-99ba42853bdf",
+                    "title": "Baby\u2019s in Black (NME Pollwinners 1965)",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ed6341a-968e-4f61-856c-f3765af04dfd",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7ed6341a-968e-4f61-856c-f3765af04dfd",
+                    "title": "Baby\u2019s in Black",
+                    "length": "165000",
+                    "disambiguation": "live, 1965-06-20: Palais des sports de Paris, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03414e06-0049-4eaf-a82e-11495b6d1056",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "03414e06-0049-4eaf-a82e-11495b6d1056",
+                    "title": "Baby\u2019s in Black",
+                    "length": "130000",
+                    "disambiguation": "live, 1965-06-20: Palais des sports de Paris, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee9ef055-7f9d-4490-9495-caae728aadc3",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ee9ef055-7f9d-4490-9495-caae728aadc3",
+                    "title": "Baby\u2019s in Black",
+                    "length": "164573",
+                    "disambiguation": "live, 1965-06-20: Palais des sports de Paris, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26062a48-e7a7-4e09-9b56-1902458dfc2a",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "26062a48-e7a7-4e09-9b56-1902458dfc2a",
+                    "title": "Baby\u2019s in Black",
+                    "length": "159640",
+                    "disambiguation": "live, 1965-06-20: Palais des sports de Paris, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c84611a1-2b4d-47b6-8787-e19a01dbf6d1",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c84611a1-2b4d-47b6-8787-e19a01dbf6d1",
+                    "title": "Baby\u2019s in Black",
+                    "length": "168000",
+                    "disambiguation": "live, 1965-06-20: Palais des Sports, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f08d6869-f80a-4b0f-a67d-0550f240c99d",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f08d6869-f80a-4b0f-a67d-0550f240c99d",
+                    "title": "Baby\u2019s in Black",
+                    "length": "172000",
+                    "disambiguation": "live, 1965-06-20: Palais des Sports, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0ab530d-e9d1-48a5-8fbd-bd1b077f1c21",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "recording": {
+                    "id": "c0ab530d-e9d1-48a5-8fbd-bd1b077f1c21",
+                    "title": "Baby\u2019s in Black (1965-06-20)",
+                    "length": "154826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca7ec255-1aaa-4b64-ae20-bc4053251a16",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ca7ec255-1aaa-4b64-ae20-bc4053251a16",
+                    "title": "Baby\u2019s in Black (mono)",
+                    "length": "145733",
+                    "disambiguation": "live, 1965-06-20: Palais des sports de Paris, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42a0b118-95d4-42f8-ab18-ceddc545aeea",
+                "direction": "backward",
+                "begin": "1965-06-20",
+                "end": "1965-06-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "42a0b118-95d4-42f8-ab18-ceddc545aeea",
+                    "title": "Baby\u2019s in Black (mono)",
+                    "length": "134560",
+                    "disambiguation": "live, 1965-06-20: Palais des sports de Paris, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fea21995-6eca-49aa-a3a2-2bfd58e83d25",
+                "direction": "backward",
+                "begin": "1965-08-15",
+                "end": "1965-08-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fea21995-6eca-49aa-a3a2-2bfd58e83d25",
+                    "title": "Baby's in Black",
+                    "length": "160040",
+                    "disambiguation": "live, 1965-08-15: Shea Stadium, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21574e27-71f1-4b55-b782-9ec30cdf4fc1",
+                "direction": "backward",
+                "begin": "1965-08-15",
+                "end": "1965-08-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "21574e27-71f1-4b55-b782-9ec30cdf4fc1",
+                    "title": "Baby\u2019s in Black (New York, Shea Stadium, 15th August 1965)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b4d5305-c986-4d30-bd40-64c96b7d0b57",
+                "direction": "backward",
+                "begin": "1965-08-19",
+                "end": "1965-08-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8b4d5305-c986-4d30-bd40-64c96b7d0b57",
+                    "title": "Baby\u2019s in Black",
+                    "length": "155333",
+                    "disambiguation": "live, 1965-08-19: Sam Houston Coliseum, Houston, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39fb4bce-da3b-4693-986e-4898b58db411",
+                "direction": "backward",
+                "begin": "1965-08-19",
+                "end": "1965-08-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "39fb4bce-da3b-4693-986e-4898b58db411",
+                    "title": "Baby\u2019s in Black",
+                    "length": "192813",
+                    "disambiguation": "live, 1965-08-19: Sam Houston Coliseum, Houston, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abcb03d9-8ce5-4d31-baa3-26f1fb878f7e",
+                "direction": "backward",
+                "begin": "1965-08-21",
+                "end": "1965-08-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "abcb03d9-8ce5-4d31-baa3-26f1fb878f7e",
+                    "title": "Baby\u2019s in Black",
+                    "disambiguation": "live, 1965-08-21: Metropolitan Stadium, Minneapolis, MN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f9957c1-d4a3-4e34-8d24-8531b1b0de56",
+                "direction": "backward",
+                "begin": "1965-08-29",
+                "end": "1965-08-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f9957c1-d4a3-4e34-8d24-8531b1b0de56",
+                    "title": "Baby's in Black",
+                    "length": "183000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94864257-40fd-47b1-9a61-295a58ea6241",
+                "direction": "backward",
+                "begin": "1965-08-29",
+                "end": "1965-08-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "94864257-40fd-47b1-9a61-295a58ea6241",
+                    "title": "Baby\u2019s in Black",
+                    "length": "183773",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8edaf75f-8025-4423-9b42-aeba9aff990c",
+                "direction": "backward",
+                "begin": "1965-08-30",
+                "end": "1965-08-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8edaf75f-8025-4423-9b42-aeba9aff990c",
+                    "title": "Baby\u2019s in Black",
+                    "length": "164653",
+                    "disambiguation": "live, 1965-08-30: Hollywood Bowl, Los Angeles, CA, US; 2016 remix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63d72067-c63d-4234-8b86-0988f04a1f5a",
+                "direction": "backward",
+                "begin": "1965-08-30",
+                "end": "1965-08-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "63d72067-c63d-4234-8b86-0988f04a1f5a",
+                    "title": "Baby\u2019s in Black",
+                    "length": "156933",
+                    "disambiguation": "live, 1965\u201008\u201030: Hollywood Bowl, Los Angeles, CA, USA, stereo"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f74e54c-3fe3-46cc-812a-98b2d5b7e685",
+                "direction": "backward",
+                "begin": "1966-06-30",
+                "end": "1966-06-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0f74e54c-3fe3-46cc-812a-98b2d5b7e685",
+                    "title": "Baby\u2019s in Black",
+                    "length": "155546",
+                    "disambiguation": "live, 1966\u201006\u201030: Nippon Budokan Hall, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13e828da-65ae-494f-b5fd-4a1e50503f05",
+                "direction": "backward",
+                "begin": "1966-07-01",
+                "end": "1966-07-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "13e828da-65ae-494f-b5fd-4a1e50503f05",
+                    "title": "Baby\u2019s in Black",
+                    "length": "162000",
+                    "disambiguation": "live, 1966-07-01: Nippon Budokan Hall, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41879e60-c5b3-434b-9251-78c87804574d",
+                "direction": "backward",
+                "begin": "1966-07-02",
+                "end": "1966-07-02",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "41879e60-c5b3-434b-9251-78c87804574d",
+                    "title": "Baby's in Black",
+                    "length": "158493",
+                    "disambiguation": "live, 1966-07-02: Budokan Hall, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fd00c3c-2224-4e5e-89af-74011043a7e5",
+                "direction": "backward",
+                "begin": "1966-08-29",
+                "end": "1966-08-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6fd00c3c-2224-4e5e-89af-74011043a7e5",
+                    "title": "Baby's in black",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f16b22cb-2045-4813-bd2e-8e229f3856d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f16b22cb-2045-4813-bd2e-8e229f3856d0",
+                    "title": "Baby's in Black",
+                    "length": "158600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d600993a-3cff-43af-961b-cd6fbad3b14d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d600993a-3cff-43af-961b-cd6fbad3b14d",
+                    "title": "Baby's in Black",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef772b0b-cc5d-4f1b-b0ea-81928ecb9889",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ef772b0b-cc5d-4f1b-b0ea-81928ecb9889",
+                    "title": "Baby's in Black",
+                    "length": "115000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60cecf1f-1396-4925-bc94-becdb34c6fb3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "60cecf1f-1396-4925-bc94-becdb34c6fb3",
+                    "title": "Baby's in Black",
+                    "length": "134040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c20114b-3572-4382-b932-570e7063eedc",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c20114b-3572-4382-b932-570e7063eedc",
+                    "title": "Baby's in Black",
+                    "length": "152666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19646bca-70f7-494b-a079-3afd72f953c5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "19646bca-70f7-494b-a079-3afd72f953c5",
+                    "title": "Baby's in Black",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47c577fa-38e4-4bc2-8846-b8e33030a820",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "47c577fa-38e4-4bc2-8846-b8e33030a820",
+                    "title": "Baby's in Black",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "458416a7-0ef9-4312-82ae-76ea9a34fc2d",
+                "direction": "backward",
+                "recording": {
+                    "id": "458416a7-0ef9-4312-82ae-76ea9a34fc2d",
+                    "title": "Baby's in Black",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59af94e6-7830-4662-9dad-3b875e4ce8cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "59af94e6-7830-4662-9dad-3b875e4ce8cc",
+                    "title": "Baby's in Black",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80a5a056-48df-48c7-a823-d2ecc55e0829",
+                "direction": "backward",
+                "recording": {
+                    "id": "80a5a056-48df-48c7-a823-d2ecc55e0829",
+                    "title": "Baby's in Black"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e7a8c59-240f-4f6f-b999-0f69d3d96469",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e7a8c59-240f-4f6f-b999-0f69d3d96469",
+                    "title": "Baby's in Black",
+                    "length": "129866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d0a2a4d-3efa-4b6a-bccc-5868ea3b68ba",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d0a2a4d-3efa-4b6a-bccc-5868ea3b68ba",
+                    "title": "Baby's in Black",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "342155fa-b31e-4a8c-9c36-6a9b59702bb4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "342155fa-b31e-4a8c-9c36-6a9b59702bb4",
+                    "title": "Baby's in Black",
+                    "length": "153733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "473244dc-140c-4735-9ac3-2348d7fd92f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "473244dc-140c-4735-9ac3-2348d7fd92f8",
+                    "title": "Baby's in Black",
+                    "length": "131293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72c2c606-766b-4fed-a399-803d8b6b6095",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "72c2c606-766b-4fed-a399-803d8b6b6095",
+                    "title": "Baby's in Black",
+                    "length": "154800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92de1e69-4be0-440a-9ba0-4825ea283c27",
+                "direction": "backward",
+                "recording": {
+                    "id": "92de1e69-4be0-440a-9ba0-4825ea283c27",
+                    "title": "Baby's in Black",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f8d1e52-23e9-446f-a3f1-4acc2251ec25",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4f8d1e52-23e9-446f-a3f1-4acc2251ec25",
+                    "title": "Baby's in Black",
+                    "length": "129306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75e6bb23-592c-4b7d-b331-376918518405",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "75e6bb23-592c-4b7d-b331-376918518405",
+                    "title": "Baby's in Black",
+                    "length": "178493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca1a3ab6-5b38-445b-9cd3-42c18face333",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ca1a3ab6-5b38-445b-9cd3-42c18face333",
+                    "title": "Baby's in Black",
+                    "length": "139000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01987afd-2cfe-443d-8761-54b5cc5e288a",
+                "direction": "backward",
+                "recording": {
+                    "id": "01987afd-2cfe-443d-8761-54b5cc5e288a",
+                    "title": "Baby's In Black",
+                    "length": "159000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86ee2c0a-3289-4d9f-a699-20f6f9fc8c39",
+                "direction": "backward",
+                "recording": {
+                    "id": "86ee2c0a-3289-4d9f-a699-20f6f9fc8c39",
+                    "title": "Baby's In Black"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2780e365-20e2-4ee5-8fad-9d1d99bd5a56",
+                "direction": "backward",
+                "recording": {
+                    "id": "2780e365-20e2-4ee5-8fad-9d1d99bd5a56",
+                    "title": "Baby's In Black",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "680ce9fc-b628-435d-8378-379d86bf412b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "680ce9fc-b628-435d-8378-379d86bf412b",
+                    "title": "Baby's In Black",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c320f25-02dc-443c-a56f-a8dabfa6b512",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c320f25-02dc-443c-a56f-a8dabfa6b512",
+                    "title": "Baby's In Black",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eff8a9ff-70a6-40e6-9cf9-602fb6934330",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eff8a9ff-70a6-40e6-9cf9-602fb6934330",
+                    "title": "Baby's in Black (live)",
+                    "length": "185106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "946f6b75-be21-423b-b49b-353b84e1495a",
+                "direction": "backward",
+                "recording": {
+                    "id": "946f6b75-be21-423b-b49b-353b84e1495a",
+                    "title": "Baby's in Black (live)",
+                    "length": "169373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf9f3a9b-7ac6-4245-a25d-8bacab13a624",
+                "direction": "backward",
+                "recording": {
+                    "id": "bf9f3a9b-7ac6-4245-a25d-8bacab13a624",
+                    "title": "Baby's In Black (RM2 Take 14)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98feefe3-4a7e-46af-b84c-ecd02879851d",
+                "direction": "backward",
+                "recording": {
+                    "id": "98feefe3-4a7e-46af-b84c-ecd02879851d",
+                    "title": "Baby's In Black (RS1 Take 14)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f20d940e-a60f-4870-9b46-6500ffdb3516",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f20d940e-a60f-4870-9b46-6500ffdb3516",
+                    "title": "Baby's In Black, With Phil Keaggy"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cb19fea-6c83-4b83-9bfc-923652adc118",
+                "direction": "backward",
+                "recording": {
+                    "id": "7cb19fea-6c83-4b83-9bfc-923652adc118",
+                    "title": "Baby\u2019s in Black",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "713430ad-06a1-4cac-aee9-480192a9eeb6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "713430ad-06a1-4cac-aee9-480192a9eeb6",
+                    "title": "Baby\u2019s in Black",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50df91c4-73c7-49aa-a703-70e8f50f9097",
+                "direction": "backward",
+                "recording": {
+                    "id": "50df91c4-73c7-49aa-a703-70e8f50f9097",
+                    "title": "Baby\u2019s in Black",
+                    "length": "126866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eaf79aa1-1d98-499b-9c46-5f3705f6e740",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eaf79aa1-1d98-499b-9c46-5f3705f6e740",
+                    "title": "Baby\u2019s in Black",
+                    "length": "153173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7a7861c-17b6-4eb9-ae03-5a0778a4a85a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c7a7861c-17b6-4eb9-ae03-5a0778a4a85a",
+                    "title": "Baby\u2019s in Black",
+                    "length": "192333",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80d5cc78-d760-4b56-b392-fa1d5445bde3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "80d5cc78-d760-4b56-b392-fa1d5445bde3",
+                    "title": "Baby\u2019s in Black",
+                    "length": "142400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b8ede5c-b00f-48fd-9dce-980927b93868",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1b8ede5c-b00f-48fd-9dce-980927b93868",
+                    "title": "Baby\u2019s in Black",
+                    "length": "158093",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f34b659-538d-4313-a15c-1a868fd26698",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9f34b659-538d-4313-a15c-1a868fd26698",
+                    "title": "Baby\u2019s in Black",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92896bf9-c0ee-4f50-8e13-1a4177f7e0b8",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "92896bf9-c0ee-4f50-8e13-1a4177f7e0b8",
+                    "title": "Baby\u2019s in Black",
+                    "length": "148333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfe6b48a-a84e-4658-a45e-1d875362cfab",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dfe6b48a-a84e-4658-a45e-1d875362cfab",
+                    "title": "Baby\u2019s in Black"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "624a50de-bb50-47be-b463-344ab5afacd7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "624a50de-bb50-47be-b463-344ab5afacd7",
+                    "title": "Baby\u2019s in Black",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb1c8714-8671-429d-80b6-4388e444ebe5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bb1c8714-8671-429d-80b6-4388e444ebe5",
+                    "title": "Baby\u2019s in Black"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c85a1f7c-52ed-4edb-be86-bcb4e2dd7af5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c85a1f7c-52ed-4edb-be86-bcb4e2dd7af5",
+                    "title": "Baby\u2019s in Black"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "899c65b5-a7e7-4a19-8da3-e9b891089e93",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "899c65b5-a7e7-4a19-8da3-e9b891089e93",
+                    "title": "Baby\u2019s in Black"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3288ff7c-1031-44b2-9abd-d4e1b2bab842",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3288ff7c-1031-44b2-9abd-d4e1b2bab842",
+                    "title": "Baby\u2019s in Black",
+                    "length": "158506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f468c055-be6e-4905-8f51-693f105c820e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f468c055-be6e-4905-8f51-693f105c820e",
+                    "title": "Baby\u2019s in Black"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c91c106a-14d6-4e68-bfc3-129dfb179358",
+                "direction": "backward",
+                "recording": {
+                    "id": "c91c106a-14d6-4e68-bfc3-129dfb179358",
+                    "title": "Baby\u2019s in Black",
+                    "length": "127040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f873b41-fd89-4c2d-b3f6-0622027d074a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f873b41-fd89-4c2d-b3f6-0622027d074a",
+                    "title": "Baby\u2019s in Black",
+                    "length": "169373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a61471f5-cc7a-4e20-b224-ecfefc3b0283",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a61471f5-cc7a-4e20-b224-ecfefc3b0283",
+                    "title": "Baby\u2019s in Black",
+                    "length": "168360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e7f625f-01bf-4390-ad08-c685228c6c6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5e7f625f-01bf-4390-ad08-c685228c6c6b",
+                    "title": "Baby\u2019s in Black",
+                    "length": "143000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b9a245a-86ab-46d3-beec-56efbefb1a53",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8b9a245a-86ab-46d3-beec-56efbefb1a53",
+                    "title": "Baby\u2019s in Black",
+                    "length": "178693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ce41d73-eed3-4781-9f63-1fbb1b75b22c",
+                "direction": "backward",
+                "recording": {
+                    "id": "1ce41d73-eed3-4781-9f63-1fbb1b75b22c",
+                    "title": "Baby\u2019s in Black",
+                    "length": "127733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3836b600-aecf-45be-a33f-c3ddf14e516d",
+                "direction": "backward",
+                "recording": {
+                    "id": "3836b600-aecf-45be-a33f-c3ddf14e516d",
+                    "title": "Baby\u2019s in Black",
+                    "length": "124466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2b4041c-3169-4d1d-8f36-09ab82a21a48",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f2b4041c-3169-4d1d-8f36-09ab82a21a48",
+                    "title": "Baby\u2019s in Black",
+                    "length": "146480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df1fc50c-b3af-48f5-a1de-73b434d94be7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "df1fc50c-b3af-48f5-a1de-73b434d94be7",
+                    "title": "Baby\u2019s in Black (live)",
+                    "length": "184000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "126ed1d3-4856-4994-bacd-e3d0f96ad1d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "126ed1d3-4856-4994-bacd-e3d0f96ad1d2",
+                    "title": "\u041e\u043d\u0430 \u0412 \u0422\u0440\u0430\u0443\u0440\u0435 = Baby's In Black",
+                    "length": "125000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100321",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1910",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=6488",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2270883",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "8ca506db-595b-47a2-96a9-ffbf1f9b6870",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "8ca506db-595b-47a2-96a9-ffbf1f9b6870",
+                    "type": "Song",
+                    "title": "Wat mot ik doen",
+                    "language": "nld"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

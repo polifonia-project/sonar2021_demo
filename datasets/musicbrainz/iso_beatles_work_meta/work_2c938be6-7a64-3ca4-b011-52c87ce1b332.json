@@ -1,0 +1,922 @@
+{
+    "work": {
+        "id": "2c938be6-7a64-3ca4-b011-52c87ce1b332",
+        "type": "Song",
+        "title": "Lovely Rita",
+        "language": "eng",
+        "iswc": "T-010.436.200-6",
+        "iswc-list": [
+            "T-010.436.200-6"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 231 51"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "6638"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12297443"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100209400"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "59.594"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357959"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357959"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "216086"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3968061"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009959252"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "65 170 915 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001114700"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "33618E"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0L0-2048-7"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634851-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "49820"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "5838562"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10198783"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617905"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000069166"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "420138818"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW03073604"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3307114"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243542"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "13380601"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6256254"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "930172"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c00b001-d633-4dda-b5b4-13cba9fe4032",
+                "direction": "backward",
+                "begin": "1967-02-23",
+                "end": "1967-02-23",
+                "ended": "true",
+                "recording": {
+                    "id": "0c00b001-d633-4dda-b5b4-13cba9fe4032",
+                    "title": "Lovely Rita (take 9)",
+                    "length": "184360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a9e5022-69fd-4664-b04b-8a232139db6b",
+                "direction": "backward",
+                "begin": "1967-02-23",
+                "end": "1967-03-21",
+                "ended": "true",
+                "recording": {
+                    "id": "6a9e5022-69fd-4664-b04b-8a232139db6b",
+                    "title": "Lovely Rita",
+                    "length": "164093",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75ea44cb-06fe-4bde-bc32-0217ff3f5649",
+                "direction": "backward",
+                "begin": "1967-02-23",
+                "end": "1967-03-21",
+                "ended": "true",
+                "recording": {
+                    "id": "75ea44cb-06fe-4bde-bc32-0217ff3f5649",
+                    "title": "Lovely Rita",
+                    "length": "165800",
+                    "disambiguation": "2017 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "057db5ae-ce60-4233-a43f-bc5707c922bf",
+                "direction": "backward",
+                "begin": "1967-02-23",
+                "end": "1967-03-21",
+                "ended": "true",
+                "recording": {
+                    "id": "057db5ae-ce60-4233-a43f-bc5707c922bf",
+                    "title": "Lovely Rita",
+                    "length": "162093",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27149859-affe-4e5e-947e-a0ee9dae1f15",
+                "direction": "backward",
+                "begin": "1967-02-23",
+                "end": "1967-03-21",
+                "ended": "true",
+                "recording": {
+                    "id": "27149859-affe-4e5e-947e-a0ee9dae1f15",
+                    "title": "Lovely Rita",
+                    "length": "165000",
+                    "disambiguation": "5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab42d459-5112-4a99-948c-9d87b4c988b1",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ab42d459-5112-4a99-948c-9d87b4c988b1",
+                    "title": "Lovely Rita",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c3c38d0-7d31-4b2d-8a7e-99c51f190897",
+                "direction": "backward",
+                "begin": "2016-10",
+                "end": "2016-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c3c38d0-7d31-4b2d-8a7e-99c51f190897",
+                    "title": "Lovely Rita",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b49c6f8b-2ac1-4751-8139-309b95725065",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b49c6f8b-2ac1-4751-8139-309b95725065",
+                    "title": "Lovely Rita",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77b2cae0-c7d1-49c0-8f25-a81c7bd39f68",
+                "direction": "backward",
+                "recording": {
+                    "id": "77b2cae0-c7d1-49c0-8f25-a81c7bd39f68",
+                    "title": "Lovely Rita"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c6c8351-da6e-4db9-988b-ccee57e26c58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0c6c8351-da6e-4db9-988b-ccee57e26c58",
+                    "title": "Lovely Rita",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "159d0231-9a15-415c-85fb-6733580a8365",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "159d0231-9a15-415c-85fb-6733580a8365",
+                    "title": "Lovely Rita",
+                    "length": "260000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13dabbfd-8501-4659-ae32-09c067a46168",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "13dabbfd-8501-4659-ae32-09c067a46168",
+                    "title": "Lovely Rita",
+                    "length": "270000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40325a44-578f-49c1-9bcb-d39d26337a60",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "40325a44-578f-49c1-9bcb-d39d26337a60",
+                    "title": "Lovely Rita",
+                    "length": "153666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "828ca178-afe4-4a9c-9e3c-2daa3461539c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "828ca178-afe4-4a9c-9e3c-2daa3461539c",
+                    "title": "Lovely Rita",
+                    "length": "260627"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "758fe4da-8d69-44c9-9e15-890d9bc6dde5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "758fe4da-8d69-44c9-9e15-890d9bc6dde5",
+                    "title": "Lovely Rita",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d0e3e0a-2ae7-4310-a1a7-20dec1681cd7",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d0e3e0a-2ae7-4310-a1a7-20dec1681cd7",
+                    "title": "Lovely Rita",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54505e92-bcc9-4ba1-8285-6b6911e23792",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54505e92-bcc9-4ba1-8285-6b6911e23792",
+                    "title": "Lovely Rita",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "866d2821-cfc5-419e-997f-a8d1c339edbd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "866d2821-cfc5-419e-997f-a8d1c339edbd",
+                    "title": "Lovely Rita",
+                    "length": "160320",
+                    "disambiguation": "live",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "230e379b-378e-4ba1-ac38-9086370e9f27",
+                "direction": "backward",
+                "recording": {
+                    "id": "230e379b-378e-4ba1-ac38-9086370e9f27",
+                    "title": "Lovely Rita",
+                    "length": "164973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95496e95-4cc5-4ff4-82a0-6ecd4c81fc25",
+                "direction": "backward",
+                "recording": {
+                    "id": "95496e95-4cc5-4ff4-82a0-6ecd4c81fc25",
+                    "title": "Lovely Rita",
+                    "length": "162000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00e7716e-d0a0-40dd-a09d-2088cd84dd72",
+                "direction": "backward",
+                "recording": {
+                    "id": "00e7716e-d0a0-40dd-a09d-2088cd84dd72",
+                    "title": "Lovely Rita"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce82db12-e230-4bf4-91dc-59928b08d6cd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ce82db12-e230-4bf4-91dc-59928b08d6cd",
+                    "title": "Lovely Rita",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a8115a5-1a17-47e9-b467-47eee6d0c65b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a8115a5-1a17-47e9-b467-47eee6d0c65b",
+                    "title": "Lovely Rita",
+                    "length": "73000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "418ed3e7-3849-4cc2-91b5-91e978b57e11",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "418ed3e7-3849-4cc2-91b5-91e978b57e11",
+                    "title": "Lovely Rita",
+                    "length": "114226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb5de110-ac5e-45b4-ab36-14be24798689",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cb5de110-ac5e-45b4-ab36-14be24798689",
+                    "title": "Lovely Rita",
+                    "length": "213226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e44e3d7-060d-4de2-83cb-5ad806bbc08a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5e44e3d7-060d-4de2-83cb-5ad806bbc08a",
+                    "title": "Lovely Rita",
+                    "length": "316000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2939ce09-9e96-41f2-8f5c-7915f7c2ba0c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2939ce09-9e96-41f2-8f5c-7915f7c2ba0c",
+                    "title": "Lovely Rita",
+                    "length": "245000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a2ab519-51af-42e1-b54d-3ddd5f5bf312",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7a2ab519-51af-42e1-b54d-3ddd5f5bf312",
+                    "title": "Lovely Rita",
+                    "length": "273880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "066c46c7-4387-4805-9e10-e0ac1cff9355",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "066c46c7-4387-4805-9e10-e0ac1cff9355",
+                    "title": "Lovely Rita"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5ec30b6-59b4-461f-acb2-69a54c050051",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c5ec30b6-59b4-461f-acb2-69a54c050051",
+                    "title": "Lovely Rita",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c57a8f23-6294-4e55-a3c0-d40676e63c63",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c57a8f23-6294-4e55-a3c0-d40676e63c63",
+                    "title": "Lovely Rita",
+                    "length": "140093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a772b875-8951-4d91-a1dc-02c6e41e4c82",
+                "direction": "backward",
+                "recording": {
+                    "id": "a772b875-8951-4d91-a1dc-02c6e41e4c82",
+                    "title": "Lovely Rita (mono version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e52cb17d-6b5d-4711-99b8-7d0e0d330c48",
+                "direction": "backward",
+                "recording": {
+                    "id": "e52cb17d-6b5d-4711-99b8-7d0e0d330c48",
+                    "title": "Lovely Rita (RM11 & RM14 take 11)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "381366ea-7b53-45d1-b671-64d3d670e23e",
+                "direction": "backward",
+                "recording": {
+                    "id": "381366ea-7b53-45d1-b671-64d3d670e23e",
+                    "title": "Lovely Rita (RS2 take 11)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6ec1808-f294-456e-bd18-f5ca8c4cda0f",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6ec1808-f294-456e-bd18-f5ca8c4cda0f",
+                    "title": "Lovely Rita (take 11, edit of Rm 11 & 14)",
+                    "length": "164880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91ea2f07-262d-4953-b6d0-566eabc9dd2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "91ea2f07-262d-4953-b6d0-566eabc9dd2e",
+                    "title": "Lovely Rita Pizza Maid",
+                    "length": "43000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-lovely-rita-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/13896",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=127",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1327000",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "0c3b9140-9159-46a5-889a-feb3caa13b55",
+                "direction": "forward",
+                "work": {
+                    "id": "0c3b9140-9159-46a5-889a-feb3caa13b55",
+                    "type": "Song",
+                    "title": "Lovely Rita",
+                    "language": "zxx",
+                    "disambiguation": "David Lanz arrangement"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "675f6f64-1b08-4118-9296-9f5ef4d00b3d",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "675f6f64-1b08-4118-9296-9f5ef4d00b3d",
+                    "type": "Song",
+                    "title": "Riski Riitta",
+                    "language": "fin"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "work": {
+        "id": "152dadac-fe51-4d69-96aa-b4fd38a868d2",
+        "type": "Song",
+        "title": "Vor meiner Wiege, D. 927",
+        "language": "deu",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1827",
+                "end": "1827",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "9b76c18b-9dec-4110-8987-74fc4bcb86c3",
+                "direction": "backward",
+                "artist": {
+                    "id": "9b76c18b-9dec-4110-8987-74fc4bcb86c3",
+                    "type": "Person",
+                    "name": "Karl Gottfried Ritter von Leitner",
+                    "sort-name": "Leitner, Karl Gottfried Ritter von"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d79d961-82a0-402e-aa2c-f79d4a749fb8",
+                "direction": "backward",
+                "begin": "1934",
+                "end": "1939",
+                "ended": "true",
+                "recording": {
+                    "id": "1d79d961-82a0-402e-aa2c-f79d4a749fb8",
+                    "title": "Vor meiner Wiege, D. 927",
+                    "length": "292600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fe2fca0-7b6d-47a3-a95b-d9384eee6cba",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "6fe2fca0-7b6d-47a3-a95b-d9384eee6cba",
+                    "title": "Vor meiner Wiege, D. 927",
+                    "length": "333000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f609ab3-7cfe-494c-b302-73cc005d4c4f",
+                "direction": "backward",
+                "begin": "1989-09-29",
+                "end": "1989-09-30",
+                "ended": "true",
+                "recording": {
+                    "id": "4f609ab3-7cfe-494c-b302-73cc005d4c4f",
+                    "title": "Vor meiner Wiege, D. 927",
+                    "length": "339000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab0405de-444e-49ef-a1fc-c8c5458f38c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab0405de-444e-49ef-a1fc-c8c5458f38c3",
+                    "title": "Vor meiner Wiege, D. 927",
+                    "length": "325000"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "734",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 927",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002373163",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Vor_meiner_Wiege,_D.927_(Schubert,_Franz)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

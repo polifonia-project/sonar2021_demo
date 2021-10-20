@@ -1,0 +1,3269 @@
+{
+    "work": {
+        "id": "2c76fe20-59d5-3dd9-93ee-be2107ac977c",
+        "type": "Song",
+        "title": "Radio Ga Ga",
+        "language": "eng",
+        "iswc": "T-010.304.845-8",
+        "iswc-list": [
+            "T-010.304.845-8"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Radio Ga-Ga",
+                "type": "Search hint",
+                "alias": "Radio Ga-Ga"
+            },
+            {
+                "sort-name": "Radio Gaga",
+                "type": "Search hint",
+                "alias": "Radio Gaga"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            },
+            {
+                "type": "named after",
+                "type-id": "535fdfed-3bca-40ad-966b-e67be7882d09",
+                "target": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                "direction": "backward",
+                "artist": {
+                    "id": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+                    "type": "Person",
+                    "name": "Lady Gaga",
+                    "sort-name": "Lady Gaga"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6da2cc31-9b12-4b66-9e26-074150f73406",
+                "direction": "backward",
+                "begin": "1983-08",
+                "end": "1984-01",
+                "ended": "true",
+                "recording": {
+                    "id": "6da2cc31-9b12-4b66-9e26-074150f73406",
+                    "title": "Radio Ga Ga",
+                    "length": "345453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28aaf93e-2829-4d34-a6f2-decb95c5fe29",
+                "direction": "backward",
+                "begin": "1984-09-24",
+                "end": "1984-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "28aaf93e-2829-4d34-a6f2-decb95c5fe29",
+                    "title": "Radio Ga Ga (cut)",
+                    "disambiguation": "live, 1984-09-24: Deutchlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e1e5b68-8990-432c-8b9b-a472a98971b0",
+                "direction": "backward",
+                "begin": "1985-01-12",
+                "end": "1985-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0e1e5b68-8990-432c-8b9b-a472a98971b0",
+                    "title": "Radio Ga Ga",
+                    "length": "343120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61ae7880-da3d-4395-a555-25798dd539b4",
+                "direction": "backward",
+                "begin": "1985-01-12",
+                "end": "1985-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "61ae7880-da3d-4395-a555-25798dd539b4",
+                    "title": "Radio Ga-Ga",
+                    "length": "343120",
+                    "disambiguation": "live, 1985-01-12: Rock in Rio Festival, Rio de Janeiro, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37420dec-73e0-4e74-851e-f5a18d8cf332",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "37420dec-73e0-4e74-851e-f5a18d8cf332",
+                    "title": "Radio Ga Ga",
+                    "length": "339000",
+                    "disambiguation": "live, 1985-05-11: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbc8b446-c01a-4cfd-9af8-db301a4e9a8c",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cbc8b446-c01a-4cfd-9af8-db301a4e9a8c",
+                    "title": "Radio Ga Ga",
+                    "length": "337600",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58ff2e64-b62f-4e2b-8659-93fcd98b31a4",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "58ff2e64-b62f-4e2b-8659-93fcd98b31a4",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5eebfd5a-b24a-4367-af83-274bfd3c3c33",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5eebfd5a-b24a-4367-af83-274bfd3c3c33",
+                    "title": "Radio Ga Ga",
+                    "length": "340000",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "193e9737-307a-4343-968a-e3428c946ade",
+                "direction": "backward",
+                "begin": "1985-07-13",
+                "end": "1985-07-13",
+                "ended": "true",
+                "recording": {
+                    "id": "193e9737-307a-4343-968a-e3428c946ade",
+                    "title": "Bohemian Rhapsody / Radio Ga Ga",
+                    "length": "390121",
+                    "disambiguation": "live, 1985-07-13: Wembley Stadium, London, England, UK"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "913d289c-f819-4d4e-b4f0-f5a5b01ebc3a",
+                "direction": "backward",
+                "begin": "1985-07-13",
+                "end": "1985-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "913d289c-f819-4d4e-b4f0-f5a5b01ebc3a",
+                    "title": "Radio Ga Ga (Live Aid)",
+                    "length": "245680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40401938-0aff-43eb-8e2f-b9710a1b37a4",
+                "direction": "backward",
+                "begin": "1985-07-13",
+                "end": "1985-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "40401938-0aff-43eb-8e2f-b9710a1b37a4",
+                    "title": "Radio Gaga",
+                    "disambiguation": "live, 1985-07-13: Live Aid 1985"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "769b97cd-1e4a-4d98-82be-d376b55c1281",
+                "direction": "backward",
+                "begin": "1986-06-21",
+                "end": "1986-06-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "769b97cd-1e4a-4d98-82be-d376b55c1281",
+                    "title": "Radio Ga Ga",
+                    "length": "385000",
+                    "disambiguation": "live, 1986-06-21: Reigns the World: Maimarktgel\u00e4nde, Mannheim, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61df9539-4bfd-403a-9f47-c6993524ed12",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "61df9539-4bfd-403a-9f47-c6993524ed12",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a28cb96-b196-485c-9378-1cef117a3b26",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3a28cb96-b196-485c-9378-1cef117a3b26",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3167468a-7a6b-4077-b924-ceebedde6e53",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3167468a-7a6b-4077-b924-ceebedde6e53",
+                    "title": "Radio Ga Ga",
+                    "length": "357000",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bff091b-b586-4338-98c6-3346e372e670",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4bff091b-b586-4338-98c6-3346e372e670",
+                    "title": "Radio Ga Ga",
+                    "length": "357400",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "183f50c5-18c7-46bc-9165-343eae71f2a5",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "183f50c5-18c7-46bc-9165-343eae71f2a5",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96fa4c5f-11e0-44a7-82e4-761910a5ca95",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "96fa4c5f-11e0-44a7-82e4-761910a5ca95",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6e142dc-623e-4867-8fcc-3d30a425c09a",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a6e142dc-623e-4867-8fcc-3d30a425c09a",
+                    "title": "Radio Ga Ga",
+                    "length": "371826",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f89b941-1743-4fcf-bd89-00623e661302",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f89b941-1743-4fcf-bd89-00623e661302",
+                    "title": "Radio Ga Ga",
+                    "length": "267160",
+                    "disambiguation": "live, 1986-08-09: Knebworth Park, Stevenage, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d54d47fc-c700-4f48-aede-c2cf810c58a5",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d54d47fc-c700-4f48-aede-c2cf810c58a5",
+                    "title": "Radio Ga Ga",
+                    "length": "583800",
+                    "disambiguation": "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cde3749-4c90-49ba-9f1a-8cc4dc60f780",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7cde3749-4c90-49ba-9f1a-8cc4dc60f780",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17c94fc9-afb2-46e1-b1e6-a9714967e49f",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "17c94fc9-afb2-46e1-b1e6-a9714967e49f",
+                    "title": "Radio Ga Ga",
+                    "length": "248226",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9237fa61-8327-4587-8deb-75c28a0e2dcd",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9237fa61-8327-4587-8deb-75c28a0e2dcd",
+                    "title": "Radio Ga Ga",
+                    "length": "359000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cafc8cd-aae2-4c80-986d-bf45a94899b8",
+                "direction": "backward",
+                "begin": "1992-12-22",
+                "end": "1992-12-22",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0cafc8cd-aae2-4c80-986d-bf45a94899b8",
+                    "title": "Radio Ga Ga",
+                    "length": "359000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8984acbc-045e-4f14-8ce1-cf3c899fa0d4",
+                "direction": "backward",
+                "begin": "2001-11-24",
+                "end": "2001-11-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8984acbc-045e-4f14-8ce1-cf3c899fa0d4",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2001-11-24: Ocean, Hackney, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b468e8d0-5fa2-4700-96c6-162092d99b75",
+                "direction": "backward",
+                "begin": "2002-04-30",
+                "end": "2002-04-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b468e8d0-5fa2-4700-96c6-162092d99b75",
+                    "title": "Radio Ga Ga",
+                    "length": "462000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34070b9f-dda9-4c7b-9ddb-b98616869fc7",
+                "direction": "backward",
+                "begin": "2002-06-03",
+                "end": "2002-06-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "34070b9f-dda9-4c7b-9ddb-b98616869fc7",
+                    "title": "Radio Ga Ga",
+                    "length": "139000",
+                    "disambiguation": "live, 2002-06-03: Buckingham Palace, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b22db21d-782c-4113-a107-6f197b958209",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b22db21d-782c-4113-a107-6f197b958209",
+                    "title": "Radio Ga Ga",
+                    "length": "224000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed7e52c0-5871-4b04-99a9-890fd130c375",
+                "ordering-key": "4",
+                "direction": "backward",
+                "begin": "2003-11-29",
+                "end": "2003-11-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ed7e52c0-5871-4b04-99a9-890fd130c375",
+                    "title": "Medley: Bohemian Rhapsody / I Want It All / I Want to Break Free / Radio Ga Ga",
+                    "length": "504160",
+                    "disambiguation": "live, 2003-11-29: Green Point Stadium, Cape Town, South Africa"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3b75e4a-6ca7-4310-b4fe-d038f4af5706",
+                "direction": "backward",
+                "begin": "2003-11-29",
+                "end": "2003-11-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a3b75e4a-6ca7-4310-b4fe-d038f4af5706",
+                    "title": "Radio Ga Ga",
+                    "length": "149000",
+                    "disambiguation": "live, 2003-11-29: Green Point Stadium, Cape Town, South Africa",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2797ed94-05f4-4ac0-bf47-a408dfd16839",
+                "direction": "backward",
+                "begin": "2004",
+                "end": "2004",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2797ed94-05f4-4ac0-bf47-a408dfd16839",
+                    "title": "Radio Ga Ga (\u201cWetten Das\u201d German TV live performance, 2004)",
+                    "length": "104000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8c9dce8-7ff1-4e9b-8638-6ee219d5f87b",
+                "direction": "backward",
+                "begin": "2005-04-28",
+                "end": "2005-04-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b8c9dce8-7ff1-4e9b-8638-6ee219d5f87b",
+                    "title": "Radio Ga Ga",
+                    "length": "359000",
+                    "disambiguation": "live, 2005-04-28: Color Line Arena, Hamburg, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "997e2976-701a-4955-950e-6b78b247daf9",
+                "direction": "backward",
+                "begin": "2005-05-09",
+                "end": "2005-05-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "997e2976-701a-4955-950e-6b78b247daf9",
+                    "title": "Radio Ga Ga",
+                    "length": "359253",
+                    "disambiguation": "live, 2005-05-09: Hallam FM Arena, Sheffield, South Yorkshire, England, United Kingdom"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac7820be-71de-43ba-b12c-5bb35bf64f7e",
+                "direction": "backward",
+                "begin": "2005-07-02",
+                "end": "2005-07-02",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ac7820be-71de-43ba-b12c-5bb35bf64f7e",
+                    "title": "Radio Ga Ga",
+                    "length": "357000",
+                    "disambiguation": "live, 2005-07-02: Est\u00e1dio do Restelo, Lisbon, Lisboa, Portugal"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f758ddc-76ab-4db6-aa3e-bf560e05ea27",
+                "direction": "backward",
+                "begin": "2005-10-29",
+                "end": "2005-10-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f758ddc-76ab-4db6-aa3e-bf560e05ea27",
+                    "title": "Radio Ga Ga",
+                    "length": "352000",
+                    "disambiguation": "live, 2005-10-29: Yokohama Arena, Shin-Yokohama, Yokohama, Kanagawa, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c06fda81-85e7-4533-ba92-776ec081f337",
+                "direction": "backward",
+                "begin": "2005",
+                "end": "2005",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c06fda81-85e7-4533-ba92-776ec081f337",
+                    "title": "Radio Ga Ga (Deutsche version)",
+                    "length": "236000",
+                    "disambiguation": "We Will Rock You, 2005 K\u00f6ln cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a940d107-a576-464a-9f6e-60799bf322f5",
+                "direction": "backward",
+                "begin": "2006-04-05",
+                "end": "2006-04-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a940d107-a576-464a-9f6e-60799bf322f5",
+                    "title": "Radio Ga Ga",
+                    "length": "370000",
+                    "disambiguation": "live, 2006-04-05: HP Pavilion, San Jose, California, United States"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bec688d6-ac2a-472d-96db-14360028ae43",
+                "direction": "backward",
+                "begin": "2006-12-09",
+                "end": "2006-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bec688d6-ac2a-472d-96db-14360028ae43",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2006-12-09: Walter-K\u00f6bel-Halle R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ecc2ac6-6136-4ae4-b43d-68e3b957d611",
+                "direction": "backward",
+                "begin": "2006-12",
+                "end": "2006-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7ecc2ac6-6136-4ae4-b43d-68e3b957d611",
+                    "title": "Radio Ga Ga",
+                    "length": "266000",
+                    "disambiguation": "live, 2006-12: Cafe Hahn, Koblenz, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a4772b7-51d9-4eeb-969f-317681c59c09",
+                "direction": "backward",
+                "begin": "2007-04-14",
+                "end": "2007-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5a4772b7-51d9-4eeb-969f-317681c59c09",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2007-04-14: H\u00fcckeswagen, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c69bc269-cf16-4c04-a82d-511137a32bab",
+                "ordering-key": "1",
+                "direction": "backward",
+                "begin": "2007-11-03",
+                "end": "2007-11-03",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c69bc269-cf16-4c04-a82d-511137a32bab",
+                    "title": "Radio Gaga / Video Killed the Radiostar",
+                    "disambiguation": "live, 2007-11-03: Circus Krone, Munich, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51da32c1-df22-4172-a5dd-0c04aff1563f",
+                "direction": "backward",
+                "begin": "2007-12-12",
+                "end": "2007-12-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "51da32c1-df22-4172-a5dd-0c04aff1563f",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2007-12-12: Walter-K\u00f6bel-Sporthalle, R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "742002d3-7b38-4349-9747-2bbe3b7b1bfa",
+                "direction": "backward",
+                "begin": "2008-09-16",
+                "end": "2008-09-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "742002d3-7b38-4349-9747-2bbe3b7b1bfa",
+                    "title": "Radio Ga-Ga",
+                    "disambiguation": "live, 2008-09-16: Olympiysky Sports Palace, Moskva, Russia"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "508e9c91-aa85-4e32-85cb-19d3dd3e0baf",
+                "direction": "backward",
+                "begin": "2008-11-04",
+                "end": "2008-11-04",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "508e9c91-aa85-4e32-85cb-19d3dd3e0baf",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2008-11-04: Metro Radio Arena, Newcastle upon Tyne, Tyne and Wear, England, United Kingdom"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58132e48-64cb-4fb9-b08d-42e48ccdbf3a",
+                "direction": "backward",
+                "begin": "2008-11-08",
+                "end": "2008-11-08",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "58132e48-64cb-4fb9-b08d-42e48ccdbf3a",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2008-11-08: Wembley Arena, Wembley, Brent, London, England, United Kingdom"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b135f202-b8ac-4c47-9f7e-17f72527ab92",
+                "direction": "backward",
+                "begin": "2008-11-21",
+                "end": "2008-11-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b135f202-b8ac-4c47-9f7e-17f72527ab92",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2008-11-21: Estadio Velez Sarsfield, Buenos Aires, Argentina"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc49a6c7-26af-4f46-ad39-80794c4420cc",
+                "direction": "backward",
+                "begin": "2008-11-26",
+                "end": "2008-11-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bc49a6c7-26af-4f46-ad39-80794c4420cc",
+                    "title": "Radio Ga Ga",
+                    "length": "230000",
+                    "disambiguation": "live, 2008-11-26: Via Funchal, S\u00e3o Paulo, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c0c42eb-7692-4025-956b-c55d1014f8a6",
+                "direction": "backward",
+                "begin": "2008-11-27",
+                "end": "2008-11-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2c0c42eb-7692-4025-956b-c55d1014f8a6",
+                    "title": "Radio Ga Ga",
+                    "length": "301000",
+                    "disambiguation": "live, 2008-11-27: Via Funchal, S\u00e3o Paulo, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd7eac93-443e-486d-aa62-0b5cefc4145c",
+                "direction": "backward",
+                "begin": "2011-06-18",
+                "end": "2011-06-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "dd7eac93-443e-486d-aa62-0b5cefc4145c",
+                    "title": "Radio Gaga",
+                    "length": "284786",
+                    "disambiguation": "live, 2011-06"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b046cff-8081-4fce-8d44-55dc9e7fc1e1",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3b046cff-8081-4fce-8d44-55dc9e7fc1e1",
+                    "title": "Radio Ga Ga",
+                    "length": "285000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c333760-bf54-4e93-a66f-dbb1ffffc8dc",
+                "direction": "backward",
+                "begin": "2014-08-17",
+                "end": "2014-08-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0c333760-bf54-4e93-a66f-dbb1ffffc8dc",
+                    "title": "Radio Ga Ga",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8edd47e-9b13-4fbf-bfa8-3c28c4fc1572",
+                "ordering-key": "3",
+                "direction": "backward",
+                "begin": "2016",
+                "end": "2016",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "d8edd47e-9b13-4fbf-bfa8-3c28c4fc1572",
+                    "title": "Queen Medley",
+                    "length": "526000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "112cc48a-ed0e-4f86-902a-6e543ae80293",
+                "direction": "backward",
+                "begin": "2019-09-28",
+                "end": "2019-09-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "112cc48a-ed0e-4f86-902a-6e543ae80293",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85cd619a-04d4-4e9c-9446-c3a65a183a7c",
+                "direction": "backward",
+                "begin": "2020-02-16",
+                "end": "2020-02-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "85cd619a-04d4-4e9c-9446-c3a65a183a7c",
+                    "title": "Radio Ga Ga",
+                    "length": "263186",
+                    "disambiguation": "live, 2020: Fire Fight Australia, ANZ Stadium, Sydney, Australia"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                    "title": "A Sample of Magic",
+                    "length": "556000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6feec9d8-d3e0-4dba-99d6-e29256ddafa4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "6feec9d8-d3e0-4dba-99d6-e29256ddafa4",
+                    "title": "Anniversary Medley Part 3",
+                    "length": "389773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25500b76-f0ab-4644-bb10-e9ccf485af03",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "25500b76-f0ab-4644-bb10-e9ccf485af03",
+                    "title": "Ich geb' Gas im Schnitzelwagen",
+                    "length": "343000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4117ff3-5a21-4122-b316-0294e6063a53",
+                "ordering-key": "3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a4117ff3-5a21-4122-b316-0294e6063a53",
+                    "title": "Live Aid Rehearsal",
+                    "disambiguation": "LiveAid Video",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcd87fa4-8645-46d1-af65-ab73f74d3267",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "dcd87fa4-8645-46d1-af65-ab73f74d3267",
+                    "title": "Queen Medley: Bohemian Rhapsody / We Are the Champions / Radio Ga Ga",
+                    "length": "651706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62779751-a79d-483c-9ed6-d64a28e2d6a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "62779751-a79d-483c-9ed6-d64a28e2d6a4",
+                    "title": "Radio Ga Ga",
+                    "length": "340000",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cc8525d-4853-4056-bec6-31d4f9aba737",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1cc8525d-4853-4056-bec6-31d4f9aba737",
+                    "title": "Radio Ga Ga",
+                    "disambiguation": "LiveAid Video",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14cb6b25-849d-4438-8486-07f4329062d0",
+                "direction": "backward",
+                "recording": {
+                    "id": "14cb6b25-849d-4438-8486-07f4329062d0",
+                    "title": "Radio Ga Ga",
+                    "length": "341000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3112cfab-d129-4943-8187-4595530a85fe",
+                "direction": "backward",
+                "recording": {
+                    "id": "3112cfab-d129-4943-8187-4595530a85fe",
+                    "title": "Radio Ga Ga",
+                    "length": "342586"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45e6765f-d513-4000-9578-cddf5e251bc6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "45e6765f-d513-4000-9578-cddf5e251bc6",
+                    "title": "Radio Ga Ga"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0df0a51b-3ad5-4326-af37-c110e5b59992",
+                "direction": "backward",
+                "recording": {
+                    "id": "0df0a51b-3ad5-4326-af37-c110e5b59992",
+                    "title": "Radio Ga Ga",
+                    "length": "348000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbfdda01-576a-43c2-bb52-1522dcc72952",
+                "direction": "backward",
+                "recording": {
+                    "id": "bbfdda01-576a-43c2-bb52-1522dcc72952",
+                    "title": "Radio Ga Ga"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e28f4ba-ba2f-4301-a303-fcd186ed994e",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6e28f4ba-ba2f-4301-a303-fcd186ed994e",
+                    "title": "Radio Ga Ga",
+                    "length": "335000",
+                    "disambiguation": "karaoke"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4b216c2-2563-424d-a1b2-da74162041ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "b4b216c2-2563-424d-a1b2-da74162041ac",
+                    "title": "Radio Ga Ga",
+                    "length": "348320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbe70be2-816c-44a7-9677-3ecff27ca49c",
+                "direction": "backward",
+                "recording": {
+                    "id": "dbe70be2-816c-44a7-9677-3ecff27ca49c",
+                    "title": "Radio Ga Ga",
+                    "length": "343000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5782013-4415-4cac-81b7-f336a923af79",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d5782013-4415-4cac-81b7-f336a923af79",
+                    "title": "Radio Ga Ga",
+                    "length": "317893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de8cd6c3-5a29-422e-9d7c-375fb17bda3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "de8cd6c3-5a29-422e-9d7c-375fb17bda3e",
+                    "title": "Radio Ga Ga",
+                    "length": "386354",
+                    "disambiguation": "part of \u201cMastermix: DJ Beats, Volume 11\u201d DJ\u2010mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36c26bff-796b-4f0b-99d6-edc036640d7b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "36c26bff-796b-4f0b-99d6-edc036640d7b",
+                    "title": "Radio Ga Ga"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c553c2a-c709-4565-a364-6bc56385d2c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5c553c2a-c709-4565-a364-6bc56385d2c8",
+                    "title": "Radio Ga Ga",
+                    "length": "349000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "121427e7-efe6-41b9-b7b5-7fcc74665897",
+                "direction": "backward",
+                "recording": {
+                    "id": "121427e7-efe6-41b9-b7b5-7fcc74665897",
+                    "title": "Radio Ga Ga"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4060256-427b-4d48-99ec-992a9add0d93",
+                "direction": "backward",
+                "recording": {
+                    "id": "b4060256-427b-4d48-99ec-992a9add0d93",
+                    "title": "Radio Ga Ga"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b14178f0-f042-45c0-8839-b5e4fc498203",
+                "direction": "backward",
+                "recording": {
+                    "id": "b14178f0-f042-45c0-8839-b5e4fc498203",
+                    "title": "Radio Ga Ga",
+                    "length": "353000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b48e5a82-f2ff-455f-86f5-90a1a646c3d7",
+                "direction": "backward",
+                "recording": {
+                    "id": "b48e5a82-f2ff-455f-86f5-90a1a646c3d7",
+                    "title": "Radio Ga Ga",
+                    "length": "347000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40273092-db10-4244-b56d-4743a8df9cb7",
+                "direction": "backward",
+                "recording": {
+                    "id": "40273092-db10-4244-b56d-4743a8df9cb7",
+                    "title": "Radio Ga Ga",
+                    "length": "343000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ff90eed-9943-44e0-b327-f70b4c01ec5f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2ff90eed-9943-44e0-b327-f70b4c01ec5f",
+                    "title": "Radio Ga Ga",
+                    "length": "349906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "411507cc-58e2-4a31-9158-505d0c848617",
+                "direction": "backward",
+                "recording": {
+                    "id": "411507cc-58e2-4a31-9158-505d0c848617",
+                    "title": "Radio Ga Ga",
+                    "length": "343000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21193773-6a14-436f-8475-f41a22d67b2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "21193773-6a14-436f-8475-f41a22d67b2e",
+                    "title": "Radio Ga Ga",
+                    "length": "339000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0cb458f-c929-4f90-9124-eeb8df6f99e4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e0cb458f-c929-4f90-9124-eeb8df6f99e4",
+                    "title": "Radio Ga Ga",
+                    "length": "349653"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a12dbdc9-38da-4e24-9ff4-f06b5f658c1a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a12dbdc9-38da-4e24-9ff4-f06b5f658c1a",
+                    "title": "Radio Ga Ga",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7ce6d25-5719-4d3a-9e4b-20c1016d035f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a7ce6d25-5719-4d3a-9e4b-20c1016d035f",
+                    "title": "Radio Ga Ga",
+                    "length": "275000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21923996-d5a6-444e-83e7-220097f54ad0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "21923996-d5a6-444e-83e7-220097f54ad0",
+                    "title": "Radio Ga Ga",
+                    "length": "235000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c97f36a7-26f1-4a23-9e47-b996fa45691f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c97f36a7-26f1-4a23-9e47-b996fa45691f",
+                    "title": "Radio Ga Ga",
+                    "length": "213000",
+                    "disambiguation": "single version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64e27643-d2b7-4d71-8f67-8ac90e1257bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "64e27643-d2b7-4d71-8f67-8ac90e1257bf",
+                    "title": "Radio Ga Ga",
+                    "length": "325266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a576332d-dedb-4c64-a6ef-5f47c90dd50c",
+                "direction": "backward",
+                "recording": {
+                    "id": "a576332d-dedb-4c64-a6ef-5f47c90dd50c",
+                    "title": "Radio Ga Ga",
+                    "length": "593786",
+                    "disambiguation": "remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c95ea080-40c8-48f4-8d94-0ccef947d204",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c95ea080-40c8-48f4-8d94-0ccef947d204",
+                    "title": "Radio Ga Ga",
+                    "length": "474200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee8cf198-b502-413b-8cbe-7a8148cb1a3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee8cf198-b502-413b-8cbe-7a8148cb1a3e",
+                    "title": "Radio Ga Ga",
+                    "length": "413266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b775081-244c-4015-b452-b97cade91a67",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7b775081-244c-4015-b452-b97cade91a67",
+                    "title": "Radio Ga Ga",
+                    "length": "234186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f699958-2e89-4a9e-a8eb-46253a36157f",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f699958-2e89-4a9e-a8eb-46253a36157f",
+                    "title": "Radio Ga Ga",
+                    "length": "342666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03144f1e-fd11-4f2c-a9ea-0eb48fb01154",
+                "direction": "backward",
+                "recording": {
+                    "id": "03144f1e-fd11-4f2c-a9ea-0eb48fb01154",
+                    "title": "Radio Ga Ga",
+                    "length": "331533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d324f1e7-d9eb-43a7-bae8-b799bfb38ebb",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d324f1e7-d9eb-43a7-bae8-b799bfb38ebb",
+                    "title": "Radio Ga Ga",
+                    "length": "344160",
+                    "disambiguation": "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2faeb12-267b-4582-8df8-5780a529dff6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e2faeb12-267b-4582-8df8-5780a529dff6",
+                    "title": "Radio Ga Ga",
+                    "length": "416440",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21558c7d-382a-449b-be3f-51bd1aaa2fb3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "21558c7d-382a-449b-be3f-51bd1aaa2fb3",
+                    "title": "Radio Ga Ga",
+                    "length": "358000",
+                    "disambiguation": "live, 1985: Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c918263-a96d-49b7-a753-473aeed462c5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2c918263-a96d-49b7-a753-473aeed462c5",
+                    "title": "Radio Ga Ga",
+                    "length": "361560",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92966404-6599-4960-85f5-c8164bc2fef8",
+                "direction": "backward",
+                "recording": {
+                    "id": "92966404-6599-4960-85f5-c8164bc2fef8",
+                    "title": "Radio Ga Ga",
+                    "length": "346066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a54e3a5-e29c-4356-813d-43df375de7be",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a54e3a5-e29c-4356-813d-43df375de7be",
+                    "title": "Radio Ga Ga",
+                    "length": "305000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "581078be-b36b-4030-8387-f497edfd4a85",
+                "direction": "backward",
+                "recording": {
+                    "id": "581078be-b36b-4030-8387-f497edfd4a85",
+                    "title": "Radio Ga Ga",
+                    "length": "344000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8166ec57-60b1-48cd-a20a-d92c6945fbdf",
+                "direction": "backward",
+                "recording": {
+                    "id": "8166ec57-60b1-48cd-a20a-d92c6945fbdf",
+                    "title": "Radio Ga Ga",
+                    "length": "358000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1306858-c92f-490f-849d-e4063ffcd77d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c1306858-c92f-490f-849d-e4063ffcd77d",
+                    "title": "Radio Ga Ga",
+                    "length": "243000",
+                    "disambiguation": "live, 1985-07-13: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94f9a8b1-5983-4af2-b5a6-948f3a7d9339",
+                "direction": "backward",
+                "recording": {
+                    "id": "94f9a8b1-5983-4af2-b5a6-948f3a7d9339",
+                    "title": "Radio Ga Ga",
+                    "length": "350000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9fb5446b-3295-440f-a1e8-836bc5452ce8",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9fb5446b-3295-440f-a1e8-836bc5452ce8",
+                    "title": "Radio Ga Ga",
+                    "length": "336946",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4a76253-8807-49f9-a35b-b3586d71b053",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4a76253-8807-49f9-a35b-b3586d71b053",
+                    "title": "Radio Ga Ga",
+                    "length": "341000",
+                    "disambiguation": "single version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63b4b354-4af7-4063-8a99-86adbc8bbb3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "63b4b354-4af7-4063-8a99-86adbc8bbb3e",
+                    "title": "Radio Ga Ga",
+                    "length": "344986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d73c2b1-3e87-4ac1-9c5b-b7a4828edcf2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5d73c2b1-3e87-4ac1-9c5b-b7a4828edcf2",
+                    "title": "Radio Ga Ga",
+                    "length": "290040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cbf20a3-ad7e-4496-8bd6-820eccaa21bc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1cbf20a3-ad7e-4496-8bd6-820eccaa21bc",
+                    "title": "Radio Ga Ga",
+                    "length": "252000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cadad2f8-2033-4060-a17b-23773aaeae05",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cadad2f8-2033-4060-a17b-23773aaeae05",
+                    "title": "Radio Ga Ga",
+                    "length": "123640",
+                    "disambiguation": "part of \u201cWWW.DJBOBO.CH: The Ultimate Megamix \u201999\u201d DJ\u2010mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4beb793f-3cbd-4a0e-93ca-8ee697ef0e8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4beb793f-3cbd-4a0e-93ca-8ee697ef0e8b",
+                    "title": "Radio Ga Ga",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b22b2d86-5d2f-4491-b1d8-a3a40ee20d4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b22b2d86-5d2f-4491-b1d8-a3a40ee20d4a",
+                    "title": "Radio Ga Ga",
+                    "length": "228293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b05af207-f9ac-4b94-a1f9-6da2837bcbf4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b05af207-f9ac-4b94-a1f9-6da2837bcbf4",
+                    "title": "Radio Ga Ga",
+                    "length": "229466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ad04e1f-a5a7-4d6d-a501-910a001ffadb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3ad04e1f-a5a7-4d6d-a501-910a001ffadb",
+                    "title": "Radio Ga Ga",
+                    "length": "347026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e39d7a2f-5521-4b4b-a98e-f5019e19fb4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e39d7a2f-5521-4b4b-a98e-f5019e19fb4a",
+                    "title": "Radio Ga Ga",
+                    "length": "409000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef4866d5-daf0-4b33-9880-eb1fd62c61e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef4866d5-daf0-4b33-9880-eb1fd62c61e1",
+                    "title": "Radio Ga Ga"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02081db8-9705-4ff4-b5f9-9183acc225fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "02081db8-9705-4ff4-b5f9-9183acc225fc",
+                    "title": "Radio Ga Ga",
+                    "length": "345000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21f89d7d-616c-4984-b7e5-24e9ea72609f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "21f89d7d-616c-4984-b7e5-24e9ea72609f",
+                    "title": "Radio Ga Ga",
+                    "length": "378618",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e44cb30-cb2f-4b58-9932-a42d837ec2ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0e44cb30-cb2f-4b58-9932-a42d837ec2ee",
+                    "title": "Radio Ga Ga",
+                    "length": "355000",
+                    "disambiguation": "live, 1992-04-20: Freddie Mercury Tribute Concert, Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a244d21-f352-4f8b-89a6-3e1fb155271e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5a244d21-f352-4f8b-89a6-3e1fb155271e",
+                    "title": "Radio Ga Ga",
+                    "length": "370000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cea79679-c79c-49e0-89cd-8adc528aa221",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cea79679-c79c-49e0-89cd-8adc528aa221",
+                    "title": "Radio Ga Ga",
+                    "length": "321000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6f499bf-cf6d-419a-8cf2-ae13b460accc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b6f499bf-cf6d-419a-8cf2-ae13b460accc",
+                    "title": "Radio Ga Ga",
+                    "length": "298973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "368489e0-8087-4a36-9187-ef5c026a48bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "368489e0-8087-4a36-9187-ef5c026a48bf",
+                    "title": "Radio Ga Ga",
+                    "length": "251000",
+                    "disambiguation": "live, 2005-10-27: Saitama Super Arena, Saitama New Urban Center, Saitama, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47dda501-7d9e-42c2-85a1-92ab31bfe32e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "47dda501-7d9e-42c2-85a1-92ab31bfe32e",
+                    "title": "Radio Ga Ga",
+                    "length": "342000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4febdeba-e39f-4488-8848-d121a56e84d5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4febdeba-e39f-4488-8848-d121a56e84d5",
+                    "title": "Radio Ga Ga",
+                    "length": "361000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac65655a-27c1-4788-9364-fb172a511913",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ac65655a-27c1-4788-9364-fb172a511913",
+                    "title": "Radio Ga Ga",
+                    "length": "264880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f986cda-1728-4d66-974d-f80226fcc4c7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6f986cda-1728-4d66-974d-f80226fcc4c7",
+                    "title": "Radio Ga Ga",
+                    "length": "138400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a43f4b4-8e1c-420b-a275-388791be347b",
+                "direction": "backward",
+                "recording": {
+                    "id": "0a43f4b4-8e1c-420b-a275-388791be347b",
+                    "title": "Radio Ga Ga (12\u2033 extended version)",
+                    "length": "410000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af45ab35-ce7c-4f36-8ece-f005d9d0c84e",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "af45ab35-ce7c-4f36-8ece-f005d9d0c84e",
+                    "title": "Radio Ga Ga (12\u2033 instrumental version)",
+                    "length": "348000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fa29198-ca03-46b8-9de5-6be4ced38caa",
+                "direction": "backward",
+                "recording": {
+                    "id": "5fa29198-ca03-46b8-9de5-6be4ced38caa",
+                    "title": "Radio Ga Ga (extended version)",
+                    "length": "412400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cee1ec3f-9e42-423e-8bef-b47fefd8bf6f",
+                "direction": "backward",
+                "recording": {
+                    "id": "cee1ec3f-9e42-423e-8bef-b47fefd8bf6f",
+                    "title": "Radio Ga Ga (extended version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fea768c1-5d1a-44ca-b929-e9cd1240e435",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fea768c1-5d1a-44ca-b929-e9cd1240e435",
+                    "title": "Radio Ga Ga (instrumental version)",
+                    "length": "361000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2efed232-d36c-4c31-996c-ef12f41b4c27",
+                "direction": "backward",
+                "recording": {
+                    "id": "2efed232-d36c-4c31-996c-ef12f41b4c27",
+                    "title": "Radio Ga Ga (Promo video, 1984)",
+                    "length": "353680",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a93942be-b7b8-437b-ab24-b90e99e676b7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a93942be-b7b8-437b-ab24-b90e99e676b7",
+                    "title": "Radio Ga Ga (Queen Dance Traxx)",
+                    "length": "228746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6151a18e-67a4-4a8e-a273-ced54a73e45d",
+                "direction": "backward",
+                "recording": {
+                    "id": "6151a18e-67a4-4a8e-a273-ced54a73e45d",
+                    "title": "Radio Ga Ga (Re-cut \u201992)",
+                    "length": "590533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97e1e5db-8ff4-4104-913e-875add7805e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "97e1e5db-8ff4-4104-913e-875add7805e5",
+                    "title": "Radio Ga Ga (re-cut 1992)",
+                    "length": "593000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eab09f4d-4783-45b2-a05b-85002263c17a",
+                "direction": "backward",
+                "recording": {
+                    "id": "eab09f4d-4783-45b2-a05b-85002263c17a",
+                    "title": "Radio Ga Ga (Ultratraxx 12\u2033 version)",
+                    "length": "470000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93395e4e-cb75-4050-a0c0-64a987f8d837",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "93395e4e-cb75-4050-a0c0-64a987f8d837",
+                    "title": "Radio Ga Ga (Vertigo remix)",
+                    "length": "440000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fda4eab6-5b17-4880-b1c9-27d674496b38",
+                "direction": "backward",
+                "recording": {
+                    "id": "fda4eab6-5b17-4880-b1c9-27d674496b38",
+                    "title": "Radio Ga Ga (VMM remix)",
+                    "length": "376000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e772a04-c648-4041-9b65-8f393aa64b63",
+                "direction": "backward",
+                "recording": {
+                    "id": "2e772a04-c648-4041-9b65-8f393aa64b63",
+                    "title": "Radio Ga Ga (with commentary)",
+                    "length": "138586"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "973a1390-54bd-4420-bb62-54d78c209bda",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "973a1390-54bd-4420-bb62-54d78c209bda",
+                    "title": "Radio Ga Ga / Telephone (medley)",
+                    "length": "141000",
+                    "disambiguation": "live, X Factor perfomance"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f0ef0ea-befa-4bd2-b8b9-864b37d22294",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4f0ef0ea-befa-4bd2-b8b9-864b37d22294",
+                    "title": "Radio Ga\u2010Ga",
+                    "length": "352000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51407f1c-f031-44fc-9b24-41d25a51dead",
+                "direction": "backward",
+                "recording": {
+                    "id": "51407f1c-f031-44fc-9b24-41d25a51dead",
+                    "title": "Radio Ga\u2010Ga",
+                    "length": "492266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f53336de-ecc6-44c5-8499-798726274448",
+                "direction": "backward",
+                "recording": {
+                    "id": "f53336de-ecc6-44c5-8499-798726274448",
+                    "title": "Radio Ga\u2010Ga",
+                    "length": "343000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "401719fd-1bdd-4997-b207-97fcedeeedbd",
+                "direction": "backward",
+                "recording": {
+                    "id": "401719fd-1bdd-4997-b207-97fcedeeedbd",
+                    "title": "Radio Gaga",
+                    "length": "342666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95491e16-86b0-4bca-94df-5658b0673874",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "95491e16-86b0-4bca-94df-5658b0673874",
+                    "title": "Radio Gaga",
+                    "length": "356706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03fc91a8-23e9-49f7-a0ab-409fc466eb6a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "03fc91a8-23e9-49f7-a0ab-409fc466eb6a",
+                    "title": "Radio Gaga",
+                    "length": "284000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e209a4e-1320-49b1-a75b-8b35a59bd4d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4e209a4e-1320-49b1-a75b-8b35a59bd4d1",
+                    "title": "Radio Gaga",
+                    "length": "29000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00293339-52a4-4397-be39-9d1c73662b03",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "00293339-52a4-4397-be39-9d1c73662b03",
+                    "title": "Radio Gaga",
+                    "length": "267000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cb5aed3-7736-433e-a70e-97fc03275f05",
+                "direction": "backward",
+                "recording": {
+                    "id": "2cb5aed3-7736-433e-a70e-97fc03275f05",
+                    "title": "Radio Gaga",
+                    "length": "290271",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9d7e5d8-7515-405d-9c37-33059e4971cb",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d9d7e5d8-7515-405d-9c37-33059e4971cb",
+                    "title": "Radio Gaga",
+                    "length": "336640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b8dfbc3-06a7-4a45-9724-6a1ce696749b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8b8dfbc3-06a7-4a45-9724-6a1ce696749b",
+                    "title": "Radio Gaga (live)",
+                    "length": "324600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a46fbaaa-c100-4209-bd69-e90cc246a99c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a46fbaaa-c100-4209-bd69-e90cc246a99c",
+                    "title": "Radio Gaga (live)",
+                    "length": "323826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86d56573-2d83-44d7-98a2-6efb95653b8a",
+                "direction": "backward",
+                "recording": {
+                    "id": "86d56573-2d83-44d7-98a2-6efb95653b8a",
+                    "title": "Radio Gaga (re\u2010cut 92)",
+                    "length": "542000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0fc876f-c7fc-4ab8-8a18-1e3c58997a08",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0fc876f-c7fc-4ab8-8a18-1e3c58997a08",
+                    "title": "Radio Go Ga",
+                    "length": "346000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/Queen-radio-ga-ga-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/2069",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q605031",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "b741abf4-e7c2-4ce5-9e99-b0cd0138d57b",
+                "direction": "forward",
+                "work": {
+                    "id": "b741abf4-e7c2-4ce5-9e99-b0cd0138d57b",
+                    "title": "The Queen Symphony: I. Adagio misterioso - Allegro con brio - Maestoso - Misterioso - Allegro"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "ddf88f66-2386-4cac-84ff-bbf34cfdd101",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "ddf88f66-2386-4cac-84ff-bbf34cfdd101",
+                    "type": "Song",
+                    "title": "Hitradio Gaga"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                "direction": "backward",
+                "work": {
+                    "id": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "deu",
+                    "disambiguation": "German version of the Queen musical"
+                }
+            }
+        ],
+        "rating": {
+            "votes-count": "1",
+            "rating": "4"
+        }
+    }
+}

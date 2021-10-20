@@ -1,0 +1,2382 @@
+{
+    "work": {
+        "id": "ddce89a2-7ead-344c-b879-56ffbe88b202",
+        "type": "Song",
+        "title": "She Came In Through the Bathroom Window",
+        "language": "eng",
+        "iswc": "T-010.436.254-0",
+        "iswc-list": [
+            "T-010.436.254-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1321315"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02438746"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "490274370"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 258 31"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "13424"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000100816"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "75.000"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "5839047"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "58043"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0S3-4450-5"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12420746"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635621-001"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "007329700"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617904"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3266851"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "17762901"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "34027T"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "2510628"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358048"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358048"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "017153704"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bc31664-3c23-420d-bc55-b0227ce82b5e",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "8bc31664-3c23-420d-bc55-b0227ce82b5e",
+                    "title": "She Came in Through the Bathroom Window 6.124",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7f57e5a-ad1a-4371-879e-a07d1a64947d",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "c7f57e5a-ad1a-4371-879e-a07d1a64947d",
+                    "title": "She Came in Through the Bathroom Window 6.125",
+                    "length": "190000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef22af5d-44d5-4129-969e-802c6842e71e",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "ef22af5d-44d5-4129-969e-802c6842e71e",
+                    "title": "She Came in Through the Bathroom Window 6.126",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0060ff97-72b0-4fd2-83b2-3f978952d2dd",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "0060ff97-72b0-4fd2-83b2-3f978952d2dd",
+                    "title": "She Came in Through the Bathroom Window 6.127",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5af93f0e-0463-472d-8487-6c93d0eb6c00",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "5af93f0e-0463-472d-8487-6c93d0eb6c00",
+                    "title": "She Came in Through the Bathroom Window 6.128",
+                    "length": "4000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2283a328-c9d4-419c-9351-87d950dd356c",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2283a328-c9d4-419c-9351-87d950dd356c",
+                    "title": "She Came in Through the Bathroom Window 6.129",
+                    "length": "6000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7867dabb-d1e8-4666-880e-800e4387cad4",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "7867dabb-d1e8-4666-880e-800e4387cad4",
+                    "title": "She Came in Through the Bathroom Window 6.130",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6cf55efb-a731-4cf1-8176-c83179f3bd45",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-29",
+                "ended": "true",
+                "recording": {
+                    "id": "6cf55efb-a731-4cf1-8176-c83179f3bd45",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "188200",
+                    "disambiguation": "live, 1969-01-30"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                    "title": "Fly on the Wall",
+                    "length": "1317133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2abc66b8-8eb6-4d63-82c2-41d8ead68bd4",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2abc66b8-8eb6-4d63-82c2-41d8ead68bd4",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "5000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a7cfc08-b402-42a3-8333-cfff135e9e2a",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "4a7cfc08-b402-42a3-8333-cfff135e9e2a",
+                    "title": "She Came in Through the Bathroom Window 7.08",
+                    "length": "31000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f1ae511-20ab-44df-9844-9c96b24a2d7c",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "8f1ae511-20ab-44df-9844-9c96b24a2d7c",
+                    "title": "She Came in Through the Bathroom Window 7.22",
+                    "length": "75000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "536556a1-b6a8-4656-b80b-fc9c2e20f092",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "536556a1-b6a8-4656-b80b-fc9c2e20f092",
+                    "title": "She Came in Through the Bathroom Window 7.34",
+                    "length": "28000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4647a10-a475-4ed2-ba3f-582b2d7bd824",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "c4647a10-a475-4ed2-ba3f-582b2d7bd824",
+                    "title": "She Came in Through the Bathroom Window 7.138",
+                    "length": "196000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb990a9d-8d84-4f17-9012-1022bbb47227",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "bb990a9d-8d84-4f17-9012-1022bbb47227",
+                    "title": "She Came in Through the Bathroom Window 7.139",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e7a49e5-417f-48de-8591-3729144a6d10",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1e7a49e5-417f-48de-8591-3729144a6d10",
+                    "title": "She Came in Through the Bathroom Window 8.24",
+                    "length": "38000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0382ea73-3776-4f07-890f-f95b6738de1b",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "0382ea73-3776-4f07-890f-f95b6738de1b",
+                    "title": "She Came in Through the Bathroom Window 8.44",
+                    "length": "77000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57279166-c923-4b87-93c6-fd1f1bef6f43",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "57279166-c923-4b87-93c6-fd1f1bef6f43",
+                    "title": "She Came in Through the Bathroom Window 8.45",
+                    "length": "94000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbceeb76-85db-4391-9f0b-c3d5fc7619fc",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "dbceeb76-85db-4391-9f0b-c3d5fc7619fc",
+                    "title": "She Came in Through the Bathroom Window 8.46",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffab7f17-8a12-49d3-9d00-a5bba61a3bf4",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "ffab7f17-8a12-49d3-9d00-a5bba61a3bf4",
+                    "title": "She Came in Through the Bathroom Window 8.47",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b12d0482-19c8-4899-9fec-b94c272a83ec",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b12d0482-19c8-4899-9fec-b94c272a83ec",
+                    "title": "She Came in Through the Bathroom Window 9.50",
+                    "length": "17000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f82a0fc-5f81-445d-9437-8864d5078218",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "7f82a0fc-5f81-445d-9437-8864d5078218",
+                    "title": "She Came in Through the Bathroom Window 9.51",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb3d2d96-c1dc-47f5-8329-c5374443f149",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "fb3d2d96-c1dc-47f5-8329-c5374443f149",
+                    "title": "She Came in Through the Bathroom Window 9.52",
+                    "length": "17000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4ff315e-b6c3-4a46-bb80-e669fe954de0",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a4ff315e-b6c3-4a46-bb80-e669fe954de0",
+                    "title": "She Came in Through the Bathroom Window 9.54",
+                    "length": "19000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44bbe9d3-31ef-41b6-82be-a23df47a9e10",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "44bbe9d3-31ef-41b6-82be-a23df47a9e10",
+                    "title": "She Came in Through the Bathroom Window 9.55",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2f135ba-2cdd-4e59-b231-085e0f017b5f",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "b2f135ba-2cdd-4e59-b231-085e0f017b5f",
+                    "title": "She Came in Through the Bathroom Window 9.56",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9b1d860-af9a-485c-9910-47afedcdd48b",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b9b1d860-af9a-485c-9910-47afedcdd48b",
+                    "title": "She Came in Through the Bathroom Window 9.57",
+                    "length": "21000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93494868-7a7b-4bc4-9365-f9d7ee2a830e",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "93494868-7a7b-4bc4-9365-f9d7ee2a830e",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "217000",
+                    "disambiguation": "Savile Row session"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98deac13-14ef-4c2f-b0af-c47b241fdb21",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "98deac13-14ef-4c2f-b0af-c47b241fdb21",
+                    "title": "She Came in Through the Bathroom Window 21.77",
+                    "length": "106000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92fcd0cc-cf39-416e-98ab-62cf43219df0",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "92fcd0cc-cf39-416e-98ab-62cf43219df0",
+                    "title": "She Came in Through the Bathroom Window 21.78",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e345bddc-a1dd-488b-8193-c5b5c0a09de2",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "e345bddc-a1dd-488b-8193-c5b5c0a09de2",
+                    "title": "She Came in Through the Bathroom Window 21.79",
+                    "length": "213000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7cfcfed-6408-4ea7-babb-24e481a8cad4",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "e7cfcfed-6408-4ea7-babb-24e481a8cad4",
+                    "title": "She Came in Through the Bathroom Window 21.80",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14f249f6-be2b-4213-aa9b-ff606565bf17",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "14f249f6-be2b-4213-aa9b-ff606565bf17",
+                    "title": "She Came in Through the Bathroom Window 21.81",
+                    "length": "378000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abb41dca-612a-40c8-8b58-f9c68142aa4e",
+                "direction": "backward",
+                "begin": "1969-07-25",
+                "end": "1969-07-25",
+                "ended": "true",
+                "recording": {
+                    "id": "abb41dca-612a-40c8-8b58-f9c68142aa4e",
+                    "title": "She Came In Through the Bathroom Window (take 27)",
+                    "length": "126080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c19db4d3-6640-4732-a0b2-e358ed80c5c4",
+                "direction": "backward",
+                "begin": "1969-07-25",
+                "end": "1969-07-30",
+                "ended": "true",
+                "recording": {
+                    "id": "c19db4d3-6640-4732-a0b2-e358ed80c5c4",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "118000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb903881-cdc2-4de6-af05-028636647a4e",
+                "ordering-key": "6",
+                "direction": "backward",
+                "begin": "1969-07-25",
+                "end": "1969-07-30",
+                "ended": "true",
+                "recording": {
+                    "id": "fb903881-cdc2-4de6-af05-028636647a4e",
+                    "title": "The Long One: You Never Give Me Your Money / Sun King / Mean Mr Mustard / Her Majesty / Polythene Pam / She Came in Through the Bathroom Window / Golden Slumbers / Carry That Weight / The End",
+                    "length": "970466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a55fc62d-0301-41ef-9f99-c04f6a08e9b3",
+                "direction": "backward",
+                "begin": "1970-03-27",
+                "end": "1970-03-27",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a55fc62d-0301-41ef-9f99-c04f6a08e9b3",
+                    "title": "She Came in Thru the Bathroom Window",
+                    "length": "226000",
+                    "disambiguation": "live, 1970-03-27 second set: The Fillmore East, New York, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb387d8c-ca18-490f-80e3-a5432d4a13ed",
+                "direction": "backward",
+                "begin": "1970-03-27",
+                "end": "1970-03-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "eb387d8c-ca18-490f-80e3-a5432d4a13ed",
+                    "title": "She Came In Thru the Bathroom Window",
+                    "length": "178040",
+                    "disambiguation": "live, 1970-03: The Fillmore East, New York, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11cc2b13-53ee-4438-9854-cfd40eeaa245",
+                "direction": "backward",
+                "begin": "1970-03-28",
+                "end": "1970-03-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "11cc2b13-53ee-4438-9854-cfd40eeaa245",
+                    "title": "She Came in Thru the Bathroom Window",
+                    "length": "184000",
+                    "disambiguation": "live, 1970-03-28 second set: The Fillmore East, New York, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d382f817-767c-4cd5-9ee1-ec2c8d1391b9",
+                "direction": "backward",
+                "begin": "1970-03-28",
+                "end": "1970-03-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d382f817-767c-4cd5-9ee1-ec2c8d1391b9",
+                    "title": "She Came in Thru the Bathroom Window",
+                    "length": "200000",
+                    "disambiguation": "live, 1970-03-28 first set: The Fillmore East, New York, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855040",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855000",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45df3006-ab0d-4467-ab4f-97f23e72489c",
+                "direction": "backward",
+                "begin": "2005-09-22",
+                "end": "2005-09-22",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "45df3006-ab0d-4467-ab4f-97f23e72489c",
+                    "title": "She Came in Through the Bathroom Window",
+                    "disambiguation": "live, 2005-09-22: Wachovia Center, Philadelphia, PA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58fd2ffc-92c0-4b4b-af19-2e3f10ace71d",
+                "direction": "backward",
+                "begin": "2005-10-10",
+                "end": "2005-10-10",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "58fd2ffc-92c0-4b4b-af19-2e3f10ace71d",
+                    "title": "She Came in Through the Bathroom Window",
+                    "disambiguation": "live, 2005-10-10: Air Canada Centre, Toronto, Ontario, CA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15a05834-3881-44b7-90e0-a736fdfd42fc",
+                "direction": "backward",
+                "begin": "2005-10-26",
+                "end": "2005-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "15a05834-3881-44b7-90e0-a736fdfd42fc",
+                    "title": "She Came in Through the Bathroom Window",
+                    "disambiguation": "live, 2005-10-26: Xcel Energy Center, St. Paul, MN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "870fc60e-2a67-4e6b-9795-27ca48d07738",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "870fc60e-2a67-4e6b-9795-27ca48d07738",
+                    "title": "(She Came in Through the) Bathroom Window",
+                    "length": "129586"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f6e66fe-029c-407c-b283-571020e46ea3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "0f6e66fe-029c-407c-b283-571020e46ea3",
+                    "title": "Abby Road Suite",
+                    "length": "423346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b9aa992-07c9-4dca-9706-7ac6834f635f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "5b9aa992-07c9-4dca-9706-7ac6834f635f",
+                    "title": "Mean Mr Mustard / Polythene Pam / She Came in Through the Bathroom Window",
+                    "length": "258000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5228e69-3cb7-4bc2-9855-a43ed49ba822",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d5228e69-3cb7-4bc2-9855-a43ed49ba822",
+                    "title": "Polythene Pam / She Came in Through the Bathroom Window / Nowhere Man / Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "310000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "358f4a7c-ad78-4b03-8d55-868db2010aec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "358f4a7c-ad78-4b03-8d55-868db2010aec",
+                    "title": "She Came in Though the Bathroom Window",
+                    "length": "182000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b41adb7-45b3-4aa8-89ea-0f7b335c74cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7b41adb7-45b3-4aa8-89ea-0f7b335c74cc",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "119000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82ffe841-cbfb-42e4-aff2-e70ee98d0573",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "82ffe841-cbfb-42e4-aff2-e70ee98d0573",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "146000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "614bd9f7-2d2c-4b84-92b6-52c897e744c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "614bd9f7-2d2c-4b84-92b6-52c897e744c1",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "156040",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82470a21-cd33-42d7-92fb-ba6ddb94551b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "82470a21-cd33-42d7-92fb-ba6ddb94551b",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "159040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5d5435f-dc35-4b68-ae47-7b5f0269b4b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b5d5435f-dc35-4b68-ae47-7b5f0269b4b0",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "175133",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77274616-7677-43bb-b264-61d07ba2acaa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77274616-7677-43bb-b264-61d07ba2acaa",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "95000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fd08fed-7ccb-4aba-a665-88f5210f52dd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4fd08fed-7ccb-4aba-a665-88f5210f52dd",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "016c3646-c405-4670-aeb9-a771d92c2df6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "016c3646-c405-4670-aeb9-a771d92c2df6",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "120000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b034b67d-1f0a-4f56-a1ce-3a1b568228bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b034b67d-1f0a-4f56-a1ce-3a1b568228bb",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e88943d5-8a6c-47e4-8ed8-612e9ec17d23",
+                "direction": "backward",
+                "recording": {
+                    "id": "e88943d5-8a6c-47e4-8ed8-612e9ec17d23",
+                    "title": "She Came in Through the Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f28663fb-c29c-4c07-b6a5-db7103df8c72",
+                "direction": "backward",
+                "recording": {
+                    "id": "f28663fb-c29c-4c07-b6a5-db7103df8c72",
+                    "title": "She Came in Through the Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dab0995c-7b92-4a9f-9e28-3547ebe55ea1",
+                "direction": "backward",
+                "recording": {
+                    "id": "dab0995c-7b92-4a9f-9e28-3547ebe55ea1",
+                    "title": "She Came in Through the Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3ed1855-b0e0-4a63-9593-1b23539043a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3ed1855-b0e0-4a63-9593-1b23539043a7",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "115293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e12e9ef-56af-4e22-a508-7bfabbe57629",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e12e9ef-56af-4e22-a508-7bfabbe57629",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "111986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e13bdda-f27a-498e-bd91-4411f1838241",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e13bdda-f27a-498e-bd91-4411f1838241",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "178560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7abe93c6-b256-4401-8a08-23986ffea492",
+                "direction": "backward",
+                "recording": {
+                    "id": "7abe93c6-b256-4401-8a08-23986ffea492",
+                    "title": "She Came in Through the Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba183bb3-aed5-487c-bbca-aaf716b0f2a4",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba183bb3-aed5-487c-bbca-aaf716b0f2a4",
+                    "title": "She Came in Through the Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93b1fa79-3a03-42d0-a048-6e849897ed13",
+                "direction": "backward",
+                "recording": {
+                    "id": "93b1fa79-3a03-42d0-a048-6e849897ed13",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "113000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "692059bb-c797-4660-a618-6ef30d01d2ba",
+                "direction": "backward",
+                "recording": {
+                    "id": "692059bb-c797-4660-a618-6ef30d01d2ba",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bab6d849-c73e-4a0f-ad38-55dbffba72d1",
+                "direction": "backward",
+                "recording": {
+                    "id": "bab6d849-c73e-4a0f-ad38-55dbffba72d1",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "81226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2286974-f00a-4375-83b4-fb86731ac7a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b2286974-f00a-4375-83b4-fb86731ac7a1",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "188400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f954206-c732-46e8-8923-5c4dd60ebb67",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f954206-c732-46e8-8923-5c4dd60ebb67",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "111000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63e9c274-ada0-4a8d-9484-f2caafbf5d6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "63e9c274-ada0-4a8d-9484-f2caafbf5d6b",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "154240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85a760cf-816d-4ce3-9e9e-3a8af187e26a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "85a760cf-816d-4ce3-9e9e-3a8af187e26a",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e12eb7cb-e254-4bad-b4fd-f35dd1938a95",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e12eb7cb-e254-4bad-b4fd-f35dd1938a95",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6b0ed02-6552-4cb9-9b31-b68051b51504",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c6b0ed02-6552-4cb9-9b31-b68051b51504",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8f774a4-ab28-4e9a-9966-8b5089a10983",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e8f774a4-ab28-4e9a-9966-8b5089a10983",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "145440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b057932-b588-4a07-88ea-c2c3eeed5b2a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0b057932-b588-4a07-88ea-c2c3eeed5b2a",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd42fbe7-2bc7-43c5-a496-119fc1563438",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd42fbe7-2bc7-43c5-a496-119fc1563438",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "174973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd5933bc-82cc-4655-ac33-ffffaf3277f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd5933bc-82cc-4655-ac33-ffffaf3277f7",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "183626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7e8c412-2934-4a29-b450-b7f7ce6bbea1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7e8c412-2934-4a29-b450-b7f7ce6bbea1",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "168400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b8a324a-257a-430c-8c9d-bf2be31995da",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4b8a324a-257a-430c-8c9d-bf2be31995da",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "213240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c7e007f-90d6-422c-930b-53eeefcf1765",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5c7e007f-90d6-422c-930b-53eeefcf1765",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6943d5ea-8aec-462d-a1e8-f231d7bc2918",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6943d5ea-8aec-462d-a1e8-f231d7bc2918",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8cb2908-a021-4a87-9851-e80e62897715",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c8cb2908-a021-4a87-9851-e80e62897715",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cb04171-cc48-4206-b259-318437283a74",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4cb04171-cc48-4206-b259-318437283a74",
+                    "title": "She Came in Through the Bathroom Window",
+                    "length": "199933",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "851bb056-4e28-4650-bf08-45ca640593c2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "851bb056-4e28-4650-bf08-45ca640593c2",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1460fd8-611c-4b2f-a56a-33a7961bea12",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f1460fd8-611c-4b2f-a56a-33a7961bea12",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "198933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb4c7549-71a1-4598-9d69-dc2002f11052",
+                "direction": "backward",
+                "recording": {
+                    "id": "cb4c7549-71a1-4598-9d69-dc2002f11052",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43d70820-9c86-4c7d-9d76-0c923a8d9587",
+                "direction": "backward",
+                "recording": {
+                    "id": "43d70820-9c86-4c7d-9d76-0c923a8d9587",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3937f905-9063-4f4f-aea8-20bcbdf9ac7a",
+                "direction": "backward",
+                "recording": {
+                    "id": "3937f905-9063-4f4f-aea8-20bcbdf9ac7a",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58715b1d-6c28-4eb0-8c44-879540639d43",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "58715b1d-6c28-4eb0-8c44-879540639d43",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "114000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9992422a-1bc3-4271-93ef-3e5939ab26b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "9992422a-1bc3-4271-93ef-3e5939ab26b2",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "118813",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2959456f-9c69-4956-a763-3360cfcab344",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2959456f-9c69-4956-a763-3360cfcab344",
+                    "title": "She Came In Through the Bathroom Window",
+                    "length": "172666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00e9e5d7-ab89-4dea-aec0-23b21a41e2cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "00e9e5d7-ab89-4dea-aec0-23b21a41e2cc",
+                    "title": "She Came In Through The Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd4d77fa-e899-4861-b479-669d2fea1e66",
+                "direction": "backward",
+                "recording": {
+                    "id": "dd4d77fa-e899-4861-b479-669d2fea1e66",
+                    "title": "She Came In Through The Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d9ce67d-e74f-4cea-8bad-25add2d8f925",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8d9ce67d-e74f-4cea-8bad-25add2d8f925",
+                    "title": "She Came In Through The Bathroom Window",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee65a0a9-843d-4ebf-8809-e0f1eec13d6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ee65a0a9-843d-4ebf-8809-e0f1eec13d6b",
+                    "title": "She Came In Through The Bathroom Window",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b604d69c-d819-4ffd-b781-48d2083af67e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b604d69c-d819-4ffd-b781-48d2083af67e",
+                    "title": "She Came In Through The Bathroom Window",
+                    "length": "169250"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1294e553-2ef5-484c-95ae-9c9b764b3368",
+                "direction": "backward",
+                "recording": {
+                    "id": "1294e553-2ef5-484c-95ae-9c9b764b3368",
+                    "title": "She Came In Through The Bathroom Window",
+                    "length": "157760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d75953e-e648-4e86-9419-65bb0314c4da",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d75953e-e648-4e86-9419-65bb0314c4da",
+                    "title": "She Came In Through The Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25eb8c1e-2392-4ae2-a559-ba6010eeaef0",
+                "direction": "backward",
+                "recording": {
+                    "id": "25eb8c1e-2392-4ae2-a559-ba6010eeaef0",
+                    "title": "She Came In Through The Bathroom Window"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73feae47-e23e-498e-a729-e6f5c9f61f38",
+                "direction": "backward",
+                "recording": {
+                    "id": "73feae47-e23e-498e-a729-e6f5c9f61f38",
+                    "title": "She Came In Through the Bathroom Window (5.1 mix)",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d684c1b2-44d3-4e02-b205-26da91f59dc7",
+                "direction": "backward",
+                "recording": {
+                    "id": "d684c1b2-44d3-4e02-b205-26da91f59dc7",
+                    "title": "She Came In Through The Bathroom Window (Get Back session)",
+                    "length": "395000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a460246d-369c-448d-ac80-497b6e893baa",
+                "direction": "backward",
+                "recording": {
+                    "id": "a460246d-369c-448d-ac80-497b6e893baa",
+                    "title": "She Came In Through The Bathroom Window (Get Back session)",
+                    "length": "102000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2282304-a290-4b63-a510-1e61502cc12f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2282304-a290-4b63-a510-1e61502cc12f",
+                    "title": "She Came In Through The Bathroom Window (Get Back session)",
+                    "length": "748000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2a5f89e-1cc8-4cf0-a6e4-da9422aff300",
+                "direction": "backward",
+                "recording": {
+                    "id": "a2a5f89e-1cc8-4cf0-a6e4-da9422aff300",
+                    "title": "She Came In Through The Bathroom Window (Get Back session)",
+                    "length": "238000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f61778d9-1982-4406-bd1f-95ae415545e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "f61778d9-1982-4406-bd1f-95ae415545e1",
+                    "title": "She Came In Through The Bathroom Window (Get Back session)",
+                    "length": "525000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd568ba2-e36a-4de6-bb29-3ee94bd70562",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "dd568ba2-e36a-4de6-bb29-3ee94bd70562",
+                    "title": "She Came in Through the Bathroom Window (live)",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f55b018b-ba97-434e-bddf-e1c6a2cc2316",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f55b018b-ba97-434e-bddf-e1c6a2cc2316",
+                    "title": "She Came in Through the Bathroom Window (live)",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc16d2c7-0a40-44ac-ba92-9fcfd33ce34e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fc16d2c7-0a40-44ac-ba92-9fcfd33ce34e",
+                    "title": "She Came In Through the Bathroom Window (live)",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc16d2c7-0a40-44ac-ba92-9fcfd33ce34e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fc16d2c7-0a40-44ac-ba92-9fcfd33ce34e",
+                    "title": "She Came In Through the Bathroom Window (live)",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d042aa4-e7a9-4e72-ab62-5bec8d732a5c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d042aa4-e7a9-4e72-ab62-5bec8d732a5c",
+                    "title": "She Came In Through The Bathroom Window (Mono)",
+                    "length": "118000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0589a2a-33c8-4fa6-a0fd-535966d1e36f",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0589a2a-33c8-4fa6-a0fd-535966d1e36f",
+                    "title": "She Came In Through The Bathroom Window (Take 40, RS 1)",
+                    "length": "118000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b905493-efa5-4537-bfca-47bd19088892",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0b905493-efa5-4537-bfca-47bd19088892",
+                    "title": "She Came in Through the Bathroom Window (The Beatles Cover)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5c06426-e706-4690-b1d1-c4aa5cd4dde6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d5c06426-e706-4690-b1d1-c4aa5cd4dde6",
+                    "title": "She Came in Thru the Bathroom Window"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "354185c4-8f2f-4261-9070-1e75bd61025b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "354185c4-8f2f-4261-9070-1e75bd61025b",
+                    "title": "She Came in Thru the Bathroom Window",
+                    "length": "201866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27cb009d-45df-4111-8272-25ca132be7f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "27cb009d-45df-4111-8272-25ca132be7f8",
+                    "title": "She Came in Thru the Bathroom Window",
+                    "length": "82400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31f7bdf4-31ec-427e-a4a6-3661855a2447",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "31f7bdf4-31ec-427e-a4a6-3661855a2447",
+                    "title": "She Came in Thru the Bathroom Window",
+                    "length": "197960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1521f5d-6070-43b3-b980-eb59f2be4fc4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f1521f5d-6070-43b3-b980-eb59f2be4fc4",
+                    "title": "She Came Through the Bathroom Window",
+                    "length": "161440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                    "title": "Suite Charlotte Pike / Abbey Road",
+                    "length": "1888840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63ceee54-6961-4001-baae-235ebb1e3f69",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "63ceee54-6961-4001-baae-235ebb1e3f69",
+                    "title": "The Window: Ob-La-Di, Ob-La-Da / Get Back / Back in the U.S.S.R. / Polythene Pam / She Came in Through the Bathroom Window",
+                    "length": "461493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-she-came-in-through-the-bathroom-window-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1777",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=203",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q210306",
+                "direction": "backward"
+            }
+        ]
+    }
+}

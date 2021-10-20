@@ -1,0 +1,872 @@
+{
+    "work": {
+        "id": "f3632df7-e278-34e9-a2ea-ecd2884ed034",
+        "type": "Song",
+        "title": "Der Musensohn, D. 764",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Der Musensohn: Durch Feld und Wald zu schweifen",
+                "alias": "Der Musensohn: Durch Feld und Wald zu schweifen"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1822",
+                "end": "1822",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "f66b7fa3-1731-40ec-a2d9-710aa9e07c5d",
+                "direction": "backward",
+                "artist": {
+                    "id": "f66b7fa3-1731-40ec-a2d9-710aa9e07c5d",
+                    "type": "Person",
+                    "name": "Johann Wolfgang von Goethe",
+                    "sort-name": "Goethe, Johann Wolfgang von"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8703ba7b-049b-4c96-9596-ecc0437fb8c8",
+                "direction": "backward",
+                "begin": "1932-11-16",
+                "end": "1932-11-16",
+                "ended": "true",
+                "recording": {
+                    "id": "8703ba7b-049b-4c96-9596-ecc0437fb8c8",
+                    "title": "Der Musensohn, Op. 92, No. 1, D. 764",
+                    "length": "124346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fdb2fc03-9042-419e-8dee-2e0f1176921e",
+                "direction": "backward",
+                "begin": "1932-11-18",
+                "end": "1932-11-18",
+                "ended": "true",
+                "recording": {
+                    "id": "fdb2fc03-9042-419e-8dee-2e0f1176921e",
+                    "title": "Der Musensohn D764 (1997 - Remaster)",
+                    "length": "124133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78e9b6cb-e737-4d96-9f23-0fc21f9bd731",
+                "direction": "backward",
+                "begin": "1933",
+                "end": "1945",
+                "ended": "true",
+                "recording": {
+                    "id": "78e9b6cb-e737-4d96-9f23-0fc21f9bd731",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "140333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c736cab-4537-4779-aa58-2b1bfaa169bc",
+                "direction": "backward",
+                "begin": "1936-11-26",
+                "end": "1936-11-26",
+                "ended": "true",
+                "recording": {
+                    "id": "3c736cab-4537-4779-aa58-2b1bfaa169bc",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "140266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45d522f2-de8a-4331-8318-2450007d0f52",
+                "direction": "backward",
+                "begin": "1952-10-04",
+                "end": "1952-10-07",
+                "ended": "true",
+                "recording": {
+                    "id": "45d522f2-de8a-4331-8318-2450007d0f52",
+                    "title": "Die Musensohn, D764",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb646644-b477-4af9-bfb1-63b4e8a64b66",
+                "direction": "backward",
+                "begin": "1957",
+                "end": "1957",
+                "ended": "true",
+                "recording": {
+                    "id": "fb646644-b477-4af9-bfb1-63b4e8a64b66",
+                    "title": "Der Musensohn",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95baf99e-9ad0-498b-9c8d-9b617b693b9d",
+                "direction": "backward",
+                "begin": "1959-09",
+                "end": "1959-09",
+                "ended": "true",
+                "recording": {
+                    "id": "95baf99e-9ad0-498b-9c8d-9b617b693b9d",
+                    "title": "Der Musensohn, D 764",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b7a06d1-2ce9-46f6-adc8-ca1da43c6939",
+                "direction": "backward",
+                "begin": "1961-11-28",
+                "end": "1961-11-30",
+                "ended": "true",
+                "recording": {
+                    "id": "6b7a06d1-2ce9-46f6-adc8-ca1da43c6939",
+                    "title": "Der Musensohn, D.764",
+                    "length": "140973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9ac423e-9ed7-4aa5-8b6f-bd650560552f",
+                "direction": "backward",
+                "begin": "1965-08-19",
+                "end": "1965-08-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f9ac423e-9ed7-4aa5-8b6f-bd650560552f",
+                    "title": "Der Musensohn op.92 n.1",
+                    "length": "143946",
+                    "disambiguation": "live, 1965-08-19: Mozarteum, Salzburg, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d2d9cd6-a3f9-4516-b057-6ca01712d549",
+                "direction": "backward",
+                "begin": "1965-08-19",
+                "end": "1965-08-19",
+                "ended": "true",
+                "recording": {
+                    "id": "4d2d9cd6-a3f9-4516-b057-6ca01712d549",
+                    "title": "Der Musensohn, D 764"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d5e28bd-56cc-4b15-b9d9-c5a0880bf248",
+                "direction": "backward",
+                "begin": "1965-11",
+                "end": "1965-11",
+                "ended": "true",
+                "recording": {
+                    "id": "1d5e28bd-56cc-4b15-b9d9-c5a0880bf248",
+                    "title": "Der Musensohn, D.764 (op. 92/1)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca838d5a-5399-40e7-997c-38ff5dfe365c",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "ca838d5a-5399-40e7-997c-38ff5dfe365c",
+                    "title": "Der Musensohn (\"Durch Feld und Wald zu schweifen\")",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb141a71-29f8-4e5a-933e-9197557a7947",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "fb141a71-29f8-4e5a-933e-9197557a7947",
+                    "title": "Der Musensohn, D. 764 (Op. 92/1)",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4f081f4-8b61-4acc-8134-c883fc3f0077",
+                "direction": "backward",
+                "begin": "1970",
+                "end": "1970",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f4f081f4-8b61-4acc-8134-c883fc3f0077",
+                    "title": "Der Musensohn, D 764",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0286c786-b275-4214-8a9c-244906f9b047",
+                "direction": "backward",
+                "begin": "1974-09",
+                "end": "1974-09",
+                "ended": "true",
+                "recording": {
+                    "id": "0286c786-b275-4214-8a9c-244906f9b047",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "493d7fbc-3719-49cf-b08d-29b1c7745f35",
+                "direction": "backward",
+                "begin": "1979-07-30",
+                "end": "1979-07-30",
+                "ended": "true",
+                "recording": {
+                    "id": "493d7fbc-3719-49cf-b08d-29b1c7745f35",
+                    "title": "Der Musensohn",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "043f3817-f84e-4782-9e36-99515e39bc78",
+                "direction": "backward",
+                "begin": "1980-04",
+                "end": "1980-12",
+                "ended": "true",
+                "recording": {
+                    "id": "043f3817-f84e-4782-9e36-99515e39bc78",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "135933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed67e13f-cedf-4810-9f72-f80cbf871090",
+                "direction": "backward",
+                "begin": "1980-09-01",
+                "end": "1980-09-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ed67e13f-cedf-4810-9f72-f80cbf871090",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "137573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02921349-87a1-4c2b-80c7-d261c757aabd",
+                "direction": "backward",
+                "begin": "1982-03",
+                "end": "1982-03",
+                "ended": "true",
+                "recording": {
+                    "id": "02921349-87a1-4c2b-80c7-d261c757aabd",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5df6f9f-70f3-4a62-9edc-bdb8d1f66db8",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "a5df6f9f-70f3-4a62-9edc-bdb8d1f66db8",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "130039"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f02e7d6e-0525-44b8-a743-7a8be38dfc4f",
+                "direction": "backward",
+                "begin": "1987-06-16",
+                "end": "1987-06-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f02e7d6e-0525-44b8-a743-7a8be38dfc4f",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "120666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "691eceb9-0ab8-4b8d-b778-0d8f79ec186d",
+                "direction": "backward",
+                "begin": "1991-07-01",
+                "end": "1991-07-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "691eceb9-0ab8-4b8d-b778-0d8f79ec186d",
+                    "title": "Der Musensohn",
+                    "length": "132360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ca109f2-fd6b-4cde-afb1-f9cb84a5f5b1",
+                "direction": "backward",
+                "begin": "1994-02",
+                "end": "1994-02",
+                "ended": "true",
+                "recording": {
+                    "id": "1ca109f2-fd6b-4cde-afb1-f9cb84a5f5b1",
+                    "title": "Der Musensohn",
+                    "length": "116053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f2ffdd1-7e12-4a30-ad47-6d1be76c1b4a",
+                "direction": "backward",
+                "begin": "1994-02",
+                "end": "1994-02",
+                "ended": "true",
+                "recording": {
+                    "id": "6f2ffdd1-7e12-4a30-ad47-6d1be76c1b4a",
+                    "title": "Der Musensohn, D 764",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "212484c2-b5ce-4d25-bbda-5db63a999a26",
+                "direction": "backward",
+                "begin": "1994-10",
+                "end": "1994-10",
+                "ended": "true",
+                "recording": {
+                    "id": "212484c2-b5ce-4d25-bbda-5db63a999a26",
+                    "title": "Der Musensohn",
+                    "length": "118493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "204a05b2-80ee-429e-8192-83b50ac37fd1",
+                "direction": "backward",
+                "begin": "1994-11-07",
+                "end": "1994-11-09",
+                "ended": "true",
+                "recording": {
+                    "id": "204a05b2-80ee-429e-8192-83b50ac37fd1",
+                    "title": "Der Musensohn, op. 92, no. 1, D. 764",
+                    "length": "123093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49202cd8-e1fb-4098-ab85-0a577de9ac5f",
+                "direction": "backward",
+                "begin": "1995",
+                "end": "1996",
+                "ended": "true",
+                "recording": {
+                    "id": "49202cd8-e1fb-4098-ab85-0a577de9ac5f",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b65c07b9-b00e-4afe-b0a6-0f5d15863238",
+                "direction": "backward",
+                "begin": "1996-02",
+                "end": "1996-03",
+                "ended": "true",
+                "recording": {
+                    "id": "b65c07b9-b00e-4afe-b0a6-0f5d15863238",
+                    "title": "Der Musensohn, D 764",
+                    "length": "121666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36436d78-3c67-487a-b488-18c896f5bac0",
+                "direction": "backward",
+                "begin": "1996-05",
+                "end": "1996-05",
+                "ended": "true",
+                "recording": {
+                    "id": "36436d78-3c67-487a-b488-18c896f5bac0",
+                    "title": "Der Musensohn",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e77eca58-f4b8-4a08-ba48-0ac1a879f487",
+                "direction": "backward",
+                "begin": "1996-08",
+                "end": "1996-08",
+                "ended": "true",
+                "recording": {
+                    "id": "e77eca58-f4b8-4a08-ba48-0ac1a879f487",
+                    "title": "Der Musensohn, D764",
+                    "length": "125693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "662f914d-3de1-4def-a5f1-3eefd7f2b0de",
+                "direction": "backward",
+                "begin": "2017-02-04",
+                "end": "2017-02-06",
+                "ended": "true",
+                "recording": {
+                    "id": "662f914d-3de1-4def-a5f1-3eefd7f2b0de",
+                    "title": "Der Musensohn",
+                    "length": "130226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c03b015c-51b9-4beb-ad76-1d6f07ab07fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "c03b015c-51b9-4beb-ad76-1d6f07ab07fd",
+                    "title": "\"Der Musensohn\", op. 92/1, D.764: \"Durch Feld und Wald zu schweifen\"",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1e73e01-783e-46c3-a478-4109c9219b3a",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1e73e01-783e-46c3-a478-4109c9219b3a",
+                    "title": "Ausgew\u00e4hlte Lieder: Der Musensohn, op. 90/1 (D 764) \u201eDurch Feld und Wald zu schweifen\u201c",
+                    "length": "129426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0a49dd7-53b4-4456-a580-dba733a95e26",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0a49dd7-53b4-4456-a580-dba733a95e26",
+                    "title": "Der Musensohn",
+                    "length": "114800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75bc3a81-befe-4fcf-b6c8-4a046ba06429",
+                "direction": "backward",
+                "recording": {
+                    "id": "75bc3a81-befe-4fcf-b6c8-4a046ba06429",
+                    "title": "Der Musensohn",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd5d5b3a-cba3-4752-8d6a-a171069062f1",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd5d5b3a-cba3-4752-8d6a-a171069062f1",
+                    "title": "Der Musensohn",
+                    "length": "139000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf79bdcb-e660-4bd6-aa1c-e3761fe4b174",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf79bdcb-e660-4bd6-aa1c-e3761fe4b174",
+                    "title": "Der Musensohn",
+                    "length": "116506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "571293ec-bf50-4766-a0bd-52145181062d",
+                "direction": "backward",
+                "recording": {
+                    "id": "571293ec-bf50-4766-a0bd-52145181062d",
+                    "title": "Der Musensohn - D764",
+                    "length": "128306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d27cec7e-9d31-4873-a526-dd7ca97d5841",
+                "direction": "backward",
+                "recording": {
+                    "id": "d27cec7e-9d31-4873-a526-dd7ca97d5841",
+                    "title": "Der Musensohn (\"Durch Feld und Wald zu schweifen\"), song for voice & piano, D. 764 (Op. 92/1)",
+                    "length": "127773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9b50000-ae44-4f66-b398-e880a7994bb7",
+                "direction": "backward",
+                "recording": {
+                    "id": "d9b50000-ae44-4f66-b398-e880a7994bb7",
+                    "title": "Der Musensohn (Goethe)",
+                    "length": "129893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a64c6e6-ff71-4a20-83d5-f89e3f51e84f",
+                "direction": "backward",
+                "recording": {
+                    "id": "4a64c6e6-ff71-4a20-83d5-f89e3f51e84f",
+                    "title": "Der Musensohn D764",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b89f287c-5daa-4358-80d5-b8ab06f78ea0",
+                "direction": "backward",
+                "recording": {
+                    "id": "b89f287c-5daa-4358-80d5-b8ab06f78ea0",
+                    "title": "Der Musensohn, D 764",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28e471a4-3cc1-470a-9daa-943699997d9e",
+                "direction": "backward",
+                "recording": {
+                    "id": "28e471a4-3cc1-470a-9daa-943699997d9e",
+                    "title": "Der Musensohn, D 764",
+                    "length": "139200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13ad3fa1-2965-458f-aeed-dae705003d15",
+                "direction": "backward",
+                "recording": {
+                    "id": "13ad3fa1-2965-458f-aeed-dae705003d15",
+                    "title": "Der Musensohn, D 764",
+                    "length": "138000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c27d1cfe-a625-4b8c-b1b4-0c0387016807",
+                "direction": "backward",
+                "recording": {
+                    "id": "c27d1cfe-a625-4b8c-b1b4-0c0387016807",
+                    "title": "Der Musensohn, D 764",
+                    "length": "125840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c63d849d-ab98-4628-80eb-61cc88fb9791",
+                "direction": "backward",
+                "recording": {
+                    "id": "c63d849d-ab98-4628-80eb-61cc88fb9791",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "130067"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e827641-c5de-43e1-bb2d-0e144c3f40a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e827641-c5de-43e1-bb2d-0e144c3f40a8",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1289e43-dc39-429c-963f-7b0d0819722b",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1289e43-dc39-429c-963f-7b0d0819722b",
+                    "title": "Der Musensohn, D. 764",
+                    "length": "141505"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a239e096-45b7-4e71-b952-c2d51c4d1183",
+                "direction": "backward",
+                "recording": {
+                    "id": "a239e096-45b7-4e71-b952-c2d51c4d1183",
+                    "title": "Der Musensohn, D.764",
+                    "length": "138040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6119b68b-c33e-4d59-a8b9-9e744f7ccc48",
+                "direction": "backward",
+                "recording": {
+                    "id": "6119b68b-c33e-4d59-a8b9-9e744f7ccc48",
+                    "title": "Der Musensohn, D.764 (op. 92/1)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04f381c3-6536-44c3-b6d8-285e1ca5fdd0",
+                "direction": "backward",
+                "recording": {
+                    "id": "04f381c3-6536-44c3-b6d8-285e1ca5fdd0",
+                    "title": "Der Musensohn, D.764 (op. 92/1)",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6c3490e-4765-45c5-9d2a-18726470c100",
+                "direction": "backward",
+                "recording": {
+                    "id": "b6c3490e-4765-45c5-9d2a-18726470c100",
+                    "title": "Der Musensohn, D.764 (Op.92/1)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64a7a6b6-1af4-4419-8169-26b25bd660dd",
+                "direction": "backward",
+                "recording": {
+                    "id": "64a7a6b6-1af4-4419-8169-26b25bd660dd",
+                    "title": "Der Musensohn, D764",
+                    "length": "122066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1aabf2fb-cec4-43bb-9827-bbe44176a4a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "1aabf2fb-cec4-43bb-9827-bbe44176a4a1",
+                    "title": "Der Musensohn, op. 92 no. 1, D. 764",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36758258-da34-4c3b-8428-ae0a352801fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "36758258-da34-4c3b-8428-ae0a352801fd",
+                    "title": "Der Musensohn, Op. 92 No.1, D 764",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a65034a-251e-4893-bf9c-df963e3bfee0",
+                "direction": "backward",
+                "recording": {
+                    "id": "4a65034a-251e-4893-bf9c-df963e3bfee0",
+                    "title": "Der Musensohn, Op. 92/1",
+                    "length": "134000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f04f022-cc39-4c4e-91a0-5b2ca7723203",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f04f022-cc39-4c4e-91a0-5b2ca7723203",
+                    "title": "Der Musensohn, opus 92 N\u00b01, D 764",
+                    "length": "125840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2dd70aa9-e228-42cb-89dd-730d8bbb284e",
+                "direction": "backward",
+                "recording": {
+                    "id": "2dd70aa9-e228-42cb-89dd-730d8bbb284e",
+                    "title": "Der Musensohn: Durch Feld und Wald zu schweifen",
+                    "length": "125013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f01cf854-57f6-4a91-af65-dfd21833e0a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "f01cf854-57f6-4a91-af65-dfd21833e0a7",
+                    "title": "Die Musensohn",
+                    "length": "136760"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "584",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 764",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002371158",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/Der_Musensohn,_D.764_(Schubert,_Franz)",
+                "direction": "backward"
+            }
+        ]
+    }
+}

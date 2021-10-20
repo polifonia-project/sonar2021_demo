@@ -1,0 +1,814 @@
+{
+    "work": {
+        "id": "ba8f396a-cc0b-3136-b6e1-17e379d884da",
+        "type": "Song",
+        "title": "Dig It",
+        "language": "eng",
+        "iswc": "T-010.030.231-5",
+        "iswc-list": [
+            "T-010.030.231-5"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000178 295 68"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12100704"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "62.978"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "5533378"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "5533378"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "247463"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3975446"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "019628079"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "41 414 484 11"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "62 664 377 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014349300"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "80121Q"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0D0-0846-4"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633326-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1390125"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2926867"
+            },
+            {
+                "attribute": "CASH ID",
+                "value": "C-1032841223"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000022756"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "340130852"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02557825"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9002070"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "95069701"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4737414"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "302783"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                "direction": "backward",
+                "artist": {
+                    "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                    "type": "Person",
+                    "name": "Ringo Starr",
+                    "sort-name": "Starr, Ringo",
+                    "disambiguation": "The Beatles"
+                },
+                "target-credit": "Richard Starkey"
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a65205b-a9ed-4f6f-821c-807a88246195",
+                "direction": "backward",
+                "label": {
+                    "id": "0a65205b-a9ed-4f6f-821c-807a88246195",
+                    "type": "Publisher",
+                    "name": "Startling Music Inc.",
+                    "sort-name": "Startling Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c683436c-6fd5-443b-a24d-82a54d7ec76f",
+                "direction": "backward",
+                "label": {
+                    "id": "c683436c-6fd5-443b-a24d-82a54d7ec76f",
+                    "type": "Publisher",
+                    "name": "Warner Chappell Music Ltd.",
+                    "sort-name": "Warner Chappell Music Ltd.",
+                    "disambiguation": "no slash; used 1988\u20131996"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "906836d9-b363-405d-a52c-e780a6cb5f24",
+                "direction": "backward",
+                "begin": "1969-01-24",
+                "end": "1969-01-26",
+                "ended": "true",
+                "recording": {
+                    "id": "906836d9-b363-405d-a52c-e780a6cb5f24",
+                    "title": "Dig It",
+                    "length": "50000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d438e3a-c57d-4bd1-82ee-dc228fd2c1e3",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "4d438e3a-c57d-4bd1-82ee-dc228fd2c1e3",
+                    "title": "Can You Dig It?",
+                    "length": "31000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66b721f1-d780-462e-a188-3c6f05a97799",
+                "direction": "backward",
+                "recording": {
+                    "id": "66b721f1-d780-462e-a188-3c6f05a97799",
+                    "title": "Dig It",
+                    "length": "250000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c5008c0-949d-4589-94c8-1660980da887",
+                "direction": "backward",
+                "recording": {
+                    "id": "2c5008c0-949d-4589-94c8-1660980da887",
+                    "title": "Dig It",
+                    "length": "312000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f4c2b63-0c89-441b-863f-ea94960bb846",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f4c2b63-0c89-441b-863f-ea94960bb846",
+                    "title": "Dig It",
+                    "length": "266333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe27084c-02bb-4984-981c-af0f3da4aa09",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe27084c-02bb-4984-981c-af0f3da4aa09",
+                    "title": "Dig It",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb3662c7-0a9e-48f8-beca-2ad016b53411",
+                "direction": "backward",
+                "recording": {
+                    "id": "cb3662c7-0a9e-48f8-beca-2ad016b53411",
+                    "title": "Dig It",
+                    "length": "258000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8dee4050-833e-4d95-acc5-e894a0e48ae9",
+                "direction": "backward",
+                "recording": {
+                    "id": "8dee4050-833e-4d95-acc5-e894a0e48ae9",
+                    "title": "Dig It",
+                    "length": "502000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "467fcca4-4e7d-42ca-b028-8b3524c7861b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "467fcca4-4e7d-42ca-b028-8b3524c7861b",
+                    "title": "Dig It",
+                    "length": "90933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d246b93-36ef-4c5c-b3ea-fde27bc48b57",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d246b93-36ef-4c5c-b3ea-fde27bc48b57",
+                    "title": "Dig It",
+                    "length": "59546"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a3efde7-a93a-411d-aada-5465576fa5e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7a3efde7-a93a-411d-aada-5465576fa5e5",
+                    "title": "Dig It",
+                    "length": "50000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "283e4047-fca6-4864-8197-66647fa8a740",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "283e4047-fca6-4864-8197-66647fa8a740",
+                    "title": "Dig It",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e6f48f9-cf61-4b7a-a0f1-189096dd08eb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0e6f48f9-cf61-4b7a-a0f1-189096dd08eb",
+                    "title": "Dig It",
+                    "length": "246000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bb494fd-317f-4953-9e0e-9561547bfde1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5bb494fd-317f-4953-9e0e-9561547bfde1",
+                    "title": "Dig It",
+                    "length": "58960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32b6eca7-1a90-48e0-8ab2-2ca175700253",
+                "direction": "backward",
+                "recording": {
+                    "id": "32b6eca7-1a90-48e0-8ab2-2ca175700253",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5af08569-0074-400d-bef1-5bc71f17fdef",
+                "direction": "backward",
+                "recording": {
+                    "id": "5af08569-0074-400d-bef1-5bc71f17fdef",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d8e9f97-45c5-4430-b653-275408433bee",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d8e9f97-45c5-4430-b653-275408433bee",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16916e7c-4215-4694-bfa5-9f75c6f55cad",
+                "direction": "backward",
+                "recording": {
+                    "id": "16916e7c-4215-4694-bfa5-9f75c6f55cad",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd2d00ab-a49c-4ad6-a97b-5e8f58eebb71",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd2d00ab-a49c-4ad6-a97b-5e8f58eebb71",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7961833e-4830-4036-9459-690a34f4e824",
+                "direction": "backward",
+                "recording": {
+                    "id": "7961833e-4830-4036-9459-690a34f4e824",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01779755-21fa-4101-9c12-d68e7c4ca22a",
+                "direction": "backward",
+                "recording": {
+                    "id": "01779755-21fa-4101-9c12-d68e7c4ca22a",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee24790f-71aa-4277-ad18-2482500d3554",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee24790f-71aa-4277-ad18-2482500d3554",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fab7da4e-43bf-484f-878c-5bdb50827f24",
+                "direction": "backward",
+                "recording": {
+                    "id": "fab7da4e-43bf-484f-878c-5bdb50827f24",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1a37ac0-037d-4c99-a096-ccf0a660a84f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c1a37ac0-037d-4c99-a096-ccf0a660a84f",
+                    "title": "Dig It",
+                    "length": "258160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22cf1837-9d39-46ce-9c99-8bc70c65d6d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "22cf1837-9d39-46ce-9c99-8bc70c65d6d8",
+                    "title": "Dig It",
+                    "length": "37973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cc2508c-22b4-42ba-b351-d8e1c8d76ea5",
+                "direction": "backward",
+                "recording": {
+                    "id": "2cc2508c-22b4-42ba-b351-d8e1c8d76ea5",
+                    "title": "Dig It",
+                    "length": "264000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c9d4aef-cb52-4263-887f-17f6a2480d50",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c9d4aef-cb52-4263-887f-17f6a2480d50",
+                    "title": "Dig It",
+                    "length": "907000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89e410d0-77f6-4e64-91bb-fcc57127b9bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "89e410d0-77f6-4e64-91bb-fcc57127b9bd",
+                    "title": "Dig It",
+                    "length": "308000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3674022e-a7ce-4bd9-ae6e-3de6649ea68e",
+                "direction": "backward",
+                "recording": {
+                    "id": "3674022e-a7ce-4bd9-ae6e-3de6649ea68e",
+                    "title": "Dig It",
+                    "length": "266000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44719584-819b-4c73-9426-0a9c17427ab6",
+                "direction": "backward",
+                "recording": {
+                    "id": "44719584-819b-4c73-9426-0a9c17427ab6",
+                    "title": "Dig It",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7c27453-a059-4afd-9fdf-d2bebd1a5b6e",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7c27453-a059-4afd-9fdf-d2bebd1a5b6e",
+                    "title": "Dig It",
+                    "length": "489000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4088222f-75f9-425b-923d-2c635a366ec0",
+                "direction": "backward",
+                "recording": {
+                    "id": "4088222f-75f9-425b-923d-2c635a366ec0",
+                    "title": "Dig It",
+                    "length": "506000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76eb7b6d-931f-4ceb-a7a7-fd51a764a7e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "76eb7b6d-931f-4ceb-a7a7-fd51a764a7e4",
+                    "title": "Dig It",
+                    "length": "411000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc9e942b-a09a-4699-b785-1ca969326814",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc9e942b-a09a-4699-b785-1ca969326814",
+                    "title": "Dig It"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8635cec0-6dd8-4655-a423-309845e91b5f",
+                "direction": "backward",
+                "recording": {
+                    "id": "8635cec0-6dd8-4655-a423-309845e91b5f",
+                    "title": "Dig It",
+                    "length": "239000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4af0233-b131-41e0-8db2-404747942d81",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4af0233-b131-41e0-8db2-404747942d81",
+                    "title": "Dig It (1969-01)",
+                    "length": "499894"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bfdc008-5650-4da1-b1e8-c3aa64cf33ee",
+                "direction": "backward",
+                "recording": {
+                    "id": "8bfdc008-5650-4da1-b1e8-c3aa64cf33ee",
+                    "title": "Dig It (boardroom tape)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56ceef45-6b93-47d7-bb7d-e995a3fefa82",
+                "direction": "backward",
+                "recording": {
+                    "id": "56ceef45-6b93-47d7-bb7d-e995a3fefa82",
+                    "title": "Dig It (Get Back Session)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63c4587e-16ac-4b35-b358-dd138148ac33",
+                "direction": "backward",
+                "recording": {
+                    "id": "63c4587e-16ac-4b35-b358-dd138148ac33",
+                    "title": "Dig It (includes 19 sub\u2010tracks)",
+                    "length": "1412000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abae02b6-13ea-46df-8cc5-581877536bfc",
+                "direction": "backward",
+                "recording": {
+                    "id": "abae02b6-13ea-46df-8cc5-581877536bfc",
+                    "title": "Dig It!",
+                    "length": "506000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4c2d623-000a-4a8b-b88c-a7e760351d57",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4c2d623-000a-4a8b-b88c-a7e760351d57",
+                    "title": "Dig It! (rehearsal)",
+                    "length": "506840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                    "title": "Fly on the Wall",
+                    "length": "1317133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6d06918-f1a5-49eb-87b9-e8734ebeeffd",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b6d06918-f1a5-49eb-87b9-e8734ebeeffd",
+                    "title": "I Dig It"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-dig-it-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/19176",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=181",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2302244",
+                "direction": "backward"
+            }
+        ]
+    }
+}

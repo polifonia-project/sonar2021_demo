@@ -1,0 +1,38 @@
+{
+    "work": {
+        "id": "c55a5415-157d-4b13-8ecb-69f7cf5b3e22",
+        "type": "Song",
+        "title": "Haig & Haig",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "2a760856-7bf1-4f65-a2d0-225e77085fcc",
+                "direction": "backward",
+                "artist": {
+                    "id": "2a760856-7bf1-4f65-a2d0-225e77085fcc",
+                    "type": "Person",
+                    "name": "Clark Terry",
+                    "sort-name": "Terry, Clark",
+                    "disambiguation": "American swing trumpeter"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a312349-bfa1-4e8d-bef3-3e151cb7b967",
+                "direction": "backward",
+                "begin": "1966",
+                "end": "1966",
+                "ended": "true",
+                "recording": {
+                    "id": "3a312349-bfa1-4e8d-bef3-3e151cb7b967",
+                    "title": "Haig & Haig",
+                    "length": "268000"
+                }
+            }
+        ]
+    }
+}

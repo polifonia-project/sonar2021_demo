@@ -1,0 +1,462 @@
+{
+    "recording": {
+        "id": "75711684-1e71-4c0f-8070-89a82520552e",
+        "title": "Boplicity",
+        "length": "183000",
+        "disambiguation": "matrix no. 3766-2E",
+        "annotation": {
+            "text": "perhaps these recordings should be merged, they are all recorded the same date (at the same place):\r\n\r\nhttps://musicbrainz.org/recording/242a39de-944d-4fc2-b5ec-1ae4733aa103\r\nhttps://musicbrainz.org/recording/2f57783f-33c7-4585-a9ea-cff09bc5f7c1\r\nhttps://musicbrainz.org/recording/75711684-1e71-4c0f-8070-89a82520552e/fingerprints"
+        },
+        "artist-credit": [
+            {
+                "name": "Miles Davis Nonet",
+                "artist": {
+                    "id": "16d2b8e6-8930-4c9e-856f-e6d096479350",
+                    "type": "Group",
+                    "name": "The Miles Davis Nonet",
+                    "sort-name": "Davis, Miles, Nonet, The",
+                    "alias-list": [
+                        {
+                            "sort-name": "Miles Davis Nonet",
+                            "alias": "Miles Davis Nonet"
+                        }
+                    ],
+                    "alias-count": 1,
+                    "tag-list": [
+                        {
+                            "count": "1",
+                            "name": "jazz"
+                        }
+                    ]
+                }
+            }
+        ],
+        "release-list": [
+            {
+                "id": "cfe54ee2-81b1-4942-b0f4-d977d8f15b29",
+                "title": "Jazz: The Smithsonian Anthology",
+                "status": "Official",
+                "quality": "normal",
+                "packaging": "Book",
+                "text-representation": {
+                    "language": "eng",
+                    "script": "Latn"
+                },
+                "artist-credit": [
+                    {
+                        "artist": {
+                            "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                            "type": "Other",
+                            "name": "Various Artists",
+                            "sort-name": "Various Artists",
+                            "disambiguation": "add compilations to this artist"
+                        }
+                    }
+                ],
+                "date": "2011-03-29",
+                "country": "US",
+                "release-event-list": [
+                    {
+                        "date": "2011-03-29",
+                        "area": {
+                            "id": "489ce91b-6658-3307-9877-795b68554c98",
+                            "name": "United States",
+                            "sort-name": "United States",
+                            "iso-3166-1-code-list": [
+                                "US"
+                            ]
+                        }
+                    }
+                ],
+                "release-event-count": 1,
+                "barcode": "093074082027",
+                "medium-list": [
+                    {
+                        "position": "3",
+                        "format": "CD",
+                        "disc-list": [
+                            {
+                                "id": "6bYTEmWOqKg8Uc6_mqHw76wUElU-",
+                                "sectors": "350639",
+                                "offset-list": [
+                                    150,
+                                    13853,
+                                    25106,
+                                    38989,
+                                    53588,
+                                    68025,
+                                    86435,
+                                    118305,
+                                    137804,
+                                    157589,
+                                    168171,
+                                    188931,
+                                    219574,
+                                    243192,
+                                    259285,
+                                    282972,
+                                    323867,
+                                    335767
+                                ],
+                                "offset-count": 18
+                            }
+                        ],
+                        "disc-count": 1,
+                        "track-list": [
+                            {
+                                "id": "3bb5fe7e-afaa-30b7-826b-af4a84aa7457",
+                                "position": "1",
+                                "number": "1",
+                                "title": "Boplicity",
+                                "length": "183000",
+                                "artist-credit": [
+                                    {
+                                        "name": "Miles Davis Nonet",
+                                        "artist": {
+                                            "id": "16d2b8e6-8930-4c9e-856f-e6d096479350",
+                                            "type": "Group",
+                                            "name": "The Miles Davis Nonet",
+                                            "sort-name": "Davis, Miles, Nonet, The",
+                                            "alias-list": [
+                                                {
+                                                    "sort-name": "Miles Davis Nonet",
+                                                    "alias": "Miles Davis Nonet"
+                                                }
+                                            ],
+                                            "alias-count": 1,
+                                            "tag-list": [
+                                                {
+                                                    "count": "1",
+                                                    "name": "jazz"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ],
+                                "artist-credit-phrase": "Miles Davis Nonet",
+                                "track_or_recording_length": "183000"
+                            }
+                        ],
+                        "track-count": 18
+                    }
+                ],
+                "medium-count": 1,
+                "artist-credit-phrase": "Various Artists"
+            }
+        ],
+        "release-count": 1,
+        "isrc-list": [
+            "USBJN0920050"
+        ],
+        "isrc-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "arranger",
+                "type-id": "22661fb8-cdb7-4f67-8385-b2a8be6c9f0d",
+                "target": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+                "direction": "backward",
+                "artist": {
+                    "id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+                    "type": "Person",
+                    "name": "Gil Evans",
+                    "sort-name": "Evans, Gil"
+                }
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "7a5bb66a-37f4-4410-bcda-36f1e3bf7b37",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "tuba"
+                ],
+                "artist": {
+                    "id": "7a5bb66a-37f4-4410-bcda-36f1e3bf7b37",
+                    "type": "Person",
+                    "name": "Bill Barber",
+                    "sort-name": "Barber, Bill",
+                    "disambiguation": "Jazz tuba player"
+                },
+                "attributes": [
+                    {
+                        "type-id": "e297fcf6-29a7-4673-a15d-a6f54819b2d1",
+                        "attribute": "tuba"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "715e6eab-1d58-46d0-adcc-d63f6a92f3e1",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "double bass"
+                ],
+                "artist": {
+                    "id": "715e6eab-1d58-46d0-adcc-d63f6a92f3e1",
+                    "type": "Person",
+                    "name": "Nelson Boyd",
+                    "sort-name": "Boyd, Nelson"
+                },
+                "attributes": [
+                    {
+                        "type-id": "7bd32b95-416f-4244-a98b-1311ec69c7db",
+                        "attribute": "double bass"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "48eaf8a1-6e44-488c-a91a-736867f1ba50",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "drums (drum set)"
+                ],
+                "artist": {
+                    "id": "48eaf8a1-6e44-488c-a91a-736867f1ba50",
+                    "type": "Person",
+                    "name": "Kenny Clarke",
+                    "sort-name": "Clarke, Kenny"
+                },
+                "attributes": [
+                    {
+                        "type-id": "12092505-6ee1-46af-a15a-b5b468b6b155",
+                        "attribute": "drums (drum set)"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "trumpet"
+                ],
+                "artist": {
+                    "id": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+                    "type": "Person",
+                    "name": "Miles Davis",
+                    "sort-name": "Davis, Miles",
+                    "disambiguation": "jazz trumpeter, bandleader, songwriter"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1c8f9780-2f16-4891-b66d-bb7aa0820dbd",
+                        "attribute": "trumpet"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "33e50556-d4be-421b-a5d1-644bd536ec07",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "trombone"
+                ],
+                "artist": {
+                    "id": "33e50556-d4be-421b-a5d1-644bd536ec07",
+                    "type": "Person",
+                    "name": "J.J. Johnson",
+                    "sort-name": "Johnson, J.J.",
+                    "disambiguation": "Jazz/bop trombonist/session leader"
+                },
+                "attributes": [
+                    {
+                        "type-id": "f6100277-c7b8-4c8d-aa26-d8cd014b6761",
+                        "attribute": "trombone"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "9136db51-46ba-4208-afd6-7753fb0739aa",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "alto saxophone"
+                ],
+                "artist": {
+                    "id": "9136db51-46ba-4208-afd6-7753fb0739aa",
+                    "type": "Person",
+                    "name": "Lee Konitz",
+                    "sort-name": "Konitz, Lee"
+                },
+                "attributes": [
+                    {
+                        "type-id": "9c977091-b27a-4a0e-b54e-b5ab89420e22",
+                        "attribute": "alto saxophone"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "be347fef-e406-4c1b-8698-669d71b68bc5",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "piano"
+                ],
+                "artist": {
+                    "id": "be347fef-e406-4c1b-8698-669d71b68bc5",
+                    "type": "Person",
+                    "name": "John Lewis",
+                    "sort-name": "Lewis, John",
+                    "disambiguation": "pianist, member of Modern Jazz Quartet"
+                },
+                "attributes": [
+                    {
+                        "type-id": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+                        "attribute": "piano"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "68f19808-1f7b-46d4-bd1d-71aaf0f6b267",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "baritone saxophone"
+                ],
+                "artist": {
+                    "id": "68f19808-1f7b-46d4-bd1d-71aaf0f6b267",
+                    "type": "Person",
+                    "name": "Gerry Mulligan",
+                    "sort-name": "Mulligan, Gerry"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d3a04358-70f8-4c43-b722-c3cf6cc218ae",
+                        "attribute": "baritone saxophone"
+                    }
+                ]
+            },
+            {
+                "type": "instrument",
+                "type-id": "59054b12-01ac-43ee-a618-285fd397e461",
+                "target": "63ca22b3-b010-45d6-99bf-fd205829a645",
+                "direction": "backward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "French horn"
+                ],
+                "artist": {
+                    "id": "63ca22b3-b010-45d6-99bf-fd205829a645",
+                    "type": "Person",
+                    "name": "Sanford J. Siegelstein",
+                    "sort-name": "Siegelstein, Sanford J."
+                },
+                "attributes": [
+                    {
+                        "type-id": "f9abcd44-52d6-4424-b3a0-67f003bbbf3d",
+                        "attribute": "French horn"
+                    }
+                ]
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09a5aad2-2c02-4315-8bfb-29351cdde2e3",
+                "direction": "forward",
+                "begin": "1949-04-22",
+                "end": "1949-04-22",
+                "ended": "true",
+                "work": {
+                    "id": "09a5aad2-2c02-4315-8bfb-29351cdde2e3",
+                    "type": "Song",
+                    "title": "Boplicity",
+                    "iswc": "T-070.233.104-1",
+                    "iswc-list": [
+                        "T-070.233.104-1"
+                    ],
+                    "artist-relation-list": [
+                        {
+                            "type": "composer",
+                            "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                            "target": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+                            "direction": "backward",
+                            "artist": {
+                                "id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+                                "type": "Person",
+                                "name": "Gil Evans",
+                                "sort-name": "Evans, Gil"
+                            }
+                        },
+                        {
+                            "type": "composer",
+                            "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                            "target": "8dddb806-0971-4968-ac1d-68340402cd94",
+                            "direction": "backward",
+                            "artist": {
+                                "id": "8dddb806-0971-4968-ac1d-68340402cd94",
+                                "type": "Person",
+                                "name": "Cleo Henry",
+                                "sort-name": "Henry, Cleo"
+                            }
+                        }
+                    ],
+                    "label-relation-list": [
+                        {
+                            "type": "publishing",
+                            "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                            "target": "a0682200-833a-444b-9606-c428a6b86ec1",
+                            "direction": "backward",
+                            "label": {
+                                "id": "a0682200-833a-444b-9606-c428a6b86ec1",
+                                "type": "Publisher",
+                                "name": "Sophisticated Music",
+                                "sort-name": "Sophisticated Music"
+                            }
+                        }
+                    ],
+                    "work-relation-list": [
+                        {
+                            "type": "other version",
+                            "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                            "target": "9ce04b93-90c4-43ec-9db8-e311fd786bc1",
+                            "direction": "forward",
+                            "work": {
+                                "id": "9ce04b93-90c4-43ec-9db8-e311fd786bc1",
+                                "type": "Song",
+                                "title": "Boplicity",
+                                "disambiguation": "vocalese version, lyrics by Mimi Perrin"
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "artist-credit-phrase": "Miles Davis Nonet"
+    }
+}

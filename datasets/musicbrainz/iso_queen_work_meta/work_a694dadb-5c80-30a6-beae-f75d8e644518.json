@@ -1,0 +1,785 @@
+{
+    "work": {
+        "id": "a694dadb-5c80-30a6-beae-f75d8e644518",
+        "type": "Song",
+        "title": "Innuendo",
+        "language": "eng",
+        "iswc": "T-010.156.327-2",
+        "iswc-list": [
+            "T-010.156.327-2"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "726440"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0I3-6301-7"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "arranger",
+                "type-id": "d3fd781c-5894-47e2-8c12-86cc0e2c8d08",
+                "target": "18d6fe48-735e-4b3f-a70c-dbd137cb4350",
+                "direction": "backward",
+                "artist": {
+                    "id": "18d6fe48-735e-4b3f-a70c-dbd137cb4350",
+                    "type": "Person",
+                    "name": "Peter Meechan",
+                    "sort-name": "Meechan, Peter",
+                    "disambiguation": "English composer"
+                },
+                "target-credit": "Meechan"
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4",
+                "direction": "backward",
+                "label": {
+                    "id": "c06dfcf9-a6b6-4d85-841a-3c6df2c6e9a4",
+                    "type": "Publisher",
+                    "name": "\u30a4\u30fc\u30a8\u30e0\u30a2\u30a4\u97f3\u697d\u51fa\u7248 \u30bd\u30cb\u30fc\u4e8b\u696d\u90e8",
+                    "sort-name": "\u30a4\u30fc\u30a8\u30e0\u30a2\u30a4\u97f3\u697d\u51fa\u7248 \u30bd\u30cb\u30fc\u4e8b\u696d\u90e8"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c79c228-a34f-414d-adbf-d86fe276a7d5",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4c79c228-a34f-414d-adbf-d86fe276a7d5",
+                    "title": "Innuendo",
+                    "length": "372000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb894dfc-711c-48f4-8011-6cfc91d9843a",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bb894dfc-711c-48f4-8011-6cfc91d9843a",
+                    "title": "Innuendo",
+                    "length": "363506",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23d426ef-8c96-4c5f-b700-abce5fbfaa56",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "23d426ef-8c96-4c5f-b700-abce5fbfaa56",
+                    "title": "Innuendo",
+                    "length": "149000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8805e2b5-8d91-4a7d-ac88-cd13b8fc9b6c",
+                "direction": "backward",
+                "begin": "2005",
+                "end": "2005",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8805e2b5-8d91-4a7d-ac88-cd13b8fc9b6c",
+                    "title": "Innuendo",
+                    "length": "146000",
+                    "disambiguation": "We Will Rock You, 2005 K\u00f6ln cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cec16a9-3bf5-46dd-8706-1ee8c394ef10",
+                "direction": "backward",
+                "begin": "2007-04-14",
+                "end": "2007-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2cec16a9-3bf5-46dd-8706-1ee8c394ef10",
+                    "title": "Innuendo",
+                    "disambiguation": "live, 2007-04-14: H\u00fcckeswagen, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                    "title": "A Sample of Magic",
+                    "length": "556000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d51f5429-daee-4e7f-9717-4e47bf929552",
+                "direction": "backward",
+                "recording": {
+                    "id": "d51f5429-daee-4e7f-9717-4e47bf929552",
+                    "title": "Innuendo",
+                    "length": "392000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "273a8e45-a422-4b98-9388-31ab90c65a78",
+                "direction": "backward",
+                "recording": {
+                    "id": "273a8e45-a422-4b98-9388-31ab90c65a78",
+                    "title": "Innuendo",
+                    "length": "406000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18d9e8a7-9980-46e4-90d5-f07fc230f52e",
+                "direction": "backward",
+                "recording": {
+                    "id": "18d9e8a7-9980-46e4-90d5-f07fc230f52e",
+                    "title": "Innuendo",
+                    "length": "388000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26ad00ad-0d4e-4693-b18c-4ccc82f9604b",
+                "direction": "backward",
+                "recording": {
+                    "id": "26ad00ad-0d4e-4693-b18c-4ccc82f9604b",
+                    "title": "Innuendo",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a87de81-5750-4f41-ba16-4953d2e93e2c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5a87de81-5750-4f41-ba16-4953d2e93e2c",
+                    "title": "Innuendo",
+                    "length": "424000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "269cd446-26cc-4a40-abf0-c1adeead8e37",
+                "direction": "backward",
+                "recording": {
+                    "id": "269cd446-26cc-4a40-abf0-c1adeead8e37",
+                    "title": "Innuendo",
+                    "length": "334000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a679edc-df77-4ccd-bab0-74eaf12843c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2a679edc-df77-4ccd-bab0-74eaf12843c1",
+                    "title": "Innuendo",
+                    "length": "293400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b5c0c47-7caf-49cc-85ff-686e466e44ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1b5c0c47-7caf-49cc-85ff-686e466e44ba",
+                    "title": "Innuendo",
+                    "length": "380575"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b572bf2-1cc5-4fff-9215-d180b6ca7b34",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9b572bf2-1cc5-4fff-9215-d180b6ca7b34",
+                    "title": "Innuendo",
+                    "length": "371026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0ebf017-1fad-45e6-afa8-40035ad71889",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0ebf017-1fad-45e6-afa8-40035ad71889",
+                    "title": "Innuendo",
+                    "length": "383520"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0912dae6-6fc4-4866-a8e7-414ba4d4ebe8",
+                "direction": "backward",
+                "recording": {
+                    "id": "0912dae6-6fc4-4866-a8e7-414ba4d4ebe8",
+                    "title": "Innuendo",
+                    "length": "391000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9a55695-d15a-492f-9b64-fa646e5c7a8d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a9a55695-d15a-492f-9b64-fa646e5c7a8d",
+                    "title": "Innuendo",
+                    "length": "329133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f310f14-5d38-4256-abb6-4b2eee275e49",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f310f14-5d38-4256-abb6-4b2eee275e49",
+                    "title": "Innuendo",
+                    "length": "389000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9fd2ff5-f112-4322-9db3-7b4b250fe511",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c9fd2ff5-f112-4322-9db3-7b4b250fe511",
+                    "title": "Innuendo",
+                    "length": "374000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e452686b-94df-4bb9-8c74-7d90e517471e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e452686b-94df-4bb9-8c74-7d90e517471e",
+                    "title": "Innuendo",
+                    "length": "382000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4435213-1eb2-47dd-affb-31ee6e0ed8d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f4435213-1eb2-47dd-affb-31ee6e0ed8d4",
+                    "title": "Innuendo",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ea4236b-2666-493e-9b01-d7c269200671",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ea4236b-2666-493e-9b01-d7c269200671",
+                    "title": "Innuendo",
+                    "length": "404000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94698e80-babc-4150-bb43-49de14026d2c",
+                "direction": "backward",
+                "recording": {
+                    "id": "94698e80-babc-4150-bb43-49de14026d2c",
+                    "title": "Innuendo",
+                    "length": "390386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76c48adc-b928-4a91-914d-2f32e9db7900",
+                "direction": "backward",
+                "recording": {
+                    "id": "76c48adc-b928-4a91-914d-2f32e9db7900",
+                    "title": "Innuendo",
+                    "length": "189000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5226d60-a6d9-4362-99f8-d9aab7429da5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5226d60-a6d9-4362-99f8-d9aab7429da5",
+                    "title": "Innuendo",
+                    "length": "481600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "580487c6-4311-4dc3-b9c8-f5c28a0608e3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "580487c6-4311-4dc3-b9c8-f5c28a0608e3",
+                    "title": "Innuendo",
+                    "length": "393000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41c8607b-0954-42ed-bdf9-6b634a5f1158",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41c8607b-0954-42ed-bdf9-6b634a5f1158",
+                    "title": "Innuendo",
+                    "length": "230946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "335af1a5-f27a-482a-9b52-0c08cef7a5e9",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "335af1a5-f27a-482a-9b52-0c08cef7a5e9",
+                    "title": "Innuendo",
+                    "length": "418066",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "182bb929-3c7e-4e08-9e77-e2ec9b3e3002",
+                "direction": "backward",
+                "recording": {
+                    "id": "182bb929-3c7e-4e08-9e77-e2ec9b3e3002",
+                    "title": "Innuendo",
+                    "length": "391000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c404baa-b077-404a-bc5a-496f35921424",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c404baa-b077-404a-bc5a-496f35921424",
+                    "title": "Innuendo",
+                    "length": "388000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8f93b56-bad3-46f7-b136-e95d78d6c155",
+                "direction": "backward",
+                "recording": {
+                    "id": "d8f93b56-bad3-46f7-b136-e95d78d6c155",
+                    "title": "Innuendo",
+                    "length": "393400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ad24b1e-c341-41c5-9ae7-f5288d969ba5",
+                "direction": "backward",
+                "recording": {
+                    "id": "5ad24b1e-c341-41c5-9ae7-f5288d969ba5",
+                    "title": "Innuendo (alternative promo video, 1991)",
+                    "length": "394000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80d8a1ae-de4a-403c-9cba-07f9b2912153",
+                "direction": "backward",
+                "recording": {
+                    "id": "80d8a1ae-de4a-403c-9cba-07f9b2912153",
+                    "title": "Innuendo (Explosive version)",
+                    "length": "406800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bd4a6f9-bc31-4856-b96d-6de450515f3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "2bd4a6f9-bc31-4856-b96d-6de450515f3e",
+                    "title": "Innuendo (Explosive version)",
+                    "length": "406000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11041003-7913-4664-9b44-4aff7057e589",
+                "direction": "backward",
+                "recording": {
+                    "id": "11041003-7913-4664-9b44-4aff7057e589",
+                    "title": "Innuendo (Wind and Explosive version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3b2fb43-5d50-43a4-89ed-d5b864508473",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3b2fb43-5d50-43a4-89ed-d5b864508473",
+                    "title": "Inuendo",
+                    "length": "386933"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/76768",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q611381",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                "direction": "backward",
+                "work": {
+                    "id": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "deu",
+                    "disambiguation": "German version of the Queen musical"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            }
+        ]
+    }
+}

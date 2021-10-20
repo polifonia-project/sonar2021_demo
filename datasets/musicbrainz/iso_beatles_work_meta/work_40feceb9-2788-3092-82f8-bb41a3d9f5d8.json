@@ -1,0 +1,885 @@
+{
+    "work": {
+        "id": "40feceb9-2788-3092-82f8-bb41a3d9f5d8",
+        "type": "Song",
+        "title": "The Continuing Story of Bungalow Bill",
+        "language": "eng",
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "242308"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c026301a-7299-4f21-bd8d-58d5c086afc1",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "c026301a-7299-4f21-bd8d-58d5c086afc1",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "160920",
+                    "disambiguation": "Esher demo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f691d896-2f00-4124-bb81-34cd24c5c5af",
+                "direction": "backward",
+                "begin": "1968-10-08",
+                "end": "1968-10-08",
+                "ended": "true",
+                "recording": {
+                    "id": "f691d896-2f00-4124-bb81-34cd24c5c5af",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "194066",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52e1a7b0-412b-4ea9-9300-21440d49e937",
+                "direction": "backward",
+                "begin": "1968-10-08",
+                "end": "1968-10-08",
+                "ended": "true",
+                "recording": {
+                    "id": "52e1a7b0-412b-4ea9-9300-21440d49e937",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "194000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26c4ff4f-fabc-4404-bd1c-5d68f50eea5f",
+                "direction": "backward",
+                "begin": "1968-10-08",
+                "end": "1968-10-08",
+                "ended": "true",
+                "recording": {
+                    "id": "26c4ff4f-fabc-4404-bd1c-5d68f50eea5f",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "194187",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a7131ea-428f-4426-a3c2-4150ea630ada",
+                "direction": "backward",
+                "begin": "1968-10-08",
+                "end": "1968-10-08",
+                "ended": "true",
+                "recording": {
+                    "id": "0a7131ea-428f-4426-a3c2-4150ea630ada",
+                    "title": "The Continuing Story of Bungalow Bill (5.1 mix)",
+                    "length": "194000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b40d4c02-31b6-4e87-8c6c-f97bc8afffbc",
+                "direction": "backward",
+                "begin": "1968-10-08",
+                "end": "1968-10-08",
+                "ended": "true",
+                "recording": {
+                    "id": "b40d4c02-31b6-4e87-8c6c-f97bc8afffbc",
+                    "title": "The Continuing Story of Bungalow Bill (take 2)",
+                    "length": "192533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de462202-c2bb-41e5-8934-e64b6b086a79",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "de462202-c2bb-41e5-8934-e64b6b086a79",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da735f3a-57af-48b4-a919-95d36a8b7895",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "da735f3a-57af-48b4-a919-95d36a8b7895",
+                    "title": "Bungalow Bill",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f86508b7-b3ea-4750-a560-8feb0547f5f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "f86508b7-b3ea-4750-a560-8feb0547f5f3",
+                    "title": "Continuing Story of Bungalow Bill (Demos Recorded Prior to the White Album)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97b2b2e5-f089-4087-8b55-eaa4606607da",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97b2b2e5-f089-4087-8b55-eaa4606607da",
+                    "title": "Cry Baby Cry/Bungalow Bill",
+                    "length": "212933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cd456ce-f9d6-4994-ae74-3c99d39934d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8cd456ce-f9d6-4994-ae74-3c99d39934d0",
+                    "title": "Introduction / The Continuing Story of Bungalow Bill",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "357698d4-52a8-4ca1-b375-b3fd250d3223",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "357698d4-52a8-4ca1-b375-b3fd250d3223",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6193ec34-2048-48fe-b119-7069323db006",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6193ec34-2048-48fe-b119-7069323db006",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "213160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d715794-36f9-42d7-9c14-94adc82c5e4c",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d715794-36f9-42d7-9c14-94adc82c5e4c",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "168933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef59fc5d-382f-4b62-b576-ae019a848a10",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef59fc5d-382f-4b62-b576-ae019a848a10",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "162333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79ad8731-9f6c-4ccd-a087-d69952ab41c4",
+                "direction": "backward",
+                "recording": {
+                    "id": "79ad8731-9f6c-4ccd-a087-d69952ab41c4",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "163200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c335edd5-594e-4d81-8fc3-800afd14b701",
+                "direction": "backward",
+                "recording": {
+                    "id": "c335edd5-594e-4d81-8fc3-800afd14b701",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "161840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80af963f-f0db-4722-9ceb-ad1274611049",
+                "direction": "backward",
+                "recording": {
+                    "id": "80af963f-f0db-4722-9ceb-ad1274611049",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "168803"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3dbcc175-dd9e-4dc9-9958-2d4f2977ac62",
+                "direction": "backward",
+                "recording": {
+                    "id": "3dbcc175-dd9e-4dc9-9958-2d4f2977ac62",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "169093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3034ab6c-de85-4bca-b77c-a02623bafe65",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3034ab6c-de85-4bca-b77c-a02623bafe65",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "128e4100-4764-47b2-86cb-3851686c099a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "128e4100-4764-47b2-86cb-3851686c099a",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb4aa20c-2285-402d-82dc-01fbdb818128",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb4aa20c-2285-402d-82dc-01fbdb818128",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "931724f0-55e9-4d76-b2eb-c5c6d1e55644",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "931724f0-55e9-4d76-b2eb-c5c6d1e55644",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "184906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06bb1386-be42-43d0-b8e6-835ae3c32b3d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "06bb1386-be42-43d0-b8e6-835ae3c32b3d",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "211000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7dcce88-92a2-464d-a733-2881b2b8845a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d7dcce88-92a2-464d-a733-2881b2b8845a",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "214893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "631a696d-cf08-4ed7-950e-1a2965147c5b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "631a696d-cf08-4ed7-950e-1a2965147c5b",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b51df4b-855d-4972-8aeb-7380c67d2cec",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b51df4b-855d-4972-8aeb-7380c67d2cec",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "617e8566-3fcc-4da5-8d5b-7ebe4d26a027",
+                "direction": "backward",
+                "recording": {
+                    "id": "617e8566-3fcc-4da5-8d5b-7ebe4d26a027",
+                    "title": "The Continuing Story of Bungalow Bill"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb97e98b-3acf-45de-b4e2-b206c1a55419",
+                "direction": "backward",
+                "recording": {
+                    "id": "fb97e98b-3acf-45de-b4e2-b206c1a55419",
+                    "title": "The Continuing Story of Bungalow Bill"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e69be15b-53ef-44b9-9972-884b15f0539d",
+                "direction": "backward",
+                "recording": {
+                    "id": "e69be15b-53ef-44b9-9972-884b15f0539d",
+                    "title": "The Continuing Story of Bungalow Bill"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d55e7959-9fad-41a0-86ac-527d34717804",
+                "direction": "backward",
+                "recording": {
+                    "id": "d55e7959-9fad-41a0-86ac-527d34717804",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "172210"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b5e2aa7-72c1-4e99-86f3-cf6c8ce4b27a",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b5e2aa7-72c1-4e99-86f3-cf6c8ce4b27a",
+                    "title": "The Continuing Story of Bungalow Bill"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c5658f0-68de-4bcf-9807-6ec08025e503",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c5658f0-68de-4bcf-9807-6ec08025e503",
+                    "title": "The Continuing Story of Bungalow Bill"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab79ad57-b9c5-4f1a-a9fa-4d88cc3954cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab79ad57-b9c5-4f1a-a9fa-4d88cc3954cb",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "185706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4781197c-dfc5-4200-95c1-b8cef1d3ba45",
+                "direction": "backward",
+                "recording": {
+                    "id": "4781197c-dfc5-4200-95c1-b8cef1d3ba45",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "157666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9415e317-2022-45a8-ae34-bbdb13fde22a",
+                "direction": "backward",
+                "recording": {
+                    "id": "9415e317-2022-45a8-ae34-bbdb13fde22a",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "190000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d458ec2-e74b-4a24-8644-c32a28e43c87",
+                "direction": "backward",
+                "recording": {
+                    "id": "0d458ec2-e74b-4a24-8644-c32a28e43c87",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "194000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f21fcef4-72d3-448d-a435-ba8e5f4a164a",
+                "direction": "backward",
+                "recording": {
+                    "id": "f21fcef4-72d3-448d-a435-ba8e5f4a164a",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "193000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ed25194-0e84-47b6-a6f6-cd26f10b7892",
+                "direction": "backward",
+                "recording": {
+                    "id": "1ed25194-0e84-47b6-a6f6-cd26f10b7892",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "186226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c0c87c4-b6cf-4b27-afab-9e548bedb6cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "2c0c87c4-b6cf-4b27-afab-9e548bedb6cf",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "168680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "576cbd4c-24f3-45cf-a956-68649afe1373",
+                "direction": "backward",
+                "recording": {
+                    "id": "576cbd4c-24f3-45cf-a956-68649afe1373",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "168933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e580c74-6f12-4732-a034-5b615d83aa5d",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e580c74-6f12-4732-a034-5b615d83aa5d",
+                    "title": "The Continuing Story of Bungalow Bill",
+                    "length": "169040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b163bd58-ca13-4eb6-8951-3955fe7b0d80",
+                "direction": "backward",
+                "recording": {
+                    "id": "b163bd58-ca13-4eb6-8951-3955fe7b0d80",
+                    "title": "The Continuing Story Of Bungalow Bill"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8307046-0dc8-4d6e-b8a0-d546afcd1330",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8307046-0dc8-4d6e-b8a0-d546afcd1330",
+                    "title": "The Continuing Story of Bungalow Bill (alternate mix)",
+                    "length": "194000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a65b7dc-5e91-40c8-931b-17a5d470adf0",
+                "direction": "backward",
+                "recording": {
+                    "id": "4a65b7dc-5e91-40c8-931b-17a5d470adf0",
+                    "title": "The Continuing Story of Bungalow Bill (demo)",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1931ef66-ae19-4524-8f2e-53110ea97831",
+                "direction": "backward",
+                "recording": {
+                    "id": "1931ef66-ae19-4524-8f2e-53110ea97831",
+                    "title": "The Continuing Story of Bungalow Bill (Esher demo)",
+                    "length": "184266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15babe2f-b299-4eb6-9ac9-bdf078e4f197",
+                "direction": "backward",
+                "recording": {
+                    "id": "15babe2f-b299-4eb6-9ac9-bdf078e4f197",
+                    "title": "The Continuing Story of Bungalow Bill (Esher demo)",
+                    "length": "173293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47bb4c92-99c4-42d2-9bd2-fe7b5d868346",
+                "direction": "backward",
+                "recording": {
+                    "id": "47bb4c92-99c4-42d2-9bd2-fe7b5d868346",
+                    "title": "The Continuing Story of Bungalow Bill (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df487fd6-80f5-4769-8e95-289527908b98",
+                "direction": "backward",
+                "recording": {
+                    "id": "df487fd6-80f5-4769-8e95-289527908b98",
+                    "title": "The Continuing Story of Bungalow Bill (RM1 take 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1dfea8d7-6985-4985-b59a-eb0205db1d9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "1dfea8d7-6985-4985-b59a-eb0205db1d9c",
+                    "title": "The Continuing Story Of Bungalow Bill (RS2 Take 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f20fcef5-fc14-41b2-a9c1-8ec43077b992",
+                "direction": "backward",
+                "recording": {
+                    "id": "f20fcef5-fc14-41b2-a9c1-8ec43077b992",
+                    "title": "The Continuing Story of Bungalow Bill (stereo)",
+                    "length": "185946"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfecda46-f3fa-43c8-9c2c-0a06e98d9514",
+                "direction": "backward",
+                "recording": {
+                    "id": "cfecda46-f3fa-43c8-9c2c-0a06e98d9514",
+                    "title": "The Continuing Story of Bungalow Bill (take 3, RM1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de397334-d57c-4a7a-904b-35ea58a637ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "de397334-d57c-4a7a-904b-35ea58a637ba",
+                    "title": "The Continuing Story of Bungalow Bill / Desaparacer\u00e9 / Wrong Time Capsule / Goin' Up the Country / Spiritual Ditties of No Tone / Lose My Breath / Dinner for Two / Lightning Rod, Run / There's a Kind of Hush",
+                    "length": "1362000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b4b5813-92a2-4214-be9c-91d560bcf3d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "9b4b5813-92a2-4214-be9c-91d560bcf3d6",
+                    "title": "The Continuing Story of Bungelow Bill",
+                    "length": "161493"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-the-continuing-story-of-bungalow-bill-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/29841",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=152",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2005617",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "eccc782e-6221-4035-bf91-f6831a87a50c",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "eccc782e-6221-4035-bf91-f6831a87a50c",
+                    "type": "Song",
+                    "title": "Hei Ordf\u00f8rer Vil... (Bungalow Bill)",
+                    "language": "nor"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

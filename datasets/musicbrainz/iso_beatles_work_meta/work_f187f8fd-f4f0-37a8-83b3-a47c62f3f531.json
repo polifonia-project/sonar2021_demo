@@ -1,0 +1,3132 @@
+{
+    "work": {
+        "id": "f187f8fd-f4f0-37a8-83b3-a47c62f3f531",
+        "type": "Song",
+        "title": "Dear Prudence",
+        "language": "eng",
+        "iswc": "T-010.436.586-7",
+        "iswc-list": [
+            "T-010.436.586-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000087 222 00"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "2955"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12095849"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100083000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "58.903"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357919"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357919"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "223956"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3351220"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "011137736"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "62 506 979 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004963400"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "37293X"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0D0-0463-9"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633313-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "3442"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2632058"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10041737"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000021522"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "340126643"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00963274"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "5181437"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5244159"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "15863901"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6066898"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "287408"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cef42cd2-7633-4325-89e2-77df0d6a3754",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "cef42cd2-7633-4325-89e2-77df0d6a3754",
+                    "title": "Dear Prudence",
+                    "length": "287053",
+                    "disambiguation": "Esher demo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05833d73-e1e0-4d69-a00b-a586f8ffb3b6",
+                "direction": "backward",
+                "begin": "1968-08-28",
+                "end": "1968-08-30",
+                "ended": "true",
+                "recording": {
+                    "id": "05833d73-e1e0-4d69-a00b-a586f8ffb3b6",
+                    "title": "Dear Prudence",
+                    "length": "236360",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e8ddf89-3ebd-4b48-ab19-ffa7d74cfce2",
+                "direction": "backward",
+                "begin": "1968-08-28",
+                "end": "1968-08-30",
+                "ended": "true",
+                "recording": {
+                    "id": "7e8ddf89-3ebd-4b48-ab19-ffa7d74cfce2",
+                    "title": "Dear Prudence",
+                    "length": "234133",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51b51730-f778-41e3-8e28-a9319719a397",
+                "direction": "backward",
+                "begin": "1968-08-28",
+                "end": "1968-08-30",
+                "ended": "true",
+                "recording": {
+                    "id": "51b51730-f778-41e3-8e28-a9319719a397",
+                    "title": "Dear Prudence",
+                    "length": "234973",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a368d599-2670-41cc-a978-1c2df9f432ee",
+                "direction": "backward",
+                "begin": "1968-08-28",
+                "end": "1968-08-30",
+                "ended": "true",
+                "recording": {
+                    "id": "a368d599-2670-41cc-a978-1c2df9f432ee",
+                    "title": "Dear Prudence (5.1 mix)",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ddf0426-e167-4fb2-bee9-6f2316335cc9",
+                "direction": "backward",
+                "begin": "1968-08-28",
+                "end": "1968-08-30",
+                "ended": "true",
+                "recording": {
+                    "id": "2ddf0426-e167-4fb2-bee9-6f2316335cc9",
+                    "title": "Dear Prudence (vocal, guitar & drums)",
+                    "length": "239840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a6d6216-a296-4a8f-b33a-13d215a6a3c0",
+                "direction": "backward",
+                "begin": "1969-01-10",
+                "end": "1969-01-10",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "9a6d6216-a296-4a8f-b33a-13d215a6a3c0",
+                    "title": "Dear Prudence 10.83",
+                    "length": "93000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c92c0a30-d562-4358-b5a4-4c0da1d1c4e1",
+                "direction": "backward",
+                "begin": "1979-02",
+                "end": "1979-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c92c0a30-d562-4358-b5a4-4c0da1d1c4e1",
+                    "title": "Dear Prudence",
+                    "length": "355853"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c78cc81-d9f4-4ac6-ad22-8a6e54aab194",
+                "direction": "backward",
+                "begin": "1979-07-08",
+                "end": "1979-07-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8c78cc81-d9f4-4ac6-ad22-8a6e54aab194",
+                    "title": "Dear Prudence",
+                    "length": "708000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55a754e5-84c4-47aa-b98b-e683f74cce37",
+                "direction": "backward",
+                "begin": "1979",
+                "end": "1979",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "55a754e5-84c4-47aa-b98b-e683f74cce37",
+                    "title": "Dear Prudence",
+                    "length": "700000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75f336b1-2c25-4f2e-8e77-1ca6be151c8f",
+                "direction": "backward",
+                "begin": "1980-02-29",
+                "end": "1980-02-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "75f336b1-2c25-4f2e-8e77-1ca6be151c8f",
+                    "title": "Dear Prudence",
+                    "length": "630000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c5e2a37-868c-4b55-b3fe-a78074e6a031",
+                "direction": "backward",
+                "begin": "1980-03-01",
+                "end": "1980-03-01",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9c5e2a37-868c-4b55-b3fe-a78074e6a031",
+                    "title": "Dear Prudence",
+                    "length": "622466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6da36230-339d-4364-8ab8-7970067019ff",
+                "direction": "backward",
+                "begin": "1981-06-26",
+                "end": "1981-06-26",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6da36230-339d-4364-8ab8-7970067019ff",
+                    "title": "Dear Prudence",
+                    "length": "595973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5dcc92f2-a4dd-40f7-9a4c-da9231ae276a",
+                "direction": "backward",
+                "begin": "1983",
+                "end": "1983",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5dcc92f2-a4dd-40f7-9a4c-da9231ae276a",
+                    "title": "Dear Prudence",
+                    "length": "241000",
+                    "disambiguation": "live, 1983: Royal Albert Hall, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "633f1829-07a9-4022-a86f-5f7a768896d9",
+                "direction": "backward",
+                "begin": "1987-10-31",
+                "end": "1987-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "633f1829-07a9-4022-a86f-5f7a768896d9",
+                    "title": "Dear Prudence",
+                    "length": "723666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba0512d3-62b4-4246-94b3-49c89c3ba67b",
+                "direction": "backward",
+                "begin": "1989-09-06",
+                "end": "1989-09-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ba0512d3-62b4-4246-94b3-49c89c3ba67b",
+                    "title": "Dear Prudence",
+                    "length": "637000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01b933ab-d27c-43e0-9e6c-f47e82a5625e",
+                "direction": "backward",
+                "begin": "1989-09-16",
+                "end": "1989-09-16",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "01b933ab-d27c-43e0-9e6c-f47e82a5625e",
+                    "title": "Dear Prudence",
+                    "length": "665000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f879959a-f478-48d8-8b76-dc692f85ae87",
+                "direction": "backward",
+                "begin": "1990-08-08",
+                "end": "1990-08-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f879959a-f478-48d8-8b76-dc692f85ae87",
+                    "title": "Dear Prudence",
+                    "length": "701040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9800fca6-3094-442a-95ab-6a7416b3bdcb",
+                "direction": "backward",
+                "begin": "1993-11-11",
+                "end": "1993-11-11",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9800fca6-3094-442a-95ab-6a7416b3bdcb",
+                    "title": "Dear Prudence",
+                    "length": "698000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d52ad6f6-14d9-4140-9be3-60e2bf692ea5",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d52ad6f6-14d9-4140-9be3-60e2bf692ea5",
+                    "title": "Dear Prudence",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3a4eb28-6772-40e3-b1d9-0c53c841626c",
+                "direction": "backward",
+                "begin": "1995-09-13",
+                "end": "1995-09-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d3a4eb28-6772-40e3-b1d9-0c53c841626c",
+                    "title": "Dear Prudence",
+                    "length": "687306",
+                    "disambiguation": "live, 1995-09-13: Manny\u2019s Car Wash, Manhattan, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1aa993ba-44ac-41e7-9473-f232fbfd0ce0",
+                "direction": "backward",
+                "begin": "2008-12",
+                "end": "2008-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1aa993ba-44ac-41e7-9473-f232fbfd0ce0",
+                    "title": "Dear Prudence",
+                    "length": "269253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c80fd9b-2d31-4b79-ad05-f6f198d4a6e5",
+                "direction": "backward",
+                "begin": "2016-06-22",
+                "end": "2016-06-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1c80fd9b-2d31-4b79-ad05-f6f198d4a6e5",
+                    "title": "Dear Prudence",
+                    "length": "295000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7b63d1e-6d0d-4260-b28e-abc2cd83bb8e",
+                "direction": "backward",
+                "begin": "2016-06-23",
+                "end": "2016-06-23",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c7b63d1e-6d0d-4260-b28e-abc2cd83bb8e",
+                    "title": "Dear Prudence",
+                    "length": "505000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe5592c4-006e-45c0-83f5-dd59ecea575d",
+                "direction": "backward",
+                "begin": "2016-06-29",
+                "end": "2016-06-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fe5592c4-006e-45c0-83f5-dd59ecea575d",
+                    "title": "Dear Prudence",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03c60158-fc9d-4113-8d8e-d0f4c3562790",
+                "direction": "backward",
+                "begin": "2016-07-07",
+                "end": "2016-07-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "03c60158-fc9d-4113-8d8e-d0f4c3562790",
+                    "title": "Dear Prudence",
+                    "length": "535000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d98f1bf0-954a-4bdc-af6b-6a7fc1ffaca0",
+                "direction": "backward",
+                "begin": "2016-07-22",
+                "end": "2016-07-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d98f1bf0-954a-4bdc-af6b-6a7fc1ffaca0",
+                    "title": "Dear Prudence",
+                    "length": "547000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa410c3a-4e86-42df-932c-ce84d8c17233",
+                "direction": "backward",
+                "begin": "2017-03-24",
+                "end": "2017-03-24",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fa410c3a-4e86-42df-932c-ce84d8c17233",
+                    "title": "Dear Prudence",
+                    "length": "265000",
+                    "disambiguation": "live, 2017-03-24: Big Ears Festival, The Standard, Knoxville, TN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a8677ce-3cb9-4c95-80ca-28203d72fae7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "4a8677ce-3cb9-4c95-80ca-28203d72fae7",
+                    "title": "Champagne Supernova / Dear Prudence (Oasis / Beatles cover)",
+                    "length": "262000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ccbf35cd-c4cd-4fb8-b599-0c815587c954",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ccbf35cd-c4cd-4fb8-b599-0c815587c954",
+                    "title": "Dear Prudence",
+                    "length": "527440",
+                    "disambiguation": "live, 2003/2004: various venues in the Southeast, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b43f04a2-cc1d-41bd-8f13-c515f7321996",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b43f04a2-cc1d-41bd-8f13-c515f7321996",
+                    "title": "Dear Prudence",
+                    "length": "236000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f1ed856-46c9-416b-99eb-da542cd9b354",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7f1ed856-46c9-416b-99eb-da542cd9b354",
+                    "title": "Dear Prudence",
+                    "length": "243120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb0e25a4-e184-48bb-a673-e2c1b2d6bc17",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb0e25a4-e184-48bb-a673-e2c1b2d6bc17",
+                    "title": "Dear Prudence",
+                    "length": "246000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f38bbd52-fef6-4ab9-902a-85da4feef383",
+                "direction": "backward",
+                "recording": {
+                    "id": "f38bbd52-fef6-4ab9-902a-85da4feef383",
+                    "title": "Dear Prudence",
+                    "length": "236000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cbae541-0730-4072-a7aa-e7a63efad854",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0cbae541-0730-4072-a7aa-e7a63efad854",
+                    "title": "Dear Prudence",
+                    "length": "260613"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d347bd3-7c61-48af-a599-ea48ca0ca502",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d347bd3-7c61-48af-a599-ea48ca0ca502",
+                    "title": "Dear Prudence",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7057b7d-9aa5-4599-ab40-cf38dfcea207",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d7057b7d-9aa5-4599-ab40-cf38dfcea207",
+                    "title": "Dear Prudence",
+                    "length": "261000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56043a3b-f725-4849-beb7-60fe3209fbbb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "56043a3b-f725-4849-beb7-60fe3209fbbb",
+                    "title": "Dear Prudence",
+                    "length": "264000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd99bf10-2e1e-4b18-b616-9a994da5392b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd99bf10-2e1e-4b18-b616-9a994da5392b",
+                    "title": "Dear Prudence",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eee30a88-756f-436d-85f0-5080bc447d1b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "eee30a88-756f-436d-85f0-5080bc447d1b",
+                    "title": "Dear Prudence",
+                    "length": "252000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0fa7c58d-1d3b-49b1-b01a-5db666805889",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0fa7c58d-1d3b-49b1-b01a-5db666805889",
+                    "title": "Dear Prudence"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d10765c0-f45d-481d-9a74-5d05e1101628",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d10765c0-f45d-481d-9a74-5d05e1101628",
+                    "title": "Dear Prudence",
+                    "length": "320000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62ea5bd0-db08-4fa4-81a5-77274c5bbf74",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "62ea5bd0-db08-4fa4-81a5-77274c5bbf74",
+                    "title": "Dear Prudence",
+                    "length": "294426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59715ab7-ad04-460e-a4cb-f28f2093ba1f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "59715ab7-ad04-460e-a4cb-f28f2093ba1f",
+                    "title": "Dear Prudence",
+                    "length": "143400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d31e1836-6c80-4e62-aa11-ae52c1d449b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d31e1836-6c80-4e62-aa11-ae52c1d449b0",
+                    "title": "Dear Prudence",
+                    "length": "380000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7aac6f12-cf21-4e2a-9b68-c34f2c7a8278",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7aac6f12-cf21-4e2a-9b68-c34f2c7a8278",
+                    "title": "Dear Prudence",
+                    "length": "428000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92a1d408-13fd-4a92-a9aa-ef6ef20553cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "92a1d408-13fd-4a92-a9aa-ef6ef20553cf",
+                    "title": "Dear Prudence",
+                    "length": "244626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbf337b8-b93e-4f8b-949d-f0bafce3e5cb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cbf337b8-b93e-4f8b-949d-f0bafce3e5cb",
+                    "title": "Dear Prudence",
+                    "length": "267000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79da49ee-f5d9-4889-b519-b28872625703",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "79da49ee-f5d9-4889-b519-b28872625703",
+                    "title": "Dear Prudence",
+                    "length": "212000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38773ef7-f807-46e0-87f7-ce07ce1c0524",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "38773ef7-f807-46e0-87f7-ce07ce1c0524",
+                    "title": "Dear Prudence",
+                    "length": "252000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7626b09-3714-4c45-b7d5-f2f964b94b6a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7626b09-3714-4c45-b7d5-f2f964b94b6a",
+                    "title": "Dear Prudence",
+                    "length": "287320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05163e62-fe55-46c2-a9b0-f6c5c59065f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "05163e62-fe55-46c2-a9b0-f6c5c59065f8",
+                    "title": "Dear Prudence",
+                    "length": "268013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79865f09-a440-4d51-bc6a-e6e2d826f13f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "79865f09-a440-4d51-bc6a-e6e2d826f13f",
+                    "title": "Dear Prudence",
+                    "length": "220000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "247b9d22-fbdc-471b-9b1a-94ebaa0535fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "247b9d22-fbdc-471b-9b1a-94ebaa0535fd",
+                    "title": "Dear Prudence",
+                    "length": "234013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbdd4270-6abb-435c-a5ac-bf812b798acd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fbdd4270-6abb-435c-a5ac-bf812b798acd",
+                    "title": "Dear Prudence",
+                    "length": "202106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17a28461-7345-4198-8969-34f65f8b5297",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "17a28461-7345-4198-8969-34f65f8b5297",
+                    "title": "Dear Prudence",
+                    "disambiguation": "part of \u201cThe Trip\u201d DJ-mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6084c490-a460-470b-8a39-b9db5f828ece",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6084c490-a460-470b-8a39-b9db5f828ece",
+                    "title": "Dear Prudence",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3647d334-16c3-4be9-9306-0b3e4e43e054",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3647d334-16c3-4be9-9306-0b3e4e43e054",
+                    "title": "Dear Prudence",
+                    "length": "295040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d29ce89-28e5-4cbe-8359-8a08d52d2dc8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8d29ce89-28e5-4cbe-8359-8a08d52d2dc8",
+                    "title": "Dear Prudence",
+                    "length": "264000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a31787b-ad8e-4b3d-9746-91d09c422e58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a31787b-ad8e-4b3d-9746-91d09c422e58",
+                    "title": "Dear Prudence",
+                    "length": "362706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c90ee8e5-3494-4d90-9866-8e0bbb64433c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c90ee8e5-3494-4d90-9866-8e0bbb64433c",
+                    "title": "Dear Prudence",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee43c7d2-3ab3-478a-a051-ff7b4d76b39b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ee43c7d2-3ab3-478a-a051-ff7b4d76b39b",
+                    "title": "Dear Prudence",
+                    "length": "328000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ffa569b-55ea-4369-b697-e01e6074d9f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1ffa569b-55ea-4369-b697-e01e6074d9f0",
+                    "title": "Dear Prudence",
+                    "length": "247533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0acb85e1-acd8-4b9f-9493-888f3eb6099a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0acb85e1-acd8-4b9f-9493-888f3eb6099a",
+                    "title": "Dear Prudence",
+                    "length": "322000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4010d783-d3f3-446e-934e-2f28b41d9ec0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4010d783-d3f3-446e-934e-2f28b41d9ec0",
+                    "title": "Dear Prudence",
+                    "length": "272973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0325c3d-e182-4eee-bea4-19f2cc8fb27b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c0325c3d-e182-4eee-bea4-19f2cc8fb27b",
+                    "title": "Dear Prudence",
+                    "length": "322573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06da2604-b683-4d5d-befb-15e5074e0787",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "06da2604-b683-4d5d-befb-15e5074e0787",
+                    "title": "Dear Prudence",
+                    "length": "248000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cde5d768-3e3e-4cc2-811f-20119951228a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cde5d768-3e3e-4cc2-811f-20119951228a",
+                    "title": "Dear Prudence",
+                    "length": "244000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c3e0eb9-7821-4e58-b2b1-20c5c529281a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1c3e0eb9-7821-4e58-b2b1-20c5c529281a",
+                    "title": "Dear Prudence",
+                    "length": "252000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc95eba8-09cc-4b66-8e3c-404491430b18",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc95eba8-09cc-4b66-8e3c-404491430b18",
+                    "title": "Dear Prudence",
+                    "length": "226000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b8c9705-5a26-4e25-80ac-dd5af954c65e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0b8c9705-5a26-4e25-80ac-dd5af954c65e",
+                    "title": "Dear Prudence",
+                    "length": "218506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3b5952f-28da-4a6b-9822-a555c592cb22",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c3b5952f-28da-4a6b-9822-a555c592cb22",
+                    "title": "Dear Prudence",
+                    "length": "226000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bddbf7c0-2e57-490c-803f-f71400314267",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bddbf7c0-2e57-490c-803f-f71400314267",
+                    "title": "Dear Prudence",
+                    "length": "267000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "497d6812-aa98-4005-8fb1-53fc88a117a6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "497d6812-aa98-4005-8fb1-53fc88a117a6",
+                    "title": "Dear Prudence",
+                    "length": "283293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "575846c9-522f-429e-8813-a1d0b2c51ae4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "575846c9-522f-429e-8813-a1d0b2c51ae4",
+                    "title": "Dear Prudence",
+                    "length": "259000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cfaa9cb-0a20-49d6-93c0-fd92df97ec1f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9cfaa9cb-0a20-49d6-93c0-fd92df97ec1f",
+                    "title": "Dear Prudence",
+                    "length": "295906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01bb2708-1037-4ecc-a910-72ddc7077c26",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "01bb2708-1037-4ecc-a910-72ddc7077c26",
+                    "title": "Dear Prudence",
+                    "length": "278000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "932d7253-86fb-493e-acc6-64b65a8d54b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "932d7253-86fb-493e-acc6-64b65a8d54b0",
+                    "title": "Dear Prudence",
+                    "length": "150866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "297ca0e1-25d9-4fbe-b43e-5686b8d760b5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "297ca0e1-25d9-4fbe-b43e-5686b8d760b5",
+                    "title": "Dear Prudence",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc553f74-54b7-413f-a6e8-a1d7de6fbb81",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc553f74-54b7-413f-a6e8-a1d7de6fbb81",
+                    "title": "Dear Prudence",
+                    "length": "230000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cb5878c-dd7a-4210-9982-8f89982d3788",
+                "direction": "backward",
+                "recording": {
+                    "id": "4cb5878c-dd7a-4210-9982-8f89982d3788",
+                    "title": "Dear Prudence"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09d6cb7b-b62f-49c2-82a2-1d8e39b29034",
+                "direction": "backward",
+                "recording": {
+                    "id": "09d6cb7b-b62f-49c2-82a2-1d8e39b29034",
+                    "title": "Dear Prudence",
+                    "length": "278857"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f973e74f-cc50-4411-bbe7-75b4a6c9e8f8",
+                "direction": "backward",
+                "recording": {
+                    "id": "f973e74f-cc50-4411-bbe7-75b4a6c9e8f8",
+                    "title": "Dear Prudence",
+                    "length": "239000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9552382-0956-44bd-bbdf-18b2e4761ae2",
+                "direction": "backward",
+                "recording": {
+                    "id": "b9552382-0956-44bd-bbdf-18b2e4761ae2",
+                    "title": "Dear Prudence",
+                    "length": "238893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e34c6d8-44ed-47ca-9c5d-9f4d813ba8af",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e34c6d8-44ed-47ca-9c5d-9f4d813ba8af",
+                    "title": "Dear Prudence",
+                    "length": "284173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acdb2385-72ec-4baa-9c1f-97f084000461",
+                "direction": "backward",
+                "recording": {
+                    "id": "acdb2385-72ec-4baa-9c1f-97f084000461",
+                    "title": "Dear Prudence",
+                    "length": "284360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "809ac37e-3264-40a7-b3f9-e23bbf619543",
+                "direction": "backward",
+                "recording": {
+                    "id": "809ac37e-3264-40a7-b3f9-e23bbf619543",
+                    "title": "Dear Prudence",
+                    "length": "282626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7128999c-47f2-49da-9459-926c0eb9a860",
+                "direction": "backward",
+                "recording": {
+                    "id": "7128999c-47f2-49da-9459-926c0eb9a860",
+                    "title": "Dear Prudence",
+                    "length": "276000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f090c14a-8e6a-49c3-8a19-75c89de63764",
+                "direction": "backward",
+                "recording": {
+                    "id": "f090c14a-8e6a-49c3-8a19-75c89de63764",
+                    "title": "Dear Prudence",
+                    "length": "285333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6346c6c4-ee4f-40e3-822d-62a082733835",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6346c6c4-ee4f-40e3-822d-62a082733835",
+                    "title": "Dear Prudence",
+                    "length": "331000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "817b1cec-c219-463d-9309-52e8d41e4f5a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "817b1cec-c219-463d-9309-52e8d41e4f5a",
+                    "title": "Dear Prudence",
+                    "length": "383000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a5e2c2d-ab0f-43f3-a02c-f83287922004",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a5e2c2d-ab0f-43f3-a02c-f83287922004",
+                    "title": "Dear Prudence",
+                    "length": "181000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6503abc1-5bd2-47d3-9f4f-16df0eb0ee81",
+                "direction": "backward",
+                "recording": {
+                    "id": "6503abc1-5bd2-47d3-9f4f-16df0eb0ee81",
+                    "title": "Dear Prudence",
+                    "length": "274000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6177851f-933e-4abb-a021-3d2dd220efb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "6177851f-933e-4abb-a021-3d2dd220efb5",
+                    "title": "Dear Prudence"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55c1f4bf-2f57-44a2-a21e-bc1318bc84df",
+                "direction": "backward",
+                "recording": {
+                    "id": "55c1f4bf-2f57-44a2-a21e-bc1318bc84df",
+                    "title": "Dear Prudence"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f2747e5-85d1-4b0c-a06f-5a6191012838",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f2747e5-85d1-4b0c-a06f-5a6191012838",
+                    "title": "Dear Prudence"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b487ec8a-cffd-4458-9c85-b505675c0ed5",
+                "direction": "backward",
+                "recording": {
+                    "id": "b487ec8a-cffd-4458-9c85-b505675c0ed5",
+                    "title": "Dear Prudence",
+                    "length": "285094"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7827742-d808-442a-abaa-1ef5cb44a6d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a7827742-d808-442a-abaa-1ef5cb44a6d6",
+                    "title": "Dear Prudence"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a8d1c66-461e-4cdc-9488-e13e1e73b60a",
+                "direction": "backward",
+                "recording": {
+                    "id": "7a8d1c66-461e-4cdc-9488-e13e1e73b60a",
+                    "title": "Dear Prudence",
+                    "length": "235600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d77854e-e028-4e6c-acf7-1067de3cdc78",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d77854e-e028-4e6c-acf7-1067de3cdc78",
+                    "title": "Dear Prudence",
+                    "length": "252000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48adce62-0898-4980-8b07-4cbef0d30187",
+                "direction": "backward",
+                "recording": {
+                    "id": "48adce62-0898-4980-8b07-4cbef0d30187",
+                    "title": "Dear Prudence",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fff89165-fdff-4519-9b96-26c1fe7a8e18",
+                "direction": "backward",
+                "recording": {
+                    "id": "fff89165-fdff-4519-9b96-26c1fe7a8e18",
+                    "title": "Dear Prudence",
+                    "length": "285333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5c0e99f-132c-44c3-b4f8-e808f154a806",
+                "direction": "backward",
+                "recording": {
+                    "id": "d5c0e99f-132c-44c3-b4f8-e808f154a806",
+                    "title": "Dear Prudence",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a657fcd5-721e-41d9-8948-3907f588a6eb",
+                "direction": "backward",
+                "recording": {
+                    "id": "a657fcd5-721e-41d9-8948-3907f588a6eb",
+                    "title": "Dear Prudence",
+                    "length": "234000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e150203f-0e4d-4ca2-a373-9df64d15cfe7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e150203f-0e4d-4ca2-a373-9df64d15cfe7",
+                    "title": "Dear Prudence",
+                    "length": "232000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f115e014-7dfa-49d2-9231-49b2c9349bde",
+                "direction": "backward",
+                "recording": {
+                    "id": "f115e014-7dfa-49d2-9231-49b2c9349bde",
+                    "title": "Dear Prudence",
+                    "length": "276226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "379d8e9f-d35a-4df6-8a34-a87bc771d712",
+                "direction": "backward",
+                "recording": {
+                    "id": "379d8e9f-d35a-4df6-8a34-a87bc771d712",
+                    "title": "Dear Prudence",
+                    "length": "235866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "814bb940-f7f6-4477-bb69-0d91bed084cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "814bb940-f7f6-4477-bb69-0d91bed084cd",
+                    "title": "Dear Prudence",
+                    "length": "230640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dae592bc-9caf-4240-9b0f-e5d727c8ab7c",
+                "direction": "backward",
+                "recording": {
+                    "id": "dae592bc-9caf-4240-9b0f-e5d727c8ab7c",
+                    "title": "Dear Prudence",
+                    "length": "279360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2173a2e-3eaa-4ef6-a188-d90f0c7b7186",
+                "direction": "backward",
+                "recording": {
+                    "id": "b2173a2e-3eaa-4ef6-a188-d90f0c7b7186",
+                    "title": "Dear Prudence",
+                    "length": "281000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cbb79d10-3a76-48f4-af1c-e292e8b2b29d",
+                "direction": "backward",
+                "recording": {
+                    "id": "cbb79d10-3a76-48f4-af1c-e292e8b2b29d",
+                    "title": "Dear Prudence",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b9dec30-956a-4bec-9041-ca462e5009b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "8b9dec30-956a-4bec-9041-ca462e5009b9",
+                    "title": "Dear Prudence",
+                    "length": "242000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1212dcd2-5aaa-4c01-b5e7-6be859818ee8",
+                "direction": "backward",
+                "recording": {
+                    "id": "1212dcd2-5aaa-4c01-b5e7-6be859818ee8",
+                    "title": "Dear Prudence",
+                    "length": "12000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3663c73-b46b-466f-92e0-40db35a785b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f3663c73-b46b-466f-92e0-40db35a785b0",
+                    "title": "Dear Prudence",
+                    "length": "278800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "347be74e-f1d1-437d-a090-6f41b867b941",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "347be74e-f1d1-437d-a090-6f41b867b941",
+                    "title": "Dear Prudence",
+                    "length": "279533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0fe21b98-0b38-4aca-8ed4-728c90aa2a30",
+                "direction": "backward",
+                "recording": {
+                    "id": "0fe21b98-0b38-4aca-8ed4-728c90aa2a30",
+                    "title": "Dear Prudence",
+                    "length": "275666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56e2bab9-7535-46bd-9e16-53a78caf598c",
+                "direction": "backward",
+                "recording": {
+                    "id": "56e2bab9-7535-46bd-9e16-53a78caf598c",
+                    "title": "Dear Prudence",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c82838a9-222c-4456-9465-4d12317e4a67",
+                "direction": "backward",
+                "recording": {
+                    "id": "c82838a9-222c-4456-9465-4d12317e4a67",
+                    "title": "Dear Prudence",
+                    "length": "229133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8854330-004f-431f-9976-210e2e3e08b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8854330-004f-431f-9976-210e2e3e08b9",
+                    "title": "Dear Prudence",
+                    "length": "281773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "033b667d-a57f-4bb4-be8a-d62849b2d1fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "033b667d-a57f-4bb4-be8a-d62849b2d1fd",
+                    "title": "Dear Prudence",
+                    "length": "279946"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ce13e12-52e9-42cb-a0ef-c30d90004f32",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ce13e12-52e9-42cb-a0ef-c30d90004f32",
+                    "title": "Dear Prudence",
+                    "length": "201000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b686ba5f-e1aa-443e-9c56-4ad6f0733dd4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b686ba5f-e1aa-443e-9c56-4ad6f0733dd4",
+                    "title": "Dear Prudence",
+                    "length": "264000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21bfc67a-357f-4779-b3c0-e3a0456eedd1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "21bfc67a-357f-4779-b3c0-e3a0456eedd1",
+                    "title": "Dear Prudence",
+                    "length": "356000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4129947-cbaf-48c2-b9d5-a826fb365558",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b4129947-cbaf-48c2-b9d5-a826fb365558",
+                    "title": "Dear Prudence",
+                    "length": "421440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2941281-d97a-4b29-93b0-fa742b054a44",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d2941281-d97a-4b29-93b0-fa742b054a44",
+                    "title": "Dear Prudence",
+                    "length": "693533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b0b5225-7e46-4db3-9345-19ffb6888175",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7b0b5225-7e46-4db3-9345-19ffb6888175",
+                    "title": "Dear Prudence",
+                    "length": "245373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "432d8dde-6b0e-426e-a303-4f8aa2fb0398",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "432d8dde-6b0e-426e-a303-4f8aa2fb0398",
+                    "title": "Dear Prudence",
+                    "length": "241626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f0fbc40-c7a8-4b60-a167-d83984d6002c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2f0fbc40-c7a8-4b60-a167-d83984d6002c",
+                    "title": "Dear Prudence",
+                    "length": "229573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32a97638-a9a0-48eb-8550-57d5c74f1e22",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32a97638-a9a0-48eb-8550-57d5c74f1e22",
+                    "title": "Dear Prudence",
+                    "length": "319000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6354ee2f-c460-40df-b00c-7a7ffca6ae91",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6354ee2f-c460-40df-b00c-7a7ffca6ae91",
+                    "title": "Dear Prudence",
+                    "length": "212000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b68a9593-7513-4d64-80ea-e9fb26a11736",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b68a9593-7513-4d64-80ea-e9fb26a11736",
+                    "title": "Dear Prudence",
+                    "length": "247000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "509e56c5-67e5-43ac-9ef1-f8ec9382d05c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "509e56c5-67e5-43ac-9ef1-f8ec9382d05c",
+                    "title": "Dear Prudence",
+                    "length": "324000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d144bd1f-1dfd-451e-8bf4-6fe437bd2142",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d144bd1f-1dfd-451e-8bf4-6fe437bd2142",
+                    "title": "Dear Prudence",
+                    "length": "233000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "396dc29e-83e4-4de7-b154-3ae745e7504b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "396dc29e-83e4-4de7-b154-3ae745e7504b",
+                    "title": "Dear Prudence",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5985f53-93b2-49f0-aa50-0589a7b38662",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5985f53-93b2-49f0-aa50-0589a7b38662",
+                    "title": "Dear Prudence",
+                    "length": "261000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fcd0992-f427-45c4-9ff9-fe121a255351",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6fcd0992-f427-45c4-9ff9-fe121a255351",
+                    "title": "Dear Prudence",
+                    "length": "295160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5728d7c-b1e0-4e00-bbfd-ae416e1097ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d5728d7c-b1e0-4e00-bbfd-ae416e1097ad",
+                    "title": "Dear Prudence",
+                    "length": "357560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83899c18-97df-4a0b-bc7b-ceaf2fb4671b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "83899c18-97df-4a0b-bc7b-ceaf2fb4671b",
+                    "title": "Dear Prudence",
+                    "length": "363000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58740745-2dd9-4fde-902c-8129987c9613",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "58740745-2dd9-4fde-902c-8129987c9613",
+                    "title": "Dear Prudence (12\u2033 version)",
+                    "length": "224992"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d9d9844-894b-47e6-ba35-db427084e13f",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d9d9844-894b-47e6-ba35-db427084e13f",
+                    "title": "Dear Prudence (Alt Mono mix)",
+                    "length": "248426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d7f3abb-e2a4-40af-a359-3126a28f572a",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d7f3abb-e2a4-40af-a359-3126a28f572a",
+                    "title": "Dear Prudence (alt)",
+                    "length": "248133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e6d9cb9-bf6e-438d-86a0-33500000ee39",
+                "direction": "backward",
+                "recording": {
+                    "id": "2e6d9cb9-bf6e-438d-86a0-33500000ee39",
+                    "title": "Dear Prudence (alternate take 28.8.68)",
+                    "length": "225786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6f59393-d451-43bc-9ed8-dab4445975d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "e6f59393-d451-43bc-9ed8-dab4445975d2",
+                    "title": "Dear Prudence (alternate take)",
+                    "length": "228000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35c1b0b5-8797-438a-9432-785ce7d80709",
+                "direction": "backward",
+                "recording": {
+                    "id": "35c1b0b5-8797-438a-9432-785ce7d80709",
+                    "title": "Dear Prudence (alternate take)",
+                    "length": "236000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca379450-dc23-4c1f-bc3a-ca7f547294eb",
+                "direction": "backward",
+                "recording": {
+                    "id": "ca379450-dc23-4c1f-bc3a-ca7f547294eb",
+                    "title": "Dear Prudence (Alternate Take)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee55c931-11e2-457c-8f62-fcac6329f3a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee55c931-11e2-457c-8f62-fcac6329f3a7",
+                    "title": "Dear Prudence (Backing Vocals Partial)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ccf242fe-294e-4e01-a516-c26d52fccecc",
+                "direction": "backward",
+                "recording": {
+                    "id": "ccf242fe-294e-4e01-a516-c26d52fccecc",
+                    "title": "Dear Prudence (demo 1968)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3507635-50b2-4388-9c5b-997597199a5f",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3507635-50b2-4388-9c5b-997597199a5f",
+                    "title": "Dear Prudence (demo)",
+                    "length": "278453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "901bf01a-d07c-4b4a-b174-941e2ba2ed7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "901bf01a-d07c-4b4a-b174-941e2ba2ed7f",
+                    "title": "Dear Prudence (demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b36c0dd-5493-4500-8ea3-e8f47a892f96",
+                "direction": "backward",
+                "recording": {
+                    "id": "9b36c0dd-5493-4500-8ea3-e8f47a892f96",
+                    "title": "Dear Prudence (demos recorded prior to the White Album)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f7e4bba-f1c6-4309-b337-d7e61185975b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f7e4bba-f1c6-4309-b337-d7e61185975b",
+                    "title": "Dear Prudence (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0ada9da-87ac-43b8-ab09-3f20e684935c",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0ada9da-87ac-43b8-ab09-3f20e684935c",
+                    "title": "Dear Prudence (Esher demo)",
+                    "length": "274826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e10a8d9-b37d-42ce-bccd-66e0758377be",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e10a8d9-b37d-42ce-bccd-66e0758377be",
+                    "title": "Dear Prudence (Esher demo)",
+                    "length": "280493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58d5a56f-5e5f-4693-8a6a-aa0975b23d44",
+                "direction": "backward",
+                "recording": {
+                    "id": "58d5a56f-5e5f-4693-8a6a-aa0975b23d44",
+                    "title": "Dear Prudence (RM5 take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc4c3da9-9b6b-4c14-a221-3dc38b6c65a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc4c3da9-9b6b-4c14-a221-3dc38b6c65a7",
+                    "title": "Dear Prudence (RS1 Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68ebeb43-10ac-46f2-9140-ad6485fbb433",
+                "direction": "backward",
+                "recording": {
+                    "id": "68ebeb43-10ac-46f2-9140-ad6485fbb433",
+                    "title": "Dear Prudence (stereo)",
+                    "length": "160800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17194f72-9779-4da3-b2ca-51e4efb08985",
+                "direction": "backward",
+                "recording": {
+                    "id": "17194f72-9779-4da3-b2ca-51e4efb08985",
+                    "title": "Dear Prudence (take 1 - mix A - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c764d95-3d4d-49a6-9f89-238d753f2d3b",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c764d95-3d4d-49a6-9f89-238d753f2d3b",
+                    "title": "Dear Prudence (take 1 - mix B - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "475c0b42-9b9f-4bc0-a1aa-cee5589bcf80",
+                "direction": "backward",
+                "recording": {
+                    "id": "475c0b42-9b9f-4bc0-a1aa-cee5589bcf80",
+                    "title": "Dear Prudence (take 1, RM1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb8043d8-24e4-4264-8836-a248e352924c",
+                "direction": "backward",
+                "recording": {
+                    "id": "cb8043d8-24e4-4264-8836-a248e352924c",
+                    "title": "Dear Prudence (take 1, RM1)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-dear-prudence-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/3529",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=148",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q637470",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "1fba3393-4264-4866-bd70-0bd5613a9b05",
+                "ordering-key": "2",
+                "direction": "backward",
+                "work": {
+                    "id": "1fba3393-4264-4866-bd70-0bd5613a9b05",
+                    "type": "Song",
+                    "title": "Come Together / Dear Prudence / Cry Baby Cry (Love version)",
+                    "language": "eng",
+                    "iswc": "T-900.219.779-7",
+                    "iswc-list": [
+                        "T-900.219.779-7"
+                    ]
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "28ade57e-b805-45f8-84fd-7e6988ec55f9",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "28ade57e-b805-45f8-84fd-7e6988ec55f9",
+                    "type": "Song",
+                    "title": "Ti prusa (Dear Prudence)",
+                    "language": "roh"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "6d8e6aeb-0078-49de-8e80-418f6068bec9",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "6d8e6aeb-0078-49de-8e80-418f6068bec9",
+                    "type": "Song",
+                    "title": "Dear Derpy",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            }
+        ]
+    }
+}
