@@ -15,7 +15,7 @@ export class LocationComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {
-    if (this.metadata.placeLong && this.metadata.placeLat) {
+    if (this.metadata && this.metadata.placeLong && this.metadata.placeLat) {
       this.staticMapImageURL = this.buildStaticMapImageURL(this.metadata.placeLat, this.metadata.placeLong);
     }
     else {
