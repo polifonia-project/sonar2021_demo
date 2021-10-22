@@ -11,7 +11,7 @@ export interface LocationMetadata extends AnnotationMetadata {
 }
 
 export interface LyricsMetadata extends AnnotationMetadata {
-    lyrics?: string[];
+    lyricLine?: string;
 }
 
 export interface HarmonicsMetadata extends AnnotationMetadata {
