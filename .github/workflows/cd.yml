@@ -29,4 +29,4 @@ jobs:
       run: npm test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
 
     - name: Deploy
-      run: ng deploy --base-href=/sonar2021_demo/
+      run: npm run deploy:gh
