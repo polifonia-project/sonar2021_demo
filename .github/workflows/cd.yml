@@ -1,0 +1,32 @@
+name: sonar demo angular frontend CI
+
+on:
+  push:
+    branches: [ develop ]
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [ 14.x ]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install Dependencies
+      run: npm ci
+    
+    - name: Build
+      run: npm run build
+
+    - name: Test
+      run: npm test -- --no-watch --no-progress --browsers=ChromeHeadlessCI
+
+    - name: Deploy
+      run: ng deploy --base-href=/sonar2021_demo/
