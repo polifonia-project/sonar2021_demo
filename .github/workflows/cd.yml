@@ -1,4 +1,4 @@
-name: sonar demo angular frontend CI
+name: sonar demo CD on github action
 
 on:
   push:
@@ -20,7 +20,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
 
     - name: Install Dependencies
-      run: npm ci
+      run: npm install
     
     - name: Build
       run: npm run build
