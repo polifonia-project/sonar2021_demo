@@ -100,8 +100,8 @@ export class AnnotationService {
         break;
       case 'lyrics':
         const lyricsMetadata: LyricsMetadata = annotation.metadata;
-        shortDescription = 'Lyric Phrase ' + lyricsMetadata.lyricLine;
-        description = 'Similar lyric phrase "' + lyricsMetadata.lyricLine + ' "';
+        shortDescription = 'Lyric Phrase: ' + lyricsMetadata.lyricLine;
+        description = 'Similar lyric phrase: "' + lyricsMetadata.lyricLine + ' "';
         break;
       default:
         shortDescription = 'Generic annotation';
