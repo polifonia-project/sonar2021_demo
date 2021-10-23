@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Annotation } from './annotation';
 import { Song } from './song';
 import {HarmonicsMetadata, LocationMetadata, LyricsMetadata} from './annotation-metadata';
-import ApplicationData from '../assets/data/merged.json';
+import ApplicationData from '../assets/data/demo_dataset.json';
 
 @Injectable({
   providedIn: 'root'
@@ -95,13 +95,13 @@ export class AnnotationService {
         break;
       case 'harmonic':
         const harmonicMetadata: HarmonicsMetadata = annotation.metadata;
-        shortDescription = 'Harmonic: Chord progression';
-        description = 'Longest chord progression: ' + harmonicMetadata.longestChordProgression;
+        shortDescription = 'Harmonic similarities ' + harmonicMetadata.longestChordProgression;
+        description = 'Longest similar chord progression: ' + harmonicMetadata.longestChordProgression;
         break;
       case 'lyrics':
         const lyricsMetadata: LyricsMetadata = annotation.metadata;
-        shortDescription = 'Lyric line: ' + lyricsMetadata.lyricLine;
-        description = 'Lyric line' + lyricsMetadata.lyricLine;
+        shortDescription = 'Lyric Phrase ' + lyricsMetadata.lyricLine;
+        description = 'Similar lyric phrase "' + lyricsMetadata.lyricLine + ' "';
         break;
       default:
         shortDescription = 'Generic annotation';

@@ -16,6 +16,6 @@ export interface LyricsMetadata extends AnnotationMetadata {
 
 export interface HarmonicsMetadata extends AnnotationMetadata {
   longestChordProgression?: string;
-  timestampIn?: number;
-  timestampOut?: number;
+  beginCPA?: number;
+  endCPA?: number;
 }

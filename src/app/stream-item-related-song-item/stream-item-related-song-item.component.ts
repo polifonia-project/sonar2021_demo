@@ -52,4 +52,10 @@ export class StreamItemRelatedSongItemComponent implements OnInit {
     return this.songService.getSongDetails(songID);
   }
 
+  formatChordProgressionTimeInterval(begin: number, end: number) : string {
+    const b = new Date(begin * 1000).toISOString().substr(14, 5) 
+    const e = new Date(end * 1000).toISOString().substr(14, 5)
+    return b + " - " + e
+  }
+
 }

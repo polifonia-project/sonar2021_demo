@@ -2,10 +2,10 @@
   <div (click)="addToQueue(fullSong.id)" class="material-icons size add-song-icon">playlist_add</div>
   <div>
     {{fullSong.name}} - {{fullSong.artist}} <br />
-    Relationship score: <em>{{relationship.score}}</em> <br />
+    <div *ngIf="targetAnnotation.type === 'harmonic'">Similarity score: <em>{{relationship.score}}</em> <br /></div>
     <em>
       <!-- [{{relationship.type}}] - -->{{targetAnnotation.description}}<br />
-      {{targetAnnotation.timestamp}} seconds
+      <div *ngIf="targetAnnotation.type === 'harmonic'">{{formatChordProgressionTimeInterval(targetAnnotation.metadata.beginCPA,targetAnnotation.metadata.endCPA)}}</div>
     </em>
     <div
       *ngIf="targetAnnotation.type === 'harmonic'"
