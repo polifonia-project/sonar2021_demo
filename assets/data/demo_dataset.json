@@ -50,6 +50,20 @@
       "youtubeID": "VlepuNi40M8"
     },
     {
+      "name": "All Alone",
+      "artist": "Sarah Vaughan",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/sarah_vaughan",
+      "id" : "https://w3id.org/polifonia/resource/Recording/jaah_31",
+      "youtubeID": "VlepuNi0000"
+    },
+    {
+      "name": "You'd Be So Nice To Come Home To",
+      "artist": "Ella Fitzgerald",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/ella_fitzgerald",
+      "id" : "https://w3id.org/polifonia/resource/Recording/jaah_50",
+      "youtubeID": "VlepuNi0000"
+    },
+    {
       "name": "Der Lindenbaum",
       "artist": "Charles Spencer",
       "artistId": "https://w3id.org/polifonia/resource/Agent/charles_spencer",
@@ -76,6 +90,34 @@
       "artistId": "https://w3id.org/polifonia/resource/Agent/hans_hotter",
       "id" : "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_85",
       "youtubeID": "jnU8FTgQJvo"
+    },
+    {
+      "name": "Act Naturally",
+      "artist": "The Beatles",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/the_beatles",
+      "id" : "https://w3id.org/polifonia/resource/Recording/isophonics_217",
+      "youtubeID": "b5rpAqfd35Q"
+    },
+    {
+      "name": "Why Don't We Do It In The Road",
+      "artist": "The Beatles",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/the_beatles",
+      "id" : "https://w3id.org/polifonia/resource/Recording/isophonics_98",
+      "youtubeID": "8KCEDhmaOtQ"
+    },
+    {
+      "name": "Across The Universe",
+      "artist": "The Beatles",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/the_beatles",
+      "id" : "https://w3id.org/polifonia/resource/Recording/isophonics_80",
+      "youtubeID": "90M60PzmxEE"
+    },
+    {
+      "name": "",
+      "artist": "",
+      "artistId": "https://w3id.org/polifonia/resource/Agent/thomas_quasthoff",
+      "id" : "https://w3id.org/polifonia/resource/Recording/isophonics_249",
+      "youtubeID": "VlepuNi0000"
     }
 ],
   "annotations" : [
@@ -193,7 +235,7 @@
       "id": "4A",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
-      "timestamp": 10,
+      "timestamp": 14,
       "metadata": {
         "placeLabel": "Musicland Studios",
         "sessionTypeLabel": "Recorded at:",
@@ -229,6 +271,42 @@
       ]
     },
     {
+      "id": "4C",
+      "type": "lyrics",
+      "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
+      "timestamp": 8,
+      "metadata": {
+        "lyricLine" : "Well I beg you on my bended knees"
+      },
+      "relationships": [
+        {
+          "annotationID": "12",
+          "type": "lyrics",
+          "score": 0.15
+        }
+      ]
+    },
+    {
+      "id": "4D",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
+      "timestamp": 10,
+      "metadata": {
+        "placeLabel": "Abbey Road Studios: Studio 1",
+        "sessionTypeLabel": "Mixed at:",
+        "placeFullAddress": "3 Abbey Road, St John’s Wood, London",
+        "placeLong": "-0.17835",
+        "placeLat": "51.53192"
+      },
+      "relationships": [
+        {
+          "annotationID": "13",
+          "type": "spatial",
+          "score": 1
+        }
+      ]
+    },
+    {
       "id": "5",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_195",
@@ -250,7 +328,7 @@
       "id": "6",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_219",
-      "timestamp": 2,
+      "timestamp": 1,
       "metadata": {
         "placeLabel": "Musicland Studios",
         "sessionTypeLabel": "Recorded at:",
@@ -260,7 +338,7 @@
       },
       "relationships": [
         {
-          "annotationID": "4",
+          "annotationID": "4A",
           "type": "spatial",
           "score": 1
         }    
@@ -271,7 +349,7 @@
       "id": "6A",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_219",
-      "timestamp": 7,
+      "timestamp": 12,
       "metadata": {
         "beginCPA": 75,
         "endCPA": 105,
@@ -293,10 +371,29 @@
       ]
     },
     {
+      "id": "6B",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_219",
+      "timestamp": 7,
+      "metadata": {
+        "placeLabel": "Liverpool",
+        "sessionTypeLabel": "Artist's career start place:",
+        "placeFullAddress": ""
+      },
+      "relationships": [
+        {
+          "annotationID": "14",
+          "type": "spatial",
+          "score": 1
+        }    
+      ]
+
+    },
+    {
       "id": "7",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/jaah_87",
-      "timestamp": 3,
+      "timestamp": 2,
       "metadata": {
         "beginCPA": 3,
         "endCPA": 6,
@@ -316,7 +413,7 @@
       "id": "7A",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/jaah_87",
-      "timestamp": 1,
+      "timestamp": 15,
       "metadata": {
         "beginCPA": 1,
         "endCPA": 6,
@@ -330,6 +427,28 @@
           "type": "harmonic",
           "score": 0.218
         }    
+      ]
+    },
+    {
+      "id": "7B",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/jaah_87",
+      "timestamp": 10,
+      "metadata": {
+        "placeLabel": "United States",
+        "sessionTypeLabel": "Artist's birthplace:"
+      },
+      "relationships": [
+        {
+          "annotationID": "15",
+          "type": "spatial",
+          "score": 0.218
+        },
+        {
+          "annotationID": "16",
+          "type": "spatial",
+          "score": 0.245
+        }
       ]
     },
     {
@@ -409,6 +528,94 @@
         }
       ]
 
+    },
+    {
+      "id": "12",
+      "type": "lyrics",
+      "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_217",
+      "timestamp": 8,
+      "metadata": {
+        "lyricLine" : "Well I beg you on my bended knees"
+      },
+      "relationships": [
+        {
+          "annotationID": "4C",
+          "type": "lyrics",
+          "score": 0.15
+        }
+      ]
+    },
+    {
+    "id": "13",
+    "type": "spatial",
+    "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_98",
+    "timestamp": 2,
+    "metadata": {
+      "placeLabel": "Abbey Road Studios: Studio 1",
+      "sessionTypeLabel": "Recorded at:",
+      "placeFullAddress": "3 Abbey Road, St John’s Wood, London",
+      "placeLong": "-0.17835",
+      "placeLat": "51.53192"
+    },
+    "relationships": [
+      {
+        "annotationID": "4D",
+        "type": "spatial",
+        "score": 1
+      }
+      ]
+    },
+    {
+      "id": "14",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_80",
+      "timestamp": 5,
+      "metadata": {
+        "placeLabel": "Liverpool",
+        "sessionTypeLabel": "Artist's career start place:"
+      },
+      "relationships": [
+        {
+          "annotationID": "6B",
+          "type": "spatial",
+          "score": 1
+        }    
+      ]
+
+    },
+    {
+      "id": "15",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/jaah_31",
+      "timestamp": 10,
+      "metadata": {
+        "placeLabel": "United States",
+        "sessionTypeLabel": "Artist's birthplace:"
+      },
+      "relationships": [
+        {
+          "annotationID": "7B",
+          "type": "spatial",
+          "score": 0.218
+        }    
+      ]
+    },
+    {
+      "id": "16",
+      "type": "spatial",
+      "songID": "https://w3id.org/polifonia/resource/Recording/jaah_50",
+      "timestamp": 10,
+      "metadata": {
+        "placeLabel": "United States",
+        "sessionTypeLabel": "Artist's birthplace:"
+      },
+      "relationships": [
+        {
+          "annotationID": "7B",
+          "type": "spatial",
+          "score": 0.218
+        }    
+      ]
     }
   ]
 }
