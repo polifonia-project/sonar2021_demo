@@ -213,7 +213,7 @@
       "id": "1B",
       "type": "lyrics",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_258",
-      "timestamp": 3,
+      "timestamp": 6,
       "provenance" : "Genius",
       "metadata": {
         "lyricLine": "You took me for everything that I had"
@@ -231,7 +231,7 @@
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_82",
       "timestamp": 1,
-      "provenance" : "Isophonics",
+      "provenance" : "Schubert-Winterreise",
       "metadata": {
         "beginCPA": 1,
         "endCPA": 4,
@@ -250,7 +250,7 @@
       "id": "1C",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_258",
-      "timestamp": 6,
+      "timestamp": 3,
       "provenance" : "Isophonics",
       "metadata": {
         "beginCPA": 8,
@@ -275,7 +275,7 @@
       "id": "2",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_178",
-      "timestamp": 10,
+      "timestamp": 3,
       "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Great Britain",
@@ -418,7 +418,7 @@
       "id": "4A",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
-      "timestamp": 14,
+      "timestamp": 12,
       "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Abbey Road Studios: Studio 2",
@@ -450,7 +450,7 @@
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_95",
       "timestamp": 43,
-      "provenance" : "Isophonics",
+      "provenance" : "Schubert-Winterreise",
       "metadata": {
         "beginCPA": 43,
         "endCPA": 52,
@@ -469,7 +469,7 @@
       "id": "4B",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
-      "timestamp": 5,
+      "timestamp": 3,
       "provenance" : "Isophonics",
       "metadata": {
         "beginCPA": 5,
@@ -494,7 +494,7 @@
       "id": "4C",
       "type": "lyrics",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
-      "timestamp": 8,
+      "timestamp": 6,
       "provenance" : "Genius",
       "metadata": {
         "lyricLine" : "Well I beg you on my bended knees"
@@ -511,7 +511,7 @@
       "id": "4D",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_73",
-      "timestamp": 10,
+      "timestamp": 9,
       "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Abbey Road Studios: Studio 1",
@@ -588,7 +588,7 @@
       "id": "6A",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_219",
-      "timestamp": 12,
+      "timestamp": 6,
       "provenance" : "Isophonics",
       "metadata": {
         "beginCPA": 75,
@@ -614,7 +614,7 @@
       "id": "6B",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_219",
-      "timestamp": 7,
+      "timestamp": 3,
       "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Liverpool",
@@ -644,7 +644,7 @@
       "id": "700",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_178",
-      "timestamp": 7,
+      "timestamp": 1,
       "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Liverpool",
@@ -703,7 +703,7 @@
       "id": "7",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/jaah_87",
-      "timestamp": 2,
+      "timestamp": 1,
       "provenance" : "Jaah",
       "metadata": {
         "beginCPA": 3,
@@ -725,7 +725,7 @@
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/jaah_87",
       "provenance" : "Jaah",
-      "timestamp": 15,
+      "timestamp": 6,
       "metadata": {
         "beginCPA": 1,
         "endCPA": 6,
@@ -745,7 +745,7 @@
       "id": "7B",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/jaah_87",
-      "timestamp": 10,
+      "timestamp": 3,
       "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "United States",
@@ -768,7 +768,7 @@
       "id": "8",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_126",
-      "timestamp": 88,
+      "timestamp": 1,
       "provenance" : "Schubert-Winterreise",
       "metadata": {
         "beginCPA": 88,
@@ -799,8 +799,8 @@
       "id": "80",
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_126",
-      "timestamp": 10,
-      "provenance" : "Schubert-Winterreise",
+      "timestamp": 3,
+      "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Great Britain",
         "sessionTypeLabel": "Artist's birthplace:"
@@ -808,21 +808,6 @@
       "relationships": [
         {
           "annotationID": "81",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "82",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "83",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "84",
           "type": "spatial",
           "score": 0.218
         }
@@ -833,7 +818,7 @@
       "type": "spatial",
       "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_198",
       "timestamp": 10,
-      "provenance" : "Schubert-Winterreise",
+      "provenance" : "MusicBrainz",
       "metadata": {
         "placeLabel": "Great Britain",
         "sessionTypeLabel": "Artist's birthplace:"
@@ -851,105 +836,6 @@
         },
         {
           "annotationID": "83",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "84",
-          "type": "spatial",
-          "score": 0.218
-        }
-        ]
-    },
-    {
-      "id": "82",
-      "type": "spatial",
-      "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_59",
-      "timestamp": 10,
-      "provenance" : "Schubert-Winterreise",
-      "metadata": {
-        "placeLabel": "Deutschland",
-        "sessionTypeLabel": "Artist's birthplace:"
-      },
-      "relationships": [
-        {
-          "annotationID": "80",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "81",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "83",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "84",
-          "type": "spatial",
-          "score": 0.218
-        }
-        ]
-    },
-    {
-      "id": "84",
-      "type": "spatial",
-      "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_172",
-      "timestamp": 10,
-      "provenance" : "Schubert-Winterreise",
-      "metadata": {
-        "placeLabel": "Deutschland",
-        "sessionTypeLabel": "Artist's birthplace:"
-      },
-      "relationships": [
-        {
-          "annotationID": "80",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "81",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "82",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "83",
-          "type": "spatial",
-          "score": 0.218
-        }
-        ]
-    },
-    {
-      "id": "83",
-      "type": "spatial",
-      "songID": "https://w3id.org/polifonia/resource/Recording/schubert-winterreise_200",
-      "timestamp": 10,
-      "provenance" : "Schubert-Winterreise",
-      "metadata": {
-        "placeLabel": "Deutschland",
-        "sessionTypeLabel": "Artist's birthplace:"
-      },
-      "relationships": [
-        {
-          "annotationID": "80",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "81",
-          "type": "spatial",
-          "score": 0.218
-        },
-        {
-          "annotationID": "82",
           "type": "spatial",
           "score": 0.218
         },
@@ -984,7 +870,7 @@
       "id": "99",
       "type": "harmonic",
       "songID": "https://w3id.org/polifonia/resource/Recording/isophonics_101",
-      "timestamp": 58,
+      "timestamp": 10,
       "provenance" : "Isophonics",
       "metadata": {
         "beginCPA": 58,
