@@ -5,13 +5,14 @@
     <div *ngIf="targetAnnotation.type === 'harmonic'">Similarity score: <em>{{relationship.score}}</em> <br /></div>
     <em>
       <!-- [{{relationship.type}}] - -->{{targetAnnotation.description}}<br />
-      <div *ngIf="targetAnnotation.type === 'harmonic'">{{formatChordProgressionTimeInterval(targetAnnotation.metadata.beginCPA,targetAnnotation.metadata.endCPA)}}</div>
+      <div *ngIf="targetAnnotation.type === 'harmonic'">{{formatChordProgressionTimeInterval(targetAnnotation.metadata.beginCPA,targetAnnotation.metadata.endCPA)}}       <p
+        *ngIf="targetAnnotation.type === 'harmonic'"
+        (click)="emit({'songID': targetAnnotation.songID, 'timestamp': targetAnnotation.timestamp})"
+        class="material-icons size add-song-icon" >
+        shortcut
+      </p>
+  </div>
+    <div *ngIf="targetAnnotation.provenance">Provenance: <a href="fake">{{targetAnnotation.provenance}}</a></div>
     </em>
-    <div
-      *ngIf="targetAnnotation.type === 'harmonic'"
-      (click)="emit({'songID': targetAnnotation.songID, 'timestamp': targetAnnotation.timestamp})"
-      class="material-icons size add-song-icon" >
-      shortcut
-    </div>
   </div>
 </li>

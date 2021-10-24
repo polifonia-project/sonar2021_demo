@@ -28,7 +28,7 @@ export class NavbarComponent implements OnInit {
     },
        // filter item params
      { title : "Settings",
-       icon : "filter_alt",
+       icon : "settings",
        page: AppPage.Filter
      }
   ];

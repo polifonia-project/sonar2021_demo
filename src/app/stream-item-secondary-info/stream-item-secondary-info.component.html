@@ -1,7 +1,8 @@
 <!-- <p>{{annotation.description}}</p> -->
-<div *ngIf="annotation" [ngSwitch]="annotation.type">
+<div *ngIf="annotation" [ngSwitch]="annotation.type" class="secondary-info">
     <app-lyrics *ngSwitchCase="'lyrics'" [metadata]="annotation.metadata"></app-lyrics>
     <app-location *ngSwitchCase="'spatial'" [metadata]="annotation.metadata" [description]="annotation.description"></app-location>
     <app-harmonic *ngSwitchCase="'harmonic'" [metadata]="annotation.metadata"></app-harmonic>
     <div *ngSwitchDefault>No specific template for {{annotation.type}}. Create it!</div>
+    <div *ngIf="annotation.provenance">Provenance: <a href="fake">{{annotation.provenance}}</a></div>
 </div>

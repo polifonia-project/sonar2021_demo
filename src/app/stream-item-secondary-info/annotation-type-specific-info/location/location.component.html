@@ -1,8 +1,15 @@
-<div *ngIf="metadata">
-<p>
+<p *ngIf="metadata.placeFullAddress">
   {{metadata.placeLabel}} <br />
   <em>{{metadata.placeFullAddress}}</em>
 </p>
+<p *ngIf="!metadata.placeFullAddress">
+  <figure *ngIf="metadata">
+    <blockquote class="blockquote">
+      {{metadata.sessionTypeLabel}} {{metadata.placeLabel}}
+    </blockquote>
+  </figure>
+</p>
+<div *ngIf="staticMapImageURL">
 <img
   width="400"
   height="300"

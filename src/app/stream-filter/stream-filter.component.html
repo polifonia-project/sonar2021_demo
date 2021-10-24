@@ -7,8 +7,8 @@
     [checked]="item.value.enabled"
     (change)="onSwitchToggle(item.value.type, $event)"
   >
-  <div class="material-icons size annotation-icon color-brightness" [style.color]="getFilterGraphics(item.value).color">{{getFilterGraphics(item.value).iconName}}</div>
-  <label class="form-check-label" for="{{'filterSwitch-' + item.key}}" [style.color]="getFilterGraphics(item.value).color">{{item.value.label}}</label>
+  <div [class.lyricIconSmaller] = "item.value.label === 'Lyrics'"  class="material-icons size annotation-icon color-brightness"  [style.color]="getFilterGraphics(item.value).color">{{getFilterGraphics(item.value).iconName}}</div>
+  <label [class.lyricTextSmaller] = "item.value.label === 'Lyrics'"  class="form-check-label" for="{{'filterSwitch-' + item.key}}" [style.color]="getFilterGraphics(item.value).color">{{item.value.label}}</label>
 </div>
 
 

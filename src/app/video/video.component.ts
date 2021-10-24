@@ -39,7 +39,7 @@ export class VideoComponent implements OnInit {
   ngOnInit(): void {
     this.queueSubscription = this.queueService.currentQueue.subscribe( queue => this.queue = queue);
     this.currentSongSubscription = this.queueService.currentSong.subscribe( song => this.currentSong = song);
-    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/isophonics_258');
+    this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/isophonics_258')
     // this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/isophonics_243')
     // this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00188');
     // this.queueService.addToQueueByID('https://w3id.org/polifonia/resource/Recording/00003');

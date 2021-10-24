@@ -1,4 +1,8 @@
 <p *ngIf="metadata">
-  Longest chord progression: {{metadata.longestChordProgression}} <br />
+  <figure *ngIf="metadata">
+    <blockquote class="blockquote">
+  Similar chord progression: {{metadata.longestChordProgression}} <br />
   {{initialTime}} - {{endTime}}
+</blockquote>
+</figure>
 </p>

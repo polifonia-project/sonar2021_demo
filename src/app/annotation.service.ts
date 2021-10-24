@@ -89,14 +89,15 @@ export class AnnotationService {
       case 'spatial':
         const spatialMetadata: LocationMetadata = annotation.metadata;
         shortDescription = this.capitalizeFirstLetter(spatialMetadata.sessionTypeLabel) + ' ' + spatialMetadata.placeLabel;
-        description = spatialMetadata.sessionTypeLabel +
+        description = (spatialMetadata.placeFullAddress) ? spatialMetadata.sessionTypeLabel +
           ' ' + spatialMetadata.placeLabel +
-          ' - ' + spatialMetadata.placeFullAddress;
+          ' - ' + spatialMetadata.placeFullAddress : spatialMetadata.sessionTypeLabel +
+          ' ' + spatialMetadata.placeLabel
         break;
       case 'harmonic':
         const harmonicMetadata: HarmonicsMetadata = annotation.metadata;
-        shortDescription = 'Harmonic similarities ' + harmonicMetadata.longestChordProgression;
-        description = 'Longest similar chord progression: ' + harmonicMetadata.longestChordProgression;
+        shortDescription = 'Harmonic similarities: ' + harmonicMetadata.longestChordProgression;
+        description = 'Similar chord progression: ' + harmonicMetadata.longestChordProgression;
         break;
       case 'lyrics':
         const lyricsMetadata: LyricsMetadata = annotation.metadata;
