@@ -1,0 +1,38 @@
+{
+    "work": {
+        "id": "6a36f73c-3fc5-35ff-8275-4514a6887091",
+        "type": "Song",
+        "title": "Blue 7",
+        "language": "zxx",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "3b47247e-5b57-49b6-a0ed-bad80243802a",
+                "direction": "backward",
+                "artist": {
+                    "id": "3b47247e-5b57-49b6-a0ed-bad80243802a",
+                    "type": "Person",
+                    "name": "Sonny Rollins",
+                    "sort-name": "Rollins, Sonny"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b369b80-46f1-4029-97dd-c884d1ba3b09",
+                "direction": "backward",
+                "begin": "1956-06-22",
+                "end": "1956-06-22",
+                "ended": "true",
+                "recording": {
+                    "id": "8b369b80-46f1-4029-97dd-c884d1ba3b09",
+                    "title": "Blue 7",
+                    "length": "674600"
+                }
+            }
+        ]
+    }
+}

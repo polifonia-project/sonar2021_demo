@@ -1,0 +1,639 @@
+{
+    "work": {
+        "id": "179675c9-a3e5-3c44-8af5-d1cc5196f2e4",
+        "type": "Song",
+        "title": "Wait",
+        "language": "eng",
+        "iswc": "T-010.164.467-0",
+        "iswc-list": [
+            "T-010.164.467-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000087 263 87"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "32584"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12506872"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100408200"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "32.931"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357991"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357991"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "212597"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "213525"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "226144"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3381028"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009887251"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "69 811 653 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "049304800"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "34617Q"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635899-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "112889"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617902"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6966775"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000258671"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "530139298"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02925450"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9273593"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243438"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "86501901"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "1595126"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a211669d-a34f-4313-b1e9-a9cc21a4be27",
+                "direction": "backward",
+                "begin": "1965-06-17",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "a211669d-a34f-4313-b1e9-a9cc21a4be27",
+                    "title": "Wait",
+                    "length": "134000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba00d3c5-72c3-41e2-819d-5606a8394c81",
+                "direction": "backward",
+                "begin": "1965-06-17",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "ba00d3c5-72c3-41e2-819d-5606a8394c81",
+                    "title": "Wait",
+                    "length": "134000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a13b05f-52f4-4a42-ad70-9908c4c68764",
+                "direction": "backward",
+                "begin": "1965-06-17",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "2a13b05f-52f4-4a42-ad70-9908c4c68764",
+                    "title": "Wait",
+                    "length": "134720",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "349a06b5-b3e9-4f60-b617-1c05849ef6fb",
+                "direction": "backward",
+                "begin": "1965-06-17",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "349a06b5-b3e9-4f60-b617-1c05849ef6fb",
+                    "title": "Wait (stereo mix)",
+                    "length": "134386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cf48e85-2855-4c3f-b4cb-6ab0800464c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0cf48e85-2855-4c3f-b4cb-6ab0800464c8",
+                    "title": "Wait",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9626648-97af-4d48-8f96-3436457889af",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e9626648-97af-4d48-8f96-3436457889af",
+                    "title": "Wait",
+                    "length": "278240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a0041da-9adb-466f-bace-4dfba542240a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6a0041da-9adb-466f-bace-4dfba542240a",
+                    "title": "Wait",
+                    "length": "144000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "555ae3cd-bc35-4cd9-9634-895191f0dbaf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "555ae3cd-bc35-4cd9-9634-895191f0dbaf",
+                    "title": "Wait",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad0f80c4-1b47-42bc-86ee-abb489c5a197",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ad0f80c4-1b47-42bc-86ee-abb489c5a197",
+                    "title": "Wait",
+                    "length": "162466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ba11b8a-a1d9-4108-8996-9237b7cd7ce9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ba11b8a-a1d9-4108-8996-9237b7cd7ce9",
+                    "title": "Wait",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "847f10d4-0772-4f6f-8f69-5efd46c10a4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "847f10d4-0772-4f6f-8f69-5efd46c10a4e",
+                    "title": "Wait",
+                    "length": "132000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "799929de-beea-4a88-a97e-addc4f7d15ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "799929de-beea-4a88-a97e-addc4f7d15ef",
+                    "title": "Wait",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "056631d6-8e2a-4607-8344-a9a9e5d15c56",
+                "direction": "backward",
+                "recording": {
+                    "id": "056631d6-8e2a-4607-8344-a9a9e5d15c56",
+                    "title": "Wait",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16a30371-9e13-4cf7-a32d-7fed32cd8745",
+                "direction": "backward",
+                "recording": {
+                    "id": "16a30371-9e13-4cf7-a32d-7fed32cd8745",
+                    "title": "Wait",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3605013f-d857-4900-9fb9-8c3f496a65ea",
+                "direction": "backward",
+                "recording": {
+                    "id": "3605013f-d857-4900-9fb9-8c3f496a65ea",
+                    "title": "Wait",
+                    "length": "134000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4ee2fbc-8c9b-4321-8362-d5af8d8a28dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "c4ee2fbc-8c9b-4321-8362-d5af8d8a28dc",
+                    "title": "Wait",
+                    "length": "134533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8674f70-e27d-4c76-bd6b-21e547b336a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8674f70-e27d-4c76-bd6b-21e547b336a0",
+                    "title": "Wait",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75de4050-2032-4286-8040-5fee69aebe41",
+                "direction": "backward",
+                "recording": {
+                    "id": "75de4050-2032-4286-8040-5fee69aebe41",
+                    "title": "Wait",
+                    "length": "135960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97d06812-91ad-4abd-87f9-ab291c326917",
+                "direction": "backward",
+                "recording": {
+                    "id": "97d06812-91ad-4abd-87f9-ab291c326917",
+                    "title": "Wait",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1bd99a3e-d8c8-42f7-a02f-49ef57f4fcb0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1bd99a3e-d8c8-42f7-a02f-49ef57f4fcb0",
+                    "title": "Wait",
+                    "length": "220093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4650ffdc-6e8a-4f93-bab2-bbad493fca64",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4650ffdc-6e8a-4f93-bab2-bbad493fca64",
+                    "title": "Wait",
+                    "length": "132626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c62320f-eee6-439b-9050-eb7b1a43605d",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c62320f-eee6-439b-9050-eb7b1a43605d",
+                    "title": "Wait (RM2 take 4)",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2df3a49e-7d9b-4510-95b7-a38797854f63",
+                "direction": "backward",
+                "recording": {
+                    "id": "2df3a49e-7d9b-4510-95b7-a38797854f63",
+                    "title": "Wait (RS1 take 4)",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "143cfce3-e64d-4e5e-9aa5-847bae395e12",
+                "direction": "backward",
+                "recording": {
+                    "id": "143cfce3-e64d-4e5e-9aa5-847bae395e12",
+                    "title": "Wait (take 4, RM2)",
+                    "length": "132813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06af7d70-db94-4e30-9393-3392e4851562",
+                "direction": "backward",
+                "recording": {
+                    "id": "06af7d70-db94-4e30-9393-3392e4851562",
+                    "title": "Wait (take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84e24ef3-bd58-4a76-960d-4901ed403e23",
+                "direction": "backward",
+                "recording": {
+                    "id": "84e24ef3-bd58-4a76-960d-4901ed403e23",
+                    "title": "Wait (take 4) (outfake)",
+                    "length": "134000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "220d89d9-27b9-4067-8809-2c726bd4b578",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "220d89d9-27b9-4067-8809-2c726bd4b578",
+                    "title": "\u30a6\u30a8\u30a4\u30c8"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-wait-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/20219",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=96",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q922778",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Wait_(Beatles_song)",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                "direction": "backward",
+                "work": {
+                    "id": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                    "title": "Beatles Medley",
+                    "language": "eng",
+                    "disambiguation": "Stars on 45"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,885 @@
+{
+    "work": {
+        "id": "16505c22-e286-3bb2-866e-ed00a8044cd7",
+        "type": "Song",
+        "title": "P.S. I Love You",
+        "language": "eng",
+        "iswc": "T-010.163.293-2",
+        "iswc-list": [
+            "T-010.163.293-2",
+            "T-011.248.509-2"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000134 429 16"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "8666"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12210507"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "13107036000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.060.643"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "61 396 253 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001597000"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "15742Y"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "3774025"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6462637"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10219241"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000217129"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "460101808"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00161929"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "5181946"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "4350501"
+            },
+            {
+                "attribute": "Key",
+                "value": "D major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "begin": "1962-05",
+                "end": "1962-05",
+                "ended": "true",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "begin": "1962-05",
+                "end": "1962-05",
+                "ended": "true",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "35f5812b-88d7-4a42-a7ce-70860d34ec8d",
+                "direction": "backward",
+                "label": {
+                    "id": "35f5812b-88d7-4a42-a7ce-70860d34ec8d",
+                    "type": "Publisher",
+                    "name": "Ardmore and Beechwood Ltd.",
+                    "sort-name": "Ardmore and Beechwood Ltd."
+                },
+                "target-credit": "Ardmore & Beechwood Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "45a4e6b3-2567-4e7d-b872-a412cdf2d0ae",
+                "direction": "backward",
+                "label": {
+                    "id": "45a4e6b3-2567-4e7d-b872-a412cdf2d0ae",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing",
+                    "sort-name": "EMI Music Publishing",
+                    "disambiguation": "do not use as a release label!"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "9f46b61c-ce63-45f8-9109-90c0bc7fa1dd",
+                "direction": "backward",
+                "label": {
+                    "id": "9f46b61c-ce63-45f8-9109-90c0bc7fa1dd",
+                    "type": "Publisher",
+                    "name": "McCartney Music",
+                    "sort-name": "McCartney Music"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "af5c2b12-4788-4135-8f4c-dc9e2be29264",
+                "direction": "backward",
+                "label": {
+                    "id": "af5c2b12-4788-4135-8f4c-dc9e2be29264",
+                    "type": "Holding",
+                    "name": "MPL Communications Ltd.",
+                    "sort-name": "MPL Communications Ltd.",
+                    "disambiguation": "not for release label use! Paul McCartney-related, London-based company"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c84e23aa-20d9-45df-85cb-a6ecdba6e44e",
+                "direction": "backward",
+                "begin": "1962-09-11",
+                "end": "1962-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "c84e23aa-20d9-45df-85cb-a6ecdba6e44e",
+                    "title": "P.S. I Love You",
+                    "length": "124000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7a9eb58-d45b-4920-ab73-5cc9d5db0d68",
+                "direction": "backward",
+                "begin": "1962-09-11",
+                "end": "1962-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "c7a9eb58-d45b-4920-ab73-5cc9d5db0d68",
+                    "title": "P.S. I Love You (RM take 10)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99d60bad-bd6f-42d2-9f86-8882c76f1310",
+                "direction": "backward",
+                "begin": "1962-09-11",
+                "end": "1962-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "99d60bad-bd6f-42d2-9f86-8882c76f1310",
+                    "title": "P.S. I Love You (RM take 10)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "beb43015-3f09-4a5f-b96f-8e6e8d37a155",
+                "direction": "backward",
+                "begin": "1963-06-17",
+                "end": "1963-06-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "beb43015-3f09-4a5f-b96f-8e6e8d37a155",
+                    "title": "P.S. I Love You",
+                    "length": "119240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f890937-7f58-4b8c-bd11-d4c02741b59f",
+                "direction": "backward",
+                "begin": "1963-06-17",
+                "end": "1963-06-17",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7f890937-7f58-4b8c-bd11-d4c02741b59f",
+                    "title": "P.S. I Love You",
+                    "length": "119333",
+                    "disambiguation": "live, 1963\u201006\u201017: Maida Vale Studios: Studio 5, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b79a9e12-fbab-4b30-a396-536cf2e06ac8",
+                "direction": "backward",
+                "begin": "1990-03-09",
+                "end": "1990-03-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b79a9e12-fbab-4b30-a396-536cf2e06ac8",
+                    "title": "P.S. I Love You",
+                    "disambiguation": "live, 1990-03-09: Tokyo Dome, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca74835e-8922-4b73-a6ba-97404047566d",
+                "direction": "backward",
+                "begin": "2008",
+                "end": "2008",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ca74835e-8922-4b73-a6ba-97404047566d",
+                    "title": "P.S. I Love You",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3df2b69b-3bc8-4463-accc-9d8ed449503f",
+                "direction": "backward",
+                "recording": {
+                    "id": "3df2b69b-3bc8-4463-accc-9d8ed449503f",
+                    "title": "P. S. I Love You",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c432762-69ed-4325-b927-7cf8d255787f",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c432762-69ed-4325-b927-7cf8d255787f",
+                    "title": "P.S. I Love You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3cdf97f-0bd9-4fc2-a92b-0c6364ab6653",
+                "direction": "backward",
+                "recording": {
+                    "id": "f3cdf97f-0bd9-4fc2-a92b-0c6364ab6653",
+                    "title": "P.S. I Love You",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fe0d1b2-7d6c-4bc3-a06e-7d79672878f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "3fe0d1b2-7d6c-4bc3-a06e-7d79672878f2",
+                    "title": "P.S. I Love You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8da4ab2e-6d93-46a9-9090-278e14ca6064",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8da4ab2e-6d93-46a9-9090-278e14ca6064",
+                    "title": "P.S. I Love You",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69193df2-77ae-4a1e-bba0-120c41b99c72",
+                "direction": "backward",
+                "recording": {
+                    "id": "69193df2-77ae-4a1e-bba0-120c41b99c72",
+                    "title": "P.S. I Love You",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb1802ad-f2ac-43aa-9522-ed8cb3eed7f3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cb1802ad-f2ac-43aa-9522-ed8cb3eed7f3",
+                    "title": "P.S. I Love You",
+                    "length": "190000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5cbd328f-d2c3-45f7-9064-207f8b1a8fe0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5cbd328f-d2c3-45f7-9064-207f8b1a8fe0",
+                    "title": "P.S. I Love You",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "488c633d-508e-4c67-8040-e8b39b14d9c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "488c633d-508e-4c67-8040-e8b39b14d9c4",
+                    "title": "P.S. I Love You",
+                    "length": "156706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b6186a3-3b45-4392-9ab1-53d23387b460",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3b6186a3-3b45-4392-9ab1-53d23387b460",
+                    "title": "P.S. I Love You",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5e20138-07de-46a6-b539-9a83f6591466",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f5e20138-07de-46a6-b539-9a83f6591466",
+                    "title": "P.S. I Love You",
+                    "length": "133160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10e0e210-480f-40d5-a2c1-df698996689f",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "10e0e210-480f-40d5-a2c1-df698996689f",
+                    "title": "P.S. I Love You",
+                    "length": "115000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb0027f1-d27a-4122-bb14-85f3a182514c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fb0027f1-d27a-4122-bb14-85f3a182514c",
+                    "title": "P.S. I Love You",
+                    "length": "120000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "deaae45c-2d19-4595-95be-25a7ca9f7607",
+                "direction": "backward",
+                "recording": {
+                    "id": "deaae45c-2d19-4595-95be-25a7ca9f7607",
+                    "title": "P.S. I Love You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1292c314-efd5-4eaf-bab1-29aaf8a2850f",
+                "direction": "backward",
+                "recording": {
+                    "id": "1292c314-efd5-4eaf-bab1-29aaf8a2850f",
+                    "title": "P.S. I Love You",
+                    "length": "122466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8310b3b2-eba8-47eb-b3dc-f3def5e9e7f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "8310b3b2-eba8-47eb-b3dc-f3def5e9e7f0",
+                    "title": "P.S. I Love You",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ab79ec9-6d1c-443f-80af-e88a7a95a02b",
+                "direction": "backward",
+                "recording": {
+                    "id": "5ab79ec9-6d1c-443f-80af-e88a7a95a02b",
+                    "title": "P.S. I Love You",
+                    "length": "120000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3f4d93c-62a5-4df7-b480-12e87da27322",
+                "direction": "backward",
+                "recording": {
+                    "id": "f3f4d93c-62a5-4df7-b480-12e87da27322",
+                    "title": "P.S. I Love You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04833471-4c49-467f-9339-0dedc5ad1089",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "04833471-4c49-467f-9339-0dedc5ad1089",
+                    "title": "P.S. I Love You",
+                    "length": "137333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cce32796-8117-4a6e-808f-c86ba9f99445",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cce32796-8117-4a6e-808f-c86ba9f99445",
+                    "title": "P.S. I Love You"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "570eeb92-f4bb-4462-9918-d3be1473956d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "570eeb92-f4bb-4462-9918-d3be1473956d",
+                    "title": "P.S. I Love You",
+                    "length": "133200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b16ee4fc-da0e-4e49-834a-07ef7e17f7c7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b16ee4fc-da0e-4e49-834a-07ef7e17f7c7",
+                    "title": "P.S. I Love You",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e1b385d-bd8c-4fd9-a223-bb334e18020b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e1b385d-bd8c-4fd9-a223-bb334e18020b",
+                    "title": "P.S. I Love You",
+                    "length": "230840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00972a90-ad87-4933-a7d2-e1ff305e8b85",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "00972a90-ad87-4933-a7d2-e1ff305e8b85",
+                    "title": "P.S. I Love You",
+                    "length": "183026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "541cff48-366d-40c7-b3da-7b1b92c49588",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "541cff48-366d-40c7-b3da-7b1b92c49588",
+                    "title": "P.S. I Love You",
+                    "length": "133000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5e28476-0621-4002-a250-bfdf9da6ca02",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5e28476-0621-4002-a250-bfdf9da6ca02",
+                    "title": "P.S. I Love You",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7722aabb-6c4b-412a-89d7-6e4847098e4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7722aabb-6c4b-412a-89d7-6e4847098e4d",
+                    "title": "P.S. I Love You",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4e698e3-0b05-4fe4-a467-a9bd3f6a7582",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c4e698e3-0b05-4fe4-a467-a9bd3f6a7582",
+                    "title": "P.S. I Love You"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d835898-8bac-4cc1-81d0-6d7f133bbf9d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6d835898-8bac-4cc1-81d0-6d7f133bbf9d",
+                    "title": "P.S. I Love You",
+                    "length": "140000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca4f4bf8-ee18-4627-bec1-9c7ed82c86c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ca4f4bf8-ee18-4627-bec1-9c7ed82c86c8",
+                    "title": "P.S. I Love You",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76eaed43-9d6c-427d-ade7-11cf550af248",
+                "direction": "backward",
+                "recording": {
+                    "id": "76eaed43-9d6c-427d-ade7-11cf550af248",
+                    "title": "P.S. I Love You (Pop Go the Beatles)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1946f40b-8ee4-428c-a8a5-37cb63faed90",
+                "direction": "backward",
+                "recording": {
+                    "id": "1946f40b-8ee4-428c-a8a5-37cb63faed90",
+                    "title": "P.S. \u042f \u041b\u044e\u0431\u043b\u044e \u0422\u0435\u0431\u044f = P.S. I Love You",
+                    "length": "121000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100436",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-ps-i-love-you-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10791",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=10",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1419151",
+                "direction": "backward"
+            }
+        ]
+    }
+}

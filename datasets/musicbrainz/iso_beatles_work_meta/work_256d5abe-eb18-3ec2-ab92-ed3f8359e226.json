@@ -1,0 +1,728 @@
+{
+    "work": {
+        "id": "256d5abe-eb18-3ec2-ab92-ed3f8359e226",
+        "type": "Song",
+        "title": "Love You To",
+        "language": "eng",
+        "iswc": "T-010.158.855-9",
+        "iswc-list": [
+            "T-010.158.855-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000047 436 05"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "6634"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12297226"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75101250200"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "62.398"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1346009"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1346009"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "215015"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "4005323"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009886156"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "65 173 652 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014434900"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "42013X"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "1710DQ"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0L1-5810-1"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "528457-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "58855"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "3628640"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10608510"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000069602"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "420134527"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02012752"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9628659"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "43777001"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "546562201"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6353313"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70ad83b7-a623-44e5-b136-c9744e7f362d",
+                "direction": "backward",
+                "begin": "1966-04-11",
+                "end": "1966-04-13",
+                "ended": "true",
+                "recording": {
+                    "id": "70ad83b7-a623-44e5-b136-c9744e7f362d",
+                    "title": "Love You To",
+                    "length": "183226",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d89f4a0-ce99-4336-b460-c1989210f834",
+                "direction": "backward",
+                "begin": "1966-04-11",
+                "end": "1966-04-13",
+                "ended": "true",
+                "recording": {
+                    "id": "8d89f4a0-ce99-4336-b460-c1989210f834",
+                    "title": "Love You To",
+                    "length": "181200",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c3cdf73-86d8-4b10-8101-b36c0ba03c47",
+                "direction": "backward",
+                "begin": "1966-04-11",
+                "end": "1966-04-13",
+                "ended": "true",
+                "recording": {
+                    "id": "6c3cdf73-86d8-4b10-8101-b36c0ba03c47",
+                    "title": "Love You To",
+                    "length": "180533",
+                    "disambiguation": "1999 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83ee9f26-1b56-4630-ac8b-2189d9ebd44d",
+                "direction": "backward",
+                "recording": {
+                    "id": "83ee9f26-1b56-4630-ac8b-2189d9ebd44d",
+                    "title": "Love to You",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a64ae0d1-edf6-4390-b0cd-7816582a8b49",
+                "direction": "backward",
+                "recording": {
+                    "id": "a64ae0d1-edf6-4390-b0cd-7816582a8b49",
+                    "title": "Love You Do",
+                    "length": "181466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98c83c7a-a81d-4210-8836-e8a64619681c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98c83c7a-a81d-4210-8836-e8a64619681c",
+                    "title": "Love You To",
+                    "length": "231000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44af0343-37f9-473b-8dbc-42124ebd019e",
+                "direction": "backward",
+                "recording": {
+                    "id": "44af0343-37f9-473b-8dbc-42124ebd019e",
+                    "title": "Love You To"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7bfd39d4-3824-499a-8e68-35f70a840779",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7bfd39d4-3824-499a-8e68-35f70a840779",
+                    "title": "Love You To",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "313540bd-10b3-4797-8c9e-6adc5af089fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "313540bd-10b3-4797-8c9e-6adc5af089fd",
+                    "title": "Love You To",
+                    "length": "184000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd90f2a7-79ed-4368-8c97-ce7d355719fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd90f2a7-79ed-4368-8c97-ce7d355719fc",
+                    "title": "Love You To",
+                    "length": "485000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d4ec002-0243-4457-9635-bdee0a961105",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d4ec002-0243-4457-9635-bdee0a961105",
+                    "title": "Love You To",
+                    "length": "202000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdc658dd-200b-4258-ba37-0126a25d4195",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cdc658dd-200b-4258-ba37-0126a25d4195",
+                    "title": "Love You To",
+                    "length": "219000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11a9e2e2-295c-44b3-8071-f0847ae08897",
+                "direction": "backward",
+                "recording": {
+                    "id": "11a9e2e2-295c-44b3-8071-f0847ae08897",
+                    "title": "Love You To",
+                    "length": "181826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "899cf96b-2f79-4409-8179-d62c55ee3555",
+                "direction": "backward",
+                "recording": {
+                    "id": "899cf96b-2f79-4409-8179-d62c55ee3555",
+                    "title": "Love You To",
+                    "length": "186866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "178e1f5e-974b-462c-9454-00c359da2845",
+                "direction": "backward",
+                "recording": {
+                    "id": "178e1f5e-974b-462c-9454-00c359da2845",
+                    "title": "Love You To"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7835f8c-7e0c-4ed8-8b3e-7b1a039ed087",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7835f8c-7e0c-4ed8-8b3e-7b1a039ed087",
+                    "title": "Love You To",
+                    "length": "179773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eee5d779-09b2-483a-8cad-af6cbc1623fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eee5d779-09b2-483a-8cad-af6cbc1623fa",
+                    "title": "Love You To",
+                    "length": "135426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24b76c2e-45d4-4fc1-9e7a-efb1271394fe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "24b76c2e-45d4-4fc1-9e7a-efb1271394fe",
+                    "title": "Love You To",
+                    "length": "243733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0be458b4-aa2e-485c-8cb4-f0998165b178",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0be458b4-aa2e-485c-8cb4-f0998165b178",
+                    "title": "Love You To",
+                    "length": "285000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "110288e5-bb2a-4a9d-934c-ee08aac2271a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "110288e5-bb2a-4a9d-934c-ee08aac2271a",
+                    "title": "Love You To",
+                    "length": "261000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5939bc0a-6d91-4355-86a6-fc08aa93d404",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5939bc0a-6d91-4355-86a6-fc08aa93d404",
+                    "title": "Love You To",
+                    "length": "203933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89b5ced8-f31b-483a-9c3c-0634ec87127e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "89b5ced8-f31b-483a-9c3c-0634ec87127e",
+                    "title": "Love You To",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36e5909a-c41c-4390-8dcf-dbe899cf15b3",
+                "direction": "backward",
+                "recording": {
+                    "id": "36e5909a-c41c-4390-8dcf-dbe899cf15b3",
+                    "title": "Love You To (Mono Mix)",
+                    "length": "190000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "814e1f62-9a8b-4c8b-ba46-243030ed18bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "814e1f62-9a8b-4c8b-ba46-243030ed18bf",
+                    "title": "Love You To (mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cb1e34a-6314-4b7d-890d-4d26585e7ed7",
+                "direction": "backward",
+                "recording": {
+                    "id": "1cb1e34a-6314-4b7d-890d-4d26585e7ed7",
+                    "title": "Love You To (mono)",
+                    "length": "190600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36a4d4d8-43af-4b79-b496-78499f926551",
+                "direction": "backward",
+                "recording": {
+                    "id": "36a4d4d8-43af-4b79-b496-78499f926551",
+                    "title": "Love You To (RM1, RM2, RM3 & Edit Take 7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a1aa442-d77f-4c81-82f0-0f8219b6cfa8",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a1aa442-d77f-4c81-82f0-0f8219b6cfa8",
+                    "title": "Love You To (RS1, RS2, RS3 & Edit Take 7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c15fe379-1cde-4e8d-bf59-bdc7a7e9f7bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "c15fe379-1cde-4e8d-bf59-bdc7a7e9f7bf",
+                    "title": "Love You To (SI Onto Take 6 2nd Sitar & Fuzz Bass)",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b907cecd-8718-4e23-a85c-3704689c20d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "b907cecd-8718-4e23-a85c-3704689c20d6",
+                    "title": "Love You To (SI Onto Take 6 Sitar & Tabla)",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "529fd9a9-4d19-42d1-854d-6e96a56eec6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "529fd9a9-4d19-42d1-854d-6e96a56eec6b",
+                    "title": "Love You To (SI Onto Take 7)",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "258c7f1c-b9c6-4306-b011-15bcdaf66fad",
+                "direction": "backward",
+                "recording": {
+                    "id": "258c7f1c-b9c6-4306-b011-15bcdaf66fad",
+                    "title": "Love You To (Stereo Mix, Edit Of RS1-3)",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0298d7e-5706-4f87-9365-409665223120",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0298d7e-5706-4f87-9365-409665223120",
+                    "title": "Love You To (Take 6 - Guitar & Vocal)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41379d04-e851-471d-89d5-99d0db8103b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41379d04-e851-471d-89d5-99d0db8103b0",
+                    "title": "Love You Too",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8537d12-236d-41c0-8ef4-90555366447b",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8537d12-236d-41c0-8ef4-90555366447b",
+                    "title": "Love You Too",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa12079a-c665-4160-a4ee-52b50c42b82b",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa12079a-c665-4160-a4ee-52b50c42b82b",
+                    "title": "Love You Too (mono mix)",
+                    "length": "186093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84b9aee4-d153-458a-9ab5-331a72a7f92e",
+                "direction": "backward",
+                "recording": {
+                    "id": "84b9aee4-d153-458a-9ab5-331a72a7f92e",
+                    "title": "Love You Too (mono)",
+                    "length": "191000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-love-you-to-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/25193",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=104",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1935345",
+                "direction": "backward"
+            }
+        ]
+    }
+}

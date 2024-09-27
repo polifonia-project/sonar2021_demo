@@ -1,0 +1,2987 @@
+{
+    "work": {
+        "id": "cd3796d9-146f-3489-874e-5a4e3c838dc8",
+        "type": "Song",
+        "title": "Somebody to Love",
+        "language": "eng",
+        "iswc": "T-010.177.603-7",
+        "iswc-list": [
+            "T-010.177.603-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1373980"
+            }
+        ],
+        "disambiguation": "Queen song",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b286fbf-0dc9-45b8-bf4a-5036ac72526d",
+                "direction": "backward",
+                "begin": "1976-07",
+                "end": "1976-11",
+                "ended": "true",
+                "recording": {
+                    "id": "3b286fbf-0dc9-45b8-bf4a-5036ac72526d",
+                    "title": "Somebody to Love",
+                    "length": "296466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "289f753a-b8af-473d-8239-9ccdf2283a31",
+                "direction": "backward",
+                "begin": "1976-07",
+                "end": "1976-11",
+                "ended": "true",
+                "recording": {
+                    "id": "289f753a-b8af-473d-8239-9ccdf2283a31",
+                    "title": "Somebody to Love",
+                    "length": "296000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d451e809-a633-42da-a28f-83a1f610d328",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d451e809-a633-42da-a28f-83a1f610d328",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 1977-03-13: Seattle Center Arena, Seattle, WA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a442cd56-587d-4a0b-a456-bbfd68643f7d",
+                "direction": "backward",
+                "begin": "1977-03-13",
+                "end": "1977-03-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a442cd56-587d-4a0b-a456-bbfd68643f7d",
+                    "title": "Somebody to Love",
+                    "length": "322000",
+                    "disambiguation": "live, 1977-03-13: Seattle Center Arena, Seattle, Washington, United States"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1da08e60-4ea8-41e8-9bb1-d36efcc497b1",
+                "direction": "backward",
+                "begin": "1977-05-12",
+                "end": "1977-05-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1da08e60-4ea8-41e8-9bb1-d36efcc497b1",
+                    "title": "Somebody to Love",
+                    "length": "336875",
+                    "disambiguation": "live, 1977-05-12"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "74bdd4a3-8322-4f4c-b83b-3d6070301018",
+                "direction": "backward",
+                "begin": "1977-05-12",
+                "end": "1977-05-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "74bdd4a3-8322-4f4c-b83b-3d6070301018",
+                    "title": "Somebody to Love",
+                    "length": "324000",
+                    "disambiguation": "live, 1977-05-12: Broendby Hall, Copenhagen, Denmark"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b0241c9-5404-43c5-a1bc-59ad37d64b35",
+                "direction": "backward",
+                "begin": "1977-06-06",
+                "end": "1977-06-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2b0241c9-5404-43c5-a1bc-59ad37d64b35",
+                    "title": "Somebody to Love",
+                    "length": "350000",
+                    "disambiguation": "live, 1977-06-06: Earl's Court, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c835a59b-d974-469e-be8d-ba2fde92bfda",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c835a59b-d974-469e-be8d-ba2fde92bfda",
+                    "title": "Somebody to Love",
+                    "length": "364506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97d0d6b2-5019-429b-ac5f-7f957aec1430",
+                "direction": "backward",
+                "begin": "1977-12-11",
+                "end": "1977-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "97d0d6b2-5019-429b-ac5f-7f957aec1430",
+                    "title": "Somebody to Love",
+                    "length": "389005",
+                    "disambiguation": "mono soundboard recorded live, 1977-12-11: The Summit, Houstan, Texas, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffd02b6b-99bf-446b-8fbe-c96b0dbbc992",
+                "direction": "backward",
+                "begin": "1977",
+                "end": "1977",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ffd02b6b-99bf-446b-8fbe-c96b0dbbc992",
+                    "title": "Somebody to Love",
+                    "length": "324600",
+                    "disambiguation": "live, 1977: USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5720e80-9a86-4761-8827-74175e2ed256",
+                "direction": "backward",
+                "begin": "1978-11-19",
+                "end": "1978-11-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a5720e80-9a86-4761-8827-74175e2ed256",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 1978-11-19: Jazz Tour in Long Island 1978: Nassau Coliseum, Uniondale, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e98d395-d11c-4400-96e5-3e01f10eaa5b",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6e98d395-d11c-4400-96e5-3e01f10eaa5b",
+                    "title": "Somebody to Love"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5bfc16d-bf0c-4c8a-8616-94864197fe5b",
+                "direction": "backward",
+                "begin": "1978-12-01",
+                "end": "1978-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d5bfc16d-bf0c-4c8a-8616-94864197fe5b",
+                    "title": "Somebody to Love",
+                    "length": "427653",
+                    "disambiguation": "live, 1978-12-01: Montreal Forum, Montreal, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14917d13-b18d-47b6-b44a-2cd5a6ef9955",
+                "direction": "backward",
+                "begin": "1978-12-14",
+                "end": "1978-12-14",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "14917d13-b18d-47b6-b44a-2cd5a6ef9955",
+                    "title": "Somebody to Love",
+                    "length": "452000",
+                    "disambiguation": "live, 1978-12-14: PNE Coliseum, Vancouver, BC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00916a6e-4849-4739-a16a-b3c5060dfc86",
+                "direction": "backward",
+                "begin": "1979-01-24",
+                "end": "1979-01-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "00916a6e-4849-4739-a16a-b3c5060dfc86",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 1979-01-24: Deutschlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8f4ff9c-74c5-4db7-9726-2b43851228d3",
+                "direction": "backward",
+                "begin": "1979-12-03",
+                "end": "1979-12-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c8f4ff9c-74c5-4db7-9726-2b43851228d3",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 1979-12-03: Getting Ready for the Game in Newcastle 3/12/79: City Hall, Newcastle, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c82506b-0b24-4564-9f12-1ae51f134e46",
+                "direction": "backward",
+                "begin": "1979-12-26",
+                "end": "1979-12-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6c82506b-0b24-4564-9f12-1ae51f134e46",
+                    "title": "Somebody to Love",
+                    "length": "457746",
+                    "disambiguation": "live, 1979-12-26: Hammersmith Odeon, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f4904c0-1600-47cb-9aae-fcb347ab556d",
+                "direction": "backward",
+                "begin": "1981-03-20",
+                "end": "1981-03-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5f4904c0-1600-47cb-9aae-fcb347ab556d",
+                    "title": "Somebody to Love",
+                    "length": "418573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f4b7aa8-6e5e-4902-ad73-9dd6b4884911",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1f4b7aa8-6e5e-4902-ad73-9dd6b4884911",
+                    "title": "Somebody to Love",
+                    "length": "458973",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e865a551-0470-45b1-9d8f-127607f3c65f",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e865a551-0470-45b1-9d8f-127607f3c65f",
+                    "title": "Somebody to Love",
+                    "length": "473000",
+                    "disambiguation": "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fb59802-9dbf-435a-9e5c-3a5dd2d97f52",
+                "direction": "backward",
+                "begin": "1981",
+                "end": "1981",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5fb59802-9dbf-435a-9e5c-3a5dd2d97f52",
+                    "title": "Somebody to Love (live)",
+                    "length": "418000",
+                    "disambiguation": "live, 1981: Morumbi, S\u00e3o Paulo, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3479b44-f08c-43a8-be26-d12166300594",
+                "direction": "backward",
+                "begin": "1982-04-16",
+                "end": "1982-04-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f3479b44-f08c-43a8-be26-d12166300594",
+                    "title": "Somebody to Love",
+                    "length": "280000",
+                    "disambiguation": "live, 1982-04-16: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0fc02bf-928c-4ef0-8194-56d140e6a1a9",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f0fc02bf-928c-4ef0-8194-56d140e6a1a9",
+                    "title": "Somebody to Love",
+                    "length": "472874",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07771d21-8711-41b9-b273-56c4894bb16c",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "07771d21-8711-41b9-b273-56c4894bb16c",
+                    "title": "Somebody to Love",
+                    "length": "473293",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a999ab70-fd8d-4235-aa18-589956076881",
+                "direction": "backward",
+                "begin": "1982-06",
+                "end": "1982-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a999ab70-fd8d-4235-aa18-589956076881",
+                    "title": "Somebody to Love",
+                    "length": "477000",
+                    "disambiguation": "live, 1982-06: Milton Keynes Bowl, Milton Keynes, Buckinghamshire, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e80264a1-2856-4491-af5e-af378bac1445",
+                "direction": "backward",
+                "begin": "1982-07-28",
+                "end": "1982-07-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e80264a1-2856-4491-af5e-af378bac1445",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0460df0-e45a-441f-b692-a5972ae29d23",
+                "direction": "backward",
+                "begin": "1982-10-19",
+                "end": "1982-10-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a0460df0-e45a-441f-b692-a5972ae29d23",
+                    "title": "Somebody to Love",
+                    "length": "430574",
+                    "disambiguation": "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b148b7c-e7e8-4f92-a99d-d1fcf4c214f1",
+                "direction": "backward",
+                "begin": "1984-09-24",
+                "end": "1984-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0b148b7c-e7e8-4f92-a99d-d1fcf4c214f1",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 1984-09-24: Deutchlandhalle, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f780765a-ab5f-43fc-bbbf-c6f85d81788f",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f780765a-ab5f-43fc-bbbf-c6f85d81788f",
+                    "title": "Somebody to Love",
+                    "length": "248000",
+                    "disambiguation": "live, 1985-05-11: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ba3db25-f9c8-43b5-92e8-874737c97c61",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6ba3db25-f9c8-43b5-92e8-874737c97c61",
+                    "title": "Somebody to Love",
+                    "length": "224466",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98b6bb6a-17e9-4c26-b431-6fe3b2d419d0",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "98b6bb6a-17e9-4c26-b431-6fe3b2d419d0",
+                    "title": "Somebody to Love",
+                    "length": "249000",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86ad5a3b-cf7e-4423-b21c-8587b90cce54",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "86ad5a3b-cf7e-4423-b21c-8587b90cce54",
+                    "title": "Somebody to Love / Medley: Killer Queen / Seven Seas of Rhye / Keep Yourself Alive / Liar / Impromptu",
+                    "disambiguation": "live, 1985-05-11: \u56fd\u7acb\u4ee3\u3005\u6728\u7af6\u6280\u5834, Jinnan, Shibuya, Tokyo, Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72d9a69d-6bf5-4e16-b7b7-bb1c413a65a0",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "72d9a69d-6bf5-4e16-b7b7-bb1c413a65a0",
+                    "title": "Somebody to Love",
+                    "length": "314000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef3a1930-2d7a-40a0-ad52-614b1091fbb2",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ef3a1930-2d7a-40a0-ad52-614b1091fbb2",
+                    "title": "Somebody to Love",
+                    "length": "396000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55b21337-ce11-4fb1-b0e4-3fc8e88027ea",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "55b21337-ce11-4fb1-b0e4-3fc8e88027ea",
+                    "title": "Somebody to Love",
+                    "length": "317000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ded4d14-fbe0-436d-8070-3cff01423cf7",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4ded4d14-fbe0-436d-8070-3cff01423cf7",
+                    "title": "Somebody to Love (live)",
+                    "length": "307000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5df5bf8a-6530-4eda-8060-2a71c108b152",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5df5bf8a-6530-4eda-8060-2a71c108b152",
+                    "title": "Somebody to Love (live)",
+                    "length": "307360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb706d8d-d7be-4f9a-aab4-e4935ca477a6",
+                "direction": "backward",
+                "begin": "2001-10-12",
+                "end": "2001-10-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb706d8d-d7be-4f9a-aab4-e4935ca477a6",
+                    "title": "Somebody to Love",
+                    "length": "269000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0b03972-f725-4ce2-b8bf-9c4a3c12cd22",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d0b03972-f725-4ce2-b8bf-9c4a3c12cd22",
+                    "title": "Somebody to Love",
+                    "length": "208000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3bec257-919f-4707-983f-ac5a9f0503c2",
+                "direction": "backward",
+                "begin": "2004",
+                "end": "2004",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a3bec257-919f-4707-983f-ac5a9f0503c2",
+                    "title": "Somebody to Love (\u201cWetten Das\u201d German TV live performance, 2004)",
+                    "length": "104000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d03c41a-4512-4541-8d3b-53153b00ae22",
+                "direction": "backward",
+                "begin": "2005-06-06",
+                "end": "2005-06-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3d03c41a-4512-4541-8d3b-53153b00ae22",
+                    "title": "Somebody to Love",
+                    "length": "259000",
+                    "disambiguation": "live, 2005-06-06: Royal Albert Hall, Kensington Gore, London SW7 2AP, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0fe819fe-9eed-421d-a29d-e65dfa29fdac",
+                "direction": "backward",
+                "begin": "2005",
+                "end": "2005",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0fe819fe-9eed-421d-a29d-e65dfa29fdac",
+                    "title": "Somebody to Love",
+                    "length": "208000",
+                    "disambiguation": "We Will Rock You, 2005 K\u00f6ln cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81a5641c-010a-4daf-8ee0-1dc5a892a29c",
+                "direction": "backward",
+                "begin": "2006-10",
+                "end": "2006-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "81a5641c-010a-4daf-8ee0-1dc5a892a29c",
+                    "title": "Somebody to Love",
+                    "length": "293533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "485c90da-63d0-48b5-adb9-7e8153b46445",
+                "direction": "backward",
+                "begin": "2006-12-09",
+                "end": "2006-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "485c90da-63d0-48b5-adb9-7e8153b46445",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 2006-12-09: Walter-K\u00f6bel-Halle R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a1bb103-2ff5-4625-a2b1-b1b102404365",
+                "direction": "backward",
+                "begin": "2006-12",
+                "end": "2006-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2a1bb103-2ff5-4625-a2b1-b1b102404365",
+                    "title": "Somebody to Love",
+                    "length": "371000",
+                    "disambiguation": "live, 2006-12: Cafe Hahn, Koblenz, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70a1dcf9-0e58-4271-bef8-4ea0b8f89474",
+                "direction": "backward",
+                "begin": "2010-12-10",
+                "end": "2010-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "70a1dcf9-0e58-4271-bef8-4ea0b8f89474",
+                    "title": "Somebody to Love",
+                    "length": "317000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48699d2e-da2e-452d-b599-d9f256c8b319",
+                "direction": "backward",
+                "begin": "2011-06",
+                "end": "2011-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "48699d2e-da2e-452d-b599-d9f256c8b319",
+                    "title": "Somebody to Love",
+                    "length": "255000",
+                    "disambiguation": "live, 2011-06: Izod Center, East Rutherford, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32212b15-36ae-4074-a03b-ea666d4a27fc",
+                "direction": "backward",
+                "begin": "2016-06-12",
+                "end": "2016-06-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "32212b15-36ae-4074-a03b-ea666d4a27fc",
+                    "title": "Somebody to Love",
+                    "length": "358866",
+                    "disambiguation": "live, 2016: Isle of Wight Festival, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba038c04-bf17-4c30-bc1d-28df7984c77d",
+                "direction": "backward",
+                "begin": "2019-09-28",
+                "end": "2019-09-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ba038c04-bf17-4c30-bc1d-28df7984c77d",
+                    "title": "Somebody to Love",
+                    "disambiguation": "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "193d1cde-a31b-4e82-877d-0c6545bfeb02",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "193d1cde-a31b-4e82-877d-0c6545bfeb02",
+                    "title": "Medley: Killer Queen / Bohemian Rhapsody / Somebody to Love",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1efc1aa3-6a17-4c8f-900f-5236509d548c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1efc1aa3-6a17-4c8f-900f-5236509d548c",
+                    "title": "Somebody to Love",
+                    "length": "236266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fc861d3-e642-49a6-a628-3b49a265f6e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7fc861d3-e642-49a6-a628-3b49a265f6e5",
+                    "title": "Somebody to Love",
+                    "length": "416000",
+                    "disambiguation": "live, 1979-02-01: Sporthalle, Cologne, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1eab8a1a-07ad-4621-9436-fbb66b8bde72",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1eab8a1a-07ad-4621-9436-fbb66b8bde72",
+                    "title": "Somebody to Love",
+                    "length": "251493",
+                    "disambiguation": "live, 1985-05-11: Yoyogi Auditorium, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "774f3748-8ade-4e01-a2c2-5fd2745ff596",
+                "direction": "backward",
+                "recording": {
+                    "id": "774f3748-8ade-4e01-a2c2-5fd2745ff596",
+                    "title": "Somebody to Love",
+                    "length": "297600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cb7c8f9-28f9-4485-8b1e-065803f34838",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1cb7c8f9-28f9-4485-8b1e-065803f34838",
+                    "title": "Somebody to Love",
+                    "length": "226573",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af1790c0-fec5-4a7e-a7dc-19ff37adde08",
+                "direction": "backward",
+                "recording": {
+                    "id": "af1790c0-fec5-4a7e-a7dc-19ff37adde08",
+                    "title": "Somebody to Love",
+                    "length": "320666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "839d9b52-465e-40f7-87ba-cac224182a89",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "839d9b52-465e-40f7-87ba-cac224182a89",
+                    "title": "Somebody to Love",
+                    "length": "309413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18551002-9665-45fa-9895-cc48856ac3f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "18551002-9665-45fa-9895-cc48856ac3f6",
+                    "title": "Somebody to Love",
+                    "length": "261773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4d1c532-81fa-4bb7-ad10-20bf98b09ee3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e4d1c532-81fa-4bb7-ad10-20bf98b09ee3",
+                    "title": "Somebody to Love",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d6ada03-0bcb-4ffa-8981-7d790e064ee7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8d6ada03-0bcb-4ffa-8981-7d790e064ee7",
+                    "title": "Somebody to Love",
+                    "length": "272333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7aa1eda8-048e-43d3-aff8-800573bc4410",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7aa1eda8-048e-43d3-aff8-800573bc4410",
+                    "title": "Somebody to Love",
+                    "length": "285000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d08d616-58d2-4ee8-b87e-44512dfc109a",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d08d616-58d2-4ee8-b87e-44512dfc109a",
+                    "title": "Somebody to Love",
+                    "length": "315400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7cce7d3-4cec-4f3d-99cc-74932f750d7f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b7cce7d3-4cec-4f3d-99cc-74932f750d7f",
+                    "title": "Somebody to Love",
+                    "length": "329000",
+                    "disambiguation": "live, 1992-04-20: Freddie Mercury Tribute Concert, Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f679abe4-18fa-4579-9641-4e3eb8f4c083",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f679abe4-18fa-4579-9641-4e3eb8f4c083",
+                    "title": "Somebody to Love",
+                    "length": "312000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f9c5536-1a30-4721-a1ec-e686317aec4e",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f9c5536-1a30-4721-a1ec-e686317aec4e",
+                    "title": "Somebody to Love",
+                    "length": "300000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20f2b346-4c47-4344-9973-69c0bd263665",
+                "direction": "backward",
+                "recording": {
+                    "id": "20f2b346-4c47-4344-9973-69c0bd263665",
+                    "title": "Somebody to Love",
+                    "length": "311000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d25824bd-0bbf-4840-8c7b-960c8fda0dd3",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d25824bd-0bbf-4840-8c7b-960c8fda0dd3",
+                    "title": "Somebody to Love",
+                    "length": "345749",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "296688f7-269e-4233-81e4-d70b934f7b70",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "296688f7-269e-4233-81e4-d70b934f7b70",
+                    "title": "Somebody to Love",
+                    "length": "325000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f83836b0-03eb-4802-8862-612bc4c808e0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f83836b0-03eb-4802-8862-612bc4c808e0",
+                    "title": "Somebody to Love",
+                    "length": "184840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e10eac19-a4b0-4143-9952-a45e64c6bd74",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e10eac19-a4b0-4143-9952-a45e64c6bd74",
+                    "title": "Somebody to Love",
+                    "length": "195066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19e2d22f-e337-441b-a3d6-7643c83fa799",
+                "direction": "backward",
+                "recording": {
+                    "id": "19e2d22f-e337-441b-a3d6-7643c83fa799",
+                    "title": "Somebody to Love",
+                    "length": "296000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eba26325-8752-4686-b0ab-d31ee33a3eda",
+                "direction": "backward",
+                "recording": {
+                    "id": "eba26325-8752-4686-b0ab-d31ee33a3eda",
+                    "title": "Somebody to Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a168ee33-0ebe-4073-b39e-06bee89119a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a168ee33-0ebe-4073-b39e-06bee89119a0",
+                    "title": "Somebody to Love"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "050b6d04-49a5-486e-bf5d-328715892e23",
+                "direction": "backward",
+                "recording": {
+                    "id": "050b6d04-49a5-486e-bf5d-328715892e23",
+                    "title": "Somebody to Love",
+                    "length": "316000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e606329-60b5-49c5-b74c-bfda7aaca21a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7e606329-60b5-49c5-b74c-bfda7aaca21a",
+                    "title": "Somebody to Love",
+                    "length": "244000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af9d901d-febf-4063-9d1c-206f7244dc0e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "af9d901d-febf-4063-9d1c-206f7244dc0e",
+                    "title": "Somebody to Love",
+                    "length": "283000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35d49961-b361-4913-86f5-e04893961d19",
+                "direction": "backward",
+                "recording": {
+                    "id": "35d49961-b361-4913-86f5-e04893961d19",
+                    "title": "Somebody to Love",
+                    "length": "293000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b133ef48-1fbe-4b29-8dba-f53ce5deb7ff",
+                "direction": "backward",
+                "recording": {
+                    "id": "b133ef48-1fbe-4b29-8dba-f53ce5deb7ff",
+                    "title": "Somebody to Love",
+                    "length": "297053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0154ddf-e982-4832-9176-a325bd77458b",
+                "direction": "backward",
+                "recording": {
+                    "id": "c0154ddf-e982-4832-9176-a325bd77458b",
+                    "title": "Somebody to Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "747537c1-38f7-4324-be93-07e251a5a91f",
+                "direction": "backward",
+                "recording": {
+                    "id": "747537c1-38f7-4324-be93-07e251a5a91f",
+                    "title": "Somebody to Love",
+                    "length": "297000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54959db2-0334-4eb9-89ed-3105408a4267",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54959db2-0334-4eb9-89ed-3105408a4267",
+                    "title": "Somebody to Love",
+                    "length": "64000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08dbf101-63dd-4370-822b-8c9c2e0aa706",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "08dbf101-63dd-4370-822b-8c9c2e0aa706",
+                    "title": "Somebody to Love",
+                    "length": "313386"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cefc0297-75e3-458e-a88c-47a068962a7b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cefc0297-75e3-458e-a88c-47a068962a7b",
+                    "title": "Somebody to Love",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c676473b-ae98-40b0-ab88-a2e257937fa2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c676473b-ae98-40b0-ab88-a2e257937fa2",
+                    "title": "Somebody to Love",
+                    "length": "262364"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33322ecb-b197-4548-9e7b-ab84c5f717c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "33322ecb-b197-4548-9e7b-ab84c5f717c4",
+                    "title": "Somebody to Love",
+                    "length": "291586"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "118e5cc1-b2d9-4195-adb5-8b467b5a7957",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "118e5cc1-b2d9-4195-adb5-8b467b5a7957",
+                    "title": "Somebody to Love",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d84b522d-7c20-414b-83c7-715a40d8635a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d84b522d-7c20-414b-83c7-715a40d8635a",
+                    "title": "Somebody to Love",
+                    "length": "302453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63dfc508-fcc8-42cf-a86b-015fd059e681",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "63dfc508-fcc8-42cf-a86b-015fd059e681",
+                    "title": "Somebody to Love",
+                    "length": "353000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bae265c7-b1ed-4a10-b9d7-11d12a4730dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bae265c7-b1ed-4a10-b9d7-11d12a4730dc",
+                    "title": "Somebody to Love",
+                    "length": "256000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd25c1b7-a1a4-4e1b-b308-c94bfa12f57b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bd25c1b7-a1a4-4e1b-b308-c94bfa12f57b",
+                    "title": "Somebody to Love",
+                    "length": "426000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63e0d97c-6b22-4973-b51b-56c43dd328ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "63e0d97c-6b22-4973-b51b-56c43dd328ab",
+                    "title": "Somebody to Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e52170c-c2ea-4ba6-9b20-a37500bba16f",
+                "direction": "backward",
+                "recording": {
+                    "id": "8e52170c-c2ea-4ba6-9b20-a37500bba16f",
+                    "title": "Somebody to Love",
+                    "length": "258000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2533225-fab1-4354-8888-fc38ba851e4e",
+                "direction": "backward",
+                "recording": {
+                    "id": "a2533225-fab1-4354-8888-fc38ba851e4e",
+                    "title": "Somebody to Love",
+                    "length": "297000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38f853eb-c38f-4cd1-9e9f-09ecb38a5a56",
+                "direction": "backward",
+                "recording": {
+                    "id": "38f853eb-c38f-4cd1-9e9f-09ecb38a5a56",
+                    "title": "Somebody to Love",
+                    "length": "287533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cde007d5-5c91-4948-b523-03d399c97b0c",
+                "direction": "backward",
+                "recording": {
+                    "id": "cde007d5-5c91-4948-b523-03d399c97b0c",
+                    "title": "Somebody to Love",
+                    "length": "310000",
+                    "disambiguation": "music clip",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "208702fe-c1d3-40c4-90de-932c0ad5ed56",
+                "direction": "backward",
+                "recording": {
+                    "id": "208702fe-c1d3-40c4-90de-932c0ad5ed56",
+                    "title": "Somebody to Love",
+                    "length": "296280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bd0b390-c11a-48a0-8684-86b8f30e6cfa",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2bd0b390-c11a-48a0-8684-86b8f30e6cfa",
+                    "title": "Somebody to Love",
+                    "length": "249426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b622a2ab-0aa1-4fc2-838b-1b50d55ce053",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b622a2ab-0aa1-4fc2-838b-1b50d55ce053",
+                    "title": "Somebody to Love",
+                    "length": "243866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5707e7c7-143a-446d-9b65-a2397093a529",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5707e7c7-143a-446d-9b65-a2397093a529",
+                    "title": "Somebody to Love",
+                    "length": "322000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc65c190-86fa-43b1-8184-993d45a07d6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cc65c190-86fa-43b1-8184-993d45a07d6b",
+                    "title": "Somebody to Love"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd4da09d-bd17-46ac-b6b0-fad48a469ff7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dd4da09d-bd17-46ac-b6b0-fad48a469ff7",
+                    "title": "Somebody to Love",
+                    "length": "322031"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6af24873-699e-4afb-9cbb-2a2793531fa3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6af24873-699e-4afb-9cbb-2a2793531fa3",
+                    "title": "Somebody to Love",
+                    "length": "272066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0dae81f9-9653-4d17-94e8-8f12686f0f4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0dae81f9-9653-4d17-94e8-8f12686f0f4a",
+                    "title": "Somebody to Love",
+                    "length": "331000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b8a6da1-7008-4a07-84b6-f9b4616864e7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3b8a6da1-7008-4a07-84b6-f9b4616864e7",
+                    "title": "Somebody to Love",
+                    "length": "246573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "735ac01a-03b1-414c-9c90-330ee4e2b1ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "735ac01a-03b1-414c-9c90-330ee4e2b1ff",
+                    "title": "Somebody to Love",
+                    "length": "309000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1aac0397-ff95-41d2-b689-2647a4164968",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1aac0397-ff95-41d2-b689-2647a4164968",
+                    "title": "Somebody to Love",
+                    "length": "254880"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec689216-8c28-4871-991c-bcc5c1eb3d68",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ec689216-8c28-4871-991c-bcc5c1eb3d68",
+                    "title": "Somebody to Love",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cb911ba-98bf-4fbf-805f-fa723c11a218",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1cb911ba-98bf-4fbf-805f-fa723c11a218",
+                    "title": "Somebody to Love",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "549fde31-02e9-40af-b0a0-bc6018caa17f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "549fde31-02e9-40af-b0a0-bc6018caa17f",
+                    "title": "Somebody to Love",
+                    "length": "289000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2527ab3e-38ed-4453-962e-3fe77f62d8da",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2527ab3e-38ed-4453-962e-3fe77f62d8da",
+                    "title": "Somebody to Love",
+                    "length": "300426",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9f99bdd-c754-4823-8af4-ddebb9759a5e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e9f99bdd-c754-4823-8af4-ddebb9759a5e",
+                    "title": "Somebody to Love",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6d91e12-52eb-4a06-adb9-d041f4a35b6e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e6d91e12-52eb-4a06-adb9-d041f4a35b6e",
+                    "title": "Somebody to Love",
+                    "length": "295533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "329cbb9a-7966-4eeb-8fac-06b661436094",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "329cbb9a-7966-4eeb-8fac-06b661436094",
+                    "title": "Somebody to Love",
+                    "length": "296560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1b59b0c-1a84-471c-94a9-13a2367439ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f1b59b0c-1a84-471c-94a9-13a2367439ac",
+                    "title": "Somebody to Love",
+                    "length": "283000",
+                    "disambiguation": "cover of Queen song"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b849cfa-a3fe-4ea4-a6e1-e209fe75e8c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b849cfa-a3fe-4ea4-a6e1-e209fe75e8c9",
+                    "title": "Somebody to Love",
+                    "length": "157413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75f1108d-20ce-407a-a4ce-dd3dcce7c469",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "75f1108d-20ce-407a-a4ce-dd3dcce7c469",
+                    "title": "Somebody to Love",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48778ca2-8d88-4d4f-99af-45f145e9808f",
+                "direction": "backward",
+                "recording": {
+                    "id": "48778ca2-8d88-4d4f-99af-45f145e9808f",
+                    "title": "Somebody to Love",
+                    "length": "311266",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6052a009-ec49-46cb-97c5-ce6361b59b0f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6052a009-ec49-46cb-97c5-ce6361b59b0f",
+                    "title": "Somebody to Love",
+                    "length": "231333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7cf48f4-023c-4b88-8513-b306cb40c854",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f7cf48f4-023c-4b88-8513-b306cb40c854",
+                    "title": "Somebody to Love",
+                    "length": "206386",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2f5567f-6dcb-4948-8685-f8625cc9fd45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c2f5567f-6dcb-4948-8685-f8625cc9fd45",
+                    "title": "Somebody to Love",
+                    "length": "284000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60a254b8-6e59-4166-84fc-d5504a63584b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "60a254b8-6e59-4166-84fc-d5504a63584b",
+                    "title": "Somebody to Love"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9a802707-3c8b-43d0-b5f5-d4cd18d3faf3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9a802707-3c8b-43d0-b5f5-d4cd18d3faf3",
+                    "title": "Somebody to Love",
+                    "length": "295000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0adb7edf-ebfa-4526-b335-6dd3a4eed17d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0adb7edf-ebfa-4526-b335-6dd3a4eed17d",
+                    "title": "Somebody to Love",
+                    "length": "199373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05991868-24e5-4896-8955-0ec0608943f4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "05991868-24e5-4896-8955-0ec0608943f4",
+                    "title": "Somebody to Love",
+                    "length": "257800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f636798-9828-4456-a262-74e3f322f8c3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3f636798-9828-4456-a262-74e3f322f8c3",
+                    "title": "Somebody to Love",
+                    "length": "250000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b835bc28-5512-4951-8d1f-f95e3a204fe2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b835bc28-5512-4951-8d1f-f95e3a204fe2",
+                    "title": "Somebody to Love",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37de3c74-888d-41e6-bdab-64ce5fb1f3d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "37de3c74-888d-41e6-bdab-64ce5fb1f3d6",
+                    "title": "Somebody to Love",
+                    "length": "296666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09ab0662-9a01-4e18-b19c-1bd441e0e0f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "09ab0662-9a01-4e18-b19c-1bd441e0e0f2",
+                    "title": "Somebody to Love (1991 bonus remix by Randy Badazz)",
+                    "length": "300893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "717016cc-ead5-47f6-ba96-a7bb3dc2baed",
+                "direction": "backward",
+                "recording": {
+                    "id": "717016cc-ead5-47f6-ba96-a7bb3dc2baed",
+                    "title": "Somebody to Love (1991 remix by Randy Badazz)",
+                    "length": "300000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "619e95d3-3249-464e-9d6b-a240553d03af",
+                "direction": "backward",
+                "recording": {
+                    "id": "619e95d3-3249-464e-9d6b-a240553d03af",
+                    "title": "Somebody to Love (alternative intro)",
+                    "length": "8000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01d6f88e-efe3-4c45-a786-cc09fdf2b1f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "01d6f88e-efe3-4c45-a786-cc09fdf2b1f0",
+                    "title": "Somebody to Love (arr. V. Peterson)",
+                    "length": "266000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b77fb98-e245-453d-9df5-bd8e20b082f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "6b77fb98-e245-453d-9df5-bd8e20b082f5",
+                    "title": "Somebody to Love (Hollywood remix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a18b98ea-dea0-4257-b09e-52a7206cf449",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a18b98ea-dea0-4257-b09e-52a7206cf449",
+                    "title": "Somebody to Love (live)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a127c024-6ba0-4ecd-b537-c0ec83f38b72",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a127c024-6ba0-4ecd-b537-c0ec83f38b72",
+                    "title": "Somebody to Love (live)",
+                    "length": "317000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f879d22-2ccd-445b-9e6c-95be69e4639d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1f879d22-2ccd-445b-9e6c-95be69e4639d",
+                    "title": "Somebody to Love (The Voice Performance)",
+                    "length": "216214"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d5b0a1e-ddf3-4a6b-a7e5-64c2e006a23c",
+                "direction": "backward",
+                "recording": {
+                    "id": "0d5b0a1e-ddf3-4a6b-a7e5-64c2e006a23c",
+                    "title": "Somebody to Love (with commentary)",
+                    "length": "128440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af95dac7-7a90-4920-8249-3c83765b738c",
+                "direction": "backward",
+                "recording": {
+                    "id": "af95dac7-7a90-4920-8249-3c83765b738c",
+                    "title": "somebody to love (YZOX Remix)",
+                    "length": "324000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bb1ca88-62fb-43e3-9446-9c7f4271d206",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5bb1ca88-62fb-43e3-9446-9c7f4271d206",
+                    "title": "Someone to Love Me",
+                    "length": "317000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/21342",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q744564",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "aa2826a3-6cfa-46b0-9ddb-b8404d3c332f",
+                "direction": "forward",
+                "work": {
+                    "id": "aa2826a3-6cfa-46b0-9ddb-b8404d3c332f",
+                    "type": "Song",
+                    "title": "Las dos caras del amor",
+                    "language": "spa"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "c8e57387-f1b3-466e-98e8-8c9d4c65614b",
+                "ordering-key": "2",
+                "direction": "backward",
+                "work": {
+                    "id": "c8e57387-f1b3-466e-98e8-8c9d4c65614b",
+                    "type": "Song",
+                    "title": "Don\u2019t Stop Them Now",
+                    "language": "eng"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "33e6d05f-3c2d-45e8-b0b7-674da22a5d3a",
+                "direction": "backward",
+                "work": {
+                    "id": "33e6d05f-3c2d-45e8-b0b7-674da22a5d3a",
+                    "type": "Song",
+                    "title": "Dragon Ball azul",
+                    "language": "spa"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "1b624e85-2808-47ae-b29f-14f96929d67b",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "1b624e85-2808-47ae-b29f-14f96929d67b",
+                    "type": "Song",
+                    "title": "Un poco de amor",
+                    "language": "spa",
+                    "disambiguation": "\"Somebody to Love\""
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                "direction": "backward",
+                "work": {
+                    "id": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "deu",
+                    "disambiguation": "German version of the Queen musical"
+                }
+            }
+        ]
+    }
+}

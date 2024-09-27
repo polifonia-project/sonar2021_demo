@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-03.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-03> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-03.json> ;
+        xyz:lyrics    "Gefrorne Tropfen fallen\nvon meinen Wangen ab:\nob es mir denn entgangen,\ndaß ich geweinet hab?\ndaß ich geweinet hab? \n\nEi Tränen, meine Tränen,\nund seid ihr gar so lau,\ndaß ihr erstarrt zu Eise,\nwie kühler Morgentau? \n\nUnd dringt doch aus der Quelle\nder Brust so glühend heiß,\nals wolltet ihr zerschmelzen\ndes ganzen Winters Eis,\ndes ganzen Winters Eis, \n\nihr dringt doch aus der Quelle\nder Brust so glühend heiß,\nals wolltet ihr zerschmelzen\ndes ganzen Winters Eis,\ndes ganzen Winters Eis!" ;
+        xyz:title     "Schubert_D911-03" .

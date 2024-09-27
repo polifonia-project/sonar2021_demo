@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-17.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-17> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-17.json> ;
+        xyz:lyrics    "Es bellen die Hunde, es rasseln die Ketten;\nes schlafen die Menschen in ihren Betten,\nträumen sich manches, was sie nicht haben,\ntun sich im Guten und Argen erlaben;\nund morgen früh ist alles zerflossen.\nJe nun, je nun, sie haben ihr Teil genossen,\nund hoffen, und hoffen, was sie noch übrig ließen,\ndoch wiederzufinden, doch wiederzufinden auf ihren Kissen. \n\nBellt mich nur fort, ihr wachen Hunde,\nlaßt mich nicht ruhn in der Schlummerstunde!\nIch bin zu Ende mit allen Träumen,\nwas will ich unter den Schläfern säumen?\nIch bin zu Ende mit allen Träumen,\nwas will ich unter den Schläfern säumen?" ;
+        xyz:title     "Schubert_D911-17" .

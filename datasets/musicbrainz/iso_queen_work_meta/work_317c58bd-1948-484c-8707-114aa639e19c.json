@@ -1,0 +1,462 @@
+{
+    "work": {
+        "id": "317c58bd-1948-484c-8707-114aa639e19c",
+        "type": "Song",
+        "title": "Headlong",
+        "language": "eng",
+        "iswc": "T-010.156.328-3",
+        "iswc-list": [
+            "T-010.156.328-3"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "544036"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d043f92-da03-4db9-a372-d094d6d4ccc5",
+                "direction": "backward",
+                "begin": "1993-06-15",
+                "end": "1993-06-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8d043f92-da03-4db9-a372-d094d6d4ccc5",
+                    "title": "Headlong",
+                    "length": "368306",
+                    "disambiguation": "live, 1993-06-15: Brixton Academy, Lambeth, London, England, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "371c1e48-7ad5-4448-ac32-b6a65ee8e95c",
+                "direction": "backward",
+                "begin": "1993-09-05",
+                "end": "1993-09-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "371c1e48-7ad5-4448-ac32-b6a65ee8e95c",
+                    "title": "Headlong",
+                    "length": "581906",
+                    "disambiguation": "live, 1993-09-05: Aston Villa Leisure Centre, Birmingham, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf854b79-e17e-41fa-b73a-a83e77df904e",
+                "direction": "backward",
+                "begin": "1993-11-05",
+                "end": "1993-11-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cf854b79-e17e-41fa-b73a-a83e77df904e",
+                    "title": "Headlong",
+                    "disambiguation": "live, 1993-11-05: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8afcfd79-32cb-4e63-8d07-c76c1a0c61ca",
+                "direction": "backward",
+                "begin": "1998-10-31",
+                "end": "1998-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8afcfd79-32cb-4e63-8d07-c76c1a0c61ca",
+                    "title": "Headlong",
+                    "disambiguation": "live, 1998-10-31: Apollo, Manchester, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f328d2a-f1a1-49cc-9d43-2309aedbf9b6",
+                "direction": "backward",
+                "begin": "1998-11-10",
+                "end": "1998-11-10",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8f328d2a-f1a1-49cc-9d43-2309aedbf9b6",
+                    "title": "Headlong",
+                    "disambiguation": "live, 1998-11-10: Sun Plaza Hall, Nakano, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4307a080-6aa5-4991-8f64-97b325b489de",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4307a080-6aa5-4991-8f64-97b325b489de",
+                    "title": "Headlong",
+                    "length": "206000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8b9c3f5-d50c-4f04-9d6e-f3ab6ee9c51f",
+                "direction": "backward",
+                "begin": "2005",
+                "end": "2005",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b8b9c3f5-d50c-4f04-9d6e-f3ab6ee9c51f",
+                    "title": "Headlong",
+                    "length": "190000",
+                    "disambiguation": "We Will Rock You, 2005 K\u00f6ln cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d057934-b56a-44a7-a3e3-08ecad16a29a",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d057934-b56a-44a7-a3e3-08ecad16a29a",
+                    "title": "Headlong",
+                    "length": "271000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a80ed252-1745-4df2-bed5-1fe7a31a42a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a80ed252-1745-4df2-bed5-1fe7a31a42a6",
+                    "title": "Headlong",
+                    "length": "278240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "399f804f-c033-4875-a8d6-425a77ed861f",
+                "direction": "backward",
+                "recording": {
+                    "id": "399f804f-c033-4875-a8d6-425a77ed861f",
+                    "title": "Headlong",
+                    "length": "273226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3708f47a-b926-423f-b48e-f6a773169a40",
+                "direction": "backward",
+                "recording": {
+                    "id": "3708f47a-b926-423f-b48e-f6a773169a40",
+                    "title": "Headlong"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3828a33c-f06e-404f-a8a7-46f04fa03162",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3828a33c-f06e-404f-a8a7-46f04fa03162",
+                    "title": "Headlong",
+                    "length": "293746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc8f79c0-e331-4d02-9436-bd90206ba7a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc8f79c0-e331-4d02-9436-bd90206ba7a2",
+                    "title": "Headlong",
+                    "length": "270000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf52a42b-aec6-4e48-bb33-5d19ab690b48",
+                "direction": "backward",
+                "recording": {
+                    "id": "bf52a42b-aec6-4e48-bb33-5d19ab690b48",
+                    "title": "Headlong",
+                    "length": "64000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba17ffc7-7fb3-4442-b8dc-f715ee661163",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba17ffc7-7fb3-4442-b8dc-f715ee661163",
+                    "title": "Headlong",
+                    "length": "282000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a0cd8fa-1086-4150-b97e-71e08906a9da",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a0cd8fa-1086-4150-b97e-71e08906a9da",
+                    "title": "Headlong (demo)",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d0ae630-3cdc-4bf2-ae7d-a9116816fa6d",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d0ae630-3cdc-4bf2-ae7d-a9116816fa6d",
+                    "title": "Headlong (edit)",
+                    "length": "64000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fe82e68-f5b4-4c72-9570-1a7d6c9b9b33",
+                "direction": "backward",
+                "recording": {
+                    "id": "3fe82e68-f5b4-4c72-9570-1a7d6c9b9b33",
+                    "title": "Headlong (embryo with guide vocal)",
+                    "length": "284373",
+                    "disambiguation": "2011 remaster"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7493b839-de13-4434-adeb-91cfabca38bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "7493b839-de13-4434-adeb-91cfabca38bb",
+                    "title": "Headlong (original version)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q616255",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "b62c6762-016b-4a77-b293-74e34757b475",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "b62c6762-016b-4a77-b293-74e34757b475",
+                    "type": "Song",
+                    "title": "Sin control",
+                    "language": "spa",
+                    "disambiguation": "\"Headlong\""
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                "direction": "backward",
+                "work": {
+                    "id": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "deu",
+                    "disambiguation": "German version of the Queen musical"
+                }
+            }
+        ]
+    }
+}

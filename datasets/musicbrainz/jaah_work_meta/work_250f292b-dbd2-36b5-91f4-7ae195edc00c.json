@@ -1,0 +1,705 @@
+{
+    "work": {
+        "id": "250f292b-dbd2-36b5-91f4-7ae195edc00c",
+        "type": "Song",
+        "title": "All Alone",
+        "language": "eng",
+        "iswc": "T-070.000.612-7",
+        "iswc-list": [
+            "T-070.000.612-7"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                "direction": "backward",
+                "begin": "1924",
+                "end": "1924",
+                "ended": "true",
+                "artist": {
+                    "id": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                    "type": "Person",
+                    "name": "Irving Berlin",
+                    "sort-name": "Berlin, Irving",
+                    "disambiguation": "Ren G. May"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                "direction": "backward",
+                "begin": "1924",
+                "end": "1924",
+                "ended": "true",
+                "artist": {
+                    "id": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+                    "type": "Person",
+                    "name": "Irving Berlin",
+                    "sort-name": "Berlin, Irving",
+                    "disambiguation": "Ren G. May"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "684f351d-0cbf-46a8-a8ae-07117658b929",
+                "direction": "backward",
+                "label": {
+                    "id": "684f351d-0cbf-46a8-a8ae-07117658b929",
+                    "type": "Publisher",
+                    "name": "Irving Berlin Music Corp.",
+                    "sort-name": "Irving Berlin Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "62a0ad6b-c6c0-4752-ae8d-e95874fd039d",
+                "direction": "backward",
+                "label": {
+                    "id": "62a0ad6b-c6c0-4752-ae8d-e95874fd039d",
+                    "type": "Publisher",
+                    "name": "Williamson Music Company",
+                    "sort-name": "Williamson Music Company"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e17a81ed-9689-43b1-b6eb-f70f6fa9d106",
+                "direction": "backward",
+                "begin": "1937-05-13",
+                "end": "1937-05-13",
+                "ended": "true",
+                "recording": {
+                    "id": "e17a81ed-9689-43b1-b6eb-f70f6fa9d106",
+                    "title": "All Alone",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9e9bb2d-6ef6-4c61-83f6-63ab801c04c2",
+                "direction": "backward",
+                "begin": "1944-11-15",
+                "end": "1944-11-15",
+                "ended": "true",
+                "recording": {
+                    "id": "f9e9bb2d-6ef6-4c61-83f6-63ab801c04c2",
+                    "title": "\u0421\u043d\u043e\u0432\u0430 \u043e\u0434\u0438\u043d",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ba74cb3-f388-456f-a1f7-76542bad8b8f",
+                "direction": "backward",
+                "begin": "1958-11-02",
+                "end": "1958-11-02",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5ba74cb3-f388-456f-a1f7-76542bad8b8f",
+                    "title": "All Alone",
+                    "length": "195733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c3ceb60-c01f-4a87-b84f-500c6abfadaa",
+                "direction": "backward",
+                "begin": "1958-11-02",
+                "end": "1958-11-02",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5c3ceb60-c01f-4a87-b84f-500c6abfadaa",
+                    "title": "All Alone (alternate take)",
+                    "length": "190000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a141dc05-5c36-40db-a503-aa520bdb8d34",
+                "direction": "backward",
+                "begin": "1962-01-15",
+                "end": "1962-01-15",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a141dc05-5c36-40db-a503-aa520bdb8d34",
+                    "title": "All Alone",
+                    "length": "162000",
+                    "disambiguation": "original studio mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e587c477-8989-402b-971d-2c5f00542428",
+                "direction": "backward",
+                "begin": "1964-01-14",
+                "end": "1964-01-14",
+                "ended": "true",
+                "recording": {
+                    "id": "e587c477-8989-402b-971d-2c5f00542428",
+                    "title": "All Alone",
+                    "length": "106266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f4aaccf-87df-4265-a3af-9c06742ea102",
+                "direction": "backward",
+                "begin": "1967-01-23",
+                "end": "1967-01-23",
+                "ended": "true",
+                "recording": {
+                    "id": "6f4aaccf-87df-4265-a3af-9c06742ea102",
+                    "title": "All Alone",
+                    "length": "142493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd21c84b-1600-493e-a7fa-104c82fee3fb",
+                "direction": "backward",
+                "begin": "1972-09-27",
+                "end": "1972-09-27",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cd21c84b-1600-493e-a7fa-104c82fee3fb",
+                    "title": "All Alone by the Telephone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f099d7cd-88b0-421c-abbf-123b97646795",
+                "direction": "backward",
+                "begin": "1978-11",
+                "end": "1978-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f099d7cd-88b0-421c-abbf-123b97646795",
+                    "title": "All Alone",
+                    "length": "188000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f89c56d-d488-4a23-9df1-d40a7301eaee",
+                "direction": "backward",
+                "begin": "1990-02-01",
+                "end": "1990-02-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3f89c56d-d488-4a23-9df1-d40a7301eaee",
+                    "title": "All Alone",
+                    "length": "357086"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e92e0a9a-f9f3-4c1c-98af-fc500b4224e5",
+                "direction": "backward",
+                "begin": "1991-04-30",
+                "end": "1991-04-30",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e92e0a9a-f9f3-4c1c-98af-fc500b4224e5",
+                    "title": "All Alone",
+                    "length": "334000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22038173-ea22-44ec-a663-28c99ac0f74e",
+                "direction": "backward",
+                "begin": "2002-08",
+                "end": "2002-08",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "22038173-ea22-44ec-a663-28c99ac0f74e",
+                    "title": "All Alone",
+                    "length": "362733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "102d406b-7a4e-45c5-85cf-c6a071986ad1",
+                "direction": "backward",
+                "begin": "2012-07-17",
+                "end": "2012-07-17",
+                "ended": "true",
+                "recording": {
+                    "id": "102d406b-7a4e-45c5-85cf-c6a071986ad1",
+                    "title": "All Alone by the Telephone",
+                    "length": "298333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d74e158-35f0-4600-ba21-8ce5913872e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d74e158-35f0-4600-ba21-8ce5913872e9",
+                    "title": "All Alone",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b771548e-3055-4a51-914d-301b51bf0c6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "b771548e-3055-4a51-914d-301b51bf0c6b",
+                    "title": "All Alone",
+                    "length": "53000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "915f9cc9-99dd-47d4-8faa-853bb5c3b13f",
+                "direction": "backward",
+                "recording": {
+                    "id": "915f9cc9-99dd-47d4-8faa-853bb5c3b13f",
+                    "title": "All Alone",
+                    "length": "162973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52ad4f82-2da5-4a51-a18c-ea868874563a",
+                "direction": "backward",
+                "recording": {
+                    "id": "52ad4f82-2da5-4a51-a18c-ea868874563a",
+                    "title": "All Alone",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14c585c1-7751-4e68-bd39-b2e4b83a457b",
+                "direction": "backward",
+                "recording": {
+                    "id": "14c585c1-7751-4e68-bd39-b2e4b83a457b",
+                    "title": "All Alone"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d30d2e0-daa2-44a2-af23-f87f855dd2e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "0d30d2e0-daa2-44a2-af23-f87f855dd2e4",
+                    "title": "All Alone",
+                    "length": "200000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29e2da92-687b-41c4-8de7-59fc16161086",
+                "direction": "backward",
+                "recording": {
+                    "id": "29e2da92-687b-41c4-8de7-59fc16161086",
+                    "title": "All Alone",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4e40b1d-526c-4884-9260-1cbc13760ecd",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4e40b1d-526c-4884-9260-1cbc13760ecd",
+                    "title": "All Alone",
+                    "length": "152733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "696da635-1deb-473b-8590-7b4d54c35fd5",
+                "direction": "backward",
+                "recording": {
+                    "id": "696da635-1deb-473b-8590-7b4d54c35fd5",
+                    "title": "All Alone",
+                    "length": "164866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb90722b-d99f-4a43-8b3f-e9e4069a73eb",
+                "direction": "backward",
+                "recording": {
+                    "id": "fb90722b-d99f-4a43-8b3f-e9e4069a73eb",
+                    "title": "All Alone",
+                    "length": "152626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "183d1267-d85b-49ff-9c60-f04699978e7e",
+                "direction": "backward",
+                "recording": {
+                    "id": "183d1267-d85b-49ff-9c60-f04699978e7e",
+                    "title": "All Alone",
+                    "length": "150826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "880226b4-624e-4045-a621-83225fb5faeb",
+                "direction": "backward",
+                "recording": {
+                    "id": "880226b4-624e-4045-a621-83225fb5faeb",
+                    "title": "All Alone",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23c9b408-87c6-4def-b8de-76665043949d",
+                "direction": "backward",
+                "recording": {
+                    "id": "23c9b408-87c6-4def-b8de-76665043949d",
+                    "title": "All Alone",
+                    "length": "150386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00ca3d65-6a39-4b6e-be26-fc0291034f6f",
+                "direction": "backward",
+                "recording": {
+                    "id": "00ca3d65-6a39-4b6e-be26-fc0291034f6f",
+                    "title": "All Alone",
+                    "length": "152600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f2b902a-5443-461d-85f5-bfa9f453c5a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f2b902a-5443-461d-85f5-bfa9f453c5a0",
+                    "title": "All Alone",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37f81e50-8794-434c-a637-234d151fd96b",
+                "direction": "backward",
+                "recording": {
+                    "id": "37f81e50-8794-434c-a637-234d151fd96b",
+                    "title": "All Alone",
+                    "length": "181066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "718aa9b0-9354-4caa-a6ee-1479a3ca2dd8",
+                "direction": "backward",
+                "recording": {
+                    "id": "718aa9b0-9354-4caa-a6ee-1479a3ca2dd8",
+                    "title": "All Alone",
+                    "length": "176173"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23d21477-4a89-46ef-b4ea-0314da3dd11e",
+                "direction": "backward",
+                "recording": {
+                    "id": "23d21477-4a89-46ef-b4ea-0314da3dd11e",
+                    "title": "All Alone",
+                    "length": "170800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05794155-edd0-4f1c-9c22-211d6f0e1eed",
+                "direction": "backward",
+                "recording": {
+                    "id": "05794155-edd0-4f1c-9c22-211d6f0e1eed",
+                    "title": "All Alone",
+                    "length": "178133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bff476c-5619-4a4a-8c18-890de1b57828",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5bff476c-5619-4a4a-8c18-890de1b57828",
+                    "title": "All Alone",
+                    "length": "293133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97b76f8a-e352-403b-8033-7da69dc96971",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97b76f8a-e352-403b-8033-7da69dc96971",
+                    "title": "All Alone",
+                    "length": "136000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49522e84-ffea-4014-8c68-df5d3273771b",
+                "direction": "backward",
+                "recording": {
+                    "id": "49522e84-ffea-4014-8c68-df5d3273771b",
+                    "title": "All Alone",
+                    "length": "108066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ffe003c-657c-4133-ae1e-db2f795e3fab",
+                "direction": "backward",
+                "recording": {
+                    "id": "9ffe003c-657c-4133-ae1e-db2f795e3fab",
+                    "title": "All Alone",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61733cea-2755-460e-89e5-16275af24bd4",
+                "direction": "backward",
+                "recording": {
+                    "id": "61733cea-2755-460e-89e5-16275af24bd4",
+                    "title": "All Alone",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37f311fe-c204-47f9-a180-ba491c64e29f",
+                "direction": "backward",
+                "recording": {
+                    "id": "37f311fe-c204-47f9-a180-ba491c64e29f",
+                    "title": "All Alone",
+                    "length": "143733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e9904ac-fda4-4286-b67a-dfdc5ff75263",
+                "direction": "backward",
+                "recording": {
+                    "id": "3e9904ac-fda4-4286-b67a-dfdc5ff75263",
+                    "title": "All Alone",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f16556d7-6f8b-4b0e-b7b3-e72d77c88c69",
+                "direction": "backward",
+                "recording": {
+                    "id": "f16556d7-6f8b-4b0e-b7b3-e72d77c88c69",
+                    "title": "All Alone",
+                    "length": "297000",
+                    "disambiguation": "mono"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e5fa84a-bc09-42bc-971d-3f5d42823254",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e5fa84a-bc09-42bc-971d-3f5d42823254",
+                    "title": "All Alone",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ecca009-0e45-4be0-ac09-af22bb205196",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ecca009-0e45-4be0-ac09-af22bb205196",
+                    "title": "All Alone",
+                    "length": "490000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68c459f7-4255-4cf9-b29f-283336c7ff9a",
+                "ordering-key": "3",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "68c459f7-4255-4cf9-b29f-283336c7ff9a",
+                    "title": "Remember (You Forgot to Remember) / What\u2019ll I Do? / All Alone",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/152520",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q4728546",
+                "direction": "backward"
+            }
+        ]
+    }
+}

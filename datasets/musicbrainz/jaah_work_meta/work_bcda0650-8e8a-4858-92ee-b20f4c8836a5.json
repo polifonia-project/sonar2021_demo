@@ -1,0 +1,66 @@
+{
+    "work": {
+        "id": "bcda0650-8e8a-4858-92ee-b20f4c8836a5",
+        "type": "Song",
+        "title": "Harlem Congo",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "431a13dc-cb55-45d1-919f-30303cb84ba9",
+                "direction": "backward",
+                "artist": {
+                    "id": "431a13dc-cb55-45d1-919f-30303cb84ba9",
+                    "type": "Person",
+                    "name": "Harry White",
+                    "sort-name": "White, Harry",
+                    "disambiguation": "jazz trombonist"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "757aaea3-b29f-45b2-82a9-fe5ad717fc65",
+                "direction": "backward",
+                "begin": "1937-11-01",
+                "end": "1937-11-01",
+                "ended": "true",
+                "recording": {
+                    "id": "757aaea3-b29f-45b2-82a9-fe5ad717fc65",
+                    "title": "Harlem Congo",
+                    "length": "195874"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fb6b1aa-eb0c-436d-90cf-a678feb338a8",
+                "direction": "backward",
+                "begin": "1937-11-01",
+                "end": "1937-11-01",
+                "ended": "true",
+                "recording": {
+                    "id": "2fb6b1aa-eb0c-436d-90cf-a678feb338a8",
+                    "title": "Harlem Congo",
+                    "length": "197000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3181b8c1-fb63-43c1-92ac-9c9edc5b33e6",
+                "direction": "backward",
+                "begin": "1937-11-10",
+                "end": "1937-11-10",
+                "ended": "true",
+                "recording": {
+                    "id": "3181b8c1-fb63-43c1-92ac-9c9edc5b33e6",
+                    "title": "Harlem Congo",
+                    "length": "191000"
+                }
+            }
+        ]
+    }
+}

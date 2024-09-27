@@ -1,0 +1,3402 @@
+{
+    "work": {
+        "id": "c6402058-011c-30d1-8189-6d8eedebfed2",
+        "type": "Song",
+        "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+        "language": "eng",
+        "iswc": "T-010.971.514-1",
+        "iswc-list": [
+            "T-010.971.514-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 256 35"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "13421"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.073.499"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366462"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366462"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3271090"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009954071"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004976500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "88118L"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0S2-3440-8"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635591-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "15323016"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "45354"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "9943505"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "9254227"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "9012891"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000100595"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "490249602"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01969867"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3260371"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "11864501"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6066905"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "1316222"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d386783f-9a44-4e9f-aded-1a84cec45fb3",
+                "direction": "backward",
+                "begin": "1967-02-01",
+                "end": "1967-02-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d386783f-9a44-4e9f-aded-1a84cec45fb3",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (take 1 \u2013 instrumental)",
+                    "length": "154120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69ee2ff3-a23a-4faa-b847-370d35ed59f6",
+                "direction": "backward",
+                "begin": "1967-02-01",
+                "end": "1967-03-03",
+                "ended": "true",
+                "recording": {
+                    "id": "69ee2ff3-a23a-4faa-b847-370d35ed59f6",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "121360",
+                    "disambiguation": "1999 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3208833a-be90-4bc2-a9be-7fee4334f1cb",
+                "direction": "backward",
+                "begin": "1967-02-01",
+                "end": "1967-03-03",
+                "ended": "true",
+                "recording": {
+                    "id": "3208833a-be90-4bc2-a9be-7fee4334f1cb",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "122000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c55e74ff-bd7d-40ff-a591-c6993c59bda8",
+                "direction": "backward",
+                "begin": "1967-02-01",
+                "end": "1967-03-03",
+                "ended": "true",
+                "recording": {
+                    "id": "c55e74ff-bd7d-40ff-a591-c6993c59bda8",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "122373",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2aaf8aa0-ff38-4a44-a187-85a482b28156",
+                "direction": "backward",
+                "begin": "1967-02-01",
+                "end": "1967-03-03",
+                "ended": "true",
+                "recording": {
+                    "id": "2aaf8aa0-ff38-4a44-a187-85a482b28156",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "121000",
+                    "disambiguation": "5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "effc6a79-fc7c-4ac5-b8b9-8670ed59920e",
+                "direction": "backward",
+                "begin": "1967-02-01",
+                "end": "1967-03-03",
+                "ended": "true",
+                "recording": {
+                    "id": "effc6a79-fc7c-4ac5-b8b9-8670ed59920e",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "122133",
+                    "disambiguation": "2017 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f24a6860-3435-47d9-a74f-bba43d23e68b",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "f24a6860-3435-47d9-a74f-bba43d23e68b",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "80000",
+                    "disambiguation": "5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2d97bd8-eba5-4811-9071-ecb36480153c",
+                "direction": "backward",
+                "begin": "1967-04-01",
+                "end": "1967-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "c2d97bd8-eba5-4811-9071-ecb36480153c",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise) (speech and take 8)",
+                    "length": "119160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64b9dc3e-ccb5-47c6-b212-96a900f5f7b6",
+                "direction": "backward",
+                "begin": "1967-09-05",
+                "end": "1967-09-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "64b9dc3e-ccb5-47c6-b212-96a900f5f7b6",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "117840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93bb99f8-9aa5-4a65-a91b-3082f5b5854a",
+                "direction": "backward",
+                "begin": "1967-09-05",
+                "end": "1967-09-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "93bb99f8-9aa5-4a65-a91b-3082f5b5854a",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (live)",
+                    "length": "111173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db64bb33-5407-4a17-8b36-b4c4f5d32386",
+                "direction": "backward",
+                "begin": "1968-03-19",
+                "end": "1968-03-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "db64bb33-5407-4a17-8b36-b4c4f5d32386",
+                    "title": "Sgt. Pepper",
+                    "length": "136560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43a7f878-ab70-4853-9298-dd286af4a1cf",
+                "direction": "backward",
+                "begin": "1968-07-06",
+                "end": "1968-07-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "43a7f878-ab70-4853-9298-dd286af4a1cf",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "71000",
+                    "disambiguation": "live, 1968-07-06: Woburn Music Festival, Bedfordshire, England"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38bb3938-8260-4576-8510-00189a32d8d8",
+                "direction": "backward",
+                "begin": "1970-08-31",
+                "end": "1970-08-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "38bb3938-8260-4576-8510-00189a32d8d8",
+                    "title": "Seargent Pepper's Lonely Hearts Club Band",
+                    "length": "76274"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de72781a-f227-4770-91fe-a2cbd81e0a0f",
+                "direction": "backward",
+                "begin": "1970-08-31",
+                "end": "1970-08-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "de72781a-f227-4770-91fe-a2cbd81e0a0f",
+                    "title": "Sergeant Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b50e6a5f-cec8-4f75-90cd-af7f6ab80a17",
+                "direction": "backward",
+                "begin": "1970-08-31",
+                "end": "1970-08-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b50e6a5f-cec8-4f75-90cd-af7f6ab80a17",
+                    "title": "Sergeant Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "77333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c01464e9-25a6-423a-8f16-fa52897bd1b0",
+                "direction": "backward",
+                "begin": "1970-08-31",
+                "end": "1970-08-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c01464e9-25a6-423a-8f16-fa52897bd1b0",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "49040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3582f36-8c75-421e-b022-dce5c0e49374",
+                "direction": "backward",
+                "begin": "1970-08-31",
+                "end": "1970-08-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e3582f36-8c75-421e-b022-dce5c0e49374",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1351d51c-6965-48fd-a316-e536a767e831",
+                "direction": "backward",
+                "begin": "1990-03-07",
+                "end": "1990-03-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1351d51c-6965-48fd-a316-e536a767e831",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "disambiguation": "live, 1990-03-07: Tokyo Dome, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c2b204c-dc09-4ed1-9984-dc4d2a30e085",
+                "direction": "backward",
+                "begin": "1990-06-23",
+                "end": "1990-06-23",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9c2b204c-dc09-4ed1-9984-dc4d2a30e085",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "366000",
+                    "disambiguation": "live, 1990-06-23: SEC Centre, Glasgow, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50e82945-32b0-43c8-9ae1-35e3791809c8",
+                "direction": "backward",
+                "begin": "1993-06-15",
+                "end": "1993-06-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "50e82945-32b0-43c8-9ae1-35e3791809c8",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "disambiguation": "live, 1993-06-15: Blockbuster Pavillion, Charlotte, NC, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d81a53f0-3de9-4f8f-9c1d-948248a5d843",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d81a53f0-3de9-4f8f-9c1d-948248a5d843",
+                    "title": "Sgt. Pepper\u2019s / The End",
+                    "length": "280373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "039cb1e3-a213-4026-9018-0cc0e30d9784",
+                "direction": "backward",
+                "begin": "2005-07-02",
+                "end": "2005-07-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "039cb1e3-a213-4026-9018-0cc0e30d9784",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "123000",
+                    "disambiguation": "live, 2005-07-02: Live8, Hyde Park, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da4d1676-5a4b-45b5-a0c4-c762dea73137",
+                "direction": "backward",
+                "begin": "2005-10-10",
+                "end": "2005-10-10",
+                "ended": "true",
+                "recording": {
+                    "id": "da4d1676-5a4b-45b5-a0c4-c762dea73137",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band / The End",
+                    "disambiguation": "live, 2005-10-10: Air Canada Centre, Toronto, Ontario, CA"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f59a9559-77bb-464a-9953-04b24ba8efca",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f59a9559-77bb-464a-9953-04b24ba8efca",
+                    "title": "Sgt Pepper's Lonely Heart's Club Band",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6ea98bf-aac7-4f2a-9bf9-bc0741a222a5",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d6ea98bf-aac7-4f2a-9bf9-bc0741a222a5",
+                    "title": "Sgt Pepper's Lonely Heart's Club Band (reprise)",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd075dbf-3dda-4528-9858-4b175438d4af",
+                "direction": "backward",
+                "begin": "2008-07-20",
+                "end": "2008-07-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cd075dbf-3dda-4528-9858-4b175438d4af",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "328000",
+                    "disambiguation": "live, 2008\u201007\u201020: Plains of Abraham, Quebec City, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2baa974-5305-470a-8143-486512bd709e",
+                "direction": "backward",
+                "begin": "2009-07",
+                "end": "2009-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e2baa974-5305-470a-8143-486512bd709e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band / The End",
+                    "disambiguation": "live, 2009-07: Citi Field, New York City, New York, USA",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61e0b0f2-4bfa-47a5-87e8-eeae04759bf2",
+                "direction": "backward",
+                "begin": "2009-07",
+                "end": "2009-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "61e0b0f2-4bfa-47a5-87e8-eeae04759bf2",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band / The End",
+                    "length": "278786",
+                    "disambiguation": "live, 2009-07: Citi Field, New York City, New York, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f771a5ed-9ccf-418f-a55a-ab99eab8741e",
+                "direction": "backward",
+                "begin": "2010-12-13",
+                "end": "2010-12-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f771a5ed-9ccf-418f-a55a-ab99eab8741e",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "263000",
+                    "disambiguation": "live, 2010-12-13: Apollo Theater, New York, NY, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe53f97b-636c-491c-ab32-46957f455743",
+                "direction": "backward",
+                "begin": "2016-10",
+                "end": "2016-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fe53f97b-636c-491c-ab32-46957f455743",
+                    "title": "Sgt Pepper's Lonely Hearts Club Hand",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9bb38c7-25e5-467b-bba6-4c3f20ba73a8",
+                "direction": "backward",
+                "begin": "2016-11-14",
+                "end": "2016-11-16",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a9bb38c7-25e5-467b-bba6-4c3f20ba73a8",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band - With a Little Help From My Friends",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc9b7643-32a9-4405-84c0-c38497a8ee16",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "cc9b7643-32a9-4405-84c0-c38497a8ee16",
+                    "title": "\u00bbFinale\u00ab Consisting of Main Themes From \u00bbSgt. Peppers Lonely Hearts Club Band\u00ab / \u00bbDay Tripper\u00ab / \u00bbGood Day Sunshine\u00ab / \u00bbNorwegian Wood\u00ab (medley)",
+                    "length": "425906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a20552af-525e-4689-9dad-1cc56e9b1b9b",
+                "ordering-key": "3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "a20552af-525e-4689-9dad-1cc56e9b1b9b",
+                    "title": "Beautiful Day / Blackbird / Sgt. Pepper's Lonely Hearts Club Band",
+                    "disambiguation": "live, 2005-07-29: Ullevi Stadion, Gothenburg, Sweden"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "795fbec2-9810-482d-8880-0b9df3efa18d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "795fbec2-9810-482d-8880-0b9df3efa18d",
+                    "title": "Die Gefreiter Pfeffer Kontaktb\u00f6rse Band",
+                    "length": "145373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec17add0-2b9f-4323-ae48-a4d9dc0c99f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ec17add0-2b9f-4323-ae48-a4d9dc0c99f8",
+                    "title": "Kaleidoscope Eyes Medley: With a Little Help From My Friends / Ob-La-Di, Ob-La-Da / Sgt. Pepper\u00b4s Lonely Hearts Club Band / I Am the Walrus",
+                    "length": "406186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "468c6856-3401-41db-9728-4779ab51bd09",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "468c6856-3401-41db-9728-4779ab51bd09",
+                    "title": "Robbie Williams\u2019 Lonely Hearts Club Band",
+                    "length": "31000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5070637c-25e3-4167-9c76-191a4a75da33",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5070637c-25e3-4167-9c76-191a4a75da33",
+                    "title": "Sergeant Pepper's Lonely Hearts Club Band",
+                    "length": "277760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d049da6e-a031-444d-91d7-df761f96fb06",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d049da6e-a031-444d-91d7-df761f96fb06",
+                    "title": "Sergeant Pepper's Lonely Hearts Club Band",
+                    "length": "202160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20e546a8-5837-447a-a897-f677fa057345",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "20e546a8-5837-447a-a897-f677fa057345",
+                    "title": "Sergeant Pepper's Lonely Hearts Club Band",
+                    "length": "101000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e8e1df1-77a8-437b-976c-d2217a9aeffd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6e8e1df1-77a8-437b-976c-d2217a9aeffd",
+                    "title": "Sergeant Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "354026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d16b84de-ff96-4ac4-a14a-55d2ec39fa57",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d16b84de-ff96-4ac4-a14a-55d2ec39fa57",
+                    "title": "Sgt Pepper's Lonely Hearts Club Band",
+                    "length": "108493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51df42ef-9885-478a-bb6e-d64523226396",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "51df42ef-9885-478a-bb6e-d64523226396",
+                    "title": "Sgt Pepper's Lonely Hearts Club Band",
+                    "length": "139226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1d7f97b-4d80-4864-8854-a8c5422f1e5a",
+                "direction": "backward",
+                "recording": {
+                    "id": "c1d7f97b-4d80-4864-8854-a8c5422f1e5a",
+                    "title": "Sgt Pepper's Lonely Hearts Club Band (Streetlab mix)",
+                    "length": "230739"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b1c1c6a-8dd6-4c95-b3e0-1722fb5dfb84",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "0b1c1c6a-8dd6-4c95-b3e0-1722fb5dfb84",
+                    "title": "Sgt Pepper\u2019s Lonely Hearts Club Band / Back in the USSR (medley)",
+                    "length": "276000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "606239ee-faa9-4850-a1be-d0fd9d2f8b4b",
+                "direction": "backward",
+                "recording": {
+                    "id": "606239ee-faa9-4850-a1be-d0fd9d2f8b4b",
+                    "title": "Sgt Peppers Lonely Hearts Club Band (karaoke)",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa5aacc3-cd0d-4935-9107-d8ce8842c865",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa5aacc3-cd0d-4935-9107-d8ce8842c865",
+                    "title": "Sgt Peppers Lonely Hearts Club Band (reprise)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7a5f99e-1623-497b-9cb2-0e9a8d84bcc7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b7a5f99e-1623-497b-9cb2-0e9a8d84bcc7",
+                    "title": "Sgt. Pepper",
+                    "length": "275000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90481703-b8a7-4071-81fb-2c836b8851d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "90481703-b8a7-4071-81fb-2c836b8851d0",
+                    "title": "Sgt. Pepper Intro. / Yesterday",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78a44b77-5eba-4e66-b63f-f7b38e6c8f45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "78a44b77-5eba-4e66-b63f-f7b38e6c8f45",
+                    "title": "Sgt. Pepper's"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc0a0314-06f2-4ce2-925b-27311de3bc8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bc0a0314-06f2-4ce2-925b-27311de3bc8b",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "266000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8df12e3-262c-4aaa-8a1f-4568b6a00aa6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8df12e3-262c-4aaa-8a1f-4568b6a00aa6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "120000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "656caffe-8d69-446a-8d47-2f3df3d99c2c",
+                "direction": "backward",
+                "recording": {
+                    "id": "656caffe-8d69-446a-8d47-2f3df3d99c2c",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05661f03-78fc-43f3-aa89-1f0a8e1541a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "05661f03-78fc-43f3-aa89-1f0a8e1541a1",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37ed8874-ae51-4123-8c6f-51ebce18992d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "37ed8874-ae51-4123-8c6f-51ebce18992d",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1a78ed1-c128-4334-a4b7-27596dcdc74a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a1a78ed1-c128-4334-a4b7-27596dcdc74a",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df0639d3-2bce-414e-9fb3-2dec71b6fc09",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "df0639d3-2bce-414e-9fb3-2dec71b6fc09",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "139333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9260178-d07b-4388-addc-215d1763258c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d9260178-d07b-4388-addc-215d1763258c",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "149000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a8dd601-d2ac-4343-ac27-96f2491d91b2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a8dd601-d2ac-4343-ac27-96f2491d91b2",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "31266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c705a715-3ce4-489b-80d1-f8662d6642f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c705a715-3ce4-489b-80d1-f8662d6642f2",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "123480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5bb02c2-b20a-410c-baa0-933e3b8a4c7e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c5bb02c2-b20a-410c-baa0-933e3b8a4c7e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "173293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd4bcd8d-458e-4371-9385-1d9a4b4101d5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dd4bcd8d-458e-4371-9385-1d9a4b4101d5",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e04acc9-c3d6-46d8-ad97-4fcf184247bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3e04acc9-c3d6-46d8-ad97-4fcf184247bf",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "115000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22a22ed3-ac1a-4d5c-8c4d-31942e1c55ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "22a22ed3-ac1a-4d5c-8c4d-31942e1c55ae",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "270000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8e09c27-a5bc-4022-9b35-020211303ad6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c8e09c27-a5bc-4022-9b35-020211303ad6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "271693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d04b588a-4acd-45c0-b9f9-10b6f3b9fb71",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d04b588a-4acd-45c0-b9f9-10b6f3b9fb71",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "81000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c5c6e72-5da8-4200-82f3-f15a4d68d422",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9c5c6e72-5da8-4200-82f3-f15a4d68d422",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0bbab224-e730-4cb7-9516-48bd8db7a6d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0bbab224-e730-4cb7-9516-48bd8db7a6d6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43575b25-81a4-4c4b-8153-757a4285653e",
+                "direction": "backward",
+                "recording": {
+                    "id": "43575b25-81a4-4c4b-8153-757a4285653e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "16786",
+                    "disambiguation": "part of \u201cThe Avalanches: When I Met You\u201d DJ-mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "180ae797-b923-4576-b28f-e50248a4d1b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "180ae797-b923-4576-b28f-e50248a4d1b1",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b748c6f5-4b97-47fc-b464-6833fa548802",
+                "direction": "backward",
+                "recording": {
+                    "id": "b748c6f5-4b97-47fc-b464-6833fa548802",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "110013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c38bb9a0-1b55-4016-92cb-8f51abda8115",
+                "direction": "backward",
+                "recording": {
+                    "id": "c38bb9a0-1b55-4016-92cb-8f51abda8115",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "92160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc5095d4-f4c5-443e-b80d-3c6307f00f35",
+                "direction": "backward",
+                "recording": {
+                    "id": "bc5095d4-f4c5-443e-b80d-3c6307f00f35",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "55720",
+                    "disambiguation": "part of \u201cAs Heard on Radio Soulwax, Part 1\u201d DJ-mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "247c43f6-4eac-40e6-96cb-92e117c45d96",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "247c43f6-4eac-40e6-96cb-92e117c45d96",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "113000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b203a44f-434b-437b-91e9-70dc4db56379",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b203a44f-434b-437b-91e9-70dc4db56379",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "127000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b31fdcb-a7d4-4a4b-9cb4-6e1dbe0e8c78",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5b31fdcb-a7d4-4a4b-9cb4-6e1dbe0e8c78",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "103000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01bcea31-1e6e-4b83-931e-bdf4be33f2c0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "01bcea31-1e6e-4b83-931e-bdf4be33f2c0",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5083ec1e-2319-4d08-ac86-306889d4a7ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5083ec1e-2319-4d08-ac86-306889d4a7ba",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "77000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9dd70dc-0522-48d0-b95d-430eff24b309",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f9dd70dc-0522-48d0-b95d-430eff24b309",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "240667"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69fe6af7-8372-46d3-9852-decc96586ec1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "69fe6af7-8372-46d3-9852-decc96586ec1",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "483277b4-265f-462e-ac3a-36737692282f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "483277b4-265f-462e-ac3a-36737692282f",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "111333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e465c684-1e66-47ee-9263-96ca05a2b469",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e465c684-1e66-47ee-9263-96ca05a2b469",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "101000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "039cb1e3-a213-4026-9018-0cc0e30d9784",
+                "direction": "backward",
+                "recording": {
+                    "id": "039cb1e3-a213-4026-9018-0cc0e30d9784",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "123000",
+                    "disambiguation": "live, 2005-07-02: Live8, Hyde Park, London, UK"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ca180f2-13b0-41b0-80ba-55cf19b8668e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0ca180f2-13b0-41b0-80ba-55cf19b8668e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "155840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ea5573a-8c89-41b9-9646-92d8a5ecf289",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4ea5573a-8c89-41b9-9646-92d8a5ecf289",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "139933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65a26c2a-6e2d-404b-ab40-2300cfaafbf6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "65a26c2a-6e2d-404b-ab40-2300cfaafbf6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "99000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff9d019d-548f-4694-ac67-1b7f1ac6c5d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ff9d019d-548f-4694-ac67-1b7f1ac6c5d7",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "141506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ac16b97-d02a-4453-96be-2734809cf18c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ac16b97-d02a-4453-96be-2734809cf18c",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b2129b3-2e04-4170-94b3-17f63929ae87",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4b2129b3-2e04-4170-94b3-17f63929ae87",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "160080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb6f67b4-3272-49c5-8671-707de23c6051",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eb6f67b4-3272-49c5-8671-707de23c6051",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "316640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "796e42fa-ac5f-480a-b68b-186564abc17d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "796e42fa-ac5f-480a-b68b-186564abc17d",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cccba657-bce4-4f18-b909-9f75b42eaafb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cccba657-bce4-4f18-b909-9f75b42eaafb",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "114000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e526fcaf-b817-4190-bdd9-45a36b80e1e4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e526fcaf-b817-4190-bdd9-45a36b80e1e4",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "126733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "103bdfb0-df99-4799-a50e-7e6d3b9238f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "103bdfb0-df99-4799-a50e-7e6d3b9238f8",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "115493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b3b27ba-6df2-4263-a84c-e2e950cf03ce",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b3b27ba-6df2-4263-a84c-e2e950cf03ce",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "108000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb85f7c7-e6ec-4458-a969-142751239319",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb85f7c7-e6ec-4458-a969-142751239319",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd272ee1-715f-4e32-aba9-b87093bf2c47",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bd272ee1-715f-4e32-aba9-b87093bf2c47",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16d44989-a189-44b2-8d9d-2a03fad0e0a2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "16d44989-a189-44b2-8d9d-2a03fad0e0a2",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "136c2340-b67b-4a18-9319-e76f356b34de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "136c2340-b67b-4a18-9319-e76f356b34de",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                    "length": "119000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6d17af2-e8fe-45c6-8780-dc5ac35824a4",
+                "direction": "backward",
+                "recording": {
+                    "id": "e6d17af2-e8fe-45c6-8780-dc5ac35824a4",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (Effects Tape 1)",
+                    "length": "58333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d206171-4f9e-4e8a-8324-8b6dd22c2492",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d206171-4f9e-4e8a-8324-8b6dd22c2492",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (Effects Tape 2)",
+                    "length": "37826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "036082d5-a988-4627-8051-6d7b7a2496e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "036082d5-a988-4627-8051-6d7b7a2496e6",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (live from London, July 2, 2005)",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a07f8d09-0e4a-41b7-a1c5-d5f46c14cd10",
+                "direction": "backward",
+                "recording": {
+                    "id": "a07f8d09-0e4a-41b7-a1c5-d5f46c14cd10",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (live, 2004: Glastonbury)",
+                    "length": "354000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01953803-4648-408b-96b2-229318a6352b",
+                "direction": "backward",
+                "recording": {
+                    "id": "01953803-4648-408b-96b2-229318a6352b",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (live)",
+                    "length": "362000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6c5bf60-c86f-4c55-bfe5-e7f7ea66fc3f",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6c5bf60-c86f-4c55-bfe5-e7f7ea66fc3f",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (mono version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e468954-af00-4540-bd7b-59b217627a72",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e468954-af00-4540-bd7b-59b217627a72",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "79000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14e2acba-8738-4f76-a429-0faab2d99b26",
+                "direction": "backward",
+                "recording": {
+                    "id": "14e2acba-8738-4f76-a429-0faab2d99b26",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise) (mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df3e61d2-ffbd-4a1c-b779-506c8964cb4e",
+                "direction": "backward",
+                "recording": {
+                    "id": "df3e61d2-ffbd-4a1c-b779-506c8964cb4e",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise) (take 5 - complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee6d1749-a3ce-4f3c-8e81-68dd52034f92",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee6d1749-a3ce-4f3c-8e81-68dd52034f92",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise) (take 5, Rm 95)",
+                    "length": "86693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2750c4fe-c469-48b0-af7a-8b0af27f1c22",
+                "direction": "backward",
+                "recording": {
+                    "id": "2750c4fe-c469-48b0-af7a-8b0af27f1c22",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (reprise) (take 9, Rm 9)",
+                    "length": "80053"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14041fc7-3cbc-4555-98da-3a9aeb1cb0f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "14041fc7-3cbc-4555-98da-3a9aeb1cb0f2",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (take 10 With G. Martin)",
+                    "length": "86466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c987475-e768-4654-99db-ce3824a27648",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c987475-e768-4654-99db-ce3824a27648",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (take 10, Rm 3)",
+                    "length": "124800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "003413eb-16af-4cc7-bdf5-9fa68142faa1",
+                "direction": "backward",
+                "recording": {
+                    "id": "003413eb-16af-4cc7-bdf5-9fa68142faa1",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band (take 10)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40ba509d-2920-4339-8764-8a6e99ab5af4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "40ba509d-2920-4339-8764-8a6e99ab5af4",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band [8/30/70 Isle of Wight]",
+                    "length": "53000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3274b3c1-06e3-4f02-b090-2d07b664810d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "3274b3c1-06e3-4f02-b090-2d07b664810d",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band / With a Little Help From My Friends",
+                    "length": "279000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9bbd2b0f-ed2a-496b-9008-42160ceb7daa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9bbd2b0f-ed2a-496b-9008-42160ceb7daa",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band / With a Little Help From My Friends",
+                    "length": "201293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b9aa871-1e7c-42cd-9d40-c99515ece5c5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7b9aa871-1e7c-42cd-9d40-c99515ece5c5",
+                    "title": "Sgt. Pepper's Lonely Hearts Club Band / With a Little Help From My Friends / Sgt. Pepper's Lonely Hearts Club Band (reprise)",
+                    "length": "380160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19951548-a52d-4441-a4ba-039f62a340d7",
+                "direction": "backward",
+                "recording": {
+                    "id": "19951548-a52d-4441-a4ba-039f62a340d7",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "383000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "74a5a37a-b2fc-4349-9b76-648dde05bec4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "74a5a37a-b2fc-4349-9b76-648dde05bec4",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "76000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0bc83813-1abc-4ef3-8d66-8846600d7c83",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0bc83813-1abc-4ef3-8d66-8846600d7c83",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "95533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9bba694a-8fb1-44e0-8a04-fd72b8404211",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9bba694a-8fb1-44e0-8a04-fd72b8404211",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ae5ab62-84f1-4785-ad86-481b50670b2b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ae5ab62-84f1-4785-ad86-481b50670b2b",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "282000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28b20bad-9aa1-4516-8702-cbf6152e072a",
+                "direction": "backward",
+                "recording": {
+                    "id": "28b20bad-9aa1-4516-8702-cbf6152e072a",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b408bbf0-d56d-4942-b992-355417a504dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b408bbf0-d56d-4942-b992-355417a504dc",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "111000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94b3832f-3fa9-462d-a7a3-20de77221908",
+                "direction": "backward",
+                "recording": {
+                    "id": "94b3832f-3fa9-462d-a7a3-20de77221908",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "122000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3afee6d-c69b-469f-bd26-1d5c28401f17",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c3afee6d-c69b-469f-bd26-1d5c28401f17",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "106922",
+                    "disambiguation": "live",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18b213ef-0890-4d82-98d9-f01331be8cd2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "18b213ef-0890-4d82-98d9-f01331be8cd2",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "115000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff52ad74-8b5e-4e73-ba12-4847a32fd3d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ff52ad74-8b5e-4e73-ba12-4847a32fd3d0",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "542182f6-085f-44d2-84da-3288113a6bdb",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "542182f6-085f-44d2-84da-3288113a6bdb",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "370000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3b9e21d-4985-4852-8d11-80cf1bf6f425",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c3b9e21d-4985-4852-8d11-80cf1bf6f425",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "268408"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3299a407-11de-4079-9d20-dd4bb66687d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3299a407-11de-4079-9d20-dd4bb66687d1",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59cfc401-ea65-4f3d-b3d0-9e727cfb3947",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "59cfc401-ea65-4f3d-b3d0-9e727cfb3947",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "140266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be7ec90d-109a-40fe-b88f-20f6fd0d203b",
+                "direction": "backward",
+                "recording": {
+                    "id": "be7ec90d-109a-40fe-b88f-20f6fd0d203b",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "81066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d863bbe6-6b12-4827-8f3d-77a89597735b",
+                "direction": "backward",
+                "recording": {
+                    "id": "d863bbe6-6b12-4827-8f3d-77a89597735b",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be687a70-f688-40a2-bbf6-52125adc1729",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "be687a70-f688-40a2-bbf6-52125adc1729",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "178893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18a78bac-e69e-4a6f-9e57-91000a798adb",
+                "direction": "backward",
+                "recording": {
+                    "id": "18a78bac-e69e-4a6f-9e57-91000a798adb",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f495cc65-6b02-4ee4-8b83-f68b2bbdbc37",
+                "direction": "backward",
+                "recording": {
+                    "id": "f495cc65-6b02-4ee4-8b83-f68b2bbdbc37",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a07fa15-7290-4bf4-83fe-ec305674c513",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a07fa15-7290-4bf4-83fe-ec305674c513",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "78533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15f1ae8d-4f8e-489c-97ed-c9fe97d369ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "15f1ae8d-4f8e-489c-97ed-c9fe97d369ec",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "120333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a9a8165-4888-4bb6-bf54-cefe8e5a65a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "7a9a8165-4888-4bb6-bf54-cefe8e5a65a9",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f25e0519-af80-4365-9abc-44a2a13b717e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f25e0519-af80-4365-9abc-44a2a13b717e",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "167135"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe41b290-55a6-4ab2-b858-125760d2aa35",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe41b290-55a6-4ab2-b858-125760d2aa35",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "278000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d6bc2b6-44c5-4f76-b554-c5af2dcbc2f7",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d6bc2b6-44c5-4f76-b554-c5af2dcbc2f7",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23b645af-c89e-4a8c-a91a-cd365014f336",
+                "direction": "backward",
+                "recording": {
+                    "id": "23b645af-c89e-4a8c-a91a-cd365014f336",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e3c6da8-d3a6-4d19-a2d6-ff2514cf9d46",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "6e3c6da8-d3a6-4d19-a2d6-ff2514cf9d46",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (finale)",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5cb5b13-f538-4a81-a9c5-fea507749dd5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b5cb5b13-f538-4a81-a9c5-fea507749dd5",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "length": "83968",
+                    "disambiguation": "live",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbf92fa6-ec87-4e9b-bff2-0e19cee0e6c5",
+                "direction": "backward",
+                "recording": {
+                    "id": "bbf92fa6-ec87-4e9b-bff2-0e19cee0e6c5",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise) (RM9 take 9)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91768385-11f8-49e4-a2de-416afb9a4d4f",
+                "direction": "backward",
+                "recording": {
+                    "id": "91768385-11f8-49e4-a2de-416afb9a4d4f",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise) (RS10 take 9)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7fadfbc-0ae0-4012-82a3-daeda3a1bd4e",
+                "direction": "backward",
+                "recording": {
+                    "id": "c7fadfbc-0ae0-4012-82a3-daeda3a1bd4e",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (RM3 take 10)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e8f50b4-3041-4f33-9a29-16c18410bda1",
+                "direction": "backward",
+                "recording": {
+                    "id": "2e8f50b4-3041-4f33-9a29-16c18410bda1",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (RS8 take 10)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdb7105c-caf4-42b0-b0f5-d17b7e5b1b7b",
+                "direction": "backward",
+                "recording": {
+                    "id": "cdb7105c-caf4-42b0-b0f5-d17b7e5b1b7b",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (take 9)",
+                    "length": "156440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "940146a4-be9d-4604-91d2-d49110f93b96",
+                "direction": "backward",
+                "recording": {
+                    "id": "940146a4-be9d-4604-91d2-d49110f93b96",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (take 10)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dee6cf7d-861b-4a2a-a2c4-6cef39d27cd6",
+                "ordering-key": "1",
+                "direction": "backward",
+                "recording": {
+                    "id": "dee6cf7d-861b-4a2a-a2c4-6cef39d27cd6",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band / With a Little Help From My Friends (continuous)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cd0a9b2-87c4-4dab-9b4a-7ffaa5a0f0e2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3cd0a9b2-87c4-4dab-9b4a-7ffaa5a0f0e2",
+                    "title": "Sgt. Peppers Lonely Heart Club Band",
+                    "length": "244826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2373782a-b14b-4966-a9e9-99b22e9e33f1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2373782a-b14b-4966-a9e9-99b22e9e33f1",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "42000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8979d32c-f51a-4bfa-8851-55f1a6c3f4ed",
+                "direction": "backward",
+                "recording": {
+                    "id": "8979d32c-f51a-4bfa-8851-55f1a6c3f4ed",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "122542"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61a04e04-7b07-4dca-836c-1b55d0ee357e",
+                "direction": "backward",
+                "recording": {
+                    "id": "61a04e04-7b07-4dca-836c-1b55d0ee357e",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "121506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4640930-dbe8-4f6d-bc27-f4aa5b73ca96",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e4640930-dbe8-4f6d-bc27-f4aa5b73ca96",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "59000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf9719f5-d154-4460-82ef-0da66248f48d",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf9719f5-d154-4460-82ef-0da66248f48d",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "110000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9913cfe-f970-42b7-825f-bdfee9aa87f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e9913cfe-f970-42b7-825f-bdfee9aa87f0",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band",
+                    "length": "275000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd8f116d-fc48-48c9-a123-7ee07e30ee28",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cd8f116d-fc48-48c9-a123-7ee07e30ee28",
+                    "title": "Sgt. Peppers Lonely Hearts Club Band (instrumental)",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "532b75a1-6d01-4c85-9d80-78054f1ce8a9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "532b75a1-6d01-4c85-9d80-78054f1ce8a9",
+                    "title": "Stg. Pepper...",
+                    "length": "186626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ab92025-588f-4851-be24-c3f2f0a227cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "9ab92025-588f-4851-be24-c3f2f0a227cf",
+                    "title": "The Tribute: Sgt. Pepper's Lonely Hearts Club Band / Lucy in the Sky With Diamonds / Magical Mystery Tour / I Am the Walrus / Strawberry Fields Forever",
+                    "length": "449933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-sgt-peppers-lonely-hearts-club-band-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1131",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=117",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1326986",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "49c2a586-85cd-45cf-b142-1a50d94b22ca",
+                "direction": "forward",
+                "work": {
+                    "id": "49c2a586-85cd-45cf-b142-1a50d94b22ca",
+                    "type": "Song",
+                    "title": "Cpl. Kipper\u2019s Barnsley Trades Club Turn",
+                    "language": "eng"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "ba8adcd2-537e-3204-a427-86b391e40469",
+                "direction": "forward",
+                "work": {
+                    "id": "ba8adcd2-537e-3204-a427-86b391e40469",
+                    "type": "Song",
+                    "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (reprise)",
+                    "language": "eng"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "66c0bfd5-5ad9-305e-9caf-3b67f7905f56",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody",
+                    "translated"
+                ],
+                "work": {
+                    "id": "66c0bfd5-5ad9-305e-9caf-3b67f7905f56",
+                    "title": "Sergent p\u00e9p\u00e8re"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    },
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "13424265-cfba-46af-a127-21c808ffa9b8",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "13424265-cfba-46af-a127-21c808ffa9b8",
+                    "type": "Song",
+                    "title": "Sgt. Hetfield's Motorbreath Pub Band"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "a7914ae5-3d31-4c41-b14c-44db7637911c",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "a7914ae5-3d31-4c41-b14c-44db7637911c",
+                    "type": "Song",
+                    "title": "Such Impressive Loving Smart Close Friends",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            }
+        ]
+    }
+}

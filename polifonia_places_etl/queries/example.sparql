@@ -1,0 +1,25 @@
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+
+SELECT ?recording ?pArtist ?pArtistForIri ?artistLabel ?artistID WHERE {
+
+	SERVICE <x-sparql-anything:> {
+
+		fx:properties fx:location "data/places.json"  ;
+	  	fx:media-type "application/json" ;
+		fx:blank-nodes false    .
+
+        # Recording
+		?recording  xyz:track%5Fid ?recordingID ;
+                    xyz:recording%5Fplaces ?recordingSessionList ;
+                    xyz:title ?title ;
+                    xyz:youtube%5Fid ?youtubeID ;
+                    ?pArtist ?artistLabel ;
+                    ?pArtistForIri ?artistID .
+
+                    FILTER(REGEX(STR(?pArtist),".*artist%5F[0-9]+$")) .
+		            FILTER(REGEX(STR(?pArtistForIri),".*artist%5Ffor%5Firi%5F[0-9]+$")) .
+
+
+	} 
+}

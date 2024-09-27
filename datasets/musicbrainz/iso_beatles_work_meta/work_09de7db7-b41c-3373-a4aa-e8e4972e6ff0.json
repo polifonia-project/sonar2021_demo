@@ -1,0 +1,1580 @@
+{
+    "work": {
+        "id": "09de7db7-b41c-3373-a4aa-e8e4972e6ff0",
+        "type": "Song",
+        "title": "Good Day Sunshine",
+        "language": "eng",
+        "iswc": "T-010.434.217-7",
+        "iswc-list": [
+            "T-010.434.217-7",
+            "T-900.307.230-8"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 196 27"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "4766"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12161219"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100139000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "63.164"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357930"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357930"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "11904394"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "214862"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "214750"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3447692"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009886548"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "63 838 632 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001502700"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "10142Y"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633836-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "20151"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965878"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10586516"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "17744510"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000037704"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "370083197"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01089578"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9348513"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243513"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "9651701"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6352123"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "493729"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "809947a1-4836-46e1-9b59-bdd30e611e5a",
+                "direction": "backward",
+                "begin": "1966-06-08",
+                "end": "1966-06-09",
+                "ended": "true",
+                "recording": {
+                    "id": "809947a1-4836-46e1-9b59-bdd30e611e5a",
+                    "title": "Good Day Sunshine",
+                    "length": "130000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb9abe2b-e216-41e6-a465-1a939197c8a5",
+                "direction": "backward",
+                "begin": "1966-06-08",
+                "end": "1966-06-09",
+                "ended": "true",
+                "recording": {
+                    "id": "fb9abe2b-e216-41e6-a465-1a939197c8a5",
+                    "title": "Good Day Sunshine",
+                    "length": "132000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1e150b7-cad6-4a0f-8d49-eb758d18577d",
+                "direction": "backward",
+                "begin": "1982-11-05",
+                "end": "1984-07-26",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e1e150b7-cad6-4a0f-8d49-eb758d18577d",
+                    "title": "Good Day Sunshine / Corridor Music",
+                    "length": "153160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa3d1042-20dd-4304-ad8f-cae97772eddb",
+                "direction": "backward",
+                "begin": "1989-12-09",
+                "end": "1989-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fa3d1042-20dd-4304-ad8f-cae97772eddb",
+                    "title": "Good Day Sunshine",
+                    "length": "154000",
+                    "disambiguation": "live, 1989-12-09: Montreal Forum, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d756872-3a8e-4c7c-9703-fc2c788e11a8",
+                "direction": "backward",
+                "begin": "1990-03-07",
+                "end": "1990-03-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7d756872-3a8e-4c7c-9703-fc2c788e11a8",
+                    "title": "Good Day Sunshine",
+                    "disambiguation": "live, 1990-03-07: Tokyo Dome, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97fb4a4e-5d44-4599-a8d3-f34231d6c603",
+                "direction": "backward",
+                "begin": "2005-09-22",
+                "end": "2005-09-22",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "97fb4a4e-5d44-4599-a8d3-f34231d6c603",
+                    "title": "Good Day Sunshine",
+                    "length": "125000",
+                    "disambiguation": "live, 2005-09-22: Wachovia Center, Philadelphia, PA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c71c6b8f-ee08-4e2a-aed4-539659f8455e",
+                "direction": "backward",
+                "begin": "2005-10-10",
+                "end": "2005-10-10",
+                "ended": "true",
+                "recording": {
+                    "id": "c71c6b8f-ee08-4e2a-aed4-539659f8455e",
+                    "title": "Good Day Sunshine",
+                    "disambiguation": "live, 2005-10-10: Air Canada Centre, Toronto, Ontario, CA"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a17ce6d-a589-4ba7-aa8b-a396b59821f8",
+                "direction": "backward",
+                "begin": "2005-10-26",
+                "end": "2005-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1a17ce6d-a589-4ba7-aa8b-a396b59821f8",
+                    "title": "Good Day Sunshine",
+                    "disambiguation": "live, 2005-10-26: Xcel Energy Center, St. Paul, MN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b1b6ba2-d9d0-45ff-a1c3-0c3ae49a90b2",
+                "direction": "backward",
+                "begin": "2008-07-20",
+                "end": "2008-07-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b1b6ba2-d9d0-45ff-a1c3-0c3ae49a90b2",
+                    "title": "Good Day Sunshine",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22932b4b-5cf9-4e0a-9a27-9a380753f523",
+                "direction": "backward",
+                "begin": "2008-07-20",
+                "end": "2008-07-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "22932b4b-5cf9-4e0a-9a27-9a380753f523",
+                    "title": "Let \u2019em In",
+                    "disambiguation": "live, 2008\u201007\u201020: Plains of Abraham, Quebec City, QC, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc9b7643-32a9-4405-84c0-c38497a8ee16",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "cc9b7643-32a9-4405-84c0-c38497a8ee16",
+                    "title": "\u00bbFinale\u00ab Consisting of Main Themes From \u00bbSgt. Peppers Lonely Hearts Club Band\u00ab / \u00bbDay Tripper\u00ab / \u00bbGood Day Sunshine\u00ab / \u00bbNorwegian Wood\u00ab (medley)",
+                    "length": "425906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e3b762c-ba56-4c07-bef0-e4c17d413bb3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e3b762c-ba56-4c07-bef0-e4c17d413bb3",
+                    "title": "Good Day Sunshine",
+                    "length": "147680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15a9247e-19f0-4f0f-abd5-da50eb4d8762",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "15a9247e-19f0-4f0f-abd5-da50eb4d8762",
+                    "title": "Good Day Sunshine",
+                    "length": "129333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cb39b62-1222-4c1a-bbd3-d2dca216b448",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1cb39b62-1222-4c1a-bbd3-d2dca216b448",
+                    "title": "Good Day Sunshine",
+                    "length": "141120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f22c9f3-b492-4de3-897a-2d3c48cb7ce9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1f22c9f3-b492-4de3-897a-2d3c48cb7ce9",
+                    "title": "Good Day Sunshine",
+                    "length": "121733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb7547b0-51d3-4682-bfdf-d39fae21a4ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bb7547b0-51d3-4682-bfdf-d39fae21a4ae",
+                    "title": "Good Day Sunshine",
+                    "length": "187000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bfe5d25e-c861-41d7-8e8b-d11123a596dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bfe5d25e-c861-41d7-8e8b-d11123a596dc",
+                    "title": "Good Day Sunshine",
+                    "length": "117240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4f03020-c9f0-45be-a230-09eefb299d03",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a4f03020-c9f0-45be-a230-09eefb299d03",
+                    "title": "Good Day Sunshine",
+                    "length": "96733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9093b036-89d1-456f-8faf-39c7e327d6c2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9093b036-89d1-456f-8faf-39c7e327d6c2",
+                    "title": "Good Day Sunshine",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbbd682a-345c-4fc7-a3ba-b2d935408973",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bbbd682a-345c-4fc7-a3ba-b2d935408973",
+                    "title": "Good Day Sunshine",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adfd9107-c830-4058-89d5-646cebe5b265",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "adfd9107-c830-4058-89d5-646cebe5b265",
+                    "title": "Good Day Sunshine",
+                    "length": "151186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a623014-ccfc-4065-b49a-2dbc26b1ff6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a623014-ccfc-4065-b49a-2dbc26b1ff6b",
+                    "title": "Good Day Sunshine",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2b1acd0-2194-4c4d-8234-4c5a81c89b4f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c2b1acd0-2194-4c4d-8234-4c5a81c89b4f",
+                    "title": "Good Day Sunshine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "948444ec-cae5-4682-a0fc-21e4a6479975",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "948444ec-cae5-4682-a0fc-21e4a6479975",
+                    "title": "Good Day Sunshine",
+                    "length": "226000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e5d700e-d7c8-4530-ad90-f2bdccee6296",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1e5d700e-d7c8-4530-ad90-f2bdccee6296",
+                    "title": "Good Day Sunshine"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a9701bc-38fe-4674-add2-c5902f21db10",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0a9701bc-38fe-4674-add2-c5902f21db10",
+                    "title": "Good Day Sunshine",
+                    "length": "131893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd70ce7d-7588-4d92-b8d5-a0486f338904",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd70ce7d-7588-4d92-b8d5-a0486f338904",
+                    "title": "Good Day Sunshine",
+                    "length": "132000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89fe78d6-8c44-49d0-a56f-8c662ee12ff8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "89fe78d6-8c44-49d0-a56f-8c662ee12ff8",
+                    "title": "Good Day Sunshine",
+                    "length": "314386"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01118368-eb5e-478c-9586-1a7ef09f4706",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "01118368-eb5e-478c-9586-1a7ef09f4706",
+                    "title": "Good Day Sunshine",
+                    "length": "145000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2674101e-0d9f-4ee7-aa7d-c0975df44630",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2674101e-0d9f-4ee7-aa7d-c0975df44630",
+                    "title": "Good Day Sunshine",
+                    "length": "127213"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae7f8e97-99ea-445f-a765-46f120442ae0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ae7f8e97-99ea-445f-a765-46f120442ae0",
+                    "title": "Good Day Sunshine"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8319e0d3-93d2-4cc2-9f5c-809a92874ec3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8319e0d3-93d2-4cc2-9f5c-809a92874ec3",
+                    "title": "Good Day Sunshine",
+                    "length": "128240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b38fb9b-06ba-461a-9a59-1e845ab8839a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8b38fb9b-06ba-461a-9a59-1e845ab8839a",
+                    "title": "Good Day Sunshine",
+                    "length": "233920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3359ffe-f3bd-47f8-be7c-50feeec7a14f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c3359ffe-f3bd-47f8-be7c-50feeec7a14f",
+                    "title": "Good Day Sunshine",
+                    "length": "128000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db34cf38-228d-4b04-a1e4-3aed64f42776",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "db34cf38-228d-4b04-a1e4-3aed64f42776",
+                    "title": "Good Day Sunshine",
+                    "length": "148000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edaf526e-9f11-4d77-9587-bee071d3dac0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "edaf526e-9f11-4d77-9587-bee071d3dac0",
+                    "title": "Good Day Sunshine",
+                    "length": "128746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e166054-17e5-414a-9512-68cec742ace9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1e166054-17e5-414a-9512-68cec742ace9",
+                    "title": "Good Day Sunshine",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fe5840e-7264-4b2f-bc65-fb18ae34b4b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "2fe5840e-7264-4b2f-bc65-fb18ae34b4b2",
+                    "title": "Good Day Sunshine",
+                    "length": "103000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "119419b9-a45b-4761-a540-b3337595f52e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "119419b9-a45b-4761-a540-b3337595f52e",
+                    "title": "Good Day Sunshine",
+                    "length": "133826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9a0b04b-6886-48ad-90c2-bb3e74315585",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c9a0b04b-6886-48ad-90c2-bb3e74315585",
+                    "title": "Good Day Sunshine",
+                    "length": "120000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9dbae92b-bc78-4956-ab79-74ed5f0a002d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9dbae92b-bc78-4956-ab79-74ed5f0a002d",
+                    "title": "Good Day Sunshine",
+                    "length": "140333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d5e4a24-2645-4b8e-b450-3fcc6aa6eef5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8d5e4a24-2645-4b8e-b450-3fcc6aa6eef5",
+                    "title": "Good Day Sunshine",
+                    "length": "194560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c782e394-b6e1-4f0d-a26d-fe944eaa1132",
+                "direction": "backward",
+                "recording": {
+                    "id": "c782e394-b6e1-4f0d-a26d-fe944eaa1132",
+                    "title": "Good Day Sunshine",
+                    "length": "130746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cef600a-8a26-474c-aa0c-eb7a244ead9e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9cef600a-8a26-474c-aa0c-eb7a244ead9e",
+                    "title": "Good Day Sunshine",
+                    "disambiguation": "live, 2005",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b82ede2-4e50-41a0-b9ed-76d4b94afef1",
+                "direction": "backward",
+                "recording": {
+                    "id": "3b82ede2-4e50-41a0-b9ed-76d4b94afef1",
+                    "title": "Good Day Sunshine",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cce5e652-07a2-47fb-b9dc-28aba02e488e",
+                "direction": "backward",
+                "recording": {
+                    "id": "cce5e652-07a2-47fb-b9dc-28aba02e488e",
+                    "title": "Good Day Sunshine",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45b1de1b-5fea-4636-87cc-fe267288fa40",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "45b1de1b-5fea-4636-87cc-fe267288fa40",
+                    "title": "Good Day Sunshine",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2b03997-8fdb-4609-9754-8679d8e56920",
+                "direction": "backward",
+                "recording": {
+                    "id": "b2b03997-8fdb-4609-9754-8679d8e56920",
+                    "title": "Good Day Sunshine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15edba95-840d-4ea6-9196-7e4906df5df9",
+                "direction": "backward",
+                "recording": {
+                    "id": "15edba95-840d-4ea6-9196-7e4906df5df9",
+                    "title": "Good Day Sunshine",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2b65085-a96c-4e8c-8dcc-eebd6756c2e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e2b65085-a96c-4e8c-8dcc-eebd6756c2e7",
+                    "title": "Good Day Sunshine",
+                    "length": "129253"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d12b05e3-6fee-428e-83ce-81faae4a25bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "d12b05e3-6fee-428e-83ce-81faae4a25bf",
+                    "title": "Good Day Sunshine",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88582e88-ed32-4f54-8e0d-85a51a6b44e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "88582e88-ed32-4f54-8e0d-85a51a6b44e3",
+                    "title": "Good Day Sunshine",
+                    "length": "129826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c7cbb6c-ffb5-462d-9eb2-9d3ff901ee2e",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c7cbb6c-ffb5-462d-9eb2-9d3ff901ee2e",
+                    "title": "Good Day Sunshine",
+                    "length": "131000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20885418-21bf-44a6-a865-96d2026079fe",
+                "direction": "backward",
+                "recording": {
+                    "id": "20885418-21bf-44a6-a865-96d2026079fe",
+                    "title": "Good Day Sunshine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "588e8551-a0ad-4837-8175-833a07b0f2d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "588e8551-a0ad-4837-8175-833a07b0f2d6",
+                    "title": "Good Day Sunshine",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0374d69-f1e8-4f4a-9532-1197bb6d4523",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a0374d69-f1e8-4f4a-9532-1197bb6d4523",
+                    "title": "Good Day Sunshine"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5aa0cb9-980e-4202-8ed3-0878d8beec15",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d5aa0cb9-980e-4202-8ed3-0878d8beec15",
+                    "title": "Good Day Sunshine",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c34917d6-a85e-4923-8d8d-87833f9faeb2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c34917d6-a85e-4923-8d8d-87833f9faeb2",
+                    "title": "Good Day Sunshine",
+                    "length": "118400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ecd99f8-d5db-4dba-bf42-e7d908ab321b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1ecd99f8-d5db-4dba-bf42-e7d908ab321b",
+                    "title": "Good Day Sunshine",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "954b5e08-c2be-4b0f-a962-af41fc2a2df2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "954b5e08-c2be-4b0f-a962-af41fc2a2df2",
+                    "title": "Good Day Sunshine",
+                    "length": "129573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d49d618a-f774-43f0-9bbf-2afaa659c88c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d49d618a-f774-43f0-9bbf-2afaa659c88c",
+                    "title": "Good Day Sunshine",
+                    "length": "166573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e52e860-d038-4d27-9406-9c608a1e1e40",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e52e860-d038-4d27-9406-9c608a1e1e40",
+                    "title": "Good Day Sunshine",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00794727-2ae8-4af1-b3de-45623152e1df",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "00794727-2ae8-4af1-b3de-45623152e1df",
+                    "title": "Good Day Sunshine",
+                    "length": "161506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc3fe523-1a9d-4200-b701-94d26b112c5d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc3fe523-1a9d-4200-b701-94d26b112c5d",
+                    "title": "Good Day Sunshine",
+                    "length": "122506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bdd8084-523f-431e-ba1d-4d6cf9ed92a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bdd8084-523f-431e-ba1d-4d6cf9ed92a8",
+                    "title": "Good Day Sunshine",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e2c5c6a-b6a4-4b1c-ad43-5ef1e8b630d5",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e2c5c6a-b6a4-4b1c-ad43-5ef1e8b630d5",
+                    "title": "Good Day Sunshine (End Vocal Overlays)",
+                    "length": "15000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e20c587-eead-46cd-beac-db48fd6d9db0",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e20c587-eead-46cd-beac-db48fd6d9db0",
+                    "title": "Good Day Sunshine (mono mix)",
+                    "length": "129320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0bdba51-3373-44c4-b306-17540f8e3a08",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0bdba51-3373-44c4-b306-17540f8e3a08",
+                    "title": "Good Day Sunshine (mono)",
+                    "length": "133320"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "347ea2aa-33f1-4fe8-9edd-6a17634e4e8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "347ea2aa-33f1-4fe8-9edd-6a17634e4e8b",
+                    "title": "Good Day Sunshine (Reprise)",
+                    "length": "128413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7373c755-8ea7-45bb-a8f4-6ac9c393e779",
+                "direction": "backward",
+                "recording": {
+                    "id": "7373c755-8ea7-45bb-a8f4-6ac9c393e779",
+                    "title": "Good Day Sunshine (RM7)",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43edc64b-46e3-4f65-a4a2-992e7e7c03bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "43edc64b-46e3-4f65-a4a2-992e7e7c03bc",
+                    "title": "Good Day Sunshine (RS1 Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a90b00e3-bade-4e5f-b775-d4f2e323d248",
+                "direction": "backward",
+                "recording": {
+                    "id": "a90b00e3-bade-4e5f-b775-d4f2e323d248",
+                    "title": "Good Day Sunshine (RS1)",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d098bed-1126-4fec-b795-8264fa5559ff",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d098bed-1126-4fec-b795-8264fa5559ff",
+                    "title": "Good Day Sunshine (Si Take 1 - Piano, Percussion, Handclaps, Vocals)",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f477b32-444a-4976-a970-ca8841da2681",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f477b32-444a-4976-a970-ca8841da2681",
+                    "title": "Good Day Sunshine (SI take 1 - Vocals)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a85b1a9-4259-4a15-b3ee-bb202e1a88a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a85b1a9-4259-4a15-b3ee-bb202e1a88a6",
+                    "title": "Good Day Sunshine (Take 1 - Rhythm)",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48fa33cf-d261-47bf-b839-6225a43853a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "48fa33cf-d261-47bf-b839-6225a43853a7",
+                    "title": "Good Day Sunshine / Day Tripper",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-good-day-sunshine-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/11885",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=108",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q305505",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                "direction": "backward",
+                "work": {
+                    "id": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                    "title": "Beatles Medley",
+                    "language": "eng",
+                    "disambiguation": "Stars on 45"
+                }
+            }
+        ]
+    }
+}

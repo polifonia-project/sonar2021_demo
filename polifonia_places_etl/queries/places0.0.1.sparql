@@ -1,0 +1,140 @@
+# Query to extract data from preprocessed file with places related to Music domain
+# and build a Knowledge Graph according to Polifonia places ontology, using sparql.anything
+#
+# from following datasets:
+#      -
+#      -
+#
+# Raw file: https://raw.githubusercontent.com/polifonia-project/sonar2021_demo/datasets/places/places.json
+# 
+# Polifonia KG ontology: https://github.com/polifonia-project/sonar2021_demo/issues/14
+
+
+
+# POLIFONIA prefixes
+PREFIX core:    <https://w3id.org/polifonia/ON/core/> 
+PREFIX mp:      <https://w3id.org/polifonia/ON/musical-performance/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX pr:      <https://w3id.org/polifonia/resource/>
+
+# SPARQL anything prefixes
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+
+
+CONSTRUCT { 
+
+    # Recording
+    ?recordingIRI   a mp:Recording ;
+                    core:hasTitle ?titleIRI ;
+                    core:hasYoutubeID ?youtubeID ;
+                    mp:isRecordingProducedBy ?recordingProcessIRI;
+                    mp:hasRecordingPerformer ?artistIRI .
+
+    # Title
+    ?titleIRI   a core:Title ;
+                rdfs:label ?titleLabel .
+
+    # Agent
+    ?artistIRI  a core:Agent ; 
+                rdfs:label ?artistLabel .
+
+
+    # RecordingProcess  
+    ?recordingProcessIRI    rdf:type mp:RecordingProcess ;
+                            mp:hasSession ?sessionIRI .
+
+
+
+    # Session
+    ?sessionIRI core:hasType ?sessionTypeIndividualIRI ;
+                rdf:type mp:Session ;
+                core:hasPlace ?placeIRI ;
+                core:hasTimeInterval ?timeIntervalIRI . 
+                
+    # TimeInterval
+    ?timeIntervalIRI    a core:TimeInterval ;
+                        core:startTime ?startTime ;
+                        core:endTime ?endTime .
+    
+    # PhysicalSite
+    ?placeIRI a core:PhysicalSite ;
+              rdfs:label ?placeLabel ;
+              core:hasAddress ?addressIRI ;
+              core:hasGeometry ?geometryIRI .
+
+    # Address
+    ?addressIRI a core:Address ;
+                core:fullAddress ?fullAddress .
+
+    # Geometry
+    ?geometryIRI    a core:Geometry ;
+                    core:lat ?lat ;
+                    core:long ?long .
+}
+    WHERE {
+
+	SERVICE <x-sparql-anything:> {
+
+        # location for json preprocessed file
+		fx:properties fx:location "data/places.json"  ;
+	  	fx:media-type "application/json" ;
+		fx:blank-nodes false    .
+
+
+        # Recording
+		?recording  xyz:track%5Fid ?recordingID ;
+                    xyz:recording%5Fplaces ?recordingSessionList ;
+                    xyz:title ?titleLabel ;
+                    xyz:title%5Ffor%5Firi ?titleID ;
+                    ?pArtist ?artistLabel ;
+                    ?pArtistForIri ?artistID .
+
+                    FILTER(REGEX(STR(?pArtist),".*artist%5F[0-9]+$")) .
+		            FILTER(REGEX(STR(?pArtistForIri),".*artist%5Ffor%5Firi%5F[0-9]+$")) .
+
+        OPTIONAL { ?recording xyz:youtube%5Fid ?youtubeID . }
+
+
+
+        
+        # Session
+        ?recordingSessionList ?li ?recordingSession .
+        ?recordingSession xyz:session%5Fid ?sessionID ;
+                          xyz:session%5Ftype ?sessionType ;
+                          xyz:place ?place ;
+                          xyz:begin ?startTime ;
+                          xyz:end ?endTime .
+        
+        
+
+        # PhysicalSite
+        ?place  xyz:id ?placeID ;
+                xyz:name ?placeLabel ;
+                xyz:address ?fullAddress ;
+                xyz:coordinates ?coordinates .
+        
+
+
+        # Geometry
+        ?coordinates xyz:latitude ?lat ;
+                     xyz:longitude ?long .
+
+	}
+
+
+    # generate resources IRIs from string IDs
+    BIND(IRI(CONCAT( STR(pr:) , "Recording/", ?recordingID)) AS ?recordingIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Title/", ENCODE_FOR_URI(?titleID))) AS ?titleIRI) # ENCODE_FOR_URI fix issues with unicode char in strings e.g. "wheni\u00e2\u20ac\u2122msixty\u00e2\u20ac\u0090four"
+    BIND(IRI(CONCAT( STR(pr:) , "Agent/", ?artistID)) AS ?artistIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "RecordingProcess/", ?recordingID)) AS ?recordingProcessIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Session/", ?sessionID)) AS ?sessionIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "TimeInterval/", ?sessionID)) AS ?timeIntervalIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Place/", ?placeID)) AS ?placeIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Address/", ?placeID)) AS ?addressIRI)
+    BIND(IRI(CONCAT( STR(pr:) , "Geometry/", ?placeID)) AS ?geometryIRI)
+    # individuals IRIs from string IRI
+    BIND(IRI(?sessionType) AS ?sessionTypeIndividualIRI)
+
+} 

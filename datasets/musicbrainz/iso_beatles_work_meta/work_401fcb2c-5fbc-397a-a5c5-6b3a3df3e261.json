@@ -1,0 +1,2520 @@
+{
+    "work": {
+        "id": "401fcb2c-5fbc-397a-a5c5-6b3a3df3e261",
+        "type": "Song",
+        "title": "Girl",
+        "language": "eng",
+        "iswc": "T-900.008.633-9",
+        "iswc-list": [
+            "T-900.008.633-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 193 33"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "32581"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12153836"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "79103217600"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.064.730"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1566420"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1566420"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "816351"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3269684"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009503209"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "92 224 900 11"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 543 405 11"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "01994R"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "866504-001"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "919189-001"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633739-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "18567"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2626304"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "5864981"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617630"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000035796"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "370165018"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01765174"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02672950"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9008484"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "9653201"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "72103401"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "8909801"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6281708"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "469886"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91ec42bc-a04d-497e-b829-439831c8dbcb",
+                "direction": "backward",
+                "begin": "1965-11-11",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "91ec42bc-a04d-497e-b829-439831c8dbcb",
+                    "title": "Girl",
+                    "length": "151720",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "283b8e7f-3570-4d20-97b7-5e8a762bc661",
+                "direction": "backward",
+                "begin": "1965-11-11",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "283b8e7f-3570-4d20-97b7-5e8a762bc661",
+                    "title": "Girl",
+                    "length": "151000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b47453d8-f7d0-44c9-afbe-08cf54662276",
+                "direction": "backward",
+                "begin": "1965-11-11",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "b47453d8-f7d0-44c9-afbe-08cf54662276",
+                    "title": "Girl",
+                    "length": "150000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11b5a382-d02e-4c9b-8135-c2bd76063dec",
+                "direction": "backward",
+                "begin": "1966-08",
+                "end": "1966-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "11b5a382-d02e-4c9b-8135-c2bd76063dec",
+                    "title": "Girl",
+                    "length": "112000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "228d737a-2d25-40dc-914e-a7cd5c7c46a7",
+                "direction": "backward",
+                "begin": "1984-09",
+                "end": "1984-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "228d737a-2d25-40dc-914e-a7cd5c7c46a7",
+                    "title": "Girl",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4b22ff0-24a9-4db5-b02e-a652f1fa2ed8",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4b22ff0-24a9-4db5-b02e-a652f1fa2ed8",
+                    "title": "Girl",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5566cf1d-2b6f-4195-ada5-63b7ebe679c2",
+                "direction": "backward",
+                "recording": {
+                    "id": "5566cf1d-2b6f-4195-ada5-63b7ebe679c2",
+                    "title": "Girl",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bda9896-f0ec-49de-94d7-d006e1834f03",
+                "direction": "backward",
+                "recording": {
+                    "id": "8bda9896-f0ec-49de-94d7-d006e1834f03",
+                    "title": "Girl"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c508fce0-bc36-4610-9d6d-cf9cbab2c991",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c508fce0-bc36-4610-9d6d-cf9cbab2c991",
+                    "title": "Girl",
+                    "length": "174909"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fdf6a879-7f11-4785-be13-8a8fa378e0ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fdf6a879-7f11-4785-be13-8a8fa378e0ef",
+                    "title": "Girl",
+                    "length": "186773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07ccd697-3720-4dac-bba3-229c2ac4d364",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "07ccd697-3720-4dac-bba3-229c2ac4d364",
+                    "title": "Girl",
+                    "length": "171826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8a9ac36-2130-407c-b7b2-bf379717d8ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c8a9ac36-2130-407c-b7b2-bf379717d8ef",
+                    "title": "Girl",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cc9bff6-2e51-4b5e-8bcf-4b944017ec8f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0cc9bff6-2e51-4b5e-8bcf-4b944017ec8f",
+                    "title": "Girl",
+                    "length": "232199"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c0a64ed-6f16-4fc1-8682-b8cbd4aca6a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "0c0a64ed-6f16-4fc1-8682-b8cbd4aca6a2",
+                    "title": "Girl",
+                    "length": "149973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64f56871-32ca-4b1b-8d7b-af488224c579",
+                "direction": "backward",
+                "recording": {
+                    "id": "64f56871-32ca-4b1b-8d7b-af488224c579",
+                    "title": "Girl",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "589f4eb4-b573-4a97-8c40-9849a6c0acf4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "589f4eb4-b573-4a97-8c40-9849a6c0acf4",
+                    "title": "Girl",
+                    "length": "182680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a16da730-4534-4fcc-9c61-be8258c59d42",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a16da730-4534-4fcc-9c61-be8258c59d42",
+                    "title": "Girl",
+                    "length": "329000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "162720f3-ea20-44ca-99cf-3059cfe5ec46",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "162720f3-ea20-44ca-99cf-3059cfe5ec46",
+                    "title": "Girl",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7db0ade3-e2f7-441f-bcb9-15b0e4ed5a55",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7db0ade3-e2f7-441f-bcb9-15b0e4ed5a55",
+                    "title": "Girl",
+                    "length": "194573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a043fc3-1ce4-4302-9fa6-1d5d19dc0a45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5a043fc3-1ce4-4302-9fa6-1d5d19dc0a45",
+                    "title": "Girl",
+                    "length": "168414"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a1c365c-ac8e-4f9f-9892-a4e09379b939",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2a1c365c-ac8e-4f9f-9892-a4e09379b939",
+                    "title": "Girl",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ef6e4c0-fb11-4301-84b2-b9397c4a9ab5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1ef6e4c0-fb11-4301-84b2-b9397c4a9ab5",
+                    "title": "Girl",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2607caea-77e7-4de1-9cbe-aa051a1e59f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2607caea-77e7-4de1-9cbe-aa051a1e59f0",
+                    "title": "Girl",
+                    "length": "278840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bfaef696-951d-4c2f-8215-8c32d0e3db36",
+                "direction": "backward",
+                "recording": {
+                    "id": "bfaef696-951d-4c2f-8215-8c32d0e3db36",
+                    "title": "Girl",
+                    "length": "163000",
+                    "disambiguation": "Love version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "145985a4-e761-485b-992b-1f80465e0291",
+                "direction": "backward",
+                "recording": {
+                    "id": "145985a4-e761-485b-992b-1f80465e0291",
+                    "title": "Girl",
+                    "length": "151000",
+                    "disambiguation": "1977 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e80e0cee-7ce5-452f-9225-6a2d779145ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e80e0cee-7ce5-452f-9225-6a2d779145ff",
+                    "title": "Girl",
+                    "length": "230000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b25942f-1ea6-4f0c-a000-80d14c964bb1",
+                "direction": "backward",
+                "recording": {
+                    "id": "5b25942f-1ea6-4f0c-a000-80d14c964bb1",
+                    "title": "Girl"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8247c0fd-24e6-4988-8026-7f2d10560a9b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8247c0fd-24e6-4988-8026-7f2d10560a9b",
+                    "title": "Girl",
+                    "length": "341933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "492c1b52-1fd7-4965-9c26-0e8284270034",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "492c1b52-1fd7-4965-9c26-0e8284270034",
+                    "title": "Girl",
+                    "length": "240000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5647bf0f-971d-4f11-bd09-3b22e8b7aa59",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5647bf0f-971d-4f11-bd09-3b22e8b7aa59",
+                    "title": "Girl",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "256dff3c-a970-46d2-a72c-3bf9f6eca31b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "256dff3c-a970-46d2-a72c-3bf9f6eca31b",
+                    "title": "Girl",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f934a17-51da-4ec5-bbea-0ade590cfc99",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1f934a17-51da-4ec5-bbea-0ade590cfc99",
+                    "title": "Girl",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a83cd6dc-c9f2-4c87-9ccd-2fcdebd6ec79",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a83cd6dc-c9f2-4c87-9ccd-2fcdebd6ec79",
+                    "title": "Girl",
+                    "length": "243000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4581e88-d796-4f04-acd7-64a0dba65d50",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c4581e88-d796-4f04-acd7-64a0dba65d50",
+                    "title": "Girl",
+                    "length": "294333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b563916b-29df-48ca-9721-c1599c0df1c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b563916b-29df-48ca-9721-c1599c0df1c9",
+                    "title": "Girl",
+                    "length": "291000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "beb34895-9a79-4b40-b4a3-2095abaac77c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "beb34895-9a79-4b40-b4a3-2095abaac77c",
+                    "title": "Girl",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13636f4f-f005-401f-ab68-b065fc5a05af",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "13636f4f-f005-401f-ab68-b065fc5a05af",
+                    "title": "Girl",
+                    "length": "193440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "387ab2b4-4b2f-4553-aff8-00b2354711b7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "387ab2b4-4b2f-4553-aff8-00b2354711b7",
+                    "title": "Girl"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6fc8cd2-3546-4ed5-b471-513f8549e01d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e6fc8cd2-3546-4ed5-b471-513f8549e01d",
+                    "title": "Girl",
+                    "length": "184000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adf037f1-08dc-4bd6-b0b6-93f0785ac6e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "adf037f1-08dc-4bd6-b0b6-93f0785ac6e5",
+                    "title": "Girl",
+                    "length": "184000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52f8fb61-bbcd-472b-b0a9-dce70d7bf6a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "52f8fb61-bbcd-472b-b0a9-dce70d7bf6a0",
+                    "title": "Girl",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "250b8e83-e417-4261-8413-08492fa5bb4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "250b8e83-e417-4261-8413-08492fa5bb4a",
+                    "title": "Girl",
+                    "length": "193466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2166385b-0f5b-4059-9c5f-a5a0bc3c91c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2166385b-0f5b-4059-9c5f-a5a0bc3c91c6",
+                    "title": "Girl"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0be8f1bf-ddfa-4def-8dd4-d6fdae35c551",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0be8f1bf-ddfa-4def-8dd4-d6fdae35c551",
+                    "title": "Girl",
+                    "length": "117000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98f13010-836c-4594-81a6-fef846548ebe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "98f13010-836c-4594-81a6-fef846548ebe",
+                    "title": "Girl",
+                    "length": "307973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57258f36-8799-42b2-b829-c8c91895868d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "57258f36-8799-42b2-b829-c8c91895868d",
+                    "title": "Girl",
+                    "length": "158613"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8063509a-3913-4e4c-98ca-ca7eb79da49a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8063509a-3913-4e4c-98ca-ca7eb79da49a",
+                    "title": "Girl",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de5c4599-4397-48f1-a087-c18d1355e800",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "de5c4599-4397-48f1-a087-c18d1355e800",
+                    "title": "Girl",
+                    "length": "252160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a77e439-2b03-4c03-8bfb-53ff844af90c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a77e439-2b03-4c03-8bfb-53ff844af90c",
+                    "title": "Girl",
+                    "length": "196600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e93f22f7-4a62-44eb-adc1-aa41344c5941",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e93f22f7-4a62-44eb-adc1-aa41344c5941",
+                    "title": "Girl",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff73a4d3-d01e-4821-ad2a-d81986254f99",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ff73a4d3-d01e-4821-ad2a-d81986254f99",
+                    "title": "Girl",
+                    "length": "225000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2779263-dd90-421a-9d56-7145e0bb44e0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f2779263-dd90-421a-9d56-7145e0bb44e0",
+                    "title": "Girl",
+                    "length": "232173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77a5eb4d-85c4-4a53-bcda-009efb15647f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "77a5eb4d-85c4-4a53-bcda-009efb15647f",
+                    "title": "Girl",
+                    "length": "121186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3b425c6-82bb-4c6c-bb11-bbfd09272831",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b3b425c6-82bb-4c6c-bb11-bbfd09272831",
+                    "title": "Girl",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26cd9e0f-6176-4004-9e76-be7503503a68",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "26cd9e0f-6176-4004-9e76-be7503503a68",
+                    "title": "Girl",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abb51267-b17d-406e-b879-f0331ad63f99",
+                "direction": "backward",
+                "recording": {
+                    "id": "abb51267-b17d-406e-b879-f0331ad63f99",
+                    "title": "Girl",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "caf63cee-f54a-47b7-bc73-6c2f27bc8c70",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "caf63cee-f54a-47b7-bc73-6c2f27bc8c70",
+                    "title": "Girl",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fe02f45-c2c0-40c9-bdab-83f20f16f140",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7fe02f45-c2c0-40c9-bdab-83f20f16f140",
+                    "title": "Girl",
+                    "length": "254720"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2ce9c1d-8cec-4097-b6ae-f9a330a476e4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d2ce9c1d-8cec-4097-b6ae-f9a330a476e4",
+                    "title": "Girl",
+                    "length": "214000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "679e20b2-cfb7-4e9c-8136-b7eae8f3f41e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "679e20b2-cfb7-4e9c-8136-b7eae8f3f41e",
+                    "title": "Girl",
+                    "length": "141426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf417289-34fe-4c31-90d7-638eda67f491",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cf417289-34fe-4c31-90d7-638eda67f491",
+                    "title": "Girl",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d4c4c7e-a84d-418b-9994-cc8dd653fbb6",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d4c4c7e-a84d-418b-9994-cc8dd653fbb6",
+                    "title": "Girl",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e24c5bf-4e55-4682-afaf-9139af61b56b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3e24c5bf-4e55-4682-afaf-9139af61b56b",
+                    "title": "Girl",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce34e963-e3e7-4e34-af4b-1d09e319f7f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce34e963-e3e7-4e34-af4b-1d09e319f7f6",
+                    "title": "Girl",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c126cf3-0757-40af-a7fb-3e4e36c9c0c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "3c126cf3-0757-40af-a7fb-3e4e36c9c0c9",
+                    "title": "Girl",
+                    "length": "153893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "934f7e21-844c-43ba-99b5-49770d9c476f",
+                "direction": "backward",
+                "recording": {
+                    "id": "934f7e21-844c-43ba-99b5-49770d9c476f",
+                    "title": "Girl",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e98ef3a5-dc7a-49ea-85c4-03d42df220c8",
+                "direction": "backward",
+                "recording": {
+                    "id": "e98ef3a5-dc7a-49ea-85c4-03d42df220c8",
+                    "title": "Girl",
+                    "length": "152080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd6b0d6a-9936-46c4-ab78-8e2a4589d8dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd6b0d6a-9936-46c4-ab78-8e2a4589d8dc",
+                    "title": "Girl",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e2ab59c-8bf0-4748-8086-6445178c8051",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e2ab59c-8bf0-4748-8086-6445178c8051",
+                    "title": "Girl",
+                    "length": "150893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c684eb8c-e7ac-4d32-b886-b2858ea4e106",
+                "direction": "backward",
+                "recording": {
+                    "id": "c684eb8c-e7ac-4d32-b886-b2858ea4e106",
+                    "title": "Girl",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c14f03f1-61d9-4c48-830f-71ffc9333613",
+                "direction": "backward",
+                "recording": {
+                    "id": "c14f03f1-61d9-4c48-830f-71ffc9333613",
+                    "title": "Girl",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2100f5c5-cb95-4528-9638-3166183c45b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "2100f5c5-cb95-4528-9638-3166183c45b2",
+                    "title": "Girl",
+                    "length": "152573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9df7c44a-3bf9-4b7c-9012-65ec03926003",
+                "direction": "backward",
+                "recording": {
+                    "id": "9df7c44a-3bf9-4b7c-9012-65ec03926003",
+                    "title": "Girl",
+                    "length": "151400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4a569ea-169e-4fe3-9c4b-069abdbec0aa",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4a569ea-169e-4fe3-9c4b-069abdbec0aa",
+                    "title": "Girl",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1682eed2-59a1-42c3-b15d-b08f03052327",
+                "direction": "backward",
+                "recording": {
+                    "id": "1682eed2-59a1-42c3-b15d-b08f03052327",
+                    "title": "Girl",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c767db5-ea58-4c54-907c-77950f5f7906",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c767db5-ea58-4c54-907c-77950f5f7906",
+                    "title": "Girl",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c876c45-9264-4aec-aace-a4c5e41d48cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c876c45-9264-4aec-aace-a4c5e41d48cf",
+                    "title": "Girl",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "100bc140-5c6f-4b5e-ae09-77b929541d2e",
+                "direction": "backward",
+                "recording": {
+                    "id": "100bc140-5c6f-4b5e-ae09-77b929541d2e",
+                    "title": "Girl",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5375758a-e8df-4448-9af3-10f5ba53272d",
+                "direction": "backward",
+                "recording": {
+                    "id": "5375758a-e8df-4448-9af3-10f5ba53272d",
+                    "title": "Girl",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d5549fc-536a-4c4b-a13b-288eca39c292",
+                "direction": "backward",
+                "recording": {
+                    "id": "0d5549fc-536a-4c4b-a13b-288eca39c292",
+                    "title": "Girl",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4023c23-35aa-4a51-88a8-5af646da2ce9",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4023c23-35aa-4a51-88a8-5af646da2ce9",
+                    "title": "Girl",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c8783d1-3b88-47d3-89fd-964eac8fdea8",
+                "direction": "backward",
+                "recording": {
+                    "id": "2c8783d1-3b88-47d3-89fd-964eac8fdea8",
+                    "title": "Girl",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d00e9578-4a8f-4e32-8457-81cb8a933fbc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d00e9578-4a8f-4e32-8457-81cb8a933fbc",
+                    "title": "Girl"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d130593d-15ce-471c-b85d-3c0d9e3e3ea0",
+                "direction": "backward",
+                "recording": {
+                    "id": "d130593d-15ce-471c-b85d-3c0d9e3e3ea0",
+                    "title": "Girl",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9ac07db-f310-4e0a-8f05-f43d3f9ed1ca",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c9ac07db-f310-4e0a-8f05-f43d3f9ed1ca",
+                    "title": "Girl",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b7d5ba5-c644-4c24-9b8d-2465d515724e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5b7d5ba5-c644-4c24-9b8d-2465d515724e",
+                    "title": "Girl",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3250a3a4-7846-4d4f-aa95-9f2720fa34e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3250a3a4-7846-4d4f-aa95-9f2720fa34e5",
+                    "title": "Girl",
+                    "length": "144346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e92aab7c-88ca-4500-91da-81c303966117",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e92aab7c-88ca-4500-91da-81c303966117",
+                    "title": "Girl",
+                    "length": "190000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47f86f2a-8c0c-4d77-9e0a-f7424a70fe7a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "47f86f2a-8c0c-4d77-9e0a-f7424a70fe7a",
+                    "title": "Girl",
+                    "length": "205800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4226e0ba-47cd-4256-9f9b-5d08e9bfd887",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4226e0ba-47cd-4256-9f9b-5d08e9bfd887",
+                    "title": "Girl",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09051086-92d7-4027-9900-a3ff85f40993",
+                "direction": "backward",
+                "recording": {
+                    "id": "09051086-92d7-4027-9900-a3ff85f40993",
+                    "title": "Girl",
+                    "length": "225000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "161f4719-024e-4420-bd15-5070611358a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "161f4719-024e-4420-bd15-5070611358a4",
+                    "title": "Girl",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8d2580c-09c5-4950-8ecd-e10301fe00c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e8d2580c-09c5-4950-8ecd-e10301fe00c4",
+                    "title": "Girl",
+                    "length": "185266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b2f9a7d-8ceb-4002-aa2a-7be50d9eb89f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8b2f9a7d-8ceb-4002-aa2a-7be50d9eb89f",
+                    "title": "Girl",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "034b4a8b-9535-45f4-af15-47e4d9b97e4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "034b4a8b-9535-45f4-af15-47e4d9b97e4d",
+                    "title": "Girl",
+                    "length": "181000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78f7dea8-4090-4ad5-a623-7314520cf7df",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "78f7dea8-4090-4ad5-a623-7314520cf7df",
+                    "title": "Girl",
+                    "length": "132026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edd4d74d-26d0-42c8-a911-43dbc4ddaf86",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "edd4d74d-26d0-42c8-a911-43dbc4ddaf86",
+                    "title": "Girl",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffa309d3-c863-449d-b429-8959ca4bbf76",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ffa309d3-c863-449d-b429-8959ca4bbf76",
+                    "title": "Girl",
+                    "length": "291000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d946817-8f0c-4614-a3a2-1c0f18647378",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2d946817-8f0c-4614-a3a2-1c0f18647378",
+                    "title": "Girl",
+                    "length": "319000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "748fc9b9-3576-4813-b965-7aa944405870",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "748fc9b9-3576-4813-b965-7aa944405870",
+                    "title": "Girl",
+                    "length": "250666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf59f43a-a9fe-44bd-9d87-8ab9605ffbab",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bf59f43a-a9fe-44bd-9d87-8ab9605ffbab",
+                    "title": "Girl",
+                    "length": "64000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9cbc21f-d50a-4a97-93eb-3dc216e36483",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a9cbc21f-d50a-4a97-93eb-3dc216e36483",
+                    "title": "Girl",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83dd42e4-8590-4d6a-a069-123e5a37ba27",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "83dd42e4-8590-4d6a-a069-123e5a37ba27",
+                    "title": "Girl",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edeb2049-46d1-4c3f-9943-4668ecbb83ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "edeb2049-46d1-4c3f-9943-4668ecbb83ae",
+                    "title": "Girl",
+                    "length": "153400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c6728bc-e98b-4dd6-b655-d880401b858f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c6728bc-e98b-4dd6-b655-d880401b858f",
+                    "title": "Girl",
+                    "length": "136000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95e6717d-fa2d-4354-b008-6e5f5f0a28de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "95e6717d-fa2d-4354-b008-6e5f5f0a28de",
+                    "title": "Girl",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a2d05a0-0f55-4d06-b33e-b753af1ab5ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0a2d05a0-0f55-4d06-b33e-b753af1ab5ee",
+                    "title": "Girl (backing track)",
+                    "length": "140000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fcdb185-47e0-4aaf-b63f-d75354f33580",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3fcdb185-47e0-4aaf-b63f-d75354f33580",
+                    "title": "Girl (backing tracks)",
+                    "length": "135894"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55c6c294-9f87-481c-b236-bc03a408e2c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "55c6c294-9f87-481c-b236-bc03a408e2c0",
+                    "title": "Girl (RM1 take 2)",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69ac4ea0-a1e8-4244-b68e-01dc79f2bfd9",
+                "direction": "backward",
+                "recording": {
+                    "id": "69ac4ea0-a1e8-4244-b68e-01dc79f2bfd9",
+                    "title": "Girl (RS1 take 2)",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b910178-ebca-4903-a3e3-1288f897f89c",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b910178-ebca-4903-a3e3-1288f897f89c",
+                    "title": "Girl (stereo)",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b82929ac-4880-4229-8061-733180cc16e1",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b82929ac-4880-4229-8061-733180cc16e1",
+                    "title": "Girl (Take 2 - Instrumental Monitor Mix - Complete)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09ed1dd4-60f3-4099-bda9-bf50661715d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "09ed1dd4-60f3-4099-bda9-bf50661715d1",
+                    "title": "Girl (take 2, backing tracks, monitor mix) (partial)",
+                    "length": "130280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c324465c-3780-4f36-ae31-08cd2e47df64",
+                "direction": "backward",
+                "recording": {
+                    "id": "c324465c-3780-4f36-ae31-08cd2e47df64",
+                    "title": "Girl (take 2, RM1)",
+                    "length": "148706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a875c2cf-b0a3-48bc-a14a-fd3028684188",
+                "direction": "backward",
+                "recording": {
+                    "id": "a875c2cf-b0a3-48bc-a14a-fd3028684188",
+                    "title": "Girl (take 2, RS '77)",
+                    "length": "156773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4da9e37-85f9-499a-9ce4-ee30ed2f2ba9",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e4da9e37-85f9-499a-9ce4-ee30ed2f2ba9",
+                    "title": "Meu Bem (Girl)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98508ffb-b196-4660-8615-c79f6f9d0406",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "98508ffb-b196-4660-8615-c79f6f9d0406",
+                    "title": "The Fool on the Hill / Girl",
+                    "length": "529000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4176a8d5-e831-4400-90aa-f1ae2cab2ee6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4176a8d5-e831-4400-90aa-f1ae2cab2ee6",
+                    "title": "\u0413\u0451\u0440\u043b",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-girl-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/9626",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=93",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2287303",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "acc1c456-adf1-4a54-a327-94c5ae7bd808",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "acc1c456-adf1-4a54-a327-94c5ae7bd808",
+                    "type": "Song",
+                    "title": "Geh",
+                    "language": "deu",
+                    "disambiguation": "Girl"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "77121326-1414-403e-a19e-01ba86b067bc",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "77121326-1414-403e-a19e-01ba86b067bc",
+                    "type": "Song",
+                    "title": "Tytt\u00f6",
+                    "language": "fin"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "b0776cb6-23b1-3136-9daf-f193386f298f",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "b0776cb6-23b1-3136-9daf-f193386f298f",
+                    "title": "R\u00eave (Girl)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "60d043e4-53bb-4293-a1c0-4d1c0891b712",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "60d043e4-53bb-4293-a1c0-4d1c0891b712",
+                    "type": "Song",
+                    "title": "Matta (Girl)",
+                    "language": "roh"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "d8beea13-0a80-4301-98e9-010a368e7e84",
+                "direction": "forward",
+                "work": {
+                    "id": "d8beea13-0a80-4301-98e9-010a368e7e84",
+                    "type": "Song",
+                    "title": "Je l'aime",
+                    "language": "fra"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "19568e33-46e3-4d43-b9ea-2925cc64a385",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "19568e33-46e3-4d43-b9ea-2925cc64a385",
+                    "type": "Song",
+                    "title": "\u0414\u0435\u0432\u0443\u0448\u043a\u0430",
+                    "language": "rus",
+                    "disambiguation": "\"\u042f \u0445\u043e\u0447\u0443 \u0432\u0430\u043c \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u043a\u0430\u043a \u044f \u043b\u044e\u0431\u0438\u043b \u043a\u043e\u0433\u0434\u0430-\u0442\u043e...\""
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "9d83a62d-a565-4a26-b6bf-396a378451e8",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "9d83a62d-a565-4a26-b6bf-396a378451e8",
+                    "type": "Song",
+                    "title": "Gutter (Girl)",
+                    "language": "nor"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

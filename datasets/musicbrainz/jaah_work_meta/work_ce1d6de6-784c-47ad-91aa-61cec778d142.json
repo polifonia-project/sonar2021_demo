@@ -1,0 +1,85 @@
+{
+    "work": {
+        "id": "ce1d6de6-784c-47ad-91aa-61cec778d142",
+        "type": "Song",
+        "title": "The Golden Bullet",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "0dbd6300-efdc-420b-857e-895e18fad317",
+                "direction": "backward",
+                "artist": {
+                    "id": "0dbd6300-efdc-420b-857e-895e18fad317",
+                    "type": "Person",
+                    "name": "Count Basie",
+                    "sort-name": "Basie, Count",
+                    "disambiguation": "pianist"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "54f89033-3ccf-4712-b4e9-bff8bf50502f",
+                "direction": "backward",
+                "artist": {
+                    "id": "54f89033-3ccf-4712-b4e9-bff8bf50502f",
+                    "type": "Person",
+                    "name": "Bernie Ebbins",
+                    "sort-name": "Ebbins, Bernie",
+                    "disambiguation": "composer and road manager"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f63da1a2-4f9d-44a4-9bfa-14bde9da3f06",
+                "direction": "backward",
+                "begin": "1950-05-16",
+                "end": "1950-05-16",
+                "ended": "true",
+                "recording": {
+                    "id": "f63da1a2-4f9d-44a4-9bfa-14bde9da3f06",
+                    "title": "The Golden Bullet",
+                    "length": "150000",
+                    "disambiguation": "matrix no. CO43263-1"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12c587ff-4eb2-427c-83ec-eb2efa5c659d",
+                "direction": "backward",
+                "recording": {
+                    "id": "12c587ff-4eb2-427c-83ec-eb2efa5c659d",
+                    "title": "Golden Bullet",
+                    "length": "148026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20483f46-0fbe-4bd1-b820-1e48d8dbd1cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "20483f46-0fbe-4bd1-b820-1e48d8dbd1cd",
+                    "title": "Golden Bullet",
+                    "length": "147333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d3713dc-a717-4b15-91fa-46afd1cc0a7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d3713dc-a717-4b15-91fa-46afd1cc0a7f",
+                    "title": "The Golden Bullet",
+                    "length": "147946"
+                }
+            }
+        ]
+    }
+}

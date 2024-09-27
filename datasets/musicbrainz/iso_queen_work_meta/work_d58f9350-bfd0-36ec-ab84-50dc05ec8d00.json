@@ -1,0 +1,993 @@
+{
+    "work": {
+        "id": "d58f9350-bfd0-36ec-ab84-50dc05ec8d00",
+        "type": "Song",
+        "title": "Play the Game",
+        "language": "eng",
+        "iswc": "T-010.072.547-0",
+        "iswc-list": [
+            "T-010.072.547-0"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "begin": "1980",
+                "end": "1980",
+                "ended": "true",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "begin": "1980",
+                "end": "1980",
+                "ended": "true",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd69655e-91e3-42d5-8cb5-27e3a3784067",
+                "direction": "backward",
+                "begin": "1980-02",
+                "end": "1980-05",
+                "ended": "true",
+                "recording": {
+                    "id": "fd69655e-91e3-42d5-8cb5-27e3a3784067",
+                    "title": "Play the Game",
+                    "length": "212000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "818a0f37-cc30-4dc1-a18b-800bfa1f0cae",
+                "direction": "backward",
+                "begin": "1981-02-28",
+                "end": "1981-02-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "818a0f37-cc30-4dc1-a18b-800bfa1f0cae",
+                    "title": "Play the Game",
+                    "length": "251253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62b8ac74-66bd-48f4-9585-ddf257a4463e",
+                "direction": "backward",
+                "begin": "1981-03-20",
+                "end": "1981-03-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "62b8ac74-66bd-48f4-9585-ddf257a4463e",
+                    "title": "Play the Game",
+                    "length": "246280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec2e65cb-cec2-41d7-ba7f-eb671ddf8188",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ec2e65cb-cec2-41d7-ba7f-eb671ddf8188",
+                    "title": "Play the Game",
+                    "length": "234526",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9bd6b39-6bbe-4b7d-ac23-b3b9707f5514",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d9bd6b39-6bbe-4b7d-ac23-b3b9707f5514",
+                    "title": "Play the Game",
+                    "length": "237000",
+                    "disambiguation": "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7133404-810d-4f78-ae38-a8f57cd77042",
+                "direction": "backward",
+                "begin": "1981-12-08",
+                "end": "1981-12-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d7133404-810d-4f78-ae38-a8f57cd77042",
+                    "title": "Play the Game",
+                    "length": "228160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "885c5d6f-00bf-4777-8af7-8d1212d41abc",
+                "direction": "backward",
+                "begin": "1981",
+                "end": "1981",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "885c5d6f-00bf-4777-8af7-8d1212d41abc",
+                    "title": "Play the Game (live)",
+                    "length": "246000",
+                    "disambiguation": "live, 1981: Morumbi, S\u00e3o Paulo, Brazil"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cefd5fe8-ad6e-4388-8278-23478fa2c41c",
+                "direction": "backward",
+                "begin": "1982-04-16",
+                "end": "1982-04-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cefd5fe8-ad6e-4388-8278-23478fa2c41c",
+                    "title": "Play the Game",
+                    "length": "241000",
+                    "disambiguation": "live, 1982-04-16: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d11f74b2-415a-4f1f-9897-fd69ec0736a9",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d11f74b2-415a-4f1f-9897-fd69ec0736a9",
+                    "title": "Play the Game",
+                    "length": "270600",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eeea84ac-434a-4774-8e1f-80e8a33bda38",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eeea84ac-434a-4774-8e1f-80e8a33bda38",
+                    "title": "Play the Game",
+                    "length": "290666",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3a331f7-37aa-4433-a7bd-05a8b2c4eb78",
+                "direction": "backward",
+                "begin": "1982-07-28",
+                "end": "1982-07-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f3a331f7-37aa-4433-a7bd-05a8b2c4eb78",
+                    "title": "Play the Game",
+                    "disambiguation": "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da2838e7-1da2-4ad1-bdfd-29f56b4d9ede",
+                "direction": "backward",
+                "begin": "1982-10-19",
+                "end": "1982-10-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "da2838e7-1da2-4ad1-bdfd-29f56b4d9ede",
+                    "title": "Play the Game",
+                    "length": "262533",
+                    "disambiguation": "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "775b5586-49e7-4ec7-b243-2f812fea4435",
+                "direction": "backward",
+                "begin": "1982-10-26",
+                "end": "1982-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "775b5586-49e7-4ec7-b243-2f812fea4435",
+                    "title": "Play the Game",
+                    "disambiguation": "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07c41a5f-c84b-4aa4-b85d-fa3ad7849309",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "07c41a5f-c84b-4aa4-b85d-fa3ad7849309",
+                    "title": "Play the Game",
+                    "length": "194000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90985965-03f1-403f-903a-d91994238f4a",
+                "direction": "backward",
+                "begin": "2006-12-09",
+                "end": "2006-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "90985965-03f1-403f-903a-d91994238f4a",
+                    "title": "Play the Game",
+                    "disambiguation": "live, 2006-12-09: Walter-K\u00f6bel-Halle R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1baa242b-6da8-4a3a-89e7-954a31141ad9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1baa242b-6da8-4a3a-89e7-954a31141ad9",
+                    "title": "Ju\u00e9gale, apu\u00e9stale",
+                    "length": "173773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18191d01-5761-4a75-a36f-c694537e46e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "18191d01-5761-4a75-a36f-c694537e46e5",
+                    "title": "Play the Game",
+                    "length": "173866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "794b6244-e319-441d-85c4-602f58d9f1a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "794b6244-e319-441d-85c4-602f58d9f1a7",
+                    "title": "Play the Game",
+                    "length": "297000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d861665-8f4b-420c-bd25-3b44f1b8ee6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2d861665-8f4b-420c-bd25-3b44f1b8ee6b",
+                    "title": "Play the Game",
+                    "length": "108182",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bff3b630-8ff7-4e43-88f4-e066e3a8d723",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bff3b630-8ff7-4e43-88f4-e066e3a8d723",
+                    "title": "Play the Game",
+                    "length": "264000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a287a64-88da-4e56-b046-d77b30b69ccc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a287a64-88da-4e56-b046-d77b30b69ccc",
+                    "title": "Play the Game"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad52784e-9a07-435e-b4fa-0f3a3f52e087",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ad52784e-9a07-435e-b4fa-0f3a3f52e087",
+                    "title": "Play the Game",
+                    "length": "250506",
+                    "disambiguation": "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff419f77-f09d-4942-8c7a-94ecb8539d0d",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff419f77-f09d-4942-8c7a-94ecb8539d0d",
+                    "title": "Play the Game"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6775300d-23d7-4be4-8f84-afb8cd266575",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6775300d-23d7-4be4-8f84-afb8cd266575",
+                    "title": "Play the Game"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e45576c-313b-4686-accc-e474a5fcea03",
+                "direction": "backward",
+                "recording": {
+                    "id": "9e45576c-313b-4686-accc-e474a5fcea03",
+                    "title": "Play the Game",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cecc341-77d7-4fd7-99d4-8bcc9696d16d",
+                "direction": "backward",
+                "recording": {
+                    "id": "4cecc341-77d7-4fd7-99d4-8bcc9696d16d",
+                    "title": "Play the Game"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8abac17-90cf-4ecb-8805-04a1be7b2265",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a8abac17-90cf-4ecb-8805-04a1be7b2265",
+                    "title": "Play the Game",
+                    "length": "195933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56dbfb4e-9290-4a29-b4c3-300d495a79a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "56dbfb4e-9290-4a29-b4c3-300d495a79a4",
+                    "title": "Play the Game",
+                    "length": "189000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02fb8235-ff63-4de7-8495-cfcb106264b3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "02fb8235-ff63-4de7-8495-cfcb106264b3",
+                    "title": "Play the Game",
+                    "length": "258251"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f9d52b4-dc93-44fc-a0c0-6c651dd1ba27",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0f9d52b4-dc93-44fc-a0c0-6c651dd1ba27",
+                    "title": "Play the Game",
+                    "length": "241000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f4ea2c1-5668-4b4d-b45b-1650bde099d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "4f4ea2c1-5668-4b4d-b45b-1650bde099d6",
+                    "title": "Play the Game"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "940cda00-3d92-4281-b2ce-4b53a6e8c871",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "940cda00-3d92-4281-b2ce-4b53a6e8c871",
+                    "title": "Play the Game",
+                    "length": "191000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d75391f-6a3d-4f6b-92be-7d59388477b8",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6d75391f-6a3d-4f6b-92be-7d59388477b8",
+                    "title": "Play the Game",
+                    "length": "209506",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebcd42c3-d926-4233-abe2-be64252e1813",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ebcd42c3-d926-4233-abe2-be64252e1813",
+                    "title": "Play the Game",
+                    "length": "259826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6f936b9-408a-4c4f-a399-c71e284fa569",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6f936b9-408a-4c4f-a399-c71e284fa569",
+                    "title": "Play the Game",
+                    "length": "211760",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3491b91-346e-4ba3-8203-13a97d64801e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b3491b91-346e-4ba3-8203-13a97d64801e",
+                    "title": "Play the Game",
+                    "length": "232973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d337191-52c2-4301-a512-75c40f948a89",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7d337191-52c2-4301-a512-75c40f948a89",
+                    "title": "Play the Game",
+                    "length": "228440",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b00146f7-c2d9-4f49-8c55-c7f6a3956172",
+                "direction": "backward",
+                "recording": {
+                    "id": "b00146f7-c2d9-4f49-8c55-c7f6a3956172",
+                    "title": "Play the Game",
+                    "length": "194000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fae9e5db-826b-40dc-86f1-fb050b11e228",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fae9e5db-826b-40dc-86f1-fb050b11e228",
+                    "title": "Play the Game",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab2118bd-8556-4c61-baea-68c5b42322d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ab2118bd-8556-4c61-baea-68c5b42322d1",
+                    "title": "Play the Game",
+                    "length": "218533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b7e04ad-1281-4f5d-9368-d6cc54cda3ce",
+                "direction": "backward",
+                "recording": {
+                    "id": "6b7e04ad-1281-4f5d-9368-d6cc54cda3ce",
+                    "title": "Play the Game (5.1 mix)",
+                    "length": "212000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21fa2792-d1fa-4e85-bc5a-ecc0713fe095",
+                "direction": "backward",
+                "recording": {
+                    "id": "21fa2792-d1fa-4e85-bc5a-ecc0713fe095",
+                    "title": "Play the Game (alternate a cappella version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a972d29d-2970-4831-b342-20fa828f4165",
+                "direction": "backward",
+                "recording": {
+                    "id": "a972d29d-2970-4831-b342-20fa828f4165",
+                    "title": "Play the Game (alternative a cappella version)",
+                    "length": "168000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/34172",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1072112",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "417e91a3-c0cb-4144-bd41-f618a370e73f",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "417e91a3-c0cb-4144-bd41-f618a370e73f",
+                    "type": "Song",
+                    "title": "Ju\u00e9gale, apu\u00e9stale",
+                    "language": "spa"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            }
+        ]
+    }
+}

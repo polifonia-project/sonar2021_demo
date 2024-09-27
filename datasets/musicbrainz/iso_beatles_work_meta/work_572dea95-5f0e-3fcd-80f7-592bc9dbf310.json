@@ -1,0 +1,657 @@
+{
+    "work": {
+        "id": "572dea95-5f0e-3fcd-80f7-592bc9dbf310",
+        "type": "Song",
+        "title": "Wild Honey Pie",
+        "language": "eng",
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e38a823-4dbe-4e03-994a-15494609d800",
+                "direction": "backward",
+                "begin": "1968-08-20",
+                "end": "1968-08-20",
+                "ended": "true",
+                "recording": {
+                    "id": "5e38a823-4dbe-4e03-994a-15494609d800",
+                    "title": "Wild Honey Pie",
+                    "length": "53000",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d186a3f9-47d7-4b66-a7cf-693423e4e4b2",
+                "direction": "backward",
+                "begin": "1968-08-20",
+                "end": "1968-08-20",
+                "ended": "true",
+                "recording": {
+                    "id": "d186a3f9-47d7-4b66-a7cf-693423e4e4b2",
+                    "title": "Wild Honey Pie",
+                    "length": "53000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ae75c90-5cb6-48f0-a262-6607659c884d",
+                "direction": "backward",
+                "begin": "1968-08-20",
+                "end": "1968-08-20",
+                "ended": "true",
+                "recording": {
+                    "id": "6ae75c90-5cb6-48f0-a262-6607659c884d",
+                    "title": "Wild Honey Pie",
+                    "length": "52906",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c20fe20-2e23-4dad-9418-7fb8e0a35457",
+                "direction": "backward",
+                "begin": "1968-08-20",
+                "end": "1968-08-20",
+                "ended": "true",
+                "recording": {
+                    "id": "8c20fe20-2e23-4dad-9418-7fb8e0a35457",
+                    "title": "Wild Honey Pie (5.1 mix)",
+                    "length": "53000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f63404d-cf2e-4c2a-86fb-4c92a5d9622c",
+                "direction": "backward",
+                "begin": "1988-04-15",
+                "end": "1988-04-15",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8f63404d-cf2e-4c2a-86fb-4c92a5d9622c",
+                    "title": "Wild Honey Pie",
+                    "disambiguation": "live, 1988-04-15: Effenaar, Eindhoven, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38a17406-de13-4874-a025-49cf974d0dbe",
+                "direction": "backward",
+                "begin": "1988-05-01",
+                "end": "1988-05-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "38a17406-de13-4874-a025-49cf974d0dbe",
+                    "title": "Wild Honey Pie",
+                    "length": "136000",
+                    "disambiguation": "live, 1988-05-01: Town and Country Club, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68db19fc-566b-472e-ae78-47c2f8210cfe",
+                "direction": "backward",
+                "begin": "1988-05-03",
+                "end": "1988-05-03",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "68db19fc-566b-472e-ae78-47c2f8210cfe",
+                    "title": "Wild Honey Pie",
+                    "length": "105133",
+                    "disambiguation": "live, 1988-05-03: BBC Studios, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b0418bb-bda4-47d7-b55e-7b80f7c33cf2",
+                "direction": "backward",
+                "begin": "1988-09-24",
+                "end": "1988-09-24",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2b0418bb-bda4-47d7-b55e-7b80f7c33cf2",
+                    "title": "Wild Honey Pie",
+                    "disambiguation": "live, 1988-09-24: Utrecht, Tivoli, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a8fe8fd-228d-4ac6-bb05-937971847c2d",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6a8fe8fd-228d-4ac6-bb05-937971847c2d",
+                    "title": "Wild Honey Pie",
+                    "length": "54000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "938261a6-617e-496d-a85d-cab8b11c59db",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "938261a6-617e-496d-a85d-cab8b11c59db",
+                    "title": "Wild Honey Pie",
+                    "length": "54013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12ded6be-d296-4151-93ab-4066a0190db7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "12ded6be-d296-4151-93ab-4066a0190db7",
+                    "title": "Wild Honey Pie",
+                    "length": "57133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85540e14-9582-4030-886e-892e1a5a9854",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "85540e14-9582-4030-886e-892e1a5a9854",
+                    "title": "Wild Honey Pie",
+                    "length": "106493",
+                    "disambiguation": "live, 1988-05-03: BBC John Peel Session, Maida Vale, Studio 4, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcd6d47c-b28b-4bf1-9d7d-dbb8685dbba9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dcd6d47c-b28b-4bf1-9d7d-dbb8685dbba9",
+                    "title": "Wild Honey Pie",
+                    "length": "58000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e0c1a64-4767-4c80-838c-3ac7584e9612",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1e0c1a64-4767-4c80-838c-3ac7584e9612",
+                    "title": "Wild Honey Pie",
+                    "length": "88893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f87a9fc-7db0-48ea-85a5-88267a7281bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5f87a9fc-7db0-48ea-85a5-88267a7281bf",
+                    "title": "Wild Honey Pie",
+                    "length": "126160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "012ff627-8bea-40b4-90dd-db40ba61679c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "012ff627-8bea-40b4-90dd-db40ba61679c",
+                    "title": "Wild Honey Pie",
+                    "length": "52000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30a60337-1e40-4b80-93b5-e17c4af463e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "30a60337-1e40-4b80-93b5-e17c4af463e3",
+                    "title": "Wild Honey Pie",
+                    "length": "53000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c54d558-e968-4f1e-98c7-d4b3d8e76d65",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c54d558-e968-4f1e-98c7-d4b3d8e76d65",
+                    "title": "Wild Honey Pie"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec789a5f-d977-4e08-99a3-654eb264b80d",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec789a5f-d977-4e08-99a3-654eb264b80d",
+                    "title": "Wild Honey Pie",
+                    "length": "61333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72c7b5d6-3df4-4ce7-9cfa-1259284cf41e",
+                "direction": "backward",
+                "recording": {
+                    "id": "72c7b5d6-3df4-4ce7-9cfa-1259284cf41e",
+                    "title": "Wild Honey Pie",
+                    "length": "68000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ac1214c-f003-434e-85e3-68d5cb90f41c",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ac1214c-f003-434e-85e3-68d5cb90f41c",
+                    "title": "Wild Honey Pie",
+                    "length": "53000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51786c17-b330-4962-bf1c-299bc5e88ad5",
+                "direction": "backward",
+                "recording": {
+                    "id": "51786c17-b330-4962-bf1c-299bc5e88ad5",
+                    "title": "Wild Honey Pie",
+                    "length": "53000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ed98078-180d-458c-832e-2d88109aa8aa",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ed98078-180d-458c-832e-2d88109aa8aa",
+                    "title": "Wild Honey Pie",
+                    "length": "56000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09aa9d85-16ea-4f48-8ee1-71f196a5467e",
+                "direction": "backward",
+                "recording": {
+                    "id": "09aa9d85-16ea-4f48-8ee1-71f196a5467e",
+                    "title": "Wild Honey Pie",
+                    "length": "67080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "134e7d2c-19ab-4ee1-b2f0-963020edd375",
+                "direction": "backward",
+                "recording": {
+                    "id": "134e7d2c-19ab-4ee1-b2f0-963020edd375",
+                    "title": "Wild Honey Pie",
+                    "length": "74800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1033b245-1723-446e-a74a-13ed38a488bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "1033b245-1723-446e-a74a-13ed38a488bc",
+                    "title": "Wild Honey Pie",
+                    "length": "70000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fa1400d-03e0-45b7-b95d-4cb24ca8e439",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6fa1400d-03e0-45b7-b95d-4cb24ca8e439",
+                    "title": "Wild Honey Pie",
+                    "length": "110000",
+                    "disambiguation": "live, 1988-06: First BBC Session"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6a5ebf5-e9e3-4659-899c-7a931df4222f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f6a5ebf5-e9e3-4659-899c-7a931df4222f",
+                    "title": "Wild Honey Pie",
+                    "disambiguation": "live, 1988-05-01: The Town and Country Club, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c88846ea-fc1e-408a-b2e0-073d4a7530ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "c88846ea-fc1e-408a-b2e0-073d4a7530ab",
+                    "title": "Wild Honey Pie (alternate mix)",
+                    "length": "62000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a36146c-171b-4878-b461-b34c15a2262a",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a36146c-171b-4878-b461-b34c15a2262a",
+                    "title": "Wild Honey Pie (RM6 take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4986bdb4-b106-426e-9664-90e3db2b43f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "4986bdb4-b106-426e-9664-90e3db2b43f5",
+                    "title": "Wild Honey Pie (RS2 Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b2fb017-db2d-4765-a41d-346ee70d6b81",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b2fb017-db2d-4765-a41d-346ee70d6b81",
+                    "title": "Wild Honey Pie (take 1 RM6 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8abec9cd-67ad-413c-9bbd-c8ce15de7f3c",
+                "direction": "backward",
+                "recording": {
+                    "id": "8abec9cd-67ad-413c-9bbd-c8ce15de7f3c",
+                    "title": "Wild Honey Pie (take 1, RM6)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-wild-honey-pie-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/29839",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=151",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1933052",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Wild_Honey_Pie",
+                "direction": "backward"
+            }
+        ]
+    }
+}

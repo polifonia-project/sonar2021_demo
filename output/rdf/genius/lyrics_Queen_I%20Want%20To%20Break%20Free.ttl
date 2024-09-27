@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_queen_lyrics/lyrics_Queen_I%20Want%20To%20Break%20Free.json>
+        xyz:artist    "Queen" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_Queen_I%20Want%20To%20Break%20Free> ;
+        xyz:lang      "en" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_queen_lyrics/lyrics_Queen_I%20Want%20To%20Break%20Free.json> ;
+        xyz:lyrics    "[Verse 1]\nI want to break free\nI want to break free\nI want to break free from your lies\nYou're so self-satisfied, I don't need you\nI've got to break free\nGod knows, God knows I want to break free\n\n[Verse 2]\nI've fallen in love\nI've fallen in love for the first time\nAnd this time I know it's for real\nI've fallen in love, yeah\nGod knows, God knows I've fallen in love\n\n[Bridge]\nIt's strange but it's true, yeah\nI can't get over the way you love me like you do\nBut I have to be sure\nWhen I walk out that door\nOh, how I want to be free, baby\nOh, how I want to be free\nOh, how I want to break free\n\n[Verse 3]\nBut life still goes on\nI can't get used to living without, living without\nLiving without you by my side\nI don't want to live alone, hey\nGod knows, got to make it on my own\nSo baby, can't you see?\nI've got to break free\n\n[Outro]\nI've got to break free\nI want to break free, yeah\nI want, I want, I want, I want to break free" ;
+        xyz:title     "I Want to Break Free" .

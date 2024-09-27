@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-05.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-05> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-05.json> ;
+        xyz:lyrics    "Am Brunnen vor dem Tore\nda steht ein Lindenbaum;\nich träumt' in seinem Schatten\nso manchen süßen Traum. \n\nIch schnitt in seine Rinde\nso manches liebe Wort;\nes zog in Freud und Leide\nzu ihm mich immerfort. \n\nIch mußt auch heute wandern\nvorbei in tiefer Nacht,\nda hab ich noch im Dunkel\ndie Augen zugemacht. \n\nUnd seine Zweige rauschten,\nals riefen sie mir zu:\nkomm her zu mir, Geselle,\nhier findst du deine Ruh! \n\nDie kalten Winde bliesen\nmir grad ins Angesicht,\nder Hut flog mir vom Kopfe,\nich wendete mich nicht. \n\nNun bin ich manche Stunde\nentfernt von jenem Ort,\nund immer hör ich's rauschen:\ndu fändest Ruhe dort! \n\nNun bin ich manche Stunde\nentfernt von jenem Ort,\nund immer hör ich's rauschen:\ndu fändest Ruhe dort,\ndu fändest Ruhe dort!" ;
+        xyz:title     "Schubert_D911-05" .

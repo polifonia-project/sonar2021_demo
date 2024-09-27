@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_thebeatles_eleanorrigby.json>
+        xyz:artist    "The Beatles" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/lyrics_thebeatles_eleanorrigby> ;
+        xyz:lang      "en" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/iso_beatles_lyrics/lyrics_thebeatles_eleanorrigby.json> ;
+        xyz:lyrics    "[Intro: Paul McCartney, John Lennon & George Harrison]\nAh, look at all the lonely people!\nAh, look at all the lonely people!\n\n[Verse 1: Paul McCartney]\nEleanor Rigby\nPicks up the rice in the church where a wedding has been\nLives in a dream\nWaits at the window\nWearing the face that she keeps in a jar by the door\nWho is it for?\n\n[Chorus: Paul McCartney]\nAll the lonely people\nWhere do they all come from?\nAll the lonely people\nWhere do they all belong?\n\n[Verse 2: Paul McCartney]\nFather McKenzie\nWriting the words of a sermon that no one will hear\nNo one comes near\nLook at him working\nDarning his socks in the night when there's nobody there\nWhat does he care?\n\n[Chorus: Paul McCartney]\nAll the lonely people\nWhere do they all come from?\nAll the lonely people\nWhere do they all belong?\n\n[Bridge: Paul McCartney, John Lennon & George Harrison]\nAh, look at all the lonely people!\nAh, look at all the lonely people!\n\n[Verse 3: Paul McCartney]\nEleanor Rigby\nDied in the church and was buried along with her name\nNobody came\nFather McKenzie\nWiping the dirt from his hands as he walks from the grave\nNo one was saved\n\n[Outro: Paul McCartney]\nAll the lonely people (Ah, look at all the lonely people!)\nWhere do they all come from?\nAll the lonely people (Ah, look at all the lonely people!)\nWhere do they all belong?" ;
+        xyz:title     "Eleanor Rigby" .

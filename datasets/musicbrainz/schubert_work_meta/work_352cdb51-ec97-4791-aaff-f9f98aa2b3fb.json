@@ -1,0 +1,421 @@
+{
+    "work": {
+        "id": "352cdb51-ec97-4791-aaff-f9f98aa2b3fb",
+        "type": "Song",
+        "title": "St\u00e4ndchen (\"Horch, horch, die Lerche\"), D. 889",
+        "language": "deu",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1826",
+                "end": "1826",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "a4ba11db-ae2b-4ec3-9084-2136db11acfa",
+                "direction": "backward",
+                "artist": {
+                    "id": "a4ba11db-ae2b-4ec3-9084-2136db11acfa",
+                    "type": "Person",
+                    "name": "William Shakespeare",
+                    "sort-name": "Shakespeare, William",
+                    "disambiguation": "English poet and playwright"
+                }
+            },
+            {
+                "type": "translator",
+                "type-id": "da6c5d8a-ce13-474d-9375-61feb29039a5",
+                "target": "81ab9374-7d4e-4e57-841d-dbd0c1f27d18",
+                "direction": "backward",
+                "artist": {
+                    "id": "81ab9374-7d4e-4e57-841d-dbd0c1f27d18",
+                    "type": "Person",
+                    "name": "August Wilhelm Schlegel",
+                    "sort-name": "Schlegel, August Wilhelm"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c470e2f-6ce1-43fe-9cf5-a96022e23e51",
+                "direction": "backward",
+                "begin": "1902",
+                "end": "1902",
+                "ended": "true",
+                "recording": {
+                    "id": "8c470e2f-6ce1-43fe-9cf5-a96022e23e51",
+                    "title": "Hark, hark! The lark D889",
+                    "length": "173800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23cb60bb-afdf-4ed5-b38f-ca30b5057886",
+                "direction": "backward",
+                "begin": "1923",
+                "end": "1925",
+                "ended": "true",
+                "recording": {
+                    "id": "23cb60bb-afdf-4ed5-b38f-ca30b5057886",
+                    "title": "St\u00e4ndchen, D. 889",
+                    "length": "187400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bbe2e87-5cb8-4364-99b4-553a14d742ec",
+                "direction": "backward",
+                "begin": "1927-11-30",
+                "end": "1927-11-30",
+                "ended": "true",
+                "recording": {
+                    "id": "2bbe2e87-5cb8-4364-99b4-553a14d742ec",
+                    "title": "St\u00e4ndchen, D. 889, \"Hark, hark, the lark\" (\"Horch, horch! die Lerch\")",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa87564c-3f6f-4045-9e6e-4f0e19781b9f",
+                "direction": "backward",
+                "begin": "1936-09-07",
+                "end": "1936-09-07",
+                "ended": "true",
+                "recording": {
+                    "id": "fa87564c-3f6f-4045-9e6e-4f0e19781b9f",
+                    "title": "Horch! Horch! die Lerch', D. 889",
+                    "length": "171600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd8c1e83-b3f7-42a7-885d-9541672f6303",
+                "direction": "backward",
+                "begin": "1962",
+                "end": "1962",
+                "ended": "true",
+                "recording": {
+                    "id": "fd8c1e83-b3f7-42a7-885d-9541672f6303",
+                    "title": "St\u00e4ndchen D 889",
+                    "length": "232200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04166690-e0de-4470-adae-427c6ffcfa35",
+                "direction": "backward",
+                "begin": "1965-02-24",
+                "end": "1965-03-01",
+                "ended": "true",
+                "recording": {
+                    "id": "04166690-e0de-4470-adae-427c6ffcfa35",
+                    "title": "St\u00e4ndchen, D. 889",
+                    "length": "237465"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a9f6271-400c-4c1d-9fc1-7c618fe41431",
+                "direction": "backward",
+                "begin": "1969-03",
+                "end": "1969-03",
+                "ended": "true",
+                "recording": {
+                    "id": "1a9f6271-400c-4c1d-9fc1-7c618fe41431",
+                    "title": "St\u00e4ndchen, D. 889: \"Horch, horch, die Lerch im \u00c4therblau\"",
+                    "length": "98000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4369cb3d-5ece-4b01-a7d1-d46a5a78b5eb",
+                "direction": "backward",
+                "begin": "2002-06-17",
+                "end": "2002-06-21",
+                "ended": "true",
+                "recording": {
+                    "id": "4369cb3d-5ece-4b01-a7d1-d46a5a78b5eb",
+                    "title": "St\u00e4ndchen, D889",
+                    "length": "185760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b159b64-171c-4b16-a16b-6220c92f7599",
+                "direction": "backward",
+                "recording": {
+                    "id": "3b159b64-171c-4b16-a16b-6220c92f7599",
+                    "title": "4 Lieder: Horch, Horch die Lerch\u2019 (St\u00e4ndchen aus \u201cCymbeline\u201d), D. 889 (trans. Liszt)",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da28b718-cce1-4ddf-862d-b0898138236e",
+                "direction": "backward",
+                "recording": {
+                    "id": "da28b718-cce1-4ddf-862d-b0898138236e",
+                    "title": "Horch, horch die Lerche, D 889 - S 558 No. 9 (Shellac Disc)",
+                    "length": "162000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39b8cbcc-8f13-4f6f-94b8-de1068e68959",
+                "direction": "backward",
+                "recording": {
+                    "id": "39b8cbcc-8f13-4f6f-94b8-de1068e68959",
+                    "title": "Horch! Horch! Die Lerch, D. 889",
+                    "length": "153760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5550c6f8-2cfe-40b1-ada9-1572e5775c29",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5550c6f8-2cfe-40b1-ada9-1572e5775c29",
+                    "title": "St\u00e4ndchen \u2014Serenade\u2014",
+                    "length": "216000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f5841f9-086f-42ed-827c-29645095030e",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f5841f9-086f-42ed-827c-29645095030e",
+                    "title": "St\u00e4ndchen \u201eHorch, Horch! die Lerch\u201c, D. 889",
+                    "length": "98000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f427e1e-ccaf-4cfc-af32-5b6c184aaa97",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f427e1e-ccaf-4cfc-af32-5b6c184aaa97",
+                    "title": "St\u00e4ndchen (\"Horch, horch, die Lerche\") D. 889",
+                    "length": "225000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0dbd31d-84f8-4acd-8980-34a9d692cb73",
+                "direction": "backward",
+                "recording": {
+                    "id": "c0dbd31d-84f8-4acd-8980-34a9d692cb73",
+                    "title": "St\u00e4ndchen (\"Horch, horch, die Lerche\"), song for voice & piano, D. 889",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "afbc952d-cb64-461e-96c2-4476f830b677",
+                "direction": "backward",
+                "recording": {
+                    "id": "afbc952d-cb64-461e-96c2-4476f830b677",
+                    "title": "St\u00e4ndchen, D 889",
+                    "length": "225000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13b611e9-ecf2-49a6-a543-2a9fa7ad999f",
+                "direction": "backward",
+                "recording": {
+                    "id": "13b611e9-ecf2-49a6-a543-2a9fa7ad999f",
+                    "title": "St\u00e4ndchen, D 889",
+                    "length": "91826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8eba32f0-8eb1-4a55-bbc6-b72592a38d5a",
+                "direction": "backward",
+                "recording": {
+                    "id": "8eba32f0-8eb1-4a55-bbc6-b72592a38d5a",
+                    "title": "St\u00e4ndchen, D 889",
+                    "length": "111866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d24fa7a2-f9ec-4b97-8819-d21006b2073d",
+                "direction": "backward",
+                "recording": {
+                    "id": "d24fa7a2-f9ec-4b97-8819-d21006b2073d",
+                    "title": "St\u00e4ndchen, D 889",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9127d2c5-3a4a-4323-ba50-8f3d97687f3d",
+                "direction": "backward",
+                "recording": {
+                    "id": "9127d2c5-3a4a-4323-ba50-8f3d97687f3d",
+                    "title": "St\u00e4ndchen, D 889 \"Horch, harch, die Lerch'\"",
+                    "length": "98333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cd83f68-3f56-4796-813b-c867b39ac1cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "0cd83f68-3f56-4796-813b-c867b39ac1cd",
+                    "title": "St\u00e4ndchen, D. 889",
+                    "length": "180533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b3f446a-c1b1-48c0-83f9-91dd9a6769df",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b3f446a-c1b1-48c0-83f9-91dd9a6769df",
+                    "title": "St\u00e4ndchen, D. 889",
+                    "length": "279000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8479d3d-3f5e-456c-a774-407901998b05",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8479d3d-3f5e-456c-a774-407901998b05",
+                    "title": "St\u00e4ndchen, D. 889: \"Horch, horch, die Lerch' im \u00c4therblau\"",
+                    "length": "234440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99af1262-520d-4637-b54b-f1ceb43e50e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "99af1262-520d-4637-b54b-f1ceb43e50e9",
+                    "title": "St\u00e4ndchen, D889: \"Horch, horch die Lerch im \u00c4therblau\"",
+                    "length": "261533"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                "ordering-key": "696",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "e46f0a89-57a8-41c9-b8f6-0ee532db8132",
+                    "type": "Catalogue",
+                    "name": "Franz Schubert, thematisches Verzeichnis seiner Werke in chronologischer Folge"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "D. 889",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/composition/mc0002658615",
+                "direction": "backward"
+            },
+            {
+                "type": "download for free",
+                "type-id": "0cc8527e-ea40-40dd-b144-3b7588e759bf",
+                "target": "https://imslp.org/wiki/St%C3%A4ndchen,_D.889_(Schubert,_Franz)",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q27940657",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "fee23952-c409-404d-968b-1cd45dbc5634",
+                "direction": "forward",
+                "work": {
+                    "id": "fee23952-c409-404d-968b-1cd45dbc5634",
+                    "title": "St\u00e4ndchen von Shakespeare, S. 558 Nr. 9",
+                    "language": "zxx",
+                    "disambiguation": "for piano solo, Liszt"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "41e74d88-1de5-41e5-97ec-ec80bbc54ef0",
+                "direction": "forward",
+                "work": {
+                    "id": "41e74d88-1de5-41e5-97ec-ec80bbc54ef0",
+                    "type": "Song",
+                    "title": "St\u00e4ndchen (\"Horch, horch, die Lerche\"), D. 889",
+                    "language": "deu",
+                    "disambiguation": "catch-all for arrangements"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,919 @@
+{
+    "work": {
+        "id": "9626f219-5937-393e-a28f-3a7c7a121527",
+        "type": "Song",
+        "title": "Sun King",
+        "language": "eng",
+        "iswc": "T-010.436.495-5",
+        "iswc-list": [
+            "T-010.436.495-5"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1429313"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "490274361"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00024428"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0S3-6000-4"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 266 32"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10253070"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965958"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "58.272"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12455280"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "155764"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "11227"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000126057"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "68 722 290 11"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635719-001"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001720500"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243809"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100358900"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "220358"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4047232"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9348608"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3966183"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "17763101"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358052"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358052"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6066892"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "36442R"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "017165204"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                    "title": "Fly on the Wall",
+                    "length": "1317133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32bd5c6c-3127-43e9-9f77-150d06f1af4c",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "32bd5c6c-3127-43e9-9f77-150d06f1af4c",
+                    "title": "Sun King",
+                    "length": "17000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26868546-07ce-4ca1-9596-822904e9bfa8",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "26868546-07ce-4ca1-9596-822904e9bfa8",
+                    "title": "Sun King / Don't Let Me Down 2.19",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10525b77-d43c-4874-bacc-bd1bc2565317",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "10525b77-d43c-4874-bacc-bd1bc2565317",
+                    "title": "Sun King / Don't Let Me Down 2.49",
+                    "length": "127000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7c3782a-abee-4281-a89f-38ccd4c5003b",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b7c3782a-abee-4281-a89f-38ccd4c5003b",
+                    "title": "Sun King / Don't Let Me Down 2.52",
+                    "length": "115000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee001081-b506-4be4-9e62-2d5ebfc64acb",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "recording": {
+                    "id": "ee001081-b506-4be4-9e62-2d5ebfc64acb",
+                    "title": "Sun King 2.18",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f223c09-7b7c-444e-b892-0af8ab3d3cdc",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "recording": {
+                    "id": "6f223c09-7b7c-444e-b892-0af8ab3d3cdc",
+                    "title": "Sun King 2.24",
+                    "length": "28000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26d1744c-aede-4262-bd73-d8236aec26e6",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "26d1744c-aede-4262-bd73-d8236aec26e6",
+                    "title": "Sun King 3.55",
+                    "length": "18000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7711c145-fd83-4d9a-9536-efdd269d739f",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "7711c145-fd83-4d9a-9536-efdd269d739f",
+                    "title": "Sun King 3.82",
+                    "length": "47000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "718e5534-5276-4820-ad80-c53ebed4b0fb",
+                "direction": "backward",
+                "begin": "1969-01-10",
+                "end": "1969-01-10",
+                "ended": "true",
+                "recording": {
+                    "id": "718e5534-5276-4820-ad80-c53ebed4b0fb",
+                    "title": "Sun King 10.82",
+                    "length": "60000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fb516b0-c708-47c5-ad56-deb3b5e68ed8",
+                "direction": "backward",
+                "begin": "1969-07-24",
+                "end": "1969-07-24",
+                "ended": "true",
+                "recording": {
+                    "id": "2fb516b0-c708-47c5-ad56-deb3b5e68ed8",
+                    "title": "Sun King (take 20)",
+                    "length": "194026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d057c75d-04eb-438f-be0b-74f629f2953c",
+                "direction": "backward",
+                "begin": "1969-07-24",
+                "end": "1969-07-29",
+                "ended": "true",
+                "recording": {
+                    "id": "d057c75d-04eb-438f-be0b-74f629f2953c",
+                    "title": "Sun King",
+                    "length": "146000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb903881-cdc2-4de6-af05-028636647a4e",
+                "ordering-key": "2",
+                "direction": "backward",
+                "begin": "1969-07-24",
+                "end": "1969-07-29",
+                "ended": "true",
+                "recording": {
+                    "id": "fb903881-cdc2-4de6-af05-028636647a4e",
+                    "title": "The Long One: You Never Give Me Your Money / Sun King / Mean Mr Mustard / Her Majesty / Polythene Pam / She Came in Through the Bathroom Window / Golden Slumbers / Carry That Weight / The End",
+                    "length": "970466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32efe8b8-060e-4a1b-85e8-2e6988683f0b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32efe8b8-060e-4a1b-85e8-2e6988683f0b",
+                    "title": "Sun King",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "288bb8f1-4389-419f-ac5b-dccbe2e42f77",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "288bb8f1-4389-419f-ac5b-dccbe2e42f77",
+                    "title": "Sun King",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d75fbe8-a848-4b89-82af-69326afc4202",
+                "direction": "backward",
+                "recording": {
+                    "id": "7d75fbe8-a848-4b89-82af-69326afc4202",
+                    "title": "Sun King",
+                    "length": "146333",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb505ffb-eb06-4a6a-9163-f3e20b1d166d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eb505ffb-eb06-4a6a-9163-f3e20b1d166d",
+                    "title": "Sun King",
+                    "length": "58346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76dcc2ca-92fa-4e46-a4d9-d963f4a947cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "76dcc2ca-92fa-4e46-a4d9-d963f4a947cc",
+                    "title": "Sun King",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9bc345e-3bd0-4816-bee2-bd2edd089231",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a9bc345e-3bd0-4816-bee2-bd2edd089231",
+                    "title": "Sun King",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e54a2ec1-7a5a-4fc1-b5c2-2901c9864278",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e54a2ec1-7a5a-4fc1-b5c2-2901c9864278",
+                    "title": "Sun King",
+                    "length": "190226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d5bcdfa-2bdc-4ed6-b840-6fe4b70e6222",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4d5bcdfa-2bdc-4ed6-b840-6fe4b70e6222",
+                    "title": "Sun King",
+                    "length": "165493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2ef777a-87d1-4006-949f-75fbdb04b3c3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d2ef777a-87d1-4006-949f-75fbdb04b3c3",
+                    "title": "Sun King",
+                    "length": "292000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95648cbe-67bb-4d6e-863e-7461fbc6c4bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "95648cbe-67bb-4d6e-863e-7461fbc6c4bf",
+                    "title": "Sun King",
+                    "length": "281000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7b1d1ad-9c88-4fa5-b412-2d8e5110f9db",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b7b1d1ad-9c88-4fa5-b412-2d8e5110f9db",
+                    "title": "Sun King",
+                    "length": "197000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3d49c6e-9c3f-46fc-bea4-34ecfa73a4e7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c3d49c6e-9c3f-46fc-bea4-34ecfa73a4e7",
+                    "title": "Sun King",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c770301-dfca-450a-93ac-ce14bbaf7fcf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6c770301-dfca-450a-93ac-ce14bbaf7fcf",
+                    "title": "Sun King",
+                    "length": "148000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92fac309-a153-4724-a935-cce8e8c565de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "92fac309-a153-4724-a935-cce8e8c565de",
+                    "title": "Sun King",
+                    "length": "503000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af77fe53-394a-4bf8-a287-b02817f096b9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af77fe53-394a-4bf8-a287-b02817f096b9",
+                    "title": "Sun King",
+                    "length": "98453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe66334c-4112-4d64-aae9-cea2545bbbe0",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe66334c-4112-4d64-aae9-cea2545bbbe0",
+                    "title": "Sun King"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f27b1b9-8a48-4d10-b574-09715cc65677",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f27b1b9-8a48-4d10-b574-09715cc65677",
+                    "title": "Sun King",
+                    "length": "403048"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1f7d7aa-5c1e-4011-abcd-163e814bb09e",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1f7d7aa-5c1e-4011-abcd-163e814bb09e",
+                    "title": "Sun King"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e16bc40f-eb8f-4f09-83e6-ed8848d76ae7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e16bc40f-eb8f-4f09-83e6-ed8848d76ae7",
+                    "title": "Sun King",
+                    "length": "150533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0c7aca7-732e-402b-945a-97c4c6b8e396",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0c7aca7-732e-402b-945a-97c4c6b8e396",
+                    "title": "Sun King",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d4e9aec-78a2-423d-bc12-b2623101590d",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d4e9aec-78a2-423d-bc12-b2623101590d",
+                    "title": "Sun King",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23968a16-ebc5-4804-aedf-2fd6e01605a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "23968a16-ebc5-4804-aedf-2fd6e01605a9",
+                    "title": "Sun King",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "123f0672-6fa4-461c-b71b-7022246f22f1",
+                "direction": "backward",
+                "recording": {
+                    "id": "123f0672-6fa4-461c-b71b-7022246f22f1",
+                    "title": "Sun King (5.1 mix)",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2880d484-ce8e-46d4-901e-3a09badcfb57",
+                "direction": "backward",
+                "recording": {
+                    "id": "2880d484-ce8e-46d4-901e-3a09badcfb57",
+                    "title": "Sun King (early mix)",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f130b89-9cb3-4ae2-b299-0aaa5f7ca3e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f130b89-9cb3-4ae2-b299-0aaa5f7ca3e4",
+                    "title": "Sun King (Get Back session)",
+                    "length": "21000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf5b717a-5cbb-43c2-9309-28f887cd355d",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf5b717a-5cbb-43c2-9309-28f887cd355d",
+                    "title": "Sun King (Get Back session)",
+                    "length": "271000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c45ea20-9b15-4803-ac08-de46dc8dfcfe",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c45ea20-9b15-4803-ac08-de46dc8dfcfe",
+                    "title": "Sun King (Mono)",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0465eed0-fcc1-41fb-b9ec-2f03143343ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "0465eed0-fcc1-41fb-b9ec-2f03143343ab",
+                    "title": "Sun King (Take 35)",
+                    "length": "155000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-sun-king-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/30619",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=200",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q210397",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "86556154-05d6-4cd3-a481-cebc5a6ab84f",
+                "direction": "forward",
+                "work": {
+                    "id": "86556154-05d6-4cd3-a481-cebc5a6ab84f",
+                    "type": "Song",
+                    "title": "Gnik Nus (Love version)",
+                    "language": "eng",
+                    "iswc": "T-900.221.398-1",
+                    "iswc-list": [
+                        "T-900.221.398-1"
+                    ]
+                }
+            }
+        ]
+    }
+}

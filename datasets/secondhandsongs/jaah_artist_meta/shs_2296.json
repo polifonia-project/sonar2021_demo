@@ -1,0 +1,51 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/2296",
+    "commonName": "Herbie Hancock",
+    "realName": "Herbert Jeffrey Hancock",
+    "birthDate": "1940-04-12",
+    "deathDate": null,
+    "picture": "https://secondhandsongs.com/picture/47107",
+    "homeCountry": "US",
+    "comments": "Jazz pianist, keyboardist, composer, band leader",
+    "aliases": [
+        "Herbie Hancock Quartet",
+        "The Herbie Hancock Quartet"
+    ],
+    "relations": [
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/2984",
+                "commonName": "Headhunters"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/59549",
+                "commonName": "Jean Hancock"
+            },
+            "comments": "Sister"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/5047",
+                "commonName": "Bennie Maupin"
+            },
+            "comments": "Long time collaborator"
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/2296/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/2296/works",
+    "releases": "https://secondhandsongs.com/artist/2296/releases"
+}

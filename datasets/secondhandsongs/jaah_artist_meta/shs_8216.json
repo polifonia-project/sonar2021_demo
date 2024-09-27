@@ -1,0 +1,50 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/8216",
+    "commonName": "Earl Hines",
+    "realName": "Earl Kenneth Hines",
+    "birthDate": "1903-12-28",
+    "deathDate": "1983-04-20",
+    "picture": "https://secondhandsongs.com/picture/272648",
+    "homeCountry": "US",
+    "comments": "Jazz pianist and bandleader and one of the most influential jazz pianists. He generally played swing style.",
+    "aliases": [
+        "Earl \"Fatha\" Hines",
+        "Earl \"Fatha\" Hines and His \"New Sounds\"",
+        "Earl Fatha Hines and His Orchestra",
+        "Earl Hines and His Boys",
+        "Earl Hines and His Esquire All Stars featuring Dicky Wells",
+        "Earl Hines & His Orchestra",
+        "Earl Hines and His Orchestra",
+        "Earl Hines and His Quartet",
+        "Earl Hines Trio",
+        "The Earl Hines Trio",
+        "The New Earl Hines Trio"
+    ],
+    "relations": [
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/29709",
+                "commonName": "Jimmy Noone"
+            },
+            "comments": "Member of the Jimmie Noone's Apex Club Orchestra"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/45074",
+                "commonName": "Jimmy Mundy"
+            },
+            "comments": "Arranger for Earl HInes' orchestra (1932-1935)"
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/8216/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/8216/works",
+    "releases": "https://secondhandsongs.com/artist/8216/releases"
+}

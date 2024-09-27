@@ -1,0 +1,2577 @@
+{
+    "work": {
+        "id": "fcb17a36-1803-3017-a328-d714cf50b0fa",
+        "type": "Song",
+        "title": "One After 909",
+        "language": "eng",
+        "iswc": "T-900.010.876-9",
+        "iswc-list": [
+            "T-900.010.876-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000178 302 97"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "8531"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12355313"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100260700"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "64.182"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358043"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358043"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "221496"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3354104"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "011984492"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "66 517 946 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014532800"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "77289Q"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0O0-0680-9"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "635371-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "30042"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11269675"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965952"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000218167"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "450135854"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00368296"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9334723"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243896"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "20271501"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6256255"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "begin": "1957",
+                "end": "1957",
+                "ended": "true",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "begin": "1957",
+                "end": "1957",
+                "ended": "true",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "459da21e-9b3f-4728-a049-05fdb04348d6",
+                "direction": "backward",
+                "begin": "1960",
+                "end": "1960",
+                "ended": "true",
+                "recording": {
+                    "id": "459da21e-9b3f-4728-a049-05fdb04348d6",
+                    "title": "One After 909 (1960)",
+                    "length": "89760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9be076d9-c688-4ced-b6c4-e9070e11f131",
+                "direction": "backward",
+                "begin": "1962",
+                "end": "1962",
+                "ended": "true",
+                "recording": {
+                    "id": "9be076d9-c688-4ced-b6c4-e9070e11f131",
+                    "title": "One After 909 (1962)",
+                    "length": "192360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9f16aec-b2f3-4f04-9235-bf152e194c33",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "d9f16aec-b2f3-4f04-9235-bf152e194c33",
+                    "title": "One After 909 (complete)",
+                    "length": "175666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e4fb2b1-2f7b-46b9-b52d-b52d097bed07",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2e4fb2b1-2f7b-46b9-b52d-b52d097bed07",
+                    "title": "One After 909 (sequence)",
+                    "length": "143200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c80d76e0-8e98-495a-ba97-4562bc91bf90",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "c80d76e0-8e98-495a-ba97-4562bc91bf90",
+                    "title": "One After 909 (studio outtake / takes 1 & 2)",
+                    "length": "268533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54e150d1-063d-473a-a37f-fa06dc7252d5",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "54e150d1-063d-473a-a37f-fa06dc7252d5",
+                    "title": "One After 909 (take 2: 1963-03-05)",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1fccbbbc-6dff-4ed6-87e8-8bcb63197f4b",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "1fccbbbc-6dff-4ed6-87e8-8bcb63197f4b",
+                    "title": "One After 909 (take 2) (1963-03-05)",
+                    "length": "169986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7653f4e7-bb1b-4b1d-b03e-8d67626f3270",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "7653f4e7-bb1b-4b1d-b03e-8d67626f3270",
+                    "title": "One After 909 (take 4 & 5) (1963-03-05)",
+                    "length": "176866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a640375d-cdb8-46f6-b55c-686502d0f808",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "a640375d-cdb8-46f6-b55c-686502d0f808",
+                    "title": "One After 909 (Takes 4 & 5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "259a9ee2-df65-4592-8aa6-3dc413d51e66",
+                "direction": "backward",
+                "begin": "1963-03-05",
+                "end": "1963-03-05",
+                "ended": "true",
+                "recording": {
+                    "id": "259a9ee2-df65-4592-8aa6-3dc413d51e66",
+                    "title": "One After 909 (Takes 4 & 5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1a2daeec-44d4-4724-9261-92332c8e57dc",
+                    "title": "Fly on the Wall",
+                    "length": "1317133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e657bb2-2071-4526-aefd-3504d921bf85",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "9e657bb2-2071-4526-aefd-3504d921bf85",
+                    "title": "One After 909",
+                    "length": "9000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1120497f-ba73-4007-882d-35a30db4f27d",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "recording": {
+                    "id": "1120497f-ba73-4007-882d-35a30db4f27d",
+                    "title": "One After 909 3.64",
+                    "length": "261000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fb3fe79-7a41-4dc3-9e99-479a19749be1",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "recording": {
+                    "id": "3fb3fe79-7a41-4dc3-9e99-479a19749be1",
+                    "title": "One After 909 3.66",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9694de63-942f-47de-a0a0-53457a7f656e",
+                "direction": "backward",
+                "begin": "1969-01-03",
+                "end": "1969-01-03",
+                "ended": "true",
+                "recording": {
+                    "id": "9694de63-942f-47de-a0a0-53457a7f656e",
+                    "title": "One After 909 3.132",
+                    "length": "25000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "316ffe0b-13b2-4adb-92f0-89cdaa9b74c7",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "316ffe0b-13b2-4adb-92f0-89cdaa9b74c7",
+                    "title": "One After 909 6.31",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3171520e-e36d-4844-a456-17652cf9b9f1",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "3171520e-e36d-4844-a456-17652cf9b9f1",
+                    "title": "One After 909 6.32",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "646da385-a30b-44be-9ad2-8422e1677194",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "646da385-a30b-44be-9ad2-8422e1677194",
+                    "title": "One After 909 6.34",
+                    "length": "102000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c48ca8a-6234-4e8a-8a10-c528d8aa8890",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1c48ca8a-6234-4e8a-8a10-c528d8aa8890",
+                    "title": "One After 909 7.107",
+                    "length": "53000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b502febb-aff5-4031-b5eb-d4f37eb410e3",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b502febb-aff5-4031-b5eb-d4f37eb410e3",
+                    "title": "One After 909 7.108",
+                    "length": "4000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "550a6ca6-f671-44c6-9b7a-00f091a48664",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "550a6ca6-f671-44c6-9b7a-00f091a48664",
+                    "title": "One After 909 7.109",
+                    "length": "83000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c7f68a6-2a60-4e65-8da6-0a57a9dbc282",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "2c7f68a6-2a60-4e65-8da6-0a57a9dbc282",
+                    "title": "One After 909 7.110",
+                    "length": "77000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4303883a-df36-4f8c-83ef-c12086c18189",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "4303883a-df36-4f8c-83ef-c12086c18189",
+                    "title": "One After 909 7.111",
+                    "length": "39000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1d13789-3ed2-4b42-ad3d-994252e7d1ce",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "a1d13789-3ed2-4b42-ad3d-994252e7d1ce",
+                    "title": "One After 909 7.113",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3533a093-b011-461f-8df3-a4ac01a66a7f",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "3533a093-b011-461f-8df3-a4ac01a66a7f",
+                    "title": "One After 909 8.20",
+                    "length": "215000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b708e7c-8fd1-4000-b0ad-db840df91fed",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "8b708e7c-8fd1-4000-b0ad-db840df91fed",
+                    "title": "One After 909 9.45",
+                    "length": "43000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb8e46fa-97e7-4f49-9181-8e5b7372e3a1",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "cb8e46fa-97e7-4f49-9181-8e5b7372e3a1",
+                    "title": "One After 909 9.46",
+                    "length": "22000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30d1c341-2639-4298-9cbb-65e424406854",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "30d1c341-2639-4298-9cbb-65e424406854",
+                    "title": "One After 909 9.47",
+                    "length": "17000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31cc05c0-ab9f-4724-9696-24f5490f47f0",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "31cc05c0-ab9f-4724-9696-24f5490f47f0",
+                    "title": "One After 909 9.48",
+                    "length": "55000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "176590c5-2652-45fd-a3f4-43d86bf75705",
+                "direction": "backward",
+                "begin": "1969-01-30",
+                "end": "1969-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "176590c5-2652-45fd-a3f4-43d86bf75705",
+                    "title": "One After 909",
+                    "length": "169666",
+                    "disambiguation": "live, 1969-01-30"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1f05d06-06ad-4f22-9c81-c94c0f44fe41",
+                "direction": "backward",
+                "begin": "1969-01-30",
+                "end": "1969-01-30",
+                "ended": "true",
+                "recording": {
+                    "id": "e1f05d06-06ad-4f22-9c81-c94c0f44fe41",
+                    "title": "One After 909",
+                    "length": "173000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf475672-f895-4d99-8934-af45db5c571e",
+                "direction": "backward",
+                "begin": "1969-01-30",
+                "end": "1969-01-30",
+                "ended": "true",
+                "recording": {
+                    "id": "bf475672-f895-4d99-8934-af45db5c571e",
+                    "title": "One After 909",
+                    "length": "164000",
+                    "disambiguation": "Let It Be\u2026 Naked version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a85733e-7c3d-4490-8258-8930fbcc81a0",
+                "direction": "backward",
+                "begin": "1986-09-02",
+                "end": "1986-09-02",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2a85733e-7c3d-4490-8258-8930fbcc81a0",
+                    "title": "One After 909",
+                    "length": "205000",
+                    "disambiguation": "live, 1986-09-02: Roxy Theatre, West Hollywood, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "443e2198-91c6-4fd0-81b0-612169714255",
+                "direction": "backward",
+                "begin": "2010-12-13",
+                "end": "2010-12-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "443e2198-91c6-4fd0-81b0-612169714255",
+                    "title": "One After 909",
+                    "length": "196000",
+                    "disambiguation": "live, 2010-12-13: Apollo Theater, New York, NY, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33ec66ab-f030-4d1c-b182-3343af8c6836",
+                "direction": "backward",
+                "recording": {
+                    "id": "33ec66ab-f030-4d1c-b182-3343af8c6836",
+                    "title": "One After 909",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd682ae0-2e2b-40ed-a4c1-25ab842be78d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd682ae0-2e2b-40ed-a4c1-25ab842be78d",
+                    "title": "One After 909",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "933e37c3-7738-4a46-b6d3-029ccfba7146",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "933e37c3-7738-4a46-b6d3-029ccfba7146",
+                    "title": "One After 909",
+                    "length": "259631"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "56423d65-00ea-41a5-b376-acee53e9be16",
+                "direction": "backward",
+                "recording": {
+                    "id": "56423d65-00ea-41a5-b376-acee53e9be16",
+                    "title": "One After 909",
+                    "length": "177533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8e6d5a1-fed1-42f6-bed2-dda4d825e6a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8e6d5a1-fed1-42f6-bed2-dda4d825e6a8",
+                    "title": "One After 909",
+                    "length": "232333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cb498ea-dc98-4326-a760-2d6992fc3403",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0cb498ea-dc98-4326-a760-2d6992fc3403",
+                    "title": "One After 909",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a78f17b-5b9a-40a8-b773-8ebe217c94c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3a78f17b-5b9a-40a8-b773-8ebe217c94c4",
+                    "title": "One After 909",
+                    "length": "179986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f140135-0c25-457d-8db7-298bc3df4e76",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2f140135-0c25-457d-8db7-298bc3df4e76",
+                    "title": "One After 909",
+                    "length": "154413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bd2d4a2-77e7-47f9-92f3-e6c98cd6fe71",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4bd2d4a2-77e7-47f9-92f3-e6c98cd6fe71",
+                    "title": "One After 909",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eac38bcd-56f7-4901-9fe8-0f11d736ecfa",
+                "direction": "backward",
+                "recording": {
+                    "id": "eac38bcd-56f7-4901-9fe8-0f11d736ecfa",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24ee5528-1059-4cdc-9351-4471aa5c4179",
+                "direction": "backward",
+                "recording": {
+                    "id": "24ee5528-1059-4cdc-9351-4471aa5c4179",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8ff555c-8b29-49ae-9d1b-2f02812ee48e",
+                "direction": "backward",
+                "recording": {
+                    "id": "d8ff555c-8b29-49ae-9d1b-2f02812ee48e",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b25e3f1f-f81a-4e36-b5d6-cddc4b16b0e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "b25e3f1f-f81a-4e36-b5d6-cddc4b16b0e2",
+                    "title": "One After 909",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49779575-0fc0-4241-8dda-ea3e06b43ac5",
+                "direction": "backward",
+                "recording": {
+                    "id": "49779575-0fc0-4241-8dda-ea3e06b43ac5",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3161eb22-7074-4275-ae32-95c62052eb19",
+                "direction": "backward",
+                "recording": {
+                    "id": "3161eb22-7074-4275-ae32-95c62052eb19",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f16327dc-38ad-44bf-a4d2-6a7785b7705f",
+                "direction": "backward",
+                "recording": {
+                    "id": "f16327dc-38ad-44bf-a4d2-6a7785b7705f",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc8de969-7852-4c25-84ca-4d1824d70583",
+                "direction": "backward",
+                "recording": {
+                    "id": "cc8de969-7852-4c25-84ca-4d1824d70583",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8628dcf2-c8cf-47ee-a552-e9f0764d1cf0",
+                "direction": "backward",
+                "recording": {
+                    "id": "8628dcf2-c8cf-47ee-a552-e9f0764d1cf0",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96b47437-44dd-4011-9d1c-976311e842cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "96b47437-44dd-4011-9d1c-976311e842cb",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed6d76e1-8aaa-4373-9107-d173ceb2360d",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed6d76e1-8aaa-4373-9107-d173ceb2360d",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ba7a523-301d-4fd5-88b2-f63f8f371673",
+                "direction": "backward",
+                "recording": {
+                    "id": "7ba7a523-301d-4fd5-88b2-f63f8f371673",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "393c36a9-a27a-488e-8540-20e9c63fdddf",
+                "direction": "backward",
+                "recording": {
+                    "id": "393c36a9-a27a-488e-8540-20e9c63fdddf",
+                    "title": "One After 909",
+                    "length": "193000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee14405b-84d6-4470-8a18-153da8965d48",
+                "direction": "backward",
+                "recording": {
+                    "id": "ee14405b-84d6-4470-8a18-153da8965d48",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eeefe599-29d8-4c60-8e54-1b80a02b996b",
+                "direction": "backward",
+                "recording": {
+                    "id": "eeefe599-29d8-4c60-8e54-1b80a02b996b",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f98644a7-4ed8-4f94-8d17-6da3bb171f58",
+                "direction": "backward",
+                "recording": {
+                    "id": "f98644a7-4ed8-4f94-8d17-6da3bb171f58",
+                    "title": "One After 909",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9bf06cb-7f14-48dd-b7b8-67c06c3641d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "b9bf06cb-7f14-48dd-b7b8-67c06c3641d4",
+                    "title": "One After 909",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b20ef029-704d-4c7c-a715-cfc59c01b87e",
+                "direction": "backward",
+                "recording": {
+                    "id": "b20ef029-704d-4c7c-a715-cfc59c01b87e",
+                    "title": "One After 909",
+                    "length": "200000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f2ee9a5-f5cb-40f2-8a91-b9ea2c3e49bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "6f2ee9a5-f5cb-40f2-8a91-b9ea2c3e49bb",
+                    "title": "One After 909",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21fc3d1e-be59-4319-93e7-9027b6e2c457",
+                "direction": "backward",
+                "recording": {
+                    "id": "21fc3d1e-be59-4319-93e7-9027b6e2c457",
+                    "title": "One After 909",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b034236-4a5e-430c-b465-87e3f811e73e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8b034236-4a5e-430c-b465-87e3f811e73e",
+                    "title": "One After 909",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5932bdc0-a77f-4287-90ff-02b43db533b9",
+                "direction": "backward",
+                "recording": {
+                    "id": "5932bdc0-a77f-4287-90ff-02b43db533b9",
+                    "title": "One After 909",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df521c68-20a9-4d50-aac3-dcbf2e586af7",
+                "direction": "backward",
+                "recording": {
+                    "id": "df521c68-20a9-4d50-aac3-dcbf2e586af7",
+                    "title": "One After 909",
+                    "length": "188573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39d2b996-742b-4b4b-9c69-5fec175c05d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "39d2b996-742b-4b4b-9c69-5fec175c05d2",
+                    "title": "One After 909",
+                    "length": "183160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c8105a3-21b6-461e-b75d-0c4ed5b5b0c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c8105a3-21b6-461e-b75d-0c4ed5b5b0c6",
+                    "title": "One After 909",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "067ed891-51c9-4846-90be-086717141eb2",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "067ed891-51c9-4846-90be-086717141eb2",
+                    "title": "One After 909",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa04cbbd-00a3-4036-973e-c12b7bc4d116",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa04cbbd-00a3-4036-973e-c12b7bc4d116",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0182126f-18af-4a15-8afe-c26293b124bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "0182126f-18af-4a15-8afe-c26293b124bf",
+                    "title": "One After 909",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bf1c49a-885d-4417-81a2-cfffbf6b3678",
+                "direction": "backward",
+                "recording": {
+                    "id": "4bf1c49a-885d-4417-81a2-cfffbf6b3678",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59b0b38c-06fd-4aa5-9b01-73d6c79b43c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "59b0b38c-06fd-4aa5-9b01-73d6c79b43c7",
+                    "title": "One After 909",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edeb4a4d-ed41-4829-b774-c95ea03e7891",
+                "direction": "backward",
+                "recording": {
+                    "id": "edeb4a4d-ed41-4829-b774-c95ea03e7891",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24c4b5cc-8bd7-4186-b285-1e330cdbb7f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "24c4b5cc-8bd7-4186-b285-1e330cdbb7f7",
+                    "title": "One After 909"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4083076-1c3d-41d0-b973-f8acd19e9567",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4083076-1c3d-41d0-b973-f8acd19e9567",
+                    "title": "One After 909",
+                    "length": "171240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3e9d906-9501-4dcf-99bc-4d6edbeb9474",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b3e9d906-9501-4dcf-99bc-4d6edbeb9474",
+                    "title": "One After 909"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1a2c603-edc6-4436-9959-1d6920ad1008",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1a2c603-edc6-4436-9959-1d6920ad1008",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae8c0c11-32ca-44a2-92e1-c35d7500e5f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae8c0c11-32ca-44a2-92e1-c35d7500e5f0",
+                    "title": "One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e1ec87c-1363-46bd-b942-7cff985370ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e1ec87c-1363-46bd-b942-7cff985370ae",
+                    "title": "One After 909",
+                    "length": "195000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63ae7afa-f6e1-4c74-814a-4c5cc9756965",
+                "direction": "backward",
+                "recording": {
+                    "id": "63ae7afa-f6e1-4c74-814a-4c5cc9756965",
+                    "title": "One After 909",
+                    "length": "195026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "364c2705-51f6-4487-afe2-3d6b91079210",
+                "direction": "backward",
+                "recording": {
+                    "id": "364c2705-51f6-4487-afe2-3d6b91079210",
+                    "title": "One After 909",
+                    "length": "187333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5121f183-d025-4f63-a79c-38b29fffd12c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5121f183-d025-4f63-a79c-38b29fffd12c",
+                    "title": "One After 909",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df3ae853-16ae-443b-9ec9-2d4d1dca615f",
+                "direction": "backward",
+                "recording": {
+                    "id": "df3ae853-16ae-443b-9ec9-2d4d1dca615f",
+                    "title": "One After 909",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "558753d4-e6ee-493b-b6ab-68b3473754f4",
+                "direction": "backward",
+                "recording": {
+                    "id": "558753d4-e6ee-493b-b6ab-68b3473754f4",
+                    "title": "One After 909",
+                    "length": "121000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7467f0b8-dcb5-48e4-ac92-ae4991681df8",
+                "direction": "backward",
+                "recording": {
+                    "id": "7467f0b8-dcb5-48e4-ac92-ae4991681df8",
+                    "title": "One After 909",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3dff69de-1a51-4be1-8e28-14fd58d519f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "3dff69de-1a51-4be1-8e28-14fd58d519f2",
+                    "title": "One After 909",
+                    "length": "85000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9eaf3f4d-b241-4dfb-b8b7-f23425a84231",
+                "direction": "backward",
+                "recording": {
+                    "id": "9eaf3f4d-b241-4dfb-b8b7-f23425a84231",
+                    "title": "One After 909",
+                    "length": "118000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3586325-eb94-427c-85b1-97c67ed7aa18",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3586325-eb94-427c-85b1-97c67ed7aa18",
+                    "title": "One After 909",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "876374b6-1c9e-4244-bf32-4f2edb6f58f7",
+                "direction": "backward",
+                "recording": {
+                    "id": "876374b6-1c9e-4244-bf32-4f2edb6f58f7",
+                    "title": "One After 909",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44ca0a89-ae23-483c-9792-a2422e40f335",
+                "direction": "backward",
+                "recording": {
+                    "id": "44ca0a89-ae23-483c-9792-a2422e40f335",
+                    "title": "One After 909",
+                    "length": "155133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e6dfb7c-e902-416b-8cc3-9f0042d10492",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e6dfb7c-e902-416b-8cc3-9f0042d10492",
+                    "title": "One After 909",
+                    "length": "78507"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17918330-ec04-4b56-82e0-86aa4b19bfef",
+                "direction": "backward",
+                "recording": {
+                    "id": "17918330-ec04-4b56-82e0-86aa4b19bfef",
+                    "title": "One After 909",
+                    "length": "78746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63e9b15d-0f83-472f-9958-edf32c86f421",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "63e9b15d-0f83-472f-9958-edf32c86f421",
+                    "title": "One After 909",
+                    "length": "221106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98e0465d-a878-47be-9f22-6a398068f3ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98e0465d-a878-47be-9f22-6a398068f3ba",
+                    "title": "One After 909",
+                    "length": "200400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a06f3eb-991b-4414-9be8-43d5611c5a98",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1a06f3eb-991b-4414-9be8-43d5611c5a98",
+                    "title": "One After 909"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdba86f6-7d3c-40e7-a318-ed2a760cba33",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cdba86f6-7d3c-40e7-a318-ed2a760cba33",
+                    "title": "One After 909",
+                    "length": "237946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57c38a46-d284-43e3-8fbf-735224a59b9a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "57c38a46-d284-43e3-8fbf-735224a59b9a",
+                    "title": "One After 909",
+                    "length": "159306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cffddf0-6f2b-44b8-98bb-91006f5f305c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8cffddf0-6f2b-44b8-98bb-91006f5f305c",
+                    "title": "One After 909",
+                    "length": "215000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40445c52-c847-4f52-840a-4422cc803fac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "40445c52-c847-4f52-840a-4422cc803fac",
+                    "title": "One After 909",
+                    "length": "169000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc8eeddb-aaff-4c1c-ad75-0371bb2efbef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fc8eeddb-aaff-4c1c-ad75-0371bb2efbef",
+                    "title": "One After 909",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbb927bb-2ac6-4ca3-9b17-2fa077f30fd8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bbb927bb-2ac6-4ca3-9b17-2fa077f30fd8",
+                    "title": "One After 909",
+                    "length": "109986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e79abf9-7407-4919-abe3-ffe8cc01088c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9e79abf9-7407-4919-abe3-ffe8cc01088c",
+                    "title": "One After 909",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8e72556-11bb-4c7e-b4fc-07f5adb412f4",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8e72556-11bb-4c7e-b4fc-07f5adb412f4",
+                    "title": "One After 909",
+                    "length": "184000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5d7178e-19e1-4d33-a277-3a11fb948344",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5d7178e-19e1-4d33-a277-3a11fb948344",
+                    "title": "One After 909 (1962-09-04)",
+                    "length": "178026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e387ecf3-8c2f-448e-bc6f-d4cabb9a8686",
+                "direction": "backward",
+                "recording": {
+                    "id": "e387ecf3-8c2f-448e-bc6f-d4cabb9a8686",
+                    "title": "One After 909 (1969-01)",
+                    "length": "197026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8852bf41-988d-45d5-82f4-0ee6dc26c387",
+                "direction": "backward",
+                "recording": {
+                    "id": "8852bf41-988d-45d5-82f4-0ee6dc26c387",
+                    "title": "One After 909 (1982 mono mix)",
+                    "length": "177106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a1d01b0-ae49-427c-b1f2-e035a4f319e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a1d01b0-ae49-427c-b1f2-e035a4f319e1",
+                    "title": "One After 909 (alternate take)",
+                    "length": "200640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd001e54-b154-481a-8025-85f289919fda",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd001e54-b154-481a-8025-85f289919fda",
+                    "title": "One After 909 (alternate version)",
+                    "length": "199000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4a466ff-7f31-4c40-aca1-d393d5f7049e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4a466ff-7f31-4c40-aca1-d393d5f7049e",
+                    "title": "One After 909 (false start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0521a8a4-a21d-4e0d-b286-75858f91777f",
+                "direction": "backward",
+                "recording": {
+                    "id": "0521a8a4-a21d-4e0d-b286-75858f91777f",
+                    "title": "One After 909 (Mono)",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cade2b4-c709-46b0-8dda-a5310b0f522e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1cade2b4-c709-46b0-8dda-a5310b0f522e",
+                    "title": "One After 909 (Paul & Elvis)",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68e8b5de-25f4-41bc-bea3-c56d7845eddf",
+                "direction": "backward",
+                "recording": {
+                    "id": "68e8b5de-25f4-41bc-bea3-c56d7845eddf",
+                    "title": "One After 909 (take 1 - Breakdown)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7572b82c-1d02-4a7c-95d7-d28df9f62aaf",
+                "direction": "backward",
+                "recording": {
+                    "id": "7572b82c-1d02-4a7c-95d7-d28df9f62aaf",
+                    "title": "One After 909 (take 1 and 2)",
+                    "length": "264293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "213cedea-23ee-4143-8e8f-138150040c3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "213cedea-23ee-4143-8e8f-138150040c3e",
+                    "title": "One After 909 (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ff66901-7077-430b-802d-0519ef12d348",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ff66901-7077-430b-802d-0519ef12d348",
+                    "title": "One After 909 (take 2 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "198a3f1d-0356-4ad5-93e8-feec35877ab5",
+                "direction": "backward",
+                "recording": {
+                    "id": "198a3f1d-0356-4ad5-93e8-feec35877ab5",
+                    "title": "One After 909 (take 2)",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f113a5b-13b3-4606-bf69-dd7f0750a86c",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f113a5b-13b3-4606-bf69-dd7f0750a86c",
+                    "title": "One After 909 (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42ea805d-500d-4228-8606-e2bdbff1b9d5",
+                "direction": "backward",
+                "recording": {
+                    "id": "42ea805d-500d-4228-8606-e2bdbff1b9d5",
+                    "title": "One After 909 (Take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c49f50c4-b628-4b25-a37a-1b512009d8a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "c49f50c4-b628-4b25-a37a-1b512009d8a3",
+                    "title": "One After 909 (take 3 - Breakdown)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb606a8e-a732-42ac-96e9-b3e8f523c825",
+                "direction": "backward",
+                "recording": {
+                    "id": "cb606a8e-a732-42ac-96e9-b3e8f523c825",
+                    "title": "One After 909 (take 4 - Breakdown)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d8d6fb4-fee7-4f51-99cb-d398059a16a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d8d6fb4-fee7-4f51-99cb-d398059a16a2",
+                    "title": "One After 909 (take 5 - edit Piece)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e30fb9eb-f6e0-485a-aa9a-01deb36587e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e30fb9eb-f6e0-485a-aa9a-01deb36587e7",
+                    "title": "One After 909 (takes 1/2)",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b53d5ef8-6818-4d6a-91b3-0358b350983a",
+                "direction": "backward",
+                "recording": {
+                    "id": "b53d5ef8-6818-4d6a-91b3-0358b350983a",
+                    "title": "One After 909 (takes 3/4)",
+                    "length": "341000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc2e9a14-ac31-493c-a4d7-97689abaddc3",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc2e9a14-ac31-493c-a4d7-97689abaddc3",
+                    "title": "One After 909 (Takes 4 & 5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95329121-e2df-4c68-97e0-5aaf02770922",
+                "direction": "backward",
+                "recording": {
+                    "id": "95329121-e2df-4c68-97e0-5aaf02770922",
+                    "title": "One After 909 (tk 2 1982 mono mix)",
+                    "length": "169160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93d4daed-1c88-4d44-8232-ff1c61715757",
+                "direction": "backward",
+                "recording": {
+                    "id": "93d4daed-1c88-4d44-8232-ff1c61715757",
+                    "title": "One After 909 (w/ laughter \u2013 Green Thoughts \u201cRoughs\u201d 12/11/87)",
+                    "length": "216000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb92aee4-4e0d-4db5-b954-363b681b898c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eb92aee4-4e0d-4db5-b954-363b681b898c",
+                    "title": "One After 2009",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa62079d-e00b-4d13-b3ca-73c8b7618636",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fa62079d-e00b-4d13-b3ca-73c8b7618636",
+                    "title": "The One After 9:09",
+                    "length": "202080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6cc32fd-56e0-4977-8ee5-a3d5bd1b1cdd",
+                "direction": "backward",
+                "recording": {
+                    "id": "b6cc32fd-56e0-4977-8ee5-a3d5bd1b1cdd",
+                    "title": "The One After 909",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a22fa8e6-9df9-473c-8f93-fbeef24f6c62",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a22fa8e6-9df9-473c-8f93-fbeef24f6c62",
+                    "title": "The One After 909",
+                    "length": "208613"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d67bc8f0-e4fb-47c1-8356-697b70d5edcb",
+                "direction": "backward",
+                "recording": {
+                    "id": "d67bc8f0-e4fb-47c1-8356-697b70d5edcb",
+                    "title": "The One After 909",
+                    "length": "200000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a561fb4b-34c0-4a00-bbc9-cda9ba8d6292",
+                "direction": "backward",
+                "recording": {
+                    "id": "a561fb4b-34c0-4a00-bbc9-cda9ba8d6292",
+                    "title": "The One After 909",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e8a662b-9691-4e87-b03b-3ec2ada34035",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e8a662b-9691-4e87-b03b-3ec2ada34035",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c911a19-56c3-4e89-b9fe-e93381a551f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c911a19-56c3-4e89-b9fe-e93381a551f9",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9083c705-23a5-4aaa-8f4d-db9063f4c4df",
+                "direction": "backward",
+                "recording": {
+                    "id": "9083c705-23a5-4aaa-8f4d-db9063f4c4df",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "905bfbc6-0cf8-4126-821b-a20a6647e88b",
+                "direction": "backward",
+                "recording": {
+                    "id": "905bfbc6-0cf8-4126-821b-a20a6647e88b",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7827f75-ecbe-4c75-ab81-8f0b00b09653",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7827f75-ecbe-4c75-ab81-8f0b00b09653",
+                    "title": "The One After 909",
+                    "length": "198000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7977aa5-350e-4e2b-92a5-908f2e3cdddb",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7977aa5-350e-4e2b-92a5-908f2e3cdddb",
+                    "title": "The One After 909",
+                    "length": "193000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14f6a5a6-7e6f-4a42-9d40-f9974e110307",
+                "direction": "backward",
+                "recording": {
+                    "id": "14f6a5a6-7e6f-4a42-9d40-f9974e110307",
+                    "title": "The One After 909",
+                    "length": "185000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d383f4f9-2576-4746-83ad-49cca8d75e97",
+                "direction": "backward",
+                "recording": {
+                    "id": "d383f4f9-2576-4746-83ad-49cca8d75e97",
+                    "title": "The One After 909",
+                    "length": "80000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "221a6c3e-89a7-4e2a-aee3-319d610877b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "221a6c3e-89a7-4e2a-aee3-319d610877b2",
+                    "title": "The One After 909",
+                    "length": "197000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "177a7479-d401-4e07-887f-c12ade7da15f",
+                "direction": "backward",
+                "recording": {
+                    "id": "177a7479-d401-4e07-887f-c12ade7da15f",
+                    "title": "The One After 909",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b0cd202-5d43-4c48-a0ba-09b571048226",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b0cd202-5d43-4c48-a0ba-09b571048226",
+                    "title": "The One After 909",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b887465-d86b-45f5-8c57-d5dfc958ab99",
+                "direction": "backward",
+                "recording": {
+                    "id": "8b887465-d86b-45f5-8c57-d5dfc958ab99",
+                    "title": "The One After 909",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75016807-37fa-49fa-aa83-889a704ec1f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "75016807-37fa-49fa-aa83-889a704ec1f9",
+                    "title": "The One After 909",
+                    "length": "168440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efd0b86f-e04e-4217-9c5f-9cdb3254d4e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "efd0b86f-e04e-4217-9c5f-9cdb3254d4e4",
+                    "title": "The One After 909",
+                    "length": "197000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a99da707-749a-46f9-8ea4-35215430fdc6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a99da707-749a-46f9-8ea4-35215430fdc6",
+                    "title": "The One After 909",
+                    "length": "195066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13435aa0-2e47-43a8-a523-ec5b9bdece40",
+                "direction": "backward",
+                "recording": {
+                    "id": "13435aa0-2e47-43a8-a523-ec5b9bdece40",
+                    "title": "The One After 909",
+                    "length": "217693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0452482c-2e66-4b88-87c5-d3bcb99b9eb1",
+                "direction": "backward",
+                "recording": {
+                    "id": "0452482c-2e66-4b88-87c5-d3bcb99b9eb1",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c58de1d4-19b9-406e-b6c5-3c0e98b27725",
+                "direction": "backward",
+                "recording": {
+                    "id": "c58de1d4-19b9-406e-b6c5-3c0e98b27725",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d198ce2-43ff-4c7e-b7d6-e584d030f97d",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d198ce2-43ff-4c7e-b7d6-e584d030f97d",
+                    "title": "The One After 909",
+                    "length": "95306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "635fefa8-67b4-4c54-bbbf-2532bc4126c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "635fefa8-67b4-4c54-bbbf-2532bc4126c9",
+                    "title": "The One After 909",
+                    "length": "293000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f86e4d37-89ee-4299-87be-99260283a2db",
+                "direction": "backward",
+                "recording": {
+                    "id": "f86e4d37-89ee-4299-87be-99260283a2db",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f6dd78d-987e-44f4-9a0f-26e57e0c1bd8",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f6dd78d-987e-44f4-9a0f-26e57e0c1bd8",
+                    "title": "The One After 909"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6225b991-b879-45fe-8da7-9fb23532efcf",
+                "direction": "backward",
+                "recording": {
+                    "id": "6225b991-b879-45fe-8da7-9fb23532efcf",
+                    "title": "The One After 909 (alternate take)",
+                    "length": "200573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12a3cda3-4f09-451a-9f0c-03ddf88c7448",
+                "direction": "backward",
+                "recording": {
+                    "id": "12a3cda3-4f09-451a-9f0c-03ddf88c7448",
+                    "title": "The One After 909 (boardroom tape)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0409289-cda9-43de-aef7-83f6aa50266c",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0409289-cda9-43de-aef7-83f6aa50266c",
+                    "title": "The One After 909 (Cavern club rehearsal)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cc497e5-5c17-497a-8cd3-99b915a942dd",
+                "direction": "backward",
+                "recording": {
+                    "id": "3cc497e5-5c17-497a-8cd3-99b915a942dd",
+                    "title": "The One After 909 (Cavern Club rehearsals)",
+                    "length": "200440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b21e4d50-3cc9-4dcd-89b5-3e43b152b284",
+                "direction": "backward",
+                "recording": {
+                    "id": "b21e4d50-3cc9-4dcd-89b5-3e43b152b284",
+                    "title": "The One After 909 (Cavern club)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab37fc66-4bfc-4f7d-8088-8a96c1318497",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab37fc66-4bfc-4f7d-8088-8a96c1318497",
+                    "title": "The One After 909 (Cavern club)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1457710b-0374-421d-9d95-46b5104c7693",
+                "direction": "backward",
+                "recording": {
+                    "id": "1457710b-0374-421d-9d95-46b5104c7693",
+                    "title": "The One After 909 (Cavern rehearsal)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af0c449d-9bd5-4bb9-a359-40da1211fff3",
+                "direction": "backward",
+                "recording": {
+                    "id": "af0c449d-9bd5-4bb9-a359-40da1211fff3",
+                    "title": "The One After 909 (Cavern rehearsal)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1844ea0b-504a-4c14-8116-1654437740d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1844ea0b-504a-4c14-8116-1654437740d6",
+                    "title": "The One After 909 (live Hamburg)",
+                    "length": "144693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bed20696-e887-4a34-bf96-85a4ddb3e100",
+                "direction": "backward",
+                "recording": {
+                    "id": "bed20696-e887-4a34-bf96-85a4ddb3e100",
+                    "title": "The One After 909 (sessions mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0603027-2c07-4221-bcac-97ab71957b67",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0603027-2c07-4221-bcac-97ab71957b67",
+                    "title": "The One After 909 (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55ef29e5-e813-45a3-8237-235d8c00bc2d",
+                "direction": "backward",
+                "recording": {
+                    "id": "55ef29e5-e813-45a3-8237-235d8c00bc2d",
+                    "title": "The One After 909 (take 1)",
+                    "length": "189400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59be1242-1964-4379-80ad-3d34d6e12137",
+                "direction": "backward",
+                "recording": {
+                    "id": "59be1242-1964-4379-80ad-3d34d6e12137",
+                    "title": "The One After 909 (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11657755-7226-4966-885d-248f4d0a5a13",
+                "direction": "backward",
+                "recording": {
+                    "id": "11657755-7226-4966-885d-248f4d0a5a13",
+                    "title": "The One After 909 (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54cda85b-21a5-4444-8f95-df9cc3b64156",
+                "direction": "backward",
+                "recording": {
+                    "id": "54cda85b-21a5-4444-8f95-df9cc3b64156",
+                    "title": "The One After 909 (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a05e9564-ba83-4b7a-9ab3-bd29fbf6a845",
+                "direction": "backward",
+                "recording": {
+                    "id": "a05e9564-ba83-4b7a-9ab3-bd29fbf6a845",
+                    "title": "The One After 909 (take 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf49dae6-ac67-49a0-912e-a0334bd3157d",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf49dae6-ac67-49a0-912e-a0334bd3157d",
+                    "title": "The One After 909 (take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfa21e16-aea3-471f-8853-1f95773eb8a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "dfa21e16-aea3-471f-8853-1f95773eb8a1",
+                    "title": "The One After 909 (take 4)",
+                    "length": "88000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29953369-4d7e-41d5-a99a-20a7ee428638",
+                "direction": "backward",
+                "recording": {
+                    "id": "29953369-4d7e-41d5-a99a-20a7ee428638",
+                    "title": "The One After 909 (take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2f871c0-0dc3-4e74-a043-3caed124dbfe",
+                "direction": "backward",
+                "recording": {
+                    "id": "f2f871c0-0dc3-4e74-a043-3caed124dbfe",
+                    "title": "The One After 909 (take 5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07c071f4-87f9-42c6-b409-ddf8dac5a0b5",
+                "direction": "backward",
+                "recording": {
+                    "id": "07c071f4-87f9-42c6-b409-ddf8dac5a0b5",
+                    "title": "The One After 909 (takes 1 & 2)",
+                    "length": "264666"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-one-after-909-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/14954",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=185",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2412360",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "93c75273-5411-4ba7-b254-a7550ffb10e6",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "93c75273-5411-4ba7-b254-a7550ffb10e6",
+                    "type": "Song",
+                    "title": "\u30ef\u30f3\u30fb\u30a2\u30d5\u30bf\u30fc909",
+                    "language": "jpn"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

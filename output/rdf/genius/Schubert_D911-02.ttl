@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-02.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-02> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-02.json> ;
+        xyz:lyrics    "Der Wind spielt mit der Wetterfahne\nauf meines schönen Liebchens Haus.\nDa dacht ich schon in meinem Wahne,\nsie pfiff' den armen Flüchtling aus. \n\nEr hätt es eher bemerken sollen,\ndes Hauses aufgestecktes Schild,\nso hätt er nimmer suchen wollen\nim Haus ein treues Frauenbild. \n\nDer Wind spielt drinnen mit den Herzen\nwie auf dem Dach, nur nicht so laut.\nWas fragen sie nach meinen Schmerzen?\nIhr Kind ist eine reiche Braut. \n\nDer Wind spielt drinnen mit den Herzen\nwie auf dem Dach, nur nicht so laut.\nWas fragen sie nach meinen Schmerzen?\nWas fragen sie nach meinen Schmerzen?\nIhr Kind ist eine reiche Braut." ;
+        xyz:title     "Schubert_D911-02" .

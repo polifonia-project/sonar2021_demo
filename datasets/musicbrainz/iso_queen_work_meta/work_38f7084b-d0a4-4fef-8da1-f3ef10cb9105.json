@@ -1,0 +1,590 @@
+{
+    "work": {
+        "id": "38f7084b-d0a4-4fef-8da1-f3ef10cb9105",
+        "type": "Song",
+        "title": "Living on My Own",
+        "language": "eng",
+        "iswc": "T-011.323.574-7",
+        "iswc-list": [
+            "T-011.323.574-7"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b195a061-1196-4eb3-82ae-f1b255e05b69",
+                "direction": "backward",
+                "recording": {
+                    "id": "b195a061-1196-4eb3-82ae-f1b255e05b69",
+                    "title": "Living on My Own",
+                    "length": "203466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3769e24-6dc8-4ff5-b8d9-9a3f5d330c59",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3769e24-6dc8-4ff5-b8d9-9a3f5d330c59",
+                    "title": "Living on My Own",
+                    "length": "316000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88fd3254-1632-4b8b-bf9e-b8a36f8a3ca2",
+                "direction": "backward",
+                "recording": {
+                    "id": "88fd3254-1632-4b8b-bf9e-b8a36f8a3ca2",
+                    "title": "Living on My Own",
+                    "length": "106000",
+                    "disambiguation": "part of \u201cTen Years of Pop\u201d DJ-mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aede4938-d2d1-4831-9214-a94823d54496",
+                "direction": "backward",
+                "recording": {
+                    "id": "aede4938-d2d1-4831-9214-a94823d54496",
+                    "title": "Living on My Own",
+                    "length": "217893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c9d62d2-a1fd-4f10-945a-61c5ebb1e520",
+                "direction": "backward",
+                "recording": {
+                    "id": "0c9d62d2-a1fd-4f10-945a-61c5ebb1e520",
+                    "title": "Living on My Own",
+                    "length": "217280",
+                    "disambiguation": "1993 radio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e098e2f-6446-4e71-ab4c-f265b27bbbaa",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e098e2f-6446-4e71-ab4c-f265b27bbbaa",
+                    "title": "Living on My Own",
+                    "length": "216000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f9fb0f7-13d0-4222-abb3-7e452d71c4c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f9fb0f7-13d0-4222-abb3-7e452d71c4c0",
+                    "title": "Living on My Own",
+                    "length": "217733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8eb98bf2-ec3d-4e37-9356-a630aa7d2d6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "8eb98bf2-ec3d-4e37-9356-a630aa7d2d6b",
+                    "title": "Living on My Own",
+                    "length": "313840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11326c0b-2c67-490f-a3c4-b4c12f285b64",
+                "direction": "backward",
+                "recording": {
+                    "id": "11326c0b-2c67-490f-a3c4-b4c12f285b64",
+                    "title": "Living on My Own",
+                    "length": "218000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0989dabc-b6b3-4004-bf1c-66ec654f90d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "0989dabc-b6b3-4004-bf1c-66ec654f90d8",
+                    "title": "Living on My Own",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91f92d3d-7642-4077-8654-bd1e1cedeab7",
+                "direction": "backward",
+                "recording": {
+                    "id": "91f92d3d-7642-4077-8654-bd1e1cedeab7",
+                    "title": "Living On My Own",
+                    "length": "203746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "447cb581-535e-43df-af3c-6010c3ce3182",
+                "direction": "backward",
+                "recording": {
+                    "id": "447cb581-535e-43df-af3c-6010c3ce3182",
+                    "title": "Living On My Own",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0af5a7e-29b9-4ad9-b624-78ee8353d77c",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0af5a7e-29b9-4ad9-b624-78ee8353d77c",
+                    "title": "Living On My Own",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d803a79-130b-4b19-b4bf-72400e06dfaf",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d803a79-130b-4b19-b4bf-72400e06dfaf",
+                    "title": "Living on My Own (12\" version)",
+                    "length": "394706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a7bab6c-c13e-49b7-ad6f-4c5b1c9f770d",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a7bab6c-c13e-49b7-ad6f-4c5b1c9f770d",
+                    "title": "Living on My Own (12\u2033 version)",
+                    "length": "400106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fc72b4b-32aa-4a5c-8c23-cef49eea7ddb",
+                "direction": "backward",
+                "recording": {
+                    "id": "3fc72b4b-32aa-4a5c-8c23-cef49eea7ddb",
+                    "title": "Living on My Own (1993 club mix)",
+                    "length": "267533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "869898a5-4ced-4d4b-9e5d-fcc88d7db613",
+                "direction": "backward",
+                "recording": {
+                    "id": "869898a5-4ced-4d4b-9e5d-fcc88d7db613",
+                    "title": "Living on My Own (1993 remix)",
+                    "length": "230000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddd2ff9c-3089-4ab9-ada4-7ebb7bd6096c",
+                "direction": "backward",
+                "recording": {
+                    "id": "ddd2ff9c-3089-4ab9-ada4-7ebb7bd6096c",
+                    "title": "Living on My Own (1993 Underground Solutions mix)",
+                    "length": "346200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46e7cf6b-1435-49c5-b589-c299a4c919c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "46e7cf6b-1435-49c5-b589-c299a4c919c6",
+                    "title": "Living on My Own (album mix)",
+                    "length": "218000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72f3875b-7645-4bdf-a507-0f45392889ff",
+                "direction": "backward",
+                "recording": {
+                    "id": "72f3875b-7645-4bdf-a507-0f45392889ff",
+                    "title": "Living on My Own (club mix)",
+                    "length": "228640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bcd8c450-cf19-4328-8187-09c8d5c42cb9",
+                "direction": "backward",
+                "recording": {
+                    "id": "bcd8c450-cf19-4328-8187-09c8d5c42cb9",
+                    "title": "Living on My Own (club mix)",
+                    "length": "267000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d213b300-ecdb-4009-ba0b-6ec22eb86bfd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d213b300-ecdb-4009-ba0b-6ec22eb86bfd",
+                    "title": "Living on my own (Cover)",
+                    "length": "296000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90e3a85e-22bc-49c2-a07b-075588d99d9a",
+                "direction": "backward",
+                "recording": {
+                    "id": "90e3a85e-22bc-49c2-a07b-075588d99d9a",
+                    "title": "Living on My Own (extended club mix)",
+                    "length": "378000",
+                    "disambiguation": "part of \u201c200% Dance Hits\u201d dj-mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8ca2a4c-132e-4f29-b556-b5a42084a62c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8ca2a4c-132e-4f29-b556-b5a42084a62c",
+                    "title": "Living on My Own (extended mix)",
+                    "length": "317000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c40f3745-efcc-4854-be96-794c804c1d7c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c40f3745-efcc-4854-be96-794c804c1d7c",
+                    "title": "Living on My Own (extended mix)",
+                    "length": "316000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "365e8d02-f2cd-4bbc-8d47-29e3bf68da06",
+                "direction": "backward",
+                "recording": {
+                    "id": "365e8d02-f2cd-4bbc-8d47-29e3bf68da06",
+                    "title": "Living on My Own (hybrid edit: early/later versions)",
+                    "length": "270266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8d2496e-0ffa-410d-a9e1-0463319de23d",
+                "direction": "backward",
+                "recording": {
+                    "id": "d8d2496e-0ffa-410d-a9e1-0463319de23d",
+                    "title": "Living on My Own (Julian Raymond mix)",
+                    "length": "218906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6421e16-6e16-4b71-af52-f44127f24fc3",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6421e16-6e16-4b71-af52-f44127f24fc3",
+                    "title": "Living on My Own (L.A. mix)",
+                    "length": "220200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07557214-1be1-4d5e-af26-9d11fd00c0af",
+                "direction": "backward",
+                "recording": {
+                    "id": "07557214-1be1-4d5e-af26-9d11fd00c0af",
+                    "title": "Living on My Own (No More Brothers extended mix)",
+                    "length": "316293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3794cec8-b13b-48ce-993a-cdf13f052a10",
+                "direction": "backward",
+                "recording": {
+                    "id": "3794cec8-b13b-48ce-993a-cdf13f052a10",
+                    "title": "Living on My Own (No More Brothers radio mix)",
+                    "length": "221400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8090f092-09bb-4042-9362-dcfbcc9e8c87",
+                "direction": "backward",
+                "recording": {
+                    "id": "8090f092-09bb-4042-9362-dcfbcc9e8c87",
+                    "title": "Living on My Own (original 1985 extended version)",
+                    "length": "399000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b5aa48c-90b6-455a-a007-60b85ecb6bf5",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b5aa48c-90b6-455a-a007-60b85ecb6bf5",
+                    "title": "Living on My Own (radio mix)",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96659703-d851-4f84-afe4-b302ae7fa4ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "96659703-d851-4f84-afe4-b302ae7fa4ae",
+                    "title": "Living On My Own (Radio Mix)",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b200b841-4a3c-4484-8732-b62c136d92b5",
+                "direction": "backward",
+                "recording": {
+                    "id": "b200b841-4a3c-4484-8732-b62c136d92b5",
+                    "title": "Living On My Own (Radio Mix)",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23c322e9-a214-451c-b83b-4938bd7c2dc2",
+                "direction": "backward",
+                "recording": {
+                    "id": "23c322e9-a214-451c-b83b-4938bd7c2dc2",
+                    "title": "Living On My Own (Radio Mix)",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63a155bf-582f-45f0-83f9-f5564a6aa029",
+                "direction": "backward",
+                "recording": {
+                    "id": "63a155bf-582f-45f0-83f9-f5564a6aa029",
+                    "title": "Living on My Own (Roger S mix)",
+                    "length": "346000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41786621-34ec-47f9-87f3-a263b1966cff",
+                "direction": "backward",
+                "recording": {
+                    "id": "41786621-34ec-47f9-87f3-a263b1966cff",
+                    "title": "Living on My Own (single edit)",
+                    "length": "185480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52eed444-7ed0-4420-93ba-8c92489f258a",
+                "direction": "backward",
+                "recording": {
+                    "id": "52eed444-7ed0-4420-93ba-8c92489f258a",
+                    "title": "Living On My Own (Special Edition)",
+                    "length": "216000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cf5731b-af59-44f6-8915-a363bb4cd380",
+                "direction": "backward",
+                "recording": {
+                    "id": "2cf5731b-af59-44f6-8915-a363bb4cd380",
+                    "title": "Living on My Own (techno remix)",
+                    "length": "228000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08b31abd-2d50-49aa-9ed1-787c5a6a7fa8",
+                "direction": "backward",
+                "recording": {
+                    "id": "08b31abd-2d50-49aa-9ed1-787c5a6a7fa8",
+                    "title": "Living on My Own (The Egg remix)",
+                    "length": "337813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b4babf5-ffc7-4506-85a0-afbdb07a1b82",
+                "direction": "backward",
+                "recording": {
+                    "id": "9b4babf5-ffc7-4506-85a0-afbdb07a1b82",
+                    "title": "Living on My Own (Ultratraxx 12\u2033 version)",
+                    "length": "464000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab4ccc52-098b-4aef-943b-612697aed074",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab4ccc52-098b-4aef-943b-612697aed074",
+                    "title": "Living on My Own (Underground Solutions mix)",
+                    "length": "346026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73d9cd8c-4008-462e-9723-5d5083afe415",
+                "direction": "backward",
+                "recording": {
+                    "id": "73d9cd8c-4008-462e-9723-5d5083afe415",
+                    "title": "Living on My Own (Underground Solutions mix)",
+                    "length": "346000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/125383",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1089220",
+                "direction": "backward"
+            }
+        ]
+    }
+}

@@ -1,0 +1,406 @@
+{
+    "work": {
+        "id": "256be72e-8a17-3699-ad57-94606321b3c2",
+        "type": "Song",
+        "title": "Tell Me What You See",
+        "language": "eng",
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1468253"
+            },
+            {
+                "attribute": "Key",
+                "value": "G major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66f90aad-7046-4029-bf50-23c72c9b2c84",
+                "direction": "backward",
+                "begin": "1965-02-18",
+                "end": "1965-02-18",
+                "ended": "true",
+                "recording": {
+                    "id": "66f90aad-7046-4029-bf50-23c72c9b2c84",
+                    "title": "Tell Me What You See",
+                    "length": "158973",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52c26c36-8313-4a0a-8e92-b5ddd8cbfefa",
+                "direction": "backward",
+                "begin": "1965-02-18",
+                "end": "1965-02-18",
+                "ended": "true",
+                "recording": {
+                    "id": "52c26c36-8313-4a0a-8e92-b5ddd8cbfefa",
+                    "title": "Tell Me What You See",
+                    "length": "159000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "735cb94c-9809-4c6e-89eb-e3cd183d39b9",
+                "direction": "backward",
+                "begin": "1965-02-18",
+                "end": "1965-02-18",
+                "ended": "true",
+                "recording": {
+                    "id": "735cb94c-9809-4c6e-89eb-e3cd183d39b9",
+                    "title": "Tell Me What You See",
+                    "length": "159706",
+                    "disambiguation": "1987 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db4233e7-cc97-4359-9420-13fab1b37344",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "db4233e7-cc97-4359-9420-13fab1b37344",
+                    "title": "Tell Me What You See",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96d6e1fa-30ba-4f2d-9cf9-2b2498e9de00",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "96d6e1fa-30ba-4f2d-9cf9-2b2498e9de00",
+                    "title": "Tell Me What You See",
+                    "length": "175066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6bda82b3-74df-40d1-8497-40d64b47c246",
+                "direction": "backward",
+                "recording": {
+                    "id": "6bda82b3-74df-40d1-8497-40d64b47c246",
+                    "title": "Tell Me What You See"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f314e04-b6a2-4659-a95f-e8bd2efda4dd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9f314e04-b6a2-4659-a95f-e8bd2efda4dd",
+                    "title": "Tell Me What You See",
+                    "length": "173440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ced8f8b7-acb6-4b3a-b02c-94aebae254af",
+                "direction": "backward",
+                "recording": {
+                    "id": "ced8f8b7-acb6-4b3a-b02c-94aebae254af",
+                    "title": "Tell Me What You See"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48eeba09-1b9a-41df-9b84-19989542eff8",
+                "direction": "backward",
+                "recording": {
+                    "id": "48eeba09-1b9a-41df-9b84-19989542eff8",
+                    "title": "Tell Me What You See",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28644463-aea6-400b-b286-2bf68f337d38",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "28644463-aea6-400b-b286-2bf68f337d38",
+                    "title": "Tell Me What You See",
+                    "length": "204133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2555b3ef-b608-4dfc-940f-a4e18ce78bfb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2555b3ef-b608-4dfc-940f-a4e18ce78bfb",
+                    "title": "Tell Me What You See",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbde3cab-67f4-46bd-bec9-c074dd192326",
+                "direction": "backward",
+                "recording": {
+                    "id": "bbde3cab-67f4-46bd-bec9-c074dd192326",
+                    "title": "Tell Me What You See",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f18f0f27-13a0-458f-bba5-37ba8fd91b56",
+                "direction": "backward",
+                "recording": {
+                    "id": "f18f0f27-13a0-458f-bba5-37ba8fd91b56",
+                    "title": "Tell Me What You See",
+                    "length": "159000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb697956-fe6e-4c4f-a035-84cd23e98e49",
+                "direction": "backward",
+                "recording": {
+                    "id": "bb697956-fe6e-4c4f-a035-84cd23e98e49",
+                    "title": "Tell Me What You See",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f5b3c69-2696-48d6-8096-603968d907c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f5b3c69-2696-48d6-8096-603968d907c1",
+                    "title": "Tell Me What You See",
+                    "length": "158613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "022d701b-0105-4b3c-8801-6f4dfa81fdd0",
+                "direction": "backward",
+                "recording": {
+                    "id": "022d701b-0105-4b3c-8801-6f4dfa81fdd0",
+                    "title": "Tell Me What You See",
+                    "length": "157106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f393ed7d-6236-4c91-b6fe-81da98bdf62c",
+                "direction": "backward",
+                "recording": {
+                    "id": "f393ed7d-6236-4c91-b6fe-81da98bdf62c",
+                    "title": "Tell Me What You See",
+                    "length": "158426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29b1460a-e846-49a3-b7d8-b69d9cce1931",
+                "direction": "backward",
+                "recording": {
+                    "id": "29b1460a-e846-49a3-b7d8-b69d9cce1931",
+                    "title": "Tell Me What You See",
+                    "length": "158293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a6ab71d-a1ea-4fb3-ab88-eebd578f9b16",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a6ab71d-a1ea-4fb3-ab88-eebd578f9b16",
+                    "title": "Tell Me What You See",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b504292b-9e22-44b1-b3e1-019c8d577bc8",
+                "direction": "backward",
+                "recording": {
+                    "id": "b504292b-9e22-44b1-b3e1-019c8d577bc8",
+                    "title": "Tell Me What You See (Mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83820309-a9e1-4343-bc62-9371b7333167",
+                "direction": "backward",
+                "recording": {
+                    "id": "83820309-a9e1-4343-bc62-9371b7333167",
+                    "title": "Tell Me What You See (RM1 Take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0e9e5b1-00c3-47eb-b37f-c8e6a9220d1f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c0e9e5b1-00c3-47eb-b37f-c8e6a9220d1f",
+                    "title": "Tell Me What You See (RS1 Take 4)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100353",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/32985",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=5444",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2194424",
+                "direction": "backward"
+            }
+        ]
+    }
+}

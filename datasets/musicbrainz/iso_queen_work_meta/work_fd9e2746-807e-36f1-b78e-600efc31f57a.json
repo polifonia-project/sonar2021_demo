@@ -1,0 +1,2981 @@
+{
+    "work": {
+        "id": "fd9e2746-807e-36f1-b78e-600efc31f57a",
+        "type": "Song",
+        "title": "Who Wants to Live Forever?",
+        "language": "eng",
+        "iswc": "T-010.148.898-5",
+        "iswc-list": [
+            "T-010.148.898-5"
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Who Wants to Live Forever",
+                "alias": "Who Wants to Live Forever"
+            },
+            {
+                "sort-name": "Who Wants to Live Forever (Sixtysix radio mix)",
+                "alias": "Who Wants to Live Forever (Sixtysix radio mix)"
+            },
+            {
+                "sort-name": "Who Wants to Live Forever (South Bound mix)",
+                "alias": "Who Wants to Live Forever (South Bound mix)"
+            }
+        ],
+        "alias-count": 3,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "443f2489-7e9f-42cb-9e55-6c9d275bd235",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "443f2489-7e9f-42cb-9e55-6c9d275bd235",
+                    "title": "Who Wants to Live Forever",
+                    "length": "240000",
+                    "disambiguation": "live, 1985-05-11: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "662057b3-5345-4ad3-b0e8-9d7e7956aa0c",
+                "direction": "backward",
+                "begin": "1985-09",
+                "end": "1986-04",
+                "ended": "true",
+                "recording": {
+                    "id": "662057b3-5345-4ad3-b0e8-9d7e7956aa0c",
+                    "title": "Who Wants to Live Forever",
+                    "length": "297000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "260186be-9ad3-40bb-9836-ff03496ef8df",
+                "direction": "backward",
+                "begin": "1986-06-21",
+                "end": "1986-06-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "260186be-9ad3-40bb-9836-ff03496ef8df",
+                    "title": "Who Wants to Live Forever?",
+                    "length": "283000",
+                    "disambiguation": "live, 1986-06-21: Reigns the World: Maimarktgel\u00e4nde, Mannheim, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55ac21b9-f964-49a3-a0a9-4ccfeab18872",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "55ac21b9-f964-49a3-a0a9-4ccfeab18872",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3692940-db05-4967-bd33-62eb7e7d5e0b",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a3692940-db05-4967-bd33-62eb7e7d5e0b",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b6fd992-2102-4b26-836e-c76ec9caeea5",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3b6fd992-2102-4b26-836e-c76ec9caeea5",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc4e3b18-adfa-460d-b8a4-3497d97424bc",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dc4e3b18-adfa-460d-b8a4-3497d97424bc",
+                    "title": "Who Wants to Live Forever",
+                    "length": "247560",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1222fbf3-bafc-44f4-8965-1d526a354e8f",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1222fbf3-bafc-44f4-8965-1d526a354e8f",
+                    "title": "Who Wants to Live Forever",
+                    "length": "316173",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4d0ccd3-7110-4b31-bacf-13a9ebc726fe",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e4d0ccd3-7110-4b31-bacf-13a9ebc726fe",
+                    "title": "Who Wants to Live Forever",
+                    "length": "239000",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8ceb0e4-27c0-4d18-9ad6-2bb045d66492",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b8ceb0e4-27c0-4d18-9ad6-2bb045d66492",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adc1f066-09e2-42ac-a3aa-cd5c69f73bf3",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "adc1f066-09e2-42ac-a3aa-cd5c69f73bf3",
+                    "title": "Who Wants to Live Forever",
+                    "length": "238080",
+                    "disambiguation": "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7634278-9e56-4dc6-974c-4e31bd08ad20",
+                "direction": "backward",
+                "begin": "1986-09-16",
+                "end": "1986-09-16",
+                "ended": "true",
+                "recording": {
+                    "id": "d7634278-9e56-4dc6-974c-4e31bd08ad20",
+                    "title": "Who Wants to Live Forever",
+                    "length": "240000",
+                    "disambiguation": "title has Highlander image but there are no film clips",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7c59865-6ece-4998-bf45-d84c02205871",
+                "direction": "backward",
+                "begin": "1989-06",
+                "end": "1989-06",
+                "ended": "true",
+                "recording": {
+                    "id": "b7c59865-6ece-4998-bf45-d84c02205871",
+                    "title": "Who Wants to Live Forever (extended version)",
+                    "length": "251000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5126a9bf-b41e-403a-8c3f-1039fc7aff6c",
+                "direction": "backward",
+                "begin": "1989-06",
+                "end": "1989-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5126a9bf-b41e-403a-8c3f-1039fc7aff6c",
+                    "title": "Who Wants to Live Forever (instrumental version)",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3af737c-31e8-4461-bd86-fc8c9242f10e",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b3af737c-31e8-4461-bd86-fc8c9242f10e",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8861b41-f518-48f6-87c3-8c88592cf0ff",
+                "direction": "backward",
+                "begin": "1992-04-20",
+                "end": "1992-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a8861b41-f518-48f6-87c3-8c88592cf0ff",
+                    "title": "Who Wants to Live Forever",
+                    "length": "250000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "553edfee-5031-4d3d-980d-68a999451e56",
+                "direction": "backward",
+                "begin": "1994-09-13",
+                "end": "1994-09-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "553edfee-5031-4d3d-980d-68a999451e56",
+                    "title": "Who Wants to Live Forever",
+                    "length": "249000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b66651a-9a5c-4bf8-84d6-eec2db0b59f4",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9b66651a-9a5c-4bf8-84d6-eec2db0b59f4",
+                    "title": "Who Wants to Live Forever",
+                    "length": "258000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a27a7a0b-9257-4777-a5b1-c3667d34c819",
+                "direction": "backward",
+                "begin": "2005",
+                "end": "2005",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a27a7a0b-9257-4777-a5b1-c3667d34c819",
+                    "title": "Who Wants to Live Forever",
+                    "length": "310000",
+                    "disambiguation": "We Will Rock You, 2005 K\u00f6ln cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9170123f-6d75-4cb5-acdc-b6bba028762d",
+                "direction": "backward",
+                "begin": "2006-12-09",
+                "end": "2006-12-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9170123f-6d75-4cb5-acdc-b6bba028762d",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 2006-12-09: Walter-K\u00f6bel-Halle R\u00fcsselsheim, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64e0af3b-f4e8-4f15-a228-015b78cb23fb",
+                "direction": "backward",
+                "begin": "2006-12",
+                "end": "2006-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "64e0af3b-f4e8-4f15-a228-015b78cb23fb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "280000",
+                    "disambiguation": "live, 2006-12: Cafe Hahn, Koblenz, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b616eefe-bbf9-44bc-8537-aead5c22fd42",
+                "direction": "backward",
+                "begin": "2007-04-14",
+                "end": "2007-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b616eefe-bbf9-44bc-8537-aead5c22fd42",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 2007-04-14: H\u00fcckeswagen, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30f4624b-c808-494b-be19-9798175629ae",
+                "direction": "backward",
+                "begin": "2011-10-08",
+                "end": "2011-10-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "30f4624b-c808-494b-be19-9798175629ae",
+                    "title": "Who Wants to Live Forever (X Factor performance)",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe4795ba-66ba-40b7-aca2-c1c0ef000b29",
+                "direction": "backward",
+                "begin": "2014-12-25",
+                "end": "2014-12-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fe4795ba-66ba-40b7-aca2-c1c0ef000b29",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 2014-12-24: Velodrom, Berlin, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c65b314f-a57d-433c-a34c-32f847806bfb",
+                "direction": "backward",
+                "begin": "2016-06-12",
+                "end": "2016-06-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c65b314f-a57d-433c-a34c-32f847806bfb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "280504",
+                    "disambiguation": "live, 2016: Isle of Wight Festival, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5b9f1ff-fba5-4f6a-b746-0772ae4cbc4c",
+                "direction": "backward",
+                "begin": "2019-09-28",
+                "end": "2019-09-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b5b9f1ff-fba5-4f6a-b746-0772ae4cbc4c",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live, 2019-09-28: Great Lawn, Central Park, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c18c4faa-bc77-4fd4-98a3-a5a553bb48d7",
+                "direction": "backward",
+                "recording": {
+                    "id": "c18c4faa-bc77-4fd4-98a3-a5a553bb48d7",
+                    "title": "Forever [piano version]",
+                    "length": "198000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a4d2fc3-1d6d-408c-abe2-75a749378b31",
+                "direction": "backward",
+                "recording": {
+                    "id": "3a4d2fc3-1d6d-408c-abe2-75a749378b31",
+                    "title": "Heather Dies _ Who Wants to Live Forever?",
+                    "length": "315000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "faa6cf00-651b-4d4d-a84a-082fb6d71d19",
+                "direction": "backward",
+                "recording": {
+                    "id": "faa6cf00-651b-4d4d-a84a-082fb6d71d19",
+                    "title": "Heather Dies / Who Wants to Live Forever (alternate)",
+                    "length": "278346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cd32ad8-9198-462c-95f3-c13011376475",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3cd32ad8-9198-462c-95f3-c13011376475",
+                    "title": "Highlander, Part 10",
+                    "length": "495000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8bc857de-f5c8-4a65-b2c8-7a57fe084a68",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "8bc857de-f5c8-4a65-b2c8-7a57fe084a68",
+                    "title": "Highlander: 18. A Lifetime of Love",
+                    "length": "295000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bac4d261-3820-4dec-b954-15a0d88a433c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bac4d261-3820-4dec-b954-15a0d88a433c",
+                    "title": "Who Wants to Live Forever",
+                    "length": "287600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ee9a96e-9924-4262-b4ce-dc48c421b15c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5ee9a96e-9924-4262-b4ce-dc48c421b15c",
+                    "title": "Who Wants to Live Forever",
+                    "length": "258399"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11e16fe2-875b-4fc3-ba34-55973fdc60b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "11e16fe2-875b-4fc3-ba34-55973fdc60b1",
+                    "title": "Who Wants to Live Forever",
+                    "length": "241000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2aa2bb39-8bdb-4ca9-af9f-3678b04e921d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2aa2bb39-8bdb-4ca9-af9f-3678b04e921d",
+                    "title": "Who Wants to Live Forever"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "253ca767-d672-49ec-91b4-d75bc94ade0a",
+                "direction": "backward",
+                "recording": {
+                    "id": "253ca767-d672-49ec-91b4-d75bc94ade0a",
+                    "title": "Who Wants to Live Forever",
+                    "length": "248560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9849ef84-44ad-4388-a3d7-600add6c1a81",
+                "direction": "backward",
+                "recording": {
+                    "id": "9849ef84-44ad-4388-a3d7-600add6c1a81",
+                    "title": "Who Wants to Live Forever",
+                    "length": "317000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5dc17965-a918-4006-aefc-5d67079f3188",
+                "direction": "backward",
+                "recording": {
+                    "id": "5dc17965-a918-4006-aefc-5d67079f3188",
+                    "title": "Who Wants to Live Forever",
+                    "length": "294000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2dc0540f-0b45-4d5a-951b-f5a64da28d8f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2dc0540f-0b45-4d5a-951b-f5a64da28d8f",
+                    "title": "Who Wants to Live Forever",
+                    "length": "108947",
+                    "disambiguation": "part of \u201cSki Mix 5\u201d DJ\u2010mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efd8c2a7-f603-4dcb-bbe5-cbe8660c0247",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "efd8c2a7-f603-4dcb-bbe5-cbe8660c0247",
+                    "title": "Who Wants to Live Forever",
+                    "length": "235000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f864abe-4feb-430d-94d2-b978b21528ca",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5f864abe-4feb-430d-94d2-b978b21528ca",
+                    "title": "Who Wants to Live Forever",
+                    "length": "63000",
+                    "disambiguation": "part of \u201cMTV Presents Spring Mix \u201997\u201d DJ\u2010mix"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c11bd8a2-97b8-4c1e-9086-04e8060f1f1e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c11bd8a2-97b8-4c1e-9086-04e8060f1f1e",
+                    "title": "Who Wants to Live Forever",
+                    "length": "238000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8dc960db-d62b-4bce-9679-75f147aecd14",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8dc960db-d62b-4bce-9679-75f147aecd14",
+                    "title": "Who Wants to Live Forever",
+                    "length": "233413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6927ab04-64b5-4ff7-bb45-5a22fd8cef3d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6927ab04-64b5-4ff7-bb45-5a22fd8cef3d",
+                    "title": "Who Wants to Live Forever",
+                    "length": "333240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f10dcdcb-ddca-4624-ba0e-d4d1d7d6ff09",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f10dcdcb-ddca-4624-ba0e-d4d1d7d6ff09",
+                    "title": "Who Wants to Live Forever",
+                    "length": "236533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fca6f25f-a69b-48c9-97e4-c5a89afc1f0f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fca6f25f-a69b-48c9-97e4-c5a89afc1f0f",
+                    "title": "Who Wants to Live Forever",
+                    "length": "236000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dac36bce-2dec-4417-85c9-c9991eaa2c41",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dac36bce-2dec-4417-85c9-c9991eaa2c41",
+                    "title": "Who Wants to Live Forever",
+                    "length": "237426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb1b2d72-2723-4da2-b233-7b7971d68ce2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb1b2d72-2723-4da2-b233-7b7971d68ce2",
+                    "title": "Who Wants to Live Forever",
+                    "length": "239906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8f1c586-6ab2-4c43-9700-2115f1d18b7d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a8f1c586-6ab2-4c43-9700-2115f1d18b7d",
+                    "title": "Who Wants to Live Forever",
+                    "length": "236333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ed556dc-6d7f-4260-b315-46547a18037d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ed556dc-6d7f-4260-b315-46547a18037d",
+                    "title": "Who Wants to Live Forever",
+                    "length": "236893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b74e2368-650d-4df6-a2a8-ecc190be4a46",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b74e2368-650d-4df6-a2a8-ecc190be4a46",
+                    "title": "Who Wants to Live Forever",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dde51795-1b3d-436f-813f-4f298e0f1a60",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dde51795-1b3d-436f-813f-4f298e0f1a60",
+                    "title": "Who Wants to Live Forever",
+                    "length": "240000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a5fc1a1-21ad-40a0-aab6-b892d90dad96",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0a5fc1a1-21ad-40a0-aab6-b892d90dad96",
+                    "title": "Who Wants to Live Forever",
+                    "length": "235106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0852a51-6e8c-44ec-829e-eb263dae8d7b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a0852a51-6e8c-44ec-829e-eb263dae8d7b",
+                    "title": "Who Wants to Live Forever",
+                    "length": "239133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1744eefc-1181-4462-af5d-6e7621b76959",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1744eefc-1181-4462-af5d-6e7621b76959",
+                    "title": "Who Wants to Live Forever",
+                    "length": "233040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "217baaa9-def2-4e34-9d44-61959077768b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "217baaa9-def2-4e34-9d44-61959077768b",
+                    "title": "Who Wants to Live Forever",
+                    "length": "237973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a4bb2b7-4811-4172-b3ed-8121148bf004",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7a4bb2b7-4811-4172-b3ed-8121148bf004",
+                    "title": "Who Wants to Live Forever",
+                    "length": "233413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57376494-a30b-4979-85c0-54c1d592692b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "57376494-a30b-4979-85c0-54c1d592692b",
+                    "title": "Who Wants to Live Forever",
+                    "length": "238666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14d9a37e-4d03-46ef-a3e2-e64c1ab560fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "14d9a37e-4d03-46ef-a3e2-e64c1ab560fa",
+                    "title": "Who Wants to Live Forever",
+                    "length": "238227"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6eb0418-5b54-4b7b-9eff-de7e88220f06",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b6eb0418-5b54-4b7b-9eff-de7e88220f06",
+                    "title": "Who Wants to Live Forever",
+                    "length": "236160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bc1464f-8e03-4718-81a1-be2fb17b9741",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5bc1464f-8e03-4718-81a1-be2fb17b9741",
+                    "title": "Who Wants to Live Forever",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "360d451d-b2a8-4c45-97ba-8e440298661b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "360d451d-b2a8-4c45-97ba-8e440298661b",
+                    "title": "Who Wants to Live Forever",
+                    "length": "247000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9aa023dd-239b-4a87-808a-7f17debeecab",
+                "direction": "backward",
+                "recording": {
+                    "id": "9aa023dd-239b-4a87-808a-7f17debeecab",
+                    "title": "Who Wants to Live Forever",
+                    "length": "296000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f7fad60-a6c1-4185-ba2d-37d038f87551",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f7fad60-a6c1-4185-ba2d-37d038f87551",
+                    "title": "Who Wants to Live Forever",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc019b64-9229-4662-adf9-d2e41befab19",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bc019b64-9229-4662-adf9-d2e41befab19",
+                    "title": "Who Wants to Live Forever",
+                    "length": "230000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "304745d2-2ad5-43dd-abb4-db9fedb18be5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "304745d2-2ad5-43dd-abb4-db9fedb18be5",
+                    "title": "Who Wants to Live Forever",
+                    "length": "265946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "513a23ed-3f7a-4df5-a567-9850b2b079cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "513a23ed-3f7a-4df5-a567-9850b2b079cf",
+                    "title": "Who Wants to Live Forever",
+                    "length": "235000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a8a9bd5-ae19-41fb-8592-7d436a70efa8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7a8a9bd5-ae19-41fb-8592-7d436a70efa8",
+                    "title": "Who Wants to Live Forever",
+                    "length": "286226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32c27fe0-04a7-4d06-a752-3cf5403150a8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32c27fe0-04a7-4d06-a752-3cf5403150a8",
+                    "title": "Who Wants to Live Forever",
+                    "length": "282000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "160b9394-6ebc-46df-a60d-902714d3c7c5",
+                "direction": "backward",
+                "recording": {
+                    "id": "160b9394-6ebc-46df-a60d-902714d3c7c5",
+                    "title": "Who Wants to Live Forever",
+                    "length": "262240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c18cedc-5b34-41a8-b396-2c13a99846c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "8c18cedc-5b34-41a8-b396-2c13a99846c9",
+                    "title": "Who Wants to Live Forever",
+                    "length": "306893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb22ae11-814f-4869-90a9-7b7063c769f5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eb22ae11-814f-4869-90a9-7b7063c769f5",
+                    "title": "Who Wants to Live Forever",
+                    "length": "222000",
+                    "disambiguation": "live, 1992-04-20: Freddie Mercury Tribute Concert, Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02e72b8a-9ce9-4c8e-9664-a78c2edc6321",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "02e72b8a-9ce9-4c8e-9664-a78c2edc6321",
+                    "title": "Who Wants to Live Forever",
+                    "length": "244000",
+                    "disambiguation": "live, 1985: Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c735538b-3a1f-4c75-858d-f2762cd7c4f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "c735538b-3a1f-4c75-858d-f2762cd7c4f3",
+                    "title": "Who Wants to Live Forever"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87ae4b2b-74fd-4bea-b04f-3812cd8b2c45",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "87ae4b2b-74fd-4bea-b04f-3812cd8b2c45",
+                    "title": "Who Wants to Live Forever",
+                    "length": "239560",
+                    "disambiguation": "live, 1986-07-27: Nepstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "253a2272-2c3e-451f-8887-d48cf20b32cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "253a2272-2c3e-451f-8887-d48cf20b32cf",
+                    "title": "Who Wants to Live Forever",
+                    "length": "295000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "020ea93a-0ff6-4efb-b4b8-8316f46cdeb0",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "020ea93a-0ff6-4efb-b4b8-8316f46cdeb0",
+                    "title": "Who Wants to Live Forever",
+                    "length": "236840",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85e1236a-77ee-4f7e-9ba8-780c08ecb7ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "85e1236a-77ee-4f7e-9ba8-780c08ecb7ee",
+                    "title": "Who Wants to Live Forever",
+                    "length": "275000",
+                    "disambiguation": "live, 1992-04-20: Wembley Stadium, London, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ad13db6-7284-478e-9856-46f609cac140",
+                "direction": "backward",
+                "recording": {
+                    "id": "1ad13db6-7284-478e-9856-46f609cac140",
+                    "title": "Who Wants to Live Forever",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83fe67b3-8a2a-45f0-9eaa-e99ff7c15153",
+                "direction": "backward",
+                "recording": {
+                    "id": "83fe67b3-8a2a-45f0-9eaa-e99ff7c15153",
+                    "title": "Who Wants to Live Forever",
+                    "length": "295000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15e6b2ed-34c6-4a07-bc59-666d818eaf29",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "15e6b2ed-34c6-4a07-bc59-666d818eaf29",
+                    "title": "Who Wants to Live Forever",
+                    "length": "206240",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fa63dc6-74d0-4dee-b375-9c2af8ede30d",
+                "direction": "backward",
+                "recording": {
+                    "id": "2fa63dc6-74d0-4dee-b375-9c2af8ede30d",
+                    "title": "Who Wants to Live Forever",
+                    "length": "252000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dba392fe-486a-4d61-80c0-fac64f64dadb",
+                "direction": "backward",
+                "recording": {
+                    "id": "dba392fe-486a-4d61-80c0-fac64f64dadb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f07b02f-963a-4ea3-ba57-695135ce34a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f07b02f-963a-4ea3-ba57-695135ce34a7",
+                    "title": "Who Wants to Live Forever",
+                    "length": "249000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc038922-44e1-4a73-9473-6934fa60e8e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc038922-44e1-4a73-9473-6934fa60e8e0",
+                    "title": "Who Wants to Live Forever",
+                    "length": "295893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "964443e4-b98d-4347-a091-e0a7b513c470",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "964443e4-b98d-4347-a091-e0a7b513c470",
+                    "title": "Who Wants to Live Forever",
+                    "length": "383826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fcde88f-183d-4a5f-afd5-5ef24a8a119b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7fcde88f-183d-4a5f-afd5-5ef24a8a119b",
+                    "title": "Who Wants to Live Forever",
+                    "length": "234706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9cf524f-d707-4d26-977f-7cffc08939fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "b9cf524f-d707-4d26-977f-7cffc08939fb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "239066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07bedf64-65df-49fc-b83c-75050a0a2881",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "07bedf64-65df-49fc-b83c-75050a0a2881",
+                    "title": "Who Wants to Live Forever",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80c793a1-ce6b-411e-a1b9-3cb570914083",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "80c793a1-ce6b-411e-a1b9-3cb570914083",
+                    "title": "Who Wants to Live Forever",
+                    "length": "254160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b9f377e-8afd-4eb2-93dc-7792732d85eb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4b9f377e-8afd-4eb2-93dc-7792732d85eb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "221000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfc29de8-ceeb-4ab6-a9b2-16265387d8f5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dfc29de8-ceeb-4ab6-a9b2-16265387d8f5",
+                    "title": "Who Wants to Live Forever",
+                    "length": "283000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6b56981-c5c3-4c16-877c-4f58e2fd32f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b6b56981-c5c3-4c16-877c-4f58e2fd32f6",
+                    "title": "Who Wants to Live Forever",
+                    "length": "314000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbeacec5-1f4b-4385-b9f6-310f4689262d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bbeacec5-1f4b-4385-b9f6-310f4689262d",
+                    "title": "Who Wants to Live Forever",
+                    "length": "401400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10bd431c-b477-4524-86eb-a025e8b39567",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "10bd431c-b477-4524-86eb-a025e8b39567",
+                    "title": "Who Wants to Live Forever",
+                    "length": "298400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1bfa1a4d-217d-47f3-9724-ed6ae56bc3ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1bfa1a4d-217d-47f3-9724-ed6ae56bc3ff",
+                    "title": "Who Wants to Live Forever",
+                    "disambiguation": "live: Savoy Theatre, Helsinki, Finland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a181d02e-784c-493f-baf2-17109825eaec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a181d02e-784c-493f-baf2-17109825eaec",
+                    "title": "Who Wants to Live Forever",
+                    "length": "195840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24d3e702-46a7-4c06-b006-01bc822ab907",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "24d3e702-46a7-4c06-b006-01bc822ab907",
+                    "title": "Who Wants to Live Forever",
+                    "length": "151786"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0f95a15-390a-4b6a-91d5-a3effd6769b1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d0f95a15-390a-4b6a-91d5-a3effd6769b1",
+                    "title": "Who Wants to Live Forever",
+                    "length": "292000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66e14245-87e5-4939-b743-3cbe3c5f7f55",
+                "direction": "backward",
+                "recording": {
+                    "id": "66e14245-87e5-4939-b743-3cbe3c5f7f55",
+                    "title": "Who Wants to Live Forever",
+                    "length": "315000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a01dca75-01e1-43d9-be62-44de482d4b98",
+                "direction": "backward",
+                "recording": {
+                    "id": "a01dca75-01e1-43d9-be62-44de482d4b98",
+                    "title": "Who Wants to Live Forever",
+                    "length": "293066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db15160f-f795-4ca5-b902-c276a90ae2a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "db15160f-f795-4ca5-b902-c276a90ae2a3",
+                    "title": "Who Wants to Live Forever",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1697481-44cb-4257-8f99-86a56a82b033",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1697481-44cb-4257-8f99-86a56a82b033",
+                    "title": "Who Wants to Live Forever",
+                    "length": "273000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c200a73-b494-4413-ba7b-ccbe1c33afc7",
+                "direction": "backward",
+                "recording": {
+                    "id": "8c200a73-b494-4413-ba7b-ccbe1c33afc7",
+                    "title": "Who Wants to Live Forever",
+                    "length": "239440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a566fbad-9cbb-4769-9fc4-bafb286bf96e",
+                "direction": "backward",
+                "recording": {
+                    "id": "a566fbad-9cbb-4769-9fc4-bafb286bf96e",
+                    "title": "Who Wants to Live Forever",
+                    "length": "317066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dce35641-1dc2-4bac-9adb-5ad7f1666adb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "dce35641-1dc2-4bac-9adb-5ad7f1666adb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "326000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41d7ec3a-6d7f-4a4a-8568-b40cd55869fb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "41d7ec3a-6d7f-4a4a-8568-b40cd55869fb",
+                    "title": "Who Wants to Live Forever",
+                    "length": "285000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "faff30ed-3459-42ab-a057-cd561343aaf4",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "faff30ed-3459-42ab-a057-cd561343aaf4",
+                    "title": "Who Wants to Live Forever",
+                    "length": "240813",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8bd6b76-c5fc-4c75-89f4-a247a2e768fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c8bd6b76-c5fc-4c75-89f4-a247a2e768fa",
+                    "title": "Who Wants to Live Forever",
+                    "length": "309493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8542d136-9696-48a8-acc4-56137f3e4132",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8542d136-9696-48a8-acc4-56137f3e4132",
+                    "title": "Who Wants to Live Forever",
+                    "length": "382013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87f634ed-9fa2-4b5c-9a18-8a7ad059b993",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "87f634ed-9fa2-4b5c-9a18-8a7ad059b993",
+                    "title": "Who Wants to Live Forever",
+                    "length": "251000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26e62503-dd23-4706-937a-e25960bc76ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "26e62503-dd23-4706-937a-e25960bc76ee",
+                    "title": "Who Wants to Live Forever",
+                    "length": "194306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de9961c0-32de-4640-a13d-d9c5f04bc78d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "de9961c0-32de-4640-a13d-d9c5f04bc78d",
+                    "title": "Who Wants to Live Forever",
+                    "length": "192013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a0716ab-604f-42ac-9230-4ff8824c288e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3a0716ab-604f-42ac-9230-4ff8824c288e",
+                    "title": "Who Wants to Live Forever",
+                    "length": "282000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64acb360-4648-47ba-8a15-3be9615bab2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "64acb360-4648-47ba-8a15-3be9615bab2e",
+                    "title": "Who Wants to Live Forever",
+                    "length": "305000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "570765b0-84ff-4461-aa8d-970b03ad1278",
+                "direction": "backward",
+                "recording": {
+                    "id": "570765b0-84ff-4461-aa8d-970b03ad1278",
+                    "title": "Who Wants To Live Forever",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31e7cc0e-fda3-454b-bc56-09b9272812c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "31e7cc0e-fda3-454b-bc56-09b9272812c9",
+                    "title": "Who Wants To Live Forever",
+                    "length": "234666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93d3ae85-3fbb-4570-9107-2c05a041203d",
+                "direction": "backward",
+                "recording": {
+                    "id": "93d3ae85-3fbb-4570-9107-2c05a041203d",
+                    "title": "Who Wants to Live Forever (acoustic)",
+                    "length": "65880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e898e22-5c2f-4eaf-b1f5-264f3ffdbab8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3e898e22-5c2f-4eaf-b1f5-264f3ffdbab8",
+                    "title": "Who Wants to Live Forever (bonus)",
+                    "length": "257000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d893f48-8955-4a96-b2d0-843954462033",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d893f48-8955-4a96-b2d0-843954462033",
+                    "title": "Who Wants to Live Forever (demo #1)",
+                    "length": "38000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02fb9d6e-2fd8-43e3-99d4-7c2209e2c628",
+                "direction": "backward",
+                "recording": {
+                    "id": "02fb9d6e-2fd8-43e3-99d4-7c2209e2c628",
+                    "title": "Who Wants to Live Forever (demo #2)",
+                    "length": "305000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4103080-e773-4b56-b04e-9d9a1b1060cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4103080-e773-4b56-b04e-9d9a1b1060cb",
+                    "title": "Who Wants to Live Forever (demo)",
+                    "length": "197400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4dac522c-4003-41e8-aedb-a2abd3eaca90",
+                "direction": "backward",
+                "recording": {
+                    "id": "4dac522c-4003-41e8-aedb-a2abd3eaca90",
+                    "title": "Who Wants to Live Forever (demo)",
+                    "length": "222000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f315ff04-988a-4873-a58e-9e8a58c521e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "f315ff04-988a-4873-a58e-9e8a58c521e1",
+                    "title": "Who Wants to Live Forever (Freddie vocal version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6674be6-47b5-47af-97fc-1deec9f42986",
+                "direction": "backward",
+                "recording": {
+                    "id": "d6674be6-47b5-47af-97fc-1deec9f42986",
+                    "title": "Who Wants to Live Forever (Freddie vocal version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94666bd4-f427-4156-80d7-93396ef5fb03",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "94666bd4-f427-4156-80d7-93396ef5fb03",
+                    "title": "Who Wants to Live Forever (Future Breeze remix)",
+                    "length": "423640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5b5a2cd-28f6-454d-a693-2246ddc50369",
+                "direction": "backward",
+                "recording": {
+                    "id": "e5b5a2cd-28f6-454d-a693-2246ddc50369",
+                    "title": "Who Wants to Live Forever (Highlander alternative version)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af6b8387-7bf0-42bf-9b4c-de7537c81772",
+                "direction": "backward",
+                "recording": {
+                    "id": "af6b8387-7bf0-42bf-9b4c-de7537c81772",
+                    "title": "Who Wants to Live Forever (Ian & Belinda version)",
+                    "length": "233000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d814fb3d-2d3f-4b93-90fe-93a51cd403de",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d814fb3d-2d3f-4b93-90fe-93a51cd403de",
+                    "title": "Who Wants to Live Forever (instrumental)",
+                    "length": "119213"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8ce9b6f-7cda-478c-87fa-c9b3f1aca9db",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b8ce9b6f-7cda-478c-87fa-c9b3f1aca9db",
+                    "title": "Who Wants to Live Forever (instrumental)",
+                    "length": "289946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa0cfb3b-ab3d-4d4f-be89-d11f581797b3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fa0cfb3b-ab3d-4d4f-be89-d11f581797b3",
+                    "title": "Who Wants to Live Forever (Komakino remix cut)",
+                    "length": "281000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87818165-43ea-40a2-8cf7-86820c2d99a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "87818165-43ea-40a2-8cf7-86820c2d99a1",
+                    "title": "Who Wants to Live Forever (Komakino remix)",
+                    "length": "331706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43357ffd-e712-45a0-afcc-e10987d4c5b7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "43357ffd-e712-45a0-afcc-e10987d4c5b7",
+                    "title": "Who Wants to Live Forever (live)",
+                    "length": "280053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8c5d7cd-8e40-4565-bbf9-abb0bb9ebe0c",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8c5d7cd-8e40-4565-bbf9-abb0bb9ebe0c",
+                    "title": "Who Wants to Live Forever (movie version)",
+                    "length": "249000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d73b1615-cb0f-4a74-9dfe-59465d0804ce",
+                "direction": "backward",
+                "recording": {
+                    "id": "d73b1615-cb0f-4a74-9dfe-59465d0804ce",
+                    "title": "Who Wants to Live Forever (original demo)",
+                    "length": "218000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad2b5d2c-938c-42dd-87c8-60087f427bfc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ad2b5d2c-938c-42dd-87c8-60087f427bfc",
+                    "title": "Who Wants to Live Forever (radio edit)",
+                    "length": "236440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20d9e747-cdfe-4c6b-9a9d-6e90fd2d7642",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "20d9e747-cdfe-4c6b-9a9d-6e90fd2d7642",
+                    "title": "Who Wants to Live Forever (Sixtysix radio mix)",
+                    "length": "236066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abe79610-dade-4605-8f5b-44620c8f5968",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "abe79610-dade-4605-8f5b-44620c8f5968",
+                    "title": "Who Wants to Live Forever (Sixtysix radio mix)",
+                    "length": "236066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a97b4ef7-60f5-40b9-b3fd-27f046e14686",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a97b4ef7-60f5-40b9-b3fd-27f046e14686",
+                    "title": "Who Wants to Live Forever (South Bound mix)",
+                    "length": "239306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76a08b96-6014-4905-b74d-1793ff4f4c4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "76a08b96-6014-4905-b74d-1793ff4f4c4a",
+                    "title": "Who Wants to Live Forever (South Bound mix)",
+                    "length": "237000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9c26925-f7b5-48ad-8f82-198a92082421",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c9c26925-f7b5-48ad-8f82-198a92082421",
+                    "title": "Who Wants to Live Forever (South Bound mix)",
+                    "length": "240000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfae85df-3cb0-40cf-b55f-ba74024e2977",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dfae85df-3cb0-40cf-b55f-ba74024e2977",
+                    "title": "Who Wants to Live Forever (South Bound mix)",
+                    "length": "240000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a57a067-5b8d-4eff-9eb6-78aab7961d3b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0a57a067-5b8d-4eff-9eb6-78aab7961d3b",
+                    "title": "Who Wants to Live Forever (Southbound mix)",
+                    "length": "238800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6524d6c-2fd8-4214-ad71-2b5e7b7d7e55",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6524d6c-2fd8-4214-ad71-2b5e7b7d7e55",
+                    "title": "Who Wants to Live Forever (with commentary)",
+                    "length": "139280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b492150-8aef-4b61-b158-c44fa9745ec4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4b492150-8aef-4b61-b158-c44fa9745ec4",
+                    "title": "Who Wants to Live Forever?",
+                    "length": "249506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97d3cc0f-6bcc-41b4-9ae5-5eaaf4f509ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "97d3cc0f-6bcc-41b4-9ae5-5eaaf4f509ac",
+                    "title": "Who Wants to Live Forever?",
+                    "length": "255560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "975e8107-4d26-4b87-ba4a-a9c15a0632ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "975e8107-4d26-4b87-ba4a-a9c15a0632ab",
+                    "title": "Who Wants to Live Forever?",
+                    "length": "257000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4221013c-49fd-4adc-a1f7-e07be8b61621",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4221013c-49fd-4adc-a1f7-e07be8b61621",
+                    "title": "Who Wants to Live Forever?",
+                    "length": "248640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c8bd899-79ba-4d86-84d0-0557a037f807",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c8bd899-79ba-4d86-84d0-0557a037f807",
+                    "title": "Who Wants to Live Forever?",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/12416157",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/2064",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q222586",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "48d012fa-3ae1-48a4-8879-c02a66eec2f0",
+                "direction": "forward",
+                "work": {
+                    "id": "48d012fa-3ae1-48a4-8879-c02a66eec2f0",
+                    "title": "The Queen Symphony: V. Andante doloroso - Allegretto - Alla marcia - Moderato risoluto - Pastorale - Maestoso"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "248c35de-6976-4e11-8330-ec6830775a0d",
+                "direction": "forward",
+                "work": {
+                    "id": "248c35de-6976-4e11-8330-ec6830775a0d",
+                    "title": "The Queen Symphony: VI. Andante sostenuto"
+                }
+            },
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "e6d76d05-a214-41f3-a8b6-27dcf1d6af54",
+                "direction": "forward",
+                "work": {
+                    "id": "e6d76d05-a214-41f3-a8b6-27dcf1d6af54",
+                    "title": "The Queen Symphony: III. Adagio"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "50a83267-3526-4a94-8cf1-06f79ec92ab7",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "50a83267-3526-4a94-8cf1-06f79ec92ab7",
+                    "type": "Song",
+                    "title": "Por qui\u00e9n vivir por siempre",
+                    "language": "spa",
+                    "disambiguation": "\"Who Wants to Live Forever\""
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "8abbdd90-f205-4d11-bd8d-988594a6b6b7",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "8abbdd90-f205-4d11-bd8d-988594a6b6b7",
+                    "type": "Song",
+                    "title": "Nie\u015bmiertelni",
+                    "language": "pol",
+                    "iswc": "T-900.150.692-9",
+                    "iswc-list": [
+                        "T-900.150.692-9"
+                    ]
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                "direction": "backward",
+                "work": {
+                    "id": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "deu",
+                    "disambiguation": "German version of the Queen musical"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            }
+        ]
+    }
+}

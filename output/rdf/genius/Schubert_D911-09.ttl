@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-09.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-09> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-09.json> ;
+        xyz:lyrics    "In die tiefsten Felsengründe\nlockte mich ein Irrlicht hin;\nWie ich einen Ausgang finde,\nliegt nicht schwer mir in dem Sinn,\nliegt nicht schwer mir in dem Sinn. \n\nBin gewohnt das Irregehen,\n'sführt ja jeder Weg zum Ziel;\nunsre Freuden, unsre Leiden,\nalles eines Irrlichts Spiel,\nalles eines Irrlichts Spiel! \n\nDurch des Bergstroms trockne Rinnen\nwind ich ruhig mich hinab\njeder Strom wird's Meer gewinnen,\njedes Leiden auch sein Grab,\njeder Strom wird's Meer gewinnen,\njedes Leiden auch sein Grab." ;
+        xyz:title     "Schubert_D911-09" .

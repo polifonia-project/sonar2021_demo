@@ -1,0 +1,99 @@
+{
+    "work": {
+        "id": "0941488e-dcd1-3ec5-b5a8-e9e455340307",
+        "type": "Song",
+        "title": "One By One",
+        "language": "zxx",
+        "iswc": "T-070.939.726-1",
+        "iswc-list": [
+            "T-070.939.726-1"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "2379937f-6e0d-46a2-b8ff-633fafd72002",
+                "direction": "backward",
+                "artist": {
+                    "id": "2379937f-6e0d-46a2-b8ff-633fafd72002",
+                    "type": "Person",
+                    "name": "Wayne Shorter",
+                    "sort-name": "Shorter, Wayne",
+                    "disambiguation": "US jazz saxophonist and composer"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bdc8595-62e3-480f-8096-eb862cd6ba95",
+                "direction": "backward",
+                "begin": "1963-06-16",
+                "end": "1963-06-16",
+                "ended": "true",
+                "recording": {
+                    "id": "3bdc8595-62e3-480f-8096-eb862cd6ba95",
+                    "title": "One by One",
+                    "length": "379000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "225bbb76-fed1-459c-9d77-3a3028086126",
+                "direction": "backward",
+                "begin": "1988-03-10",
+                "end": "1988-03-10",
+                "ended": "true",
+                "recording": {
+                    "id": "225bbb76-fed1-459c-9d77-3a3028086126",
+                    "title": "One by One",
+                    "length": "409000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec97e8d6-1b8d-451b-9d1d-b811fe0bd68b",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec97e8d6-1b8d-451b-9d1d-b811fe0bd68b",
+                    "title": "One by One",
+                    "length": "283666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25e799e4-9cc7-48df-824c-490ad2d942f5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "25e799e4-9cc7-48df-824c-490ad2d942f5",
+                    "title": "One by One",
+                    "length": "330733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa4bc92a-3818-4c45-8342-d8cadfa253b2",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa4bc92a-3818-4c45-8342-d8cadfa253b2",
+                    "title": "One By One",
+                    "length": "382733"
+                }
+            }
+        ]
+    }
+}

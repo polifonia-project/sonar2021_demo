@@ -1,0 +1,1411 @@
+{
+    "work": {
+        "id": "24f15100-474f-3716-9ce9-6213e760dbde",
+        "type": "Song",
+        "title": "I\u2019m Looking Through You",
+        "language": "eng",
+        "iswc": "T-010.434.108-3",
+        "iswc-list": [
+            "T-010.434.108-3"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 216 47"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "32582"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12214335"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100166300"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "32.367"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357946"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357946"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "213317"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3323419"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009888052"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 545 365 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014463000"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "09196V"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634457-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "26026"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2449368"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617619"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000239098"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390206089"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00856061"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9335135"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243470"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "9763101"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6212229"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5020612"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "660452"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b48394e5-dbe0-48ea-a449-45f156d5505b",
+                "direction": "backward",
+                "begin": "1965-10-24",
+                "end": "1965-10-24",
+                "ended": "true",
+                "recording": {
+                    "id": "b48394e5-dbe0-48ea-a449-45f156d5505b",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "174000",
+                    "disambiguation": "first version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba25f491-aa84-42d3-81b2-73fd7febb058",
+                "direction": "backward",
+                "begin": "1965-10",
+                "end": "1965-10",
+                "ended": "true",
+                "recording": {
+                    "id": "ba25f491-aa84-42d3-81b2-73fd7febb058",
+                    "title": "I'm Looking Through You (take 1: 1965-10)",
+                    "length": "192240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f29d3c5c-536c-4e8e-8bab-8ccf784767fc",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-10",
+                "ended": "true",
+                "recording": {
+                    "id": "f29d3c5c-536c-4e8e-8bab-8ccf784767fc",
+                    "title": "I'm Looking Through You (1965-11-10: take 1)",
+                    "length": "189000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b53888f0-ca50-46d4-8442-384846847d5a",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-10",
+                "ended": "true",
+                "recording": {
+                    "id": "b53888f0-ca50-46d4-8442-384846847d5a",
+                    "title": "I'm Looking Through You (1965-11-10: take 4)",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18fb60df-c13c-4b6b-8f88-8bbdd6319054",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-10",
+                "ended": "true",
+                "recording": {
+                    "id": "18fb60df-c13c-4b6b-8f88-8bbdd6319054",
+                    "title": "I'm Looking Through You (1965-11-10) (take 4)",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f5b0006-1f0e-43bc-afc4-76d01e8b26ae",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "3f5b0006-1f0e-43bc-afc4-76d01e8b26ae",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "146386",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89bc3ed1-4f0e-428c-85ee-b87363b5bf20",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "89bc3ed1-4f0e-428c-85ee-b87363b5bf20",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "150000",
+                    "disambiguation": "original stereo studio mix; with false start"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69daec0d-976e-45f1-8be1-1bcc66ab6de4",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "69daec0d-976e-45f1-8be1-1bcc66ab6de4",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85becf82-9888-41fe-b1c7-e5c3bba04158",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "85becf82-9888-41fe-b1c7-e5c3bba04158",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "149000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7b56517-4357-44a9-a351-a387078e25d5",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "f7b56517-4357-44a9-a351-a387078e25d5",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "147000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e62cb7b-12aa-4077-893b-823a81deb3c2",
+                "direction": "backward",
+                "begin": "1965-11-10",
+                "end": "1965-11-11",
+                "ended": "true",
+                "recording": {
+                    "id": "7e62cb7b-12aa-4077-893b-823a81deb3c2",
+                    "title": "I\u2019m Looking Through You (stereo mix)",
+                    "length": "151560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5de608cd-c81c-4ee3-8e7a-3253f0a37943",
+                "direction": "backward",
+                "begin": "1995-11-30",
+                "end": "1995-11-30",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5de608cd-c81c-4ee3-8e7a-3253f0a37943",
+                    "title": "I\u2019m Looking Through You",
+                    "disambiguation": "live, 1995-11-30: The Variety Playhouse, Atlanta, GA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5134201a-945c-49bf-bcfa-6cba6f233042",
+                "direction": "backward",
+                "begin": "1995-12-01",
+                "end": "1995-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5134201a-945c-49bf-bcfa-6cba6f233042",
+                    "title": "I'm Looking Through You",
+                    "length": "182000",
+                    "disambiguation": "live, 1995-12-01: James K. Polk Theater, Nashville, TN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "273ebd15-e40e-4575-badd-cd68433f0906",
+                "direction": "backward",
+                "begin": "1995-12-01",
+                "end": "1995-12-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "273ebd15-e40e-4575-badd-cd68433f0906",
+                    "title": "I'm Looking Through You",
+                    "length": "186920",
+                    "disambiguation": "live, 1995-12-01: James K. Polk Theater, Nashville, TN, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5071f57-2d7e-461f-a22f-e68f8abe8d32",
+                "direction": "backward",
+                "begin": "1999-05-11",
+                "end": "1999-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d5071f57-2d7e-461f-a22f-e68f8abe8d32",
+                    "title": "I'm Looking Through You",
+                    "length": "156600",
+                    "disambiguation": "live, 1999-05-11: Kulturbolaget, Malm\u00f6, Sweden"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "873ee7d4-b389-4a25-b1e0-b2c5ff2cf893",
+                "direction": "backward",
+                "begin": "2005-05-26",
+                "end": "2005-05-26",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "873ee7d4-b389-4a25-b1e0-b2c5ff2cf893",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48a22274-b0ad-48f4-a2c7-9ba8a4385189",
+                "direction": "backward",
+                "begin": "2010-12-13",
+                "end": "2010-12-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "48a22274-b0ad-48f4-a2c7-9ba8a4385189",
+                    "title": "I'm Looking Through You",
+                    "length": "158000",
+                    "disambiguation": "live, 2010-12-13: Apollo Theater, New York, NY, US"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a10a46d6-fa7f-4a33-b6cd-daecea3c51a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a10a46d6-fa7f-4a33-b6cd-daecea3c51a0",
+                    "title": "I'm Looking Through You",
+                    "length": "143000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3cb6c7c-594f-40e3-a385-ad46778473dd",
+                "direction": "backward",
+                "recording": {
+                    "id": "a3cb6c7c-594f-40e3-a385-ad46778473dd",
+                    "title": "I'm Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5265e58-2d98-41fd-a9ce-47b9aec0fc69",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e5265e58-2d98-41fd-a9ce-47b9aec0fc69",
+                    "title": "I'm Looking Through You",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e24608ac-29de-4834-8cac-759799c420cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e24608ac-29de-4834-8cac-759799c420cc",
+                    "title": "I'm Looking Through You",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee7ee479-8f09-4372-9434-1543b0eaf400",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ee7ee479-8f09-4372-9434-1543b0eaf400",
+                    "title": "I'm Looking Through You",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bf0ad16-8eb1-4985-b3e6-026aa2707c91",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2bf0ad16-8eb1-4985-b3e6-026aa2707c91",
+                    "title": "I'm Looking Through You",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1feb768f-15fa-4d54-a52c-e4e5978c2fef",
+                "direction": "backward",
+                "recording": {
+                    "id": "1feb768f-15fa-4d54-a52c-e4e5978c2fef",
+                    "title": "I'm Looking Through You",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa1c9a7b-62ea-498c-8cdc-ff7faf26a18f",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa1c9a7b-62ea-498c-8cdc-ff7faf26a18f",
+                    "title": "I'm Looking Through You",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5dda174c-6d94-413d-af9c-7def3f04b423",
+                "direction": "backward",
+                "recording": {
+                    "id": "5dda174c-6d94-413d-af9c-7def3f04b423",
+                    "title": "I'm Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "669db95e-212f-4a9f-9128-e705948686e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "669db95e-212f-4a9f-9128-e705948686e6",
+                    "title": "I'm Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06fff297-0a5f-4eb5-91c7-29060391903c",
+                "direction": "backward",
+                "recording": {
+                    "id": "06fff297-0a5f-4eb5-91c7-29060391903c",
+                    "title": "I'm Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c784f4e-4c91-4309-b510-1b9aebfc533f",
+                "direction": "backward",
+                "recording": {
+                    "id": "2c784f4e-4c91-4309-b510-1b9aebfc533f",
+                    "title": "I'm Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad2eacc5-92cc-4cf7-bfbe-2f992f6fc901",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad2eacc5-92cc-4cf7-bfbe-2f992f6fc901",
+                    "title": "I'm Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d95dc21a-cd6e-4d08-b45b-dc3b77b56aaf",
+                "direction": "backward",
+                "recording": {
+                    "id": "d95dc21a-cd6e-4d08-b45b-dc3b77b56aaf",
+                    "title": "I'm Looking Through You",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e010d49a-f55b-4af8-abd2-28838e70a8e3",
+                "direction": "backward",
+                "recording": {
+                    "id": "e010d49a-f55b-4af8-abd2-28838e70a8e3",
+                    "title": "I'm Looking Through You",
+                    "length": "150533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9512350-e445-43f0-8840-ac9b4c170108",
+                "direction": "backward",
+                "recording": {
+                    "id": "b9512350-e445-43f0-8840-ac9b4c170108",
+                    "title": "I'm Looking Through You",
+                    "length": "190000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f096d7f-e523-4c5d-912e-152dedd6b50d",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f096d7f-e523-4c5d-912e-152dedd6b50d",
+                    "title": "I'm Looking Through You",
+                    "length": "150733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77bc0cf8-567b-43ac-9dae-da124bd8d14c",
+                "direction": "backward",
+                "recording": {
+                    "id": "77bc0cf8-567b-43ac-9dae-da124bd8d14c",
+                    "title": "I'm Looking Through You",
+                    "length": "53533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c404df2b-0a56-4bbc-a001-779736af9140",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c404df2b-0a56-4bbc-a001-779736af9140",
+                    "title": "I'm Looking Through You",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4259a160-6fab-4a3c-a12e-8b2d39521281",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4259a160-6fab-4a3c-a12e-8b2d39521281",
+                    "title": "I'm Looking Through You",
+                    "length": "286240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3a84624-c805-4159-9691-996d994234dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e3a84624-c805-4159-9691-996d994234dc",
+                    "title": "I'm Looking Through You",
+                    "length": "219800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8877d3d0-f295-44c4-bcdb-ecb29660af36",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8877d3d0-f295-44c4-bcdb-ecb29660af36",
+                    "title": "I'm Looking Through You",
+                    "length": "112000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0fe26491-dc75-4ca1-a358-bec62974ff8d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0fe26491-dc75-4ca1-a358-bec62974ff8d",
+                    "title": "I'm Looking Through You",
+                    "length": "191000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3c75e01-0fd4-498f-9529-2c6f71925a0e",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b3c75e01-0fd4-498f-9529-2c6f71925a0e",
+                    "title": "I'm Looking Through You (False Start) (stereo)",
+                    "length": "147986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96852310-8287-4132-b46a-6cdaf9e4cba7",
+                "direction": "backward",
+                "recording": {
+                    "id": "96852310-8287-4132-b46a-6cdaf9e4cba7",
+                    "title": "I'm Looking Through You (RM1 take 4)",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31912364-7e79-45a7-ba48-ac824e7d43b0",
+                "direction": "backward",
+                "recording": {
+                    "id": "31912364-7e79-45a7-ba48-ac824e7d43b0",
+                    "title": "I'm Looking Through You (RS1 take 4)",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35e79ac8-bea7-498c-ae95-7af9501ec665",
+                "direction": "backward",
+                "recording": {
+                    "id": "35e79ac8-bea7-498c-ae95-7af9501ec665",
+                    "title": "I'm Looking Through You (Take 1 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40568480-4227-438b-9acb-ca1d3740f5f1",
+                "direction": "backward",
+                "recording": {
+                    "id": "40568480-4227-438b-9acb-ca1d3740f5f1",
+                    "title": "I'm Looking Through You (take 1, RS '82, b)",
+                    "length": "178640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23016f7a-4f80-4882-90a5-d1a60796db03",
+                "direction": "backward",
+                "recording": {
+                    "id": "23016f7a-4f80-4882-90a5-d1a60796db03",
+                    "title": "I'm Looking Through You (take 1, RS '82)",
+                    "length": "194720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff36facd-445d-48ad-83f2-9470d98ea3e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff36facd-445d-48ad-83f2-9470d98ea3e9",
+                    "title": "I'm Looking Through You (take 1, RS '84)",
+                    "length": "175786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c04b5cfb-325d-4f9c-8bdf-d48b2492048d",
+                "direction": "backward",
+                "recording": {
+                    "id": "c04b5cfb-325d-4f9c-8bdf-d48b2492048d",
+                    "title": "I'm Looking Through You (take 1)",
+                    "length": "175373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3605ddd-e0e2-419b-a372-7d08a4f9e6d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "b3605ddd-e0e2-419b-a372-7d08a4f9e6d8",
+                    "title": "I'm Looking Through You (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8af34073-c879-4051-9add-a7172f4b0212",
+                "direction": "backward",
+                "recording": {
+                    "id": "8af34073-c879-4051-9add-a7172f4b0212",
+                    "title": "I'm Looking Through You (Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a28384b-8dd5-402f-b9f3-8850e8624017",
+                "direction": "backward",
+                "recording": {
+                    "id": "0a28384b-8dd5-402f-b9f3-8850e8624017",
+                    "title": "I'm Looking Through You (Take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2364b6ab-1dad-4f25-8221-8c38a81746ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "2364b6ab-1dad-4f25-8221-8c38a81746ac",
+                    "title": "I'm Looking Through You (Take 4 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfc3dcc4-485b-42ea-b0d3-25beb9d6f177",
+                "direction": "backward",
+                "recording": {
+                    "id": "cfc3dcc4-485b-42ea-b0d3-25beb9d6f177",
+                    "title": "I'm Looking Through You (take 4, RM1)",
+                    "length": "148866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f22ab08-02a9-451e-8301-3bc90484691b",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f22ab08-02a9-451e-8301-3bc90484691b",
+                    "title": "I'm Looking Through You (take 4, RS '82)",
+                    "length": "174720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72bed788-f131-4609-b9cf-fdc65e3c50e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "72bed788-f131-4609-b9cf-fdc65e3c50e5",
+                    "title": "I'm Looking Through You (take 4, RS1, U.S. edit)",
+                    "length": "147466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5589f1f-4fb2-4d61-8634-5b1858006ea0",
+                "direction": "backward",
+                "recording": {
+                    "id": "d5589f1f-4fb2-4d61-8634-5b1858006ea0",
+                    "title": "I'm Looking Through You (take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e16df464-77b0-49b3-87b4-f9c7d78859bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "e16df464-77b0-49b3-87b4-f9c7d78859bc",
+                    "title": "I'm Looking Through You (unedited RS2)",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3da1ca39-aeb0-4732-9ab3-c4ede55d6238",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3da1ca39-aeb0-4732-9ab3-c4ede55d6238",
+                    "title": "I'm Looking Thru' You",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e23c88f-0600-4c51-b96f-9a7ea05e4cce",
+                "direction": "backward",
+                "recording": {
+                    "id": "4e23c88f-0600-4c51-b96f-9a7ea05e4cce",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "193786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed0581c1-8b0c-45cc-a495-628088096839",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed0581c1-8b0c-45cc-a495-628088096839",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db274c10-09e1-4efb-88fd-e40b45e34bf3",
+                "direction": "backward",
+                "recording": {
+                    "id": "db274c10-09e1-4efb-88fd-e40b45e34bf3",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de57ea3b-4140-44b9-b32f-d170a3a75853",
+                "direction": "backward",
+                "recording": {
+                    "id": "de57ea3b-4140-44b9-b32f-d170a3a75853",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d57ec0ae-e831-4a77-bcd6-78db3b982209",
+                "direction": "backward",
+                "recording": {
+                    "id": "d57ec0ae-e831-4a77-bcd6-78db3b982209",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "718c2776-fbf3-4159-99f9-5b243c399b0e",
+                "direction": "backward",
+                "recording": {
+                    "id": "718c2776-fbf3-4159-99f9-5b243c399b0e",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22955e87-14b7-40e7-b8b3-4ad9a9319e79",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "22955e87-14b7-40e7-b8b3-4ad9a9319e79",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10e99eca-9de6-4465-9920-0807e0aa997e",
+                "direction": "backward",
+                "recording": {
+                    "id": "10e99eca-9de6-4465-9920-0807e0aa997e",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "21813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "695590d6-b9bc-4743-8847-a15443a8afe4",
+                "direction": "backward",
+                "recording": {
+                    "id": "695590d6-b9bc-4743-8847-a15443a8afe4",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "20066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75be15c4-13c0-4a2a-8c10-a200e2ca0e30",
+                "direction": "backward",
+                "recording": {
+                    "id": "75be15c4-13c0-4a2a-8c10-a200e2ca0e30",
+                    "title": "I\u2019m Looking Through You"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "822cf895-69f8-4d10-90b9-cbeb0d83db13",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "822cf895-69f8-4d10-90b9-cbeb0d83db13",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "148666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9525f936-12c8-4c6a-b032-563cf034f694",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9525f936-12c8-4c6a-b032-563cf034f694",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "159240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b373bed7-c5b1-4510-8b94-06345f32b399",
+                "direction": "backward",
+                "recording": {
+                    "id": "b373bed7-c5b1-4510-8b94-06345f32b399",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94c31030-e768-4e2d-bb96-d33a50692185",
+                "direction": "backward",
+                "recording": {
+                    "id": "94c31030-e768-4e2d-bb96-d33a50692185",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "146773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bc912d3-c26d-4182-ad09-f873ed03d41f",
+                "direction": "backward",
+                "recording": {
+                    "id": "4bc912d3-c26d-4182-ad09-f873ed03d41f",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "151000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "338f23ae-ded3-4c10-a3ec-e78c1cb9ea3c",
+                "direction": "backward",
+                "recording": {
+                    "id": "338f23ae-ded3-4c10-a3ec-e78c1cb9ea3c",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "156000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b82814bd-a12f-404f-a19f-0d04648b1a28",
+                "direction": "backward",
+                "recording": {
+                    "id": "b82814bd-a12f-404f-a19f-0d04648b1a28",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "190040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "674cde78-0f3f-4fb0-96f3-e9f329f73baa",
+                "direction": "backward",
+                "recording": {
+                    "id": "674cde78-0f3f-4fb0-96f3-e9f329f73baa",
+                    "title": "I\u2019m Looking Through You",
+                    "length": "148746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a29e37b-d443-492f-9885-57d07aed72bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a29e37b-d443-492f-9885-57d07aed72bc",
+                    "title": "I\u2019m Looking Through You (1982 stereo mix)",
+                    "length": "172854"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b13d730a-f8ed-4d88-b219-37c3ee91844c",
+                "direction": "backward",
+                "recording": {
+                    "id": "b13d730a-f8ed-4d88-b219-37c3ee91844c",
+                    "title": "I\u2019m Looking Through You (first version)",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7a49744-18a3-4116-8d6a-b243ffc12d3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7a49744-18a3-4116-8d6a-b243ffc12d3e",
+                    "title": "I\u2019m Looking Through You (take 1)",
+                    "length": "189227"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b44ce9d9-3ead-4231-811c-dc357929606e",
+                "direction": "backward",
+                "recording": {
+                    "id": "b44ce9d9-3ead-4231-811c-dc357929606e",
+                    "title": "I\u2019m Looking Through You (take 1)",
+                    "length": "188600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bee5cbbc-530f-43a0-a9dd-4447b09deb57",
+                "direction": "backward",
+                "recording": {
+                    "id": "bee5cbbc-530f-43a0-a9dd-4447b09deb57",
+                    "title": "I\u2019m Looking Through You (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebdc15a0-65eb-4439-ad07-4ab98f84c983",
+                "direction": "backward",
+                "recording": {
+                    "id": "ebdc15a0-65eb-4439-ad07-4ab98f84c983",
+                    "title": "I\u2019m Looking Through You (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30c7ce12-b729-4603-9ef9-f7137d8a1fc8",
+                "direction": "backward",
+                "recording": {
+                    "id": "30c7ce12-b729-4603-9ef9-f7137d8a1fc8",
+                    "title": "I\u2019m Looking Through You (take 1)",
+                    "length": "191666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "485aa819-e93e-48f3-81b2-ece68c709303",
+                "direction": "backward",
+                "recording": {
+                    "id": "485aa819-e93e-48f3-81b2-ece68c709303",
+                    "title": "I\u2019m Looking Through You (take 2)",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d1d5d9b-4454-48ce-8c5b-56314afc9dd2",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d1d5d9b-4454-48ce-8c5b-56314afc9dd2",
+                    "title": "I\u2019m Looking Through You (take four, no fade)",
+                    "length": "169360"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-im-looking-through-you-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/3160",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=94",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2445861",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "c8660a85-95de-365d-9de3-76b4b4ffcfca",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "c8660a85-95de-365d-9de3-76b4b4ffcfca",
+                    "title": "Je lis dans tes yeux (I'm Looking Through You)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

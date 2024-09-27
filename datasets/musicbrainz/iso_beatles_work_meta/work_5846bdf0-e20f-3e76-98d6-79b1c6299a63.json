@@ -1,0 +1,1341 @@
+{
+    "work": {
+        "id": "5846bdf0-e20f-3e76-98d6-79b1c6299a63",
+        "type": "Song",
+        "title": "Good Morning Good Morning",
+        "language": "eng",
+        "iswc": "T-010.434.215-5",
+        "iswc-list": [
+            "T-010.434.215-5"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000078 586 64"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "32605"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12161728"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78200226100"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "64.057"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357931"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357931"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "215996"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3968049"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009958941"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "63 839 490 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001114800"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "10133K"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0G0-0930-5"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633847-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "20265"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617893"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965904"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000237345"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "370086283"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00714243"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9348514"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243537"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "11884401"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6281688"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "495252"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a028d63b-de50-4174-b084-b8e2297b61cf",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-02-08",
+                "ended": "true",
+                "recording": {
+                    "id": "a028d63b-de50-4174-b084-b8e2297b61cf",
+                    "title": "Good Morning Good Morning (take 1 \u2013 instrumental, breakdown)",
+                    "length": "64426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8a57de8-e598-44b6-9a59-13db65a87439",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-02-16",
+                "ended": "true",
+                "recording": {
+                    "id": "b8a57de8-e598-44b6-9a59-13db65a87439",
+                    "title": "Good Morning Good Morning",
+                    "length": "160066",
+                    "disambiguation": "take 8"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca332845-e989-4a7a-a04d-1d803b94d34c",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-03-28",
+                "ended": "true",
+                "recording": {
+                    "id": "ca332845-e989-4a7a-a04d-1d803b94d34c",
+                    "title": "Good Morning Good Morning",
+                    "length": "161227",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d963999-a0af-431a-940c-0b24712df1aa",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-03-28",
+                "ended": "true",
+                "recording": {
+                    "id": "8d963999-a0af-431a-940c-0b24712df1aa",
+                    "title": "Good Morning Good Morning",
+                    "length": "163000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f27d692-6180-4d9b-acb3-4fcb205d3fbf",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-03-29",
+                "ended": "true",
+                "recording": {
+                    "id": "8f27d692-6180-4d9b-acb3-4fcb205d3fbf",
+                    "title": "Good Morning Good Morning",
+                    "length": "154200",
+                    "disambiguation": "mono"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9dab59f3-64f0-42f0-9f92-b9bc266290d1",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-03-29",
+                "ended": "true",
+                "recording": {
+                    "id": "9dab59f3-64f0-42f0-9f92-b9bc266290d1",
+                    "title": "Good Morning Good Morning",
+                    "length": "154000",
+                    "disambiguation": "5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58b9c704-7855-47d5-9925-ca0e091acf80",
+                "direction": "backward",
+                "begin": "1967-02-08",
+                "end": "1967-03-29",
+                "ended": "true",
+                "recording": {
+                    "id": "58b9c704-7855-47d5-9925-ca0e091acf80",
+                    "title": "Good Morning Good Morning",
+                    "length": "154466",
+                    "disambiguation": "2017 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6dfe7b4-9af9-489a-8020-2d4b9c861736",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "recording": {
+                    "id": "a6dfe7b4-9af9-489a-8020-2d4b9c861736",
+                    "title": "Good Morning, Good Morning (Home Demo January 1967)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adf98759-8d0b-43f9-bb61-0b73bb34395f",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "recording": {
+                    "id": "adf98759-8d0b-43f9-bb61-0b73bb34395f",
+                    "title": "Good Morning, Good Morning (original demo 1967)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36461175-97c4-46e3-97c9-572c37a6d2f3",
+                "direction": "backward",
+                "begin": "2007-02-03",
+                "end": "2007-02-03",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "36461175-97c4-46e3-97c9-572c37a6d2f3",
+                    "title": "Good Morning Good Morning",
+                    "length": "156586",
+                    "disambiguation": "live, 2007-02-03: Center Parcs, Port Zelande, Ouddorp, Zuid-Holland, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a43b357-29bc-4992-b449-112bb746b00a",
+                "direction": "backward",
+                "begin": "2007-02-03",
+                "end": "2007-02-03",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5a43b357-29bc-4992-b449-112bb746b00a",
+                    "title": "Good Morning Good Morning",
+                    "disambiguation": "live, 2007-02-03: Center Parcs, Port Zelande, Ouddorp, Zuid-Holland, Netherlands",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60ffeda5-7d5f-448c-96cf-2a081b2b8182",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "60ffeda5-7d5f-448c-96cf-2a081b2b8182",
+                    "title": "Good Morning Good Morning",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a052b1c-ef01-4a60-b156-529bd89e03ca",
+                "direction": "backward",
+                "begin": "2016-10",
+                "end": "2016-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2a052b1c-ef01-4a60-b156-529bd89e03ca",
+                    "title": "Good Morning Good Morning",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1903d967-72c6-40cd-9f66-f452ec8003ed",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1903d967-72c6-40cd-9f66-f452ec8003ed",
+                    "title": "Good Morning Good Morning",
+                    "length": "169000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "feda57f4-2429-43e2-91ae-34b71f671057",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "feda57f4-2429-43e2-91ae-34b71f671057",
+                    "title": "Good Morning Good Morning",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3549e56d-3a48-4e11-b0c9-e1270757bcea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3549e56d-3a48-4e11-b0c9-e1270757bcea",
+                    "title": "Good Morning Good Morning",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70ca5358-a613-4320-a722-c958ca646a8a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "70ca5358-a613-4320-a722-c958ca646a8a",
+                    "title": "Good Morning Good Morning",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1dae148-3ccc-4ec8-8b10-31e44fa710f3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c1dae148-3ccc-4ec8-8b10-31e44fa710f3",
+                    "title": "Good Morning Good Morning"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65d38540-6910-4626-a855-5b910af8866d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "65d38540-6910-4626-a855-5b910af8866d",
+                    "title": "Good Morning Good Morning",
+                    "length": "149186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3109886d-4021-4f73-aba2-655ce3045247",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3109886d-4021-4f73-aba2-655ce3045247",
+                    "title": "Good Morning Good Morning",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "918d43cd-da73-4e04-806d-068dd8ed3304",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "918d43cd-da73-4e04-806d-068dd8ed3304",
+                    "title": "Good Morning Good Morning",
+                    "length": "157200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7b262e9-4d98-417b-b4e6-c94d99433694",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d7b262e9-4d98-417b-b4e6-c94d99433694",
+                    "title": "Good Morning Good Morning",
+                    "length": "167866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a94c6d81-1ae3-48eb-9ea2-0ad36389351d",
+                "direction": "backward",
+                "recording": {
+                    "id": "a94c6d81-1ae3-48eb-9ea2-0ad36389351d",
+                    "title": "Good Morning Good Morning",
+                    "length": "63000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8d0879d-90c3-438c-8455-00fea30bf544",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8d0879d-90c3-438c-8455-00fea30bf544",
+                    "title": "Good Morning Good Morning",
+                    "length": "161600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e83915a4-d290-4132-846c-d676af8250c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e83915a4-d290-4132-846c-d676af8250c7",
+                    "title": "Good Morning Good Morning",
+                    "length": "288000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65d05b85-da25-4577-a933-5479e5b31774",
+                "direction": "backward",
+                "recording": {
+                    "id": "65d05b85-da25-4577-a933-5479e5b31774",
+                    "title": "Good Morning Good Morning",
+                    "length": "66000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da5a94cf-58e7-462f-bd72-1c0299e39fa5",
+                "direction": "backward",
+                "recording": {
+                    "id": "da5a94cf-58e7-462f-bd72-1c0299e39fa5",
+                    "title": "Good Morning Good Morning",
+                    "length": "162000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a030c362-82ce-49c7-858f-c991f41d92a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "a030c362-82ce-49c7-858f-c991f41d92a5",
+                    "title": "Good Morning Good Morning",
+                    "length": "63000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c63e898-3e71-4e05-bdbc-f44b4f01b299",
+                "direction": "backward",
+                "recording": {
+                    "id": "2c63e898-3e71-4e05-bdbc-f44b4f01b299",
+                    "title": "Good Morning Good Morning"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a06e86dc-c843-4623-b3ac-f669c55d0a88",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a06e86dc-c843-4623-b3ac-f669c55d0a88",
+                    "title": "Good Morning Good Morning",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68b5377a-7de5-42bc-a5c4-09a36c44d6dd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "68b5377a-7de5-42bc-a5c4-09a36c44d6dd",
+                    "title": "Good Morning Good Morning",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05e98f51-39a3-4ff4-af1f-92447d693130",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "05e98f51-39a3-4ff4-af1f-92447d693130",
+                    "title": "Good Morning Good Morning",
+                    "length": "182373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58560af2-9127-4589-a0cd-cecad354e619",
+                "direction": "backward",
+                "recording": {
+                    "id": "58560af2-9127-4589-a0cd-cecad354e619",
+                    "title": "Good Morning Good Morning",
+                    "length": "214000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d3a2e71-4397-4f56-9f8c-992839f4b788",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0d3a2e71-4397-4f56-9f8c-992839f4b788",
+                    "title": "Good Morning Good Morning",
+                    "length": "323000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "acaf123f-64ac-4d8b-82c2-16def30d18ed",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "acaf123f-64ac-4d8b-82c2-16def30d18ed",
+                    "title": "Good Morning Good Morning",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b8a557c-1a3d-417d-b2b0-ab9055e0bc32",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9b8a557c-1a3d-417d-b2b0-ab9055e0bc32",
+                    "title": "Good Morning Good Morning",
+                    "length": "272373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b4b4807-c274-46f1-b269-fa831e60c043",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3b4b4807-c274-46f1-b269-fa831e60c043",
+                    "title": "Good Morning Good Morning",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48cf497b-2155-4f87-a844-72716f3d0961",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "48cf497b-2155-4f87-a844-72716f3d0961",
+                    "title": "Good Morning Good Morning",
+                    "length": "153066",
+                    "disambiguation": "live",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f097b07b-5221-469d-949e-5885621f3204",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f097b07b-5221-469d-949e-5885621f3204",
+                    "title": "Good Morning Good Morning",
+                    "length": "196627"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcd03142-0c66-48ed-bbcd-74a8fabab9f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "dcd03142-0c66-48ed-bbcd-74a8fabab9f9",
+                    "title": "Good Morning Good Morning",
+                    "length": "62066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cbee9d8-2758-43e9-b2ca-3c3ad9064bef",
+                "direction": "backward",
+                "recording": {
+                    "id": "9cbee9d8-2758-43e9-b2ca-3c3ad9064bef",
+                    "title": "Good Morning Good Morning",
+                    "length": "63440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11329fa1-c0bc-4eda-884b-2aea5b091401",
+                "direction": "backward",
+                "recording": {
+                    "id": "11329fa1-c0bc-4eda-884b-2aea5b091401",
+                    "title": "Good Morning Good Morning (alternate take)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30b32770-62e1-40ad-943a-c47684e4e0ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "30b32770-62e1-40ad-943a-c47684e4e0ae",
+                    "title": "Good Morning Good Morning (demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "636094b5-8ca2-49d0-81e5-ec589929da9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "636094b5-8ca2-49d0-81e5-ec589929da9c",
+                    "title": "Good Morning Good Morning (demo)",
+                    "length": "63160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2b1edf0-dd3f-47c5-a60d-fa909d40b780",
+                "direction": "backward",
+                "recording": {
+                    "id": "f2b1edf0-dd3f-47c5-a60d-fa909d40b780",
+                    "title": "Good Morning Good Morning (Home demo)",
+                    "length": "66333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e41e823-e836-49c8-b623-63df1ecb6a9d",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e41e823-e836-49c8-b623-63df1ecb6a9d",
+                    "title": "Good Morning Good Morning (RM2 take 11)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ab18fdf-6abe-4028-929d-e6d3137cfc4e",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ab18fdf-6abe-4028-929d-e6d3137cfc4e",
+                    "title": "Good Morning Good Morning (RS5 take 11)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0f6624f-61e1-42fa-b61b-4eb85b6dc7a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "b0f6624f-61e1-42fa-b61b-4eb85b6dc7a1",
+                    "title": "Good Morning Good Morning (Sound Effects)",
+                    "length": "95226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d7ec979-4012-4591-95d1-9dff682f625e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d7ec979-4012-4591-95d1-9dff682f625e",
+                    "title": "Good Morning Good Morning (take 8 - complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae00c5b1-6219-45ae-81ec-cc750e9b1b0b",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae00c5b1-6219-45ae-81ec-cc750e9b1b0b",
+                    "title": "Good Morning Good Morning (take 8, Rs 95)",
+                    "length": "161093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5532b16d-d7be-472e-8998-4c549d0ebf7c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5532b16d-d7be-472e-8998-4c549d0ebf7c",
+                    "title": "Good Morning Good Morning (take 8)",
+                    "length": "166640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3165b84-e710-412a-a1a6-3b654171aa95",
+                "direction": "backward",
+                "recording": {
+                    "id": "a3165b84-e710-412a-a1a6-3b654171aa95",
+                    "title": "Good Morning Good Morning (take 11 Rm 23)",
+                    "length": "155413"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8b20277-a386-46bf-9a4d-21ebf9b1e5d5",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8b20277-a386-46bf-9a4d-21ebf9b1e5d5",
+                    "title": "Good Morning Good Morning (take 11 With G. Martin)",
+                    "length": "37546"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c586ce26-0cde-4fe6-a534-583f54b2571c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c586ce26-0cde-4fe6-a534-583f54b2571c",
+                    "title": "Good Morning Good Morning (take 11)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7af4b20-58e5-4bb2-86aa-2af110a77fc0",
+                "direction": "backward",
+                "recording": {
+                    "id": "a7af4b20-58e5-4bb2-86aa-2af110a77fc0",
+                    "title": "Good Morning, Good Morning",
+                    "length": "66800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbafb483-f1b1-4851-b88b-6272fc652c56",
+                "direction": "backward",
+                "recording": {
+                    "id": "dbafb483-f1b1-4851-b88b-6272fc652c56",
+                    "title": "Good Morning, Good Morning",
+                    "length": "68160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11ba07ab-48e1-4f60-bfed-4bf305794ca0",
+                "direction": "backward",
+                "recording": {
+                    "id": "11ba07ab-48e1-4f60-bfed-4bf305794ca0",
+                    "title": "Good Morning, Good Morning",
+                    "length": "35773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4b90113-66ed-41ba-871f-9eb5525c7149",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "f4b90113-66ed-41ba-871f-9eb5525c7149",
+                    "title": "Good Morning, Good Morning",
+                    "length": "66693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ef4bb01-ab43-4fa6-b206-222242cd5113",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ef4bb01-ab43-4fa6-b206-222242cd5113",
+                    "title": "Good Morning, Good Morning",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d045e10-5392-47bb-b824-31e1526bcdac",
+                "direction": "backward",
+                "recording": {
+                    "id": "7d045e10-5392-47bb-b824-31e1526bcdac",
+                    "title": "Good Morning, Good Morning"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58ebffbd-bc77-40cd-af86-182a4b9f88b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "58ebffbd-bc77-40cd-af86-182a4b9f88b8",
+                    "title": "Good Morning, Good Morning",
+                    "length": "204493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "031f739f-f482-4c7f-8315-ca06853bb6c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "031f739f-f482-4c7f-8315-ca06853bb6c6",
+                    "title": "Good Morning, Good Morning"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adbbc3ee-378f-4691-b4b4-ac2ea0907bda",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "adbbc3ee-378f-4691-b4b4-ac2ea0907bda",
+                    "title": "Good Morning, Good Morning",
+                    "length": "180920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3e121ad-8471-408d-891f-3ec88c79b421",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3e121ad-8471-408d-891f-3ec88c79b421",
+                    "title": "Good Morning, Good Morning",
+                    "length": "62333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a1d24c5-42cf-4ae1-b049-1753a5f3e2cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a1d24c5-42cf-4ae1-b049-1753a5f3e2cc",
+                    "title": "Good Morning, Good Morning",
+                    "length": "197000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c19f5e0f-630c-44da-b432-db074bea8686",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c19f5e0f-630c-44da-b432-db074bea8686",
+                    "title": "Good Morning, Good Morning",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e8199b1-fa54-4dd7-9b3b-e0b80ec607f1",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e8199b1-fa54-4dd7-9b3b-e0b80ec607f1",
+                    "title": "Good Morning, Good Morning (demo version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ce7ddd0-5055-419e-a1bb-6b24f79a694f",
+                "direction": "backward",
+                "recording": {
+                    "id": "9ce7ddd0-5055-419e-a1bb-6b24f79a694f",
+                    "title": "Good Morning, Good Morning (home demo)",
+                    "length": "67853"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed81316a-d12f-400d-97f5-1f084773aeeb",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed81316a-d12f-400d-97f5-1f084773aeeb",
+                    "title": "Good Morning, Good Morning (mono version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6bbe431d-ffa8-4259-8d1f-1e9e1e3474f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "6bbe431d-ffa8-4259-8d1f-1e9e1e3474f9",
+                    "title": "Good Morning, Good Morning (Playback)",
+                    "length": "97946"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae2fb172-15f9-4a6d-95d6-8e573d3a8210",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ae2fb172-15f9-4a6d-95d6-8e573d3a8210",
+                    "title": "Porpoise Song / Good Morning, Good Morning",
+                    "length": "351000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-good-morning-good-morning-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/13898",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=128",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q532784",
+                "direction": "backward"
+            }
+        ]
+    }
+}

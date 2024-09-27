@@ -1,0 +1,4828 @@
+{
+    "work": {
+        "id": "236fc506-2afa-3c4c-b5f9-50640c56cd9b",
+        "type": "Song",
+        "title": "Across the Universe",
+        "language": "eng",
+        "iswc": "T-010.435.379-8",
+        "iswc-list": [
+            "T-010.435.379-8"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000160 411 37"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "137"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12001620"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100002300"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.073.858"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357904"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357904"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "220199"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3268946"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "011522735"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "60 029 237 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001219700"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "22068J"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0A0-0228-7"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "13674"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2449364"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "13491991"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10248288"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10868624"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000000672"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00968240"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "139355"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "3931650"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "19772301"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6130299"
+            },
+            {
+                "attribute": "ACDAM ID",
+                "value": "938993"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "310123452"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "5272"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "631561-001"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "arranger",
+                "type-id": "d3fd781c-5894-47e2-8c12-86cc0e2c8d08",
+                "target": "827b3151-accf-4c2b-b585-14daf26480ac",
+                "direction": "backward",
+                "artist": {
+                    "id": "827b3151-accf-4c2b-b585-14daf26480ac",
+                    "type": "Person",
+                    "name": "Lauren Scott",
+                    "sort-name": "Scott, Lauren"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ae59fe4-3c39-40ab-abbd-6e3034b2ce61",
+                "direction": "backward",
+                "begin": "1968-02-03",
+                "end": "1968-02-03",
+                "ended": "true",
+                "recording": {
+                    "id": "7ae59fe4-3c39-40ab-abbd-6e3034b2ce61",
+                    "title": "Across the Universe",
+                    "length": "208493",
+                    "disambiguation": "take 2"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9bb1f9fd-c660-4dc3-966f-8350c17e45b5",
+                "direction": "backward",
+                "begin": "1968-02-04",
+                "end": "1968-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "9bb1f9fd-c660-4dc3-966f-8350c17e45b5",
+                    "title": "Across the Universe",
+                    "length": "218160",
+                    "disambiguation": "Let It Be\u2026 Naked version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b62fdbf8-f1ee-4f57-9efc-ab2d322f3322",
+                "direction": "backward",
+                "begin": "1968-02-04",
+                "end": "1968-02-04",
+                "ended": "true",
+                "recording": {
+                    "id": "b62fdbf8-f1ee-4f57-9efc-ab2d322f3322",
+                    "title": "Across the Universe (take 6)",
+                    "length": "232987"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5471572c-143c-482f-842d-5e0bf76de773",
+                "direction": "backward",
+                "begin": "1968-02-04",
+                "end": "1968-02-08",
+                "ended": "true",
+                "recording": {
+                    "id": "5471572c-143c-482f-842d-5e0bf76de773",
+                    "title": "Across the Universe",
+                    "length": "229000",
+                    "disambiguation": "original \u201cWildlife\u201d version from No One\u2019s Gonna Change Our World"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04900f2c-c65c-40ef-a8fb-b81d3ff7e23e",
+                "direction": "backward",
+                "begin": "1968-02-04",
+                "end": "1968-02-08",
+                "ended": "true",
+                "recording": {
+                    "id": "04900f2c-c65c-40ef-a8fb-b81d3ff7e23e",
+                    "title": "Across the Universe",
+                    "length": "230000",
+                    "disambiguation": "original mono studio mix; wildlife overdub"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90aa777f-5c69-4ed6-8ef9-6a576423e6a2",
+                "direction": "backward",
+                "begin": "1968-02-04",
+                "end": "1970-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "90aa777f-5c69-4ed6-8ef9-6a576423e6a2",
+                    "title": "Across the Universe",
+                    "length": "227000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9f7e1ab-1eea-43da-b315-0a91ab894aab",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "b9f7e1ab-1eea-43da-b315-0a91ab894aab",
+                    "title": "Across the Universe 6.18",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a21de2d-81a8-4b37-8795-1228a0b301f0",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "4a21de2d-81a8-4b37-8795-1228a0b301f0",
+                    "title": "Across the Universe 6.113",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9af823b0-5497-4a23-86c2-f03ae35b6830",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "9af823b0-5497-4a23-86c2-f03ae35b6830",
+                    "title": "Across the Universe",
+                    "length": "197546",
+                    "disambiguation": "live, 1969-01-30"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "800ae46b-6d88-4bb0-bec7-394b83bb6902",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "800ae46b-6d88-4bb0-bec7-394b83bb6902",
+                    "title": "Across the Universe 7.83",
+                    "length": "33000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c93684b-037b-4f69-b73a-e60c0cd0c137",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "6c93684b-037b-4f69-b73a-e60c0cd0c137",
+                    "title": "Across the Universe 7.84",
+                    "length": "201000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2a712c5-463c-476f-8fef-a30e636330ec",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "f2a712c5-463c-476f-8fef-a30e636330ec",
+                    "title": "Across the Universe 7.85",
+                    "length": "93000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "968b0df4-1166-4f3b-ae0c-e2876dce2b9f",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "968b0df4-1166-4f3b-ae0c-e2876dce2b9f",
+                    "title": "Across the Universe 7.88",
+                    "length": "292000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0bead21-678f-47b9-bfc9-18bcb51ce537",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "b0bead21-678f-47b9-bfc9-18bcb51ce537",
+                    "title": "Across the Universe 7.89",
+                    "length": "230000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "523954c9-26bc-4df8-95ec-68ced9e19c30",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "523954c9-26bc-4df8-95ec-68ced9e19c30",
+                    "title": "Across the Universe 7.90",
+                    "length": "68000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f189a3c9-ef2f-474d-9bb6-c021b1c87d44",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "f189a3c9-ef2f-474d-9bb6-c021b1c87d44",
+                    "title": "Across the Universe 7.92",
+                    "length": "243000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c24f4f27-9fd3-4c9e-8212-66774728ee9c",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "c24f4f27-9fd3-4c9e-8212-66774728ee9c",
+                    "title": "Across the Universe 7.96",
+                    "length": "8000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "935d9b87-3fe3-4383-b4b7-4d7ea9772010",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "935d9b87-3fe3-4383-b4b7-4d7ea9772010",
+                    "title": "Across the Universe 7.99",
+                    "length": "333000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ce80084-cb91-4e7a-9eb3-a71994eed00e",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "8ce80084-cb91-4e7a-9eb3-a71994eed00e",
+                    "title": "Across the Universe 7.100",
+                    "length": "49000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0abefd40-eca0-4cbc-a550-a161446f4c48",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "0abefd40-eca0-4cbc-a550-a161446f4c48",
+                    "title": "Across the Universe 7.104",
+                    "length": "215000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9562c0a-5fb8-496e-b8b1-d65ea9afb295",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "a9562c0a-5fb8-496e-b8b1-d65ea9afb295",
+                    "title": "Across the Universe 7.135",
+                    "length": "209000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af376e78-4298-4926-aead-7db61bd6faf2",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "af376e78-4298-4926-aead-7db61bd6faf2",
+                    "title": "Across the Universe 9.69",
+                    "length": "63000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4ba9f9e-0ad3-47d9-9932-0e7c87a51dfc",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e4ba9f9e-0ad3-47d9-9932-0e7c87a51dfc",
+                    "title": "Across the Universe 9.70",
+                    "length": "61000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7f683f9-c0c5-4e17-b066-7f954f55d3b3",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "f7f683f9-c0c5-4e17-b066-7f954f55d3b3",
+                    "title": "Across the Universe 9.71",
+                    "length": "6000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ceac6f1c-6316-45f3-ba35-c079809c6174",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ceac6f1c-6316-45f3-ba35-c079809c6174",
+                    "title": "Across the Universe 9.72",
+                    "length": "33000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f5d8b79-fce7-4f9a-afcd-49f8e91975e6",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "3f5d8b79-fce7-4f9a-afcd-49f8e91975e6",
+                    "title": "Across the Universe 9.73",
+                    "length": "88000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cf1a476-fcc7-4fa5-9845-a59671cdf804",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3cf1a476-fcc7-4fa5-9845-a59671cdf804",
+                    "title": "Across the Universe 9.74",
+                    "length": "62000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae59f483-b08f-4944-b156-f3d967091475",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ae59f483-b08f-4944-b156-f3d967091475",
+                    "title": "Across the Universe 9.75",
+                    "length": "7000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98525b70-b32f-4ca3-b93c-da39cfe8ef71",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "98525b70-b32f-4ca3-b93c-da39cfe8ef71",
+                    "title": "Across the Universe 9.76",
+                    "length": "5000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ed52471-85c7-4e1d-b87c-b48a0769d13e",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "0ed52471-85c7-4e1d-b87c-b48a0769d13e",
+                    "title": "Across the Universe 9.77",
+                    "length": "4000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39aa3e24-8cd8-4f71-8d81-358926d7e2aa",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "39aa3e24-8cd8-4f71-8d81-358926d7e2aa",
+                    "title": "Across the Universe 9.80",
+                    "length": "255000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1fa5dc70-f5b9-4a7f-8ab5-0ca90eb9ffb2",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "1fa5dc70-f5b9-4a7f-8ab5-0ca90eb9ffb2",
+                    "title": "Across the Universe 9.81",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d533fc5-bcc0-4b6e-81ea-d54ba8ccad3b",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "8d533fc5-bcc0-4b6e-81ea-d54ba8ccad3b",
+                    "title": "Across the Universe 9.82",
+                    "length": "214000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1c12777-eb54-4993-8edc-3df763905b8e",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "c1c12777-eb54-4993-8edc-3df763905b8e",
+                    "title": "Across the Universe 9.87",
+                    "length": "20000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "731d037f-daf5-45f1-be3a-b654b8a3bff0",
+                "direction": "backward",
+                "begin": "1985-12-05",
+                "end": "1985-12-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "731d037f-daf5-45f1-be3a-b654b8a3bff0",
+                    "title": "Across the Universe",
+                    "length": "154173",
+                    "disambiguation": "BBC TV, 5 December 1985"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d95d51ea-2a33-4d8b-acb8-590d767adf4c",
+                "direction": "backward",
+                "begin": "1993-03",
+                "end": "1993-03",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d95d51ea-2a33-4d8b-acb8-590d767adf4c",
+                    "title": "Across the Universe",
+                    "length": "216906",
+                    "disambiguation": "live, 1993: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7be4324b-7525-400e-8446-eedd0f2650ae",
+                "direction": "backward",
+                "begin": "1993-11-30",
+                "end": "1993-11-30",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "7be4324b-7525-400e-8446-eedd0f2650ae",
+                    "title": "Dissident / Across the Universe",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f451f1e8-d902-4d1b-bccc-a62856e89b4e",
+                "direction": "backward",
+                "begin": "1993",
+                "end": "1993",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f451f1e8-d902-4d1b-bccc-a62856e89b4e",
+                    "title": "Across the Universe",
+                    "length": "248493",
+                    "disambiguation": "live, 1993-3: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "953332bf-8341-4ba3-913b-f5a4d7890c36",
+                "direction": "backward",
+                "begin": "2006-03-19",
+                "end": "2006-03-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "953332bf-8341-4ba3-913b-f5a4d7890c36",
+                    "title": "Across the Universe",
+                    "length": "358000",
+                    "disambiguation": "live, 2006-03-19: Palladium, Cologne, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "664f21e9-39ae-4a5a-99a5-94b874eac0be",
+                "direction": "backward",
+                "begin": "2011-11",
+                "end": "2011-11",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "664f21e9-39ae-4a5a-99a5-94b874eac0be",
+                    "title": "Across the Universe",
+                    "length": "254000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5cf025aa-e328-4e59-9e92-9db2b33faa0d",
+                "direction": "backward",
+                "begin": "2017-08",
+                "end": "2017-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5cf025aa-e328-4e59-9e92-9db2b33faa0d",
+                    "title": "Across the Universe",
+                    "length": "372000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d708377-fae0-406c-b2f6-2913d2bf697d",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d708377-fae0-406c-b2f6-2913d2bf697d",
+                    "title": "Accross the Universe (stripped\u2010down mix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "468788fd-508e-4480-9e8c-8c9c7affca1f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "468788fd-508e-4480-9e8c-8c9c7affca1f",
+                    "title": "Across the universe",
+                    "length": "294000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d7f704d-811f-4e24-a475-cfdf15ee49d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0d7f704d-811f-4e24-a475-cfdf15ee49d4",
+                    "title": "Across the Universe",
+                    "length": "238853"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9c530a9-2aa4-4146-a459-e5e1e2a539bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b9c530a9-2aa4-4146-a459-e5e1e2a539bf",
+                    "title": "Across the Universe",
+                    "length": "228000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1ffee5e-b8ba-433a-ac73-0eeb0d236c91",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b1ffee5e-b8ba-433a-ac73-0eeb0d236c91",
+                    "title": "Across the Universe",
+                    "length": "250000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68843283-fa6e-448b-a447-22a2fbaeccd6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "68843283-fa6e-448b-a447-22a2fbaeccd6",
+                    "title": "Across the Universe",
+                    "length": "480000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02748247-93e4-4c33-9db3-1b0b8d29b095",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "02748247-93e4-4c33-9db3-1b0b8d29b095",
+                    "title": "Across the Universe",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32ebbe53-a54b-4459-8caa-ca19a74a18d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "32ebbe53-a54b-4459-8caa-ca19a74a18d6",
+                    "title": "Across the Universe",
+                    "length": "230586"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80f99699-9355-4e2e-9d2b-53c2c775f988",
+                "direction": "backward",
+                "recording": {
+                    "id": "80f99699-9355-4e2e-9d2b-53c2c775f988",
+                    "title": "Across the Universe",
+                    "length": "277000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd1f11a5-287a-4ff3-b4ed-2bc8855ca206",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bd1f11a5-287a-4ff3-b4ed-2bc8855ca206",
+                    "title": "Across the Universe",
+                    "length": "272040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e347b2a7-39fd-419a-9f92-aeb60344f261",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e347b2a7-39fd-419a-9f92-aeb60344f261",
+                    "title": "Across the Universe",
+                    "length": "222146"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4567d38b-61fc-49e8-b4cb-4e9264528346",
+                "direction": "backward",
+                "recording": {
+                    "id": "4567d38b-61fc-49e8-b4cb-4e9264528346",
+                    "title": "Across the Universe",
+                    "length": "227000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da023389-33a3-4921-9939-d157595640d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "da023389-33a3-4921-9939-d157595640d4",
+                    "title": "Across the Universe",
+                    "length": "214000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff7211d0-1691-4ddd-8f39-ba84d454a1ab",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ff7211d0-1691-4ddd-8f39-ba84d454a1ab",
+                    "title": "Across the Universe",
+                    "length": "307000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cd2fda2-6982-4f0e-9fbc-a069f1b35cbe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9cd2fda2-6982-4f0e-9fbc-a069f1b35cbe",
+                    "title": "Across the Universe",
+                    "length": "262000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe70f76b-5c1d-443f-9d6e-8652d6222d06",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fe70f76b-5c1d-443f-9d6e-8652d6222d06",
+                    "title": "Across the Universe",
+                    "length": "194293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a291fa0-8571-45dc-a112-b14c52b09be1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a291fa0-8571-45dc-a112-b14c52b09be1",
+                    "title": "Across the Universe",
+                    "length": "311000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "841149ef-c4d5-4431-be94-2ab9b3b78c3b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "841149ef-c4d5-4431-be94-2ab9b3b78c3b",
+                    "title": "Across the Universe",
+                    "length": "217173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f71e839b-b4a5-4cf7-a2a9-b5c86dc4648c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f71e839b-b4a5-4cf7-a2a9-b5c86dc4648c",
+                    "title": "Across the Universe",
+                    "length": "211000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "addffe32-979f-4083-b962-0079350a1367",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "addffe32-979f-4083-b962-0079350a1367",
+                    "title": "Across the Universe",
+                    "length": "231000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba52f218-0b2b-4820-9a11-cc098695788d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba52f218-0b2b-4820-9a11-cc098695788d",
+                    "title": "Across the Universe",
+                    "length": "310774"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df9f102d-bb95-4cc2-aff8-03f905df557e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "df9f102d-bb95-4cc2-aff8-03f905df557e",
+                    "title": "Across the Universe",
+                    "length": "228280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1fd1d32-33a3-4a14-8db4-4b30bbf08e29",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a1fd1d32-33a3-4a14-8db4-4b30bbf08e29",
+                    "title": "Across the Universe",
+                    "length": "307000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4aa6471a-1a1b-417e-a284-ae74eb40c7b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4aa6471a-1a1b-417e-a284-ae74eb40c7b0",
+                    "title": "Across the Universe",
+                    "length": "199000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "078edb61-2173-4251-bbc6-5ae55f09c636",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "078edb61-2173-4251-bbc6-5ae55f09c636",
+                    "title": "Across the Universe",
+                    "length": "271000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "305378e9-cd6c-4101-b77c-619c737bf20b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "305378e9-cd6c-4101-b77c-619c737bf20b",
+                    "title": "Across the Universe",
+                    "length": "251000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a01be771-5251-4d46-a9e3-62f3d72518d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a01be771-5251-4d46-a9e3-62f3d72518d3",
+                    "title": "Across the Universe",
+                    "length": "514000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "035372d6-f8cd-4f65-8507-b24d559932a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "035372d6-f8cd-4f65-8507-b24d559932a0",
+                    "title": "Across the Universe",
+                    "length": "94253"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d664fb1-63ff-4446-88a2-6025915cb73d",
+                "direction": "backward",
+                "recording": {
+                    "id": "1d664fb1-63ff-4446-88a2-6025915cb73d",
+                    "title": "Across the Universe",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "096f4bba-d9fa-4c33-a8a3-f8eaafe63525",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "096f4bba-d9fa-4c33-a8a3-f8eaafe63525",
+                    "title": "Across the Universe",
+                    "length": "196333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ff3aea8-a673-4cd6-9b8d-b42f25c823fc",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ff3aea8-a673-4cd6-9b8d-b42f25c823fc",
+                    "title": "Across the Universe",
+                    "length": "228000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16c08401-5654-4234-ab39-5abed62ed6a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "16c08401-5654-4234-ab39-5abed62ed6a6",
+                    "title": "Across the Universe",
+                    "length": "225706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "729c8fd5-a8fc-498d-a851-50fb625e76f1",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "729c8fd5-a8fc-498d-a851-50fb625e76f1",
+                    "title": "Across the Universe",
+                    "length": "102560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3cecd737-b246-431b-87f5-4dfab39e16ad",
+                "direction": "backward",
+                "recording": {
+                    "id": "3cecd737-b246-431b-87f5-4dfab39e16ad",
+                    "title": "Across the Universe",
+                    "length": "227000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8079ddc5-0114-47b6-a07b-1c547df206cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "8079ddc5-0114-47b6-a07b-1c547df206cc",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa306791-f60c-4bd7-8421-0d5ce520fb7c",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa306791-f60c-4bd7-8421-0d5ce520fb7c",
+                    "title": "Across the Universe",
+                    "length": "161640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "932196b4-c8a0-429c-b7d6-bafc34e7a6dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "932196b4-c8a0-429c-b7d6-bafc34e7a6dc",
+                    "title": "Across the Universe",
+                    "length": "227000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a41cfa9d-9664-4908-8ef6-d34e2cf10d6f",
+                "direction": "backward",
+                "recording": {
+                    "id": "a41cfa9d-9664-4908-8ef6-d34e2cf10d6f",
+                    "title": "Across the Universe",
+                    "length": "245000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb412d61-1793-473a-966c-3ee0986646a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "fb412d61-1793-473a-966c-3ee0986646a3",
+                    "title": "Across the Universe",
+                    "length": "214000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f33f7c2a-d06d-48eb-b7ee-576f028a4013",
+                "direction": "backward",
+                "recording": {
+                    "id": "f33f7c2a-d06d-48eb-b7ee-576f028a4013",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a3b673c-5994-4e35-bc16-ad1796f1bc59",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a3b673c-5994-4e35-bc16-ad1796f1bc59",
+                    "title": "Across the Universe",
+                    "length": "226355"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdb388b5-be62-4667-8f37-a32edf305add",
+                "direction": "backward",
+                "recording": {
+                    "id": "cdb388b5-be62-4667-8f37-a32edf305add",
+                    "title": "Across the Universe",
+                    "length": "124400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "785e279a-7101-4070-9089-0d26cb625601",
+                "direction": "backward",
+                "recording": {
+                    "id": "785e279a-7101-4070-9089-0d26cb625601",
+                    "title": "Across the Universe",
+                    "length": "232000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52583a84-fe93-45af-8865-baea075b7386",
+                "direction": "backward",
+                "recording": {
+                    "id": "52583a84-fe93-45af-8865-baea075b7386",
+                    "title": "Across the Universe",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4b96a7c-dc5d-4b30-8960-7d59abba77de",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4b96a7c-dc5d-4b30-8960-7d59abba77de",
+                    "title": "Across the Universe",
+                    "length": "202000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b91e7325-00b9-430b-80ae-945b50cf807a",
+                "direction": "backward",
+                "recording": {
+                    "id": "b91e7325-00b9-430b-80ae-945b50cf807a",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a28eab75-baf3-4f29-bd19-5a29f1812354",
+                "direction": "backward",
+                "recording": {
+                    "id": "a28eab75-baf3-4f29-bd19-5a29f1812354",
+                    "title": "Across the Universe",
+                    "length": "226000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec72e2a7-d242-4675-b9c6-8e056728389c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ec72e2a7-d242-4675-b9c6-8e056728389c",
+                    "title": "Across the Universe",
+                    "length": "291373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7c59998-9fc6-4c8e-b2f5-a3063e9431f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a7c59998-9fc6-4c8e-b2f5-a3063e9431f7",
+                    "title": "Across the Universe",
+                    "length": "237960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61fda392-fea8-4ac1-81f5-2a42cc00d551",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "61fda392-fea8-4ac1-81f5-2a42cc00d551",
+                    "title": "Across the Universe",
+                    "length": "241973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0db86205-4782-4654-a661-6671b082713f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0db86205-4782-4654-a661-6671b082713f",
+                    "title": "Across the Universe",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b440fd2c-5e09-43c8-8e67-1172fba239ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b440fd2c-5e09-43c8-8e67-1172fba239ef",
+                    "title": "Across the Universe",
+                    "length": "234893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "701afdcd-d74c-4dca-a8e0-301471e8ea55",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "701afdcd-d74c-4dca-a8e0-301471e8ea55",
+                    "title": "Across the Universe",
+                    "length": "228053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff02d912-88fc-4699-aab7-620fbc032ee3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ff02d912-88fc-4699-aab7-620fbc032ee3",
+                    "title": "Across the Universe",
+                    "length": "298117"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a135e9a-9b50-42e4-be6b-cad9d40f942f",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a135e9a-9b50-42e4-be6b-cad9d40f942f",
+                    "title": "Across the Universe",
+                    "length": "207000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0bffab3-aad2-414c-a9ba-b1befcd6545c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a0bffab3-aad2-414c-a9ba-b1befcd6545c",
+                    "title": "Across the Universe",
+                    "length": "206256"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "630e138c-bb6b-4adc-a26d-f37fa2f22e7f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "630e138c-bb6b-4adc-a26d-f37fa2f22e7f",
+                    "title": "Across the Universe",
+                    "length": "374000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b82b44a7-845e-444c-8fbd-0bd0b68aae0f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b82b44a7-845e-444c-8fbd-0bd0b68aae0f",
+                    "title": "Across the Universe",
+                    "length": "502000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca9826b8-1d03-4ffc-8e32-0c52d6855de6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ca9826b8-1d03-4ffc-8e32-0c52d6855de6",
+                    "title": "Across the Universe",
+                    "length": "324560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15cf0cc9-05a0-481f-8263-1cec2afb4043",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "15cf0cc9-05a0-481f-8263-1cec2afb4043",
+                    "title": "Across the Universe",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50912210-fe01-4b0a-9888-5f88091abfa3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "50912210-fe01-4b0a-9888-5f88091abfa3",
+                    "title": "Across the Universe",
+                    "length": "353746"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11049c10-9c46-4688-8bfd-38bc5022ba98",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "11049c10-9c46-4688-8bfd-38bc5022ba98",
+                    "title": "Across the Universe",
+                    "length": "217000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da4f6a63-1e8a-4a75-a10f-eefb9140d6a6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "da4f6a63-1e8a-4a75-a10f-eefb9140d6a6",
+                    "title": "Across the Universe",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a13762f-6c79-4a94-98e9-ac3ffce50a6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a13762f-6c79-4a94-98e9-ac3ffce50a6b",
+                    "title": "Across the Universe",
+                    "length": "219000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02bf777f-61d2-4d8e-a76f-916a73abfa47",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "02bf777f-61d2-4d8e-a76f-916a73abfa47",
+                    "title": "Across the Universe",
+                    "length": "244466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f251cf7-d162-4225-949a-c64e70622b14",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8f251cf7-d162-4225-949a-c64e70622b14",
+                    "title": "Across the Universe",
+                    "length": "273840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa3f4cd6-926b-46e2-988c-7b3ed765072f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fa3f4cd6-926b-46e2-988c-7b3ed765072f",
+                    "title": "Across the Universe",
+                    "length": "273240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0f44377-6521-40d2-af74-4c88720b7232",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0f44377-6521-40d2-af74-4c88720b7232",
+                    "title": "Across the Universe",
+                    "length": "265826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e32c727-6b3d-4db3-a9bb-119d870a71ba",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0e32c727-6b3d-4db3-a9bb-119d870a71ba",
+                    "title": "Across the Universe",
+                    "length": "208000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a48288ae-9246-4752-8ff8-90a7180a654d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a48288ae-9246-4752-8ff8-90a7180a654d",
+                    "title": "Across the Universe",
+                    "length": "216000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e20865de-caa1-4bc9-b9e0-0a3583103621",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e20865de-caa1-4bc9-b9e0-0a3583103621",
+                    "title": "Across the Universe"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2469b6a3-c031-4ae9-810b-62762b9dae58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2469b6a3-c031-4ae9-810b-62762b9dae58",
+                    "title": "Across the Universe"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ae6fb8c-9be9-4a96-9208-0aae05749dde",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ae6fb8c-9be9-4a96-9208-0aae05749dde",
+                    "title": "Across the Universe",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4b23990-3660-4e66-b8bd-16176e17c135",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f4b23990-3660-4e66-b8bd-16176e17c135",
+                    "title": "Across the Universe",
+                    "length": "219000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b7cd360-8544-424c-86f3-c0d238b116bd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1b7cd360-8544-424c-86f3-c0d238b116bd",
+                    "title": "Across the Universe",
+                    "length": "371000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de432dd3-e062-4e74-be16-31acc33a686d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "de432dd3-e062-4e74-be16-31acc33a686d",
+                    "title": "Across the Universe",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16c8c69d-13f2-4fa4-b451-9481411155d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "16c8c69d-13f2-4fa4-b451-9481411155d3",
+                    "title": "Across the Universe",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41202775-ee57-47d1-b012-c95186181985",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "41202775-ee57-47d1-b012-c95186181985",
+                    "title": "Across the Universe",
+                    "length": "245144"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67685d47-233c-47ef-bf9f-8273da4c6659",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "67685d47-233c-47ef-bf9f-8273da4c6659",
+                    "title": "Across the Universe",
+                    "length": "245050"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aead76f1-6b05-4d6a-8043-ae99102759a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "aead76f1-6b05-4d6a-8043-ae99102759a7",
+                    "title": "Across the Universe"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d93bcc81-c100-4294-a8ef-b1dec48c64d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d93bcc81-c100-4294-a8ef-b1dec48c64d7",
+                    "title": "Across the Universe",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b7373a7-7bf5-4e3d-8e79-0a5a07e89a59",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5b7373a7-7bf5-4e3d-8e79-0a5a07e89a59",
+                    "title": "Across the Universe",
+                    "length": "236346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a49cad2e-4006-4268-8781-760b4e8a8c13",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a49cad2e-4006-4268-8781-760b4e8a8c13",
+                    "title": "Across the Universe",
+                    "length": "246253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbe164bc-7b45-4c17-8a45-e9db7c082a91",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bbe164bc-7b45-4c17-8a45-e9db7c082a91",
+                    "title": "Across the Universe",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36962c36-4c6a-480c-9810-189e01f4de58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "36962c36-4c6a-480c-9810-189e01f4de58",
+                    "title": "Across the Universe",
+                    "length": "299400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca77a4c4-cee5-4167-b7aa-4651682c5e5e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ca77a4c4-cee5-4167-b7aa-4651682c5e5e",
+                    "title": "Across the Universe",
+                    "length": "190000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be6444b6-bbe7-46df-9863-12c858d86528",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "be6444b6-bbe7-46df-9863-12c858d86528",
+                    "title": "Across the Universe",
+                    "length": "274000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87df508f-af30-40a4-8688-b283749ae28e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "87df508f-af30-40a4-8688-b283749ae28e",
+                    "title": "Across the Universe",
+                    "length": "235000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67f09342-7cc6-46e2-8ed2-e773e2d4bd48",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "67f09342-7cc6-46e2-8ed2-e773e2d4bd48",
+                    "title": "Across the Universe",
+                    "length": "242053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eee5a67f-337c-4eb4-939c-1fa0cdde0b7a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "eee5a67f-337c-4eb4-939c-1fa0cdde0b7a",
+                    "title": "Across the Universe",
+                    "length": "249013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a857c847-cb14-4c7d-90a7-f6163bb9ebdb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a857c847-cb14-4c7d-90a7-f6163bb9ebdb",
+                    "title": "Across the Universe",
+                    "length": "295000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "74181538-0d43-4108-9189-a0dbffdff0d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "74181538-0d43-4108-9189-a0dbffdff0d3",
+                    "title": "Across the Universe",
+                    "length": "300000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79aa3f11-4934-487e-a639-c77275bcd392",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "79aa3f11-4934-487e-a639-c77275bcd392",
+                    "title": "Across the Universe",
+                    "length": "247133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3f2ba39-2487-4d3c-8a32-d16105a78408",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a3f2ba39-2487-4d3c-8a32-d16105a78408",
+                    "title": "Across the Universe",
+                    "length": "266226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63920ab0-3645-4e57-8252-8d597b84e11b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "63920ab0-3645-4e57-8252-8d597b84e11b",
+                    "title": "Across the Universe",
+                    "length": "199173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fdc031c7-e555-43dd-81fa-ab3cf2ceb477",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fdc031c7-e555-43dd-81fa-ab3cf2ceb477",
+                    "title": "Across the Universe",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1450e96d-b3e9-4a78-890f-f5b435bc4cb9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1450e96d-b3e9-4a78-890f-f5b435bc4cb9",
+                    "title": "Across the Universe",
+                    "length": "215586"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3fde225-4962-45a6-9098-0516361e6763",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f3fde225-4962-45a6-9098-0516361e6763",
+                    "title": "Across the Universe",
+                    "length": "256000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b12caa1-6353-4811-9131-904c40ba6e4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5b12caa1-6353-4811-9131-904c40ba6e4e",
+                    "title": "Across the Universe",
+                    "length": "252000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6ebd0aa-4622-4f00-a916-f296ca4a8435",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d6ebd0aa-4622-4f00-a916-f296ca4a8435",
+                    "title": "Across the Universe",
+                    "length": "186177"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c472aeef-7433-461c-998e-6bf4ac32ca47",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c472aeef-7433-461c-998e-6bf4ac32ca47",
+                    "title": "Across the Universe",
+                    "length": "326760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "140cff29-5356-44b6-a3cd-95c22f7ecf38",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "140cff29-5356-44b6-a3cd-95c22f7ecf38",
+                    "title": "Across the Universe",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f405e08-db0b-4bca-9e11-aff23338ca2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7f405e08-db0b-4bca-9e11-aff23338ca2e",
+                    "title": "Across the Universe",
+                    "length": "367000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "346c974f-f161-41e9-9ab4-9cb786423550",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "346c974f-f161-41e9-9ab4-9cb786423550",
+                    "title": "Across the Universe"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e3f37ec-9b0d-47c5-8248-31ded7967342",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5e3f37ec-9b0d-47c5-8248-31ded7967342",
+                    "title": "Across the Universe",
+                    "length": "338364"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fcb88246-281c-43e6-8fee-30013a5c6902",
+                "direction": "backward",
+                "recording": {
+                    "id": "fcb88246-281c-43e6-8fee-30013a5c6902",
+                    "title": "Across the Universe",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1456d440-0d61-4946-bc1c-98482aa77607",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1456d440-0d61-4946-bc1c-98482aa77607",
+                    "title": "Across the Universe",
+                    "length": "296000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55066bb2-1e25-48eb-86b6-73142c36ae32",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "55066bb2-1e25-48eb-86b6-73142c36ae32",
+                    "title": "Across the Universe"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f605ff82-e724-47e8-a271-9aa3b9746e71",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f605ff82-e724-47e8-a271-9aa3b9746e71",
+                    "title": "Across the Universe",
+                    "length": "247000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18dd63a3-6bcf-4a97-b482-df78a42b203a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "18dd63a3-6bcf-4a97-b482-df78a42b203a",
+                    "title": "Across the Universe",
+                    "length": "258000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d308a01f-d09c-4766-b5ab-eaba500afecc",
+                "direction": "backward",
+                "recording": {
+                    "id": "d308a01f-d09c-4766-b5ab-eaba500afecc",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e06d765-6be8-4f99-9b7f-20321d96a83b",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e06d765-6be8-4f99-9b7f-20321d96a83b",
+                    "title": "Across the Universe",
+                    "length": "163996"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b202e511-344b-4d84-9709-ffdc6c66c52c",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b202e511-344b-4d84-9709-ffdc6c66c52c",
+                    "title": "Across the Universe",
+                    "length": "235000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1adef810-c433-418c-9801-236f671778d3",
+                "direction": "backward",
+                "recording": {
+                    "id": "1adef810-c433-418c-9801-236f671778d3",
+                    "title": "Across the Universe",
+                    "length": "226666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbeac895-e17b-4232-9d7c-2fc2deb9283f",
+                "direction": "backward",
+                "recording": {
+                    "id": "dbeac895-e17b-4232-9d7c-2fc2deb9283f",
+                    "title": "Across the Universe",
+                    "length": "228200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84d40fa4-4870-4d27-83c5-117c80ae3654",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "84d40fa4-4870-4d27-83c5-117c80ae3654",
+                    "title": "Across the Universe",
+                    "length": "245610",
+                    "disambiguation": "live: Japan",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d91e2c50-1149-41e1-84d3-f74936668e8d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d91e2c50-1149-41e1-84d3-f74936668e8d",
+                    "title": "Across the Universe",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93b2428b-97fc-47f2-a20e-fc21270364ed",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "93b2428b-97fc-47f2-a20e-fc21270364ed",
+                    "title": "Across the Universe",
+                    "length": "232000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d45b6584-e715-42dd-99b6-8231f2adeab7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d45b6584-e715-42dd-99b6-8231f2adeab7",
+                    "title": "Across the Universe",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "750b6ff9-7a7b-4f62-b50d-55b1bdc3b71e",
+                "direction": "backward",
+                "recording": {
+                    "id": "750b6ff9-7a7b-4f62-b50d-55b1bdc3b71e",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4389516f-6594-426f-96d5-2b3b418c3ff1",
+                "direction": "backward",
+                "recording": {
+                    "id": "4389516f-6594-426f-96d5-2b3b418c3ff1",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4eb8f961-2669-42e6-b52d-2f95f865bcff",
+                "direction": "backward",
+                "recording": {
+                    "id": "4eb8f961-2669-42e6-b52d-2f95f865bcff",
+                    "title": "Across the Universe",
+                    "length": "227000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8d6896e-eaab-4569-937b-f9c517e9bcff",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8d6896e-eaab-4569-937b-f9c517e9bcff",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f25656d-8763-4d64-a9d6-fa25a42a306f",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f25656d-8763-4d64-a9d6-fa25a42a306f",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecfacb59-b523-4564-b20c-a4a24f27aa9d",
+                "direction": "backward",
+                "recording": {
+                    "id": "ecfacb59-b523-4564-b20c-a4a24f27aa9d",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5085813e-47a7-4543-b115-c07205ad80d5",
+                "direction": "backward",
+                "recording": {
+                    "id": "5085813e-47a7-4543-b115-c07205ad80d5",
+                    "title": "Across the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c034b5ca-c190-4486-8090-5d2687b5e447",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c034b5ca-c190-4486-8090-5d2687b5e447",
+                    "title": "Across the Universe",
+                    "length": "219240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30448129-5c16-4817-9c06-5872f5a99386",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "30448129-5c16-4817-9c06-5872f5a99386",
+                    "title": "Across the Universe",
+                    "length": "239666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "285f095a-3ff4-4190-a377-00cb60c81e27",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "285f095a-3ff4-4190-a377-00cb60c81e27",
+                    "title": "Across the Universe",
+                    "length": "262480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca279d16-7da0-48fd-91e9-b527535b8c45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ca279d16-7da0-48fd-91e9-b527535b8c45",
+                    "title": "Across the Universe",
+                    "length": "267333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b4165ff-cac3-4ec0-adb9-d5ab887e3971",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4b4165ff-cac3-4ec0-adb9-d5ab887e3971",
+                    "title": "Across the Universe",
+                    "length": "274000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04ea9008-cbbc-4ea2-b667-2846cf276167",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "04ea9008-cbbc-4ea2-b667-2846cf276167",
+                    "title": "Across the Universe",
+                    "length": "248200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ebee6be-bc3d-4761-9c4f-6a053237e423",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6ebee6be-bc3d-4761-9c4f-6a053237e423",
+                    "title": "Across the Universe",
+                    "length": "255773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21de8fc8-bb81-4a5b-912c-af684a71647a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "21de8fc8-bb81-4a5b-912c-af684a71647a",
+                    "title": "Across the Universe",
+                    "length": "230000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67412b47-cb45-4497-971c-45a3da8ac9a8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "67412b47-cb45-4497-971c-45a3da8ac9a8",
+                    "title": "Across the Universe"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b16aa22-5a53-402e-8224-e53fadf85b3d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6b16aa22-5a53-402e-8224-e53fadf85b3d",
+                    "title": "Across the Universe",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b654234e-fd15-40a3-81a3-f63a844fb5ec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b654234e-fd15-40a3-81a3-f63a844fb5ec",
+                    "title": "Across the Universe",
+                    "length": "228000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1230ef8-6f13-4c94-af7e-592a2ea903d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e1230ef8-6f13-4c94-af7e-592a2ea903d7",
+                    "title": "Across the Universe",
+                    "length": "307733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc64cb29-e28b-4a17-9486-a59b68fc7606",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc64cb29-e28b-4a17-9486-a59b68fc7606",
+                    "title": "Across the Universe",
+                    "length": "243000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78903a60-d116-4177-8967-84cc3b70ff28",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "78903a60-d116-4177-8967-84cc3b70ff28",
+                    "title": "Across the Universe",
+                    "length": "248000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e02cd0f5-98a2-40ee-9f1c-8cb1ddaed39d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e02cd0f5-98a2-40ee-9f1c-8cb1ddaed39d",
+                    "title": "Across the Universe",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33d055c8-08f3-47ef-ab1a-d62cc49e9ecb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "33d055c8-08f3-47ef-ab1a-d62cc49e9ecb",
+                    "title": "Across the Universe",
+                    "length": "291280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31973fd1-53a7-42cf-adfd-b9af996a9e02",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "31973fd1-53a7-42cf-adfd-b9af996a9e02",
+                    "title": "Across the Universe",
+                    "length": "256066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a721dc62-eb25-4e70-b358-347f6baaef5f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a721dc62-eb25-4e70-b358-347f6baaef5f",
+                    "title": "Across the Universe",
+                    "length": "228000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "101343a3-613a-432e-b36c-7a0ecdd10d61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "101343a3-613a-432e-b36c-7a0ecdd10d61",
+                    "title": "Across the Universe",
+                    "length": "251000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f442ed09-70b0-4904-b9b5-e2621b79e27c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f442ed09-70b0-4904-b9b5-e2621b79e27c",
+                    "title": "Across the Universe",
+                    "length": "301160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f843fcc-83ff-4d2b-9f36-5ce84c917580",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0f843fcc-83ff-4d2b-9f36-5ce84c917580",
+                    "title": "Across the Universe",
+                    "length": "514000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "beff2758-01e3-4980-8e47-76dcbbd1f574",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "beff2758-01e3-4980-8e47-76dcbbd1f574",
+                    "title": "Across the Universe",
+                    "length": "306666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c138101-8e37-4d17-95d5-003746a09163",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0c138101-8e37-4d17-95d5-003746a09163",
+                    "title": "Across the Universe",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4af2a8ab-fbe1-4673-83be-12a2b0698156",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4af2a8ab-fbe1-4673-83be-12a2b0698156",
+                    "title": "Across the Universe",
+                    "length": "229760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc08778d-2095-468e-9a08-a173f15045da",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc08778d-2095-468e-9a08-a173f15045da",
+                    "title": "Across the Universe",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5032101-72de-4988-89d8-e2a2445aff0d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e5032101-72de-4988-89d8-e2a2445aff0d",
+                    "title": "Across the Universe",
+                    "length": "249800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d38f0393-2e47-4636-baa9-5aca56ca60b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d38f0393-2e47-4636-baa9-5aca56ca60b0",
+                    "title": "Across the Universe",
+                    "length": "241026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "538b446f-a35a-42cf-bf43-443d86bc0e39",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "538b446f-a35a-42cf-bf43-443d86bc0e39",
+                    "title": "Across the Universe",
+                    "length": "276000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c677bb6a-d576-4490-b0e8-59863cd1bd85",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c677bb6a-d576-4490-b0e8-59863cd1bd85",
+                    "title": "Across the Universe",
+                    "length": "370440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55e6c8ef-8d8c-47a4-ac8f-6525c7716e25",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "55e6c8ef-8d8c-47a4-ac8f-6525c7716e25",
+                    "title": "Across The Universe",
+                    "length": "231346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7f63f64-4101-4358-a729-3c3fb18ff88a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7f63f64-4101-4358-a729-3c3fb18ff88a",
+                    "title": "Across The Universe",
+                    "length": "301000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a74f0ff-c106-4dec-aedd-b33061851a6c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a74f0ff-c106-4dec-aedd-b33061851a6c",
+                    "title": "Across The Universe",
+                    "length": "279000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98528c97-1fba-427b-acb7-b7cd7f62885f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98528c97-1fba-427b-acb7-b7cd7f62885f",
+                    "title": "Across The Universe",
+                    "length": "317000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "862f94ae-6ec7-4393-b7e1-5f088db3e8a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "862f94ae-6ec7-4393-b7e1-5f088db3e8a0",
+                    "title": "Across The Universe",
+                    "length": "276352"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e2029af-1080-41b1-a03b-7cdd4f1f96ef",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e2029af-1080-41b1-a03b-7cdd4f1f96ef",
+                    "title": "Across The Universe",
+                    "length": "225000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38cd5c03-1c4e-49f3-8db7-76c86eaa903f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "38cd5c03-1c4e-49f3-8db7-76c86eaa903f",
+                    "title": "Across The Universe",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97766e88-8b66-4251-81f2-3060d29bea31",
+                "direction": "backward",
+                "recording": {
+                    "id": "97766e88-8b66-4251-81f2-3060d29bea31",
+                    "title": "Across The Universe",
+                    "length": "303000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab730e89-b758-437a-bbca-aca444ee6b7e",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab730e89-b758-437a-bbca-aca444ee6b7e",
+                    "title": "Across The Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29addf66-6ab6-4b16-9ff7-92ccd96e6897",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "29addf66-6ab6-4b16-9ff7-92ccd96e6897",
+                    "title": "Across The Universe",
+                    "length": "325466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe31b039-3da1-4f05-be30-5626546a9228",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fe31b039-3da1-4f05-be30-5626546a9228",
+                    "title": "Across The Universe",
+                    "length": "248000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "460ad868-1c58-4a22-9bea-f58e1dfe17d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "460ad868-1c58-4a22-9bea-f58e1dfe17d6",
+                    "title": "Across the Universe (5.1 mix)",
+                    "length": "271000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86914b3e-071c-408a-9406-5cde039e38d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "86914b3e-071c-408a-9406-5cde039e38d4",
+                    "title": "Across the Universe (5.1 mix)",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6351e08-200b-4da3-bbb9-ebd340a64137",
+                "direction": "backward",
+                "recording": {
+                    "id": "d6351e08-200b-4da3-bbb9-ebd340a64137",
+                    "title": "Across the Universe (2009 remaster)",
+                    "length": "229000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aee07cca-2b28-4aa5-9acb-a2394f966f74",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "aee07cca-2b28-4aa5-9acb-a2394f966f74",
+                    "title": "Across the Universe (album version)",
+                    "length": "279533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09f27b28-01a7-41f1-ab62-184f9ba1ed45",
+                "direction": "backward",
+                "recording": {
+                    "id": "09f27b28-01a7-41f1-ab62-184f9ba1ed45",
+                    "title": "Across the Universe (alternate mix)",
+                    "length": "230800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43dffb6b-a4af-4606-ab7d-f63956542efe",
+                "direction": "backward",
+                "recording": {
+                    "id": "43dffb6b-a4af-4606-ab7d-f63956542efe",
+                    "title": "Across the Universe (alternate mix)",
+                    "length": "223333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff6ad231-bfde-4e99-8a4d-f1384d5205dc",
+                "direction": "backward",
+                "recording": {
+                    "id": "ff6ad231-bfde-4e99-8a4d-f1384d5205dc",
+                    "title": "Across the Universe (alternate version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c53973e7-ff82-4edf-8a8e-07714e928a18",
+                "direction": "backward",
+                "recording": {
+                    "id": "c53973e7-ff82-4edf-8a8e-07714e928a18",
+                    "title": "Across the Universe (Band)",
+                    "length": "202814"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27d72918-2b64-46f2-96a8-49be4d7b966e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "27d72918-2b64-46f2-96a8-49be4d7b966e",
+                    "title": "Across the Universe (Dream Pop mix)",
+                    "length": "236000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41a8ef3f-6b13-4634-b99b-02bb78e72b19",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41a8ef3f-6b13-4634-b99b-02bb78e72b19",
+                    "title": "Across the Universe (feat. Moby & Sean Lennon)",
+                    "length": "258000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac5a2ac8-f1f9-4af2-8e3e-6322e9258b85",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ac5a2ac8-f1f9-4af2-8e3e-6322e9258b85",
+                    "title": "Across the Universe (from the movie: I Am Sam)",
+                    "length": "249000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98752846-a0dc-4df6-9dce-1ded2284a619",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98752846-a0dc-4df6-9dce-1ded2284a619",
+                    "title": "Across the Universe (Gusz Remix)",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91ad8c89-0df5-4d29-bef7-7ab9ca0b8c1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "91ad8c89-0df5-4d29-bef7-7ab9ca0b8c1c",
+                    "title": "Across the Universe (Home demo)",
+                    "length": "94000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b84b9676-c9d2-4de0-b81b-4eb01798d875",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b84b9676-c9d2-4de0-b81b-4eb01798d875",
+                    "title": "Across the Universe (iTunes Originals version)",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e313f382-4f29-4677-86b6-f446c7b60a9a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e313f382-4f29-4677-86b6-f446c7b60a9a",
+                    "title": "Across the Universe (KGO mix)",
+                    "length": "153933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ac96051-242f-413b-b6c0-3b5b320e6d2a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ac96051-242f-413b-b6c0-3b5b320e6d2a",
+                    "title": "Across the Universe (Mono mix Rm2)",
+                    "length": "198635"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bd7447c-2e0f-462b-8e01-2fba424aeb09",
+                "direction": "backward",
+                "recording": {
+                    "id": "4bd7447c-2e0f-462b-8e01-2fba424aeb09",
+                    "title": "Across the Universe (mono mix)",
+                    "length": "227000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec4678c6-4453-4cb8-8f9f-bb32a5e9bd81",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec4678c6-4453-4cb8-8f9f-bb32a5e9bd81",
+                    "title": "Across the Universe (Mono-mix, 8.2.68)",
+                    "length": "226386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29848951-653c-43db-8e95-92e60fe1911b",
+                "direction": "backward",
+                "recording": {
+                    "id": "29848951-653c-43db-8e95-92e60fe1911b",
+                    "title": "Across the Universe (original speed)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "737ff08a-f778-4713-811d-093a7ef6eda9",
+                "direction": "backward",
+                "recording": {
+                    "id": "737ff08a-f778-4713-811d-093a7ef6eda9",
+                    "title": "Across The Universe (Piano Demo 1967)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c939c877-340c-4449-aa87-313055108974",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c939c877-340c-4449-aa87-313055108974",
+                    "title": "Across the Universe (radio edit)",
+                    "length": "258000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6e00187-d16b-4f25-8f01-9a469f4d17f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f6e00187-d16b-4f25-8f01-9a469f4d17f0",
+                    "title": "Across the Universe (radio edit)",
+                    "length": "258466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6a89c99-6445-465c-990b-ce65db9ac505",
+                "direction": "backward",
+                "recording": {
+                    "id": "b6a89c99-6445-465c-990b-ce65db9ac505",
+                    "title": "Across the Universe (radio edit)",
+                    "length": "254000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "afc10b85-10a6-4a27-9692-2b40d1d5666c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "afc10b85-10a6-4a27-9692-2b40d1d5666c",
+                    "title": "Across the Universe (remix)",
+                    "length": "223866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c389d665-6c7c-4505-a2e5-6f8c8fe6e147",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c389d665-6c7c-4505-a2e5-6f8c8fe6e147",
+                    "title": "Across the Universe (remix)",
+                    "length": "250893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa325f3f-3e25-4968-a2a6-067d36d9eb1f",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa325f3f-3e25-4968-a2a6-067d36d9eb1f",
+                    "title": "Across the Universe (Spectore)",
+                    "length": "220573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20ce13d4-fe45-4c5f-9aea-54d0974ff22d",
+                "direction": "backward",
+                "recording": {
+                    "id": "20ce13d4-fe45-4c5f-9aea-54d0974ff22d",
+                    "title": "Across the Universe (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6355f8a7-61f5-46b6-a552-d60cd852810f",
+                "direction": "backward",
+                "recording": {
+                    "id": "6355f8a7-61f5-46b6-a552-d60cd852810f",
+                    "title": "Across the Universe (take 2 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb9cb514-9b63-4d00-b6dc-0c56fb0ccfb2",
+                "direction": "backward",
+                "recording": {
+                    "id": "eb9cb514-9b63-4d00-b6dc-0c56fb0ccfb2",
+                    "title": "Across the Universe (take 2 Si Into take 2)",
+                    "length": "208091"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03b27a11-4ca0-4f14-9476-aba9bb020fe9",
+                "direction": "backward",
+                "recording": {
+                    "id": "03b27a11-4ca0-4f14-9476-aba9bb020fe9",
+                    "title": "Across the Universe (take 2 Si Into take 2)",
+                    "length": "208483"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e918dab9-044a-4637-ab6c-a9b50d8de0ea",
+                "direction": "backward",
+                "recording": {
+                    "id": "e918dab9-044a-4637-ab6c-a9b50d8de0ea",
+                    "title": "Across the Universe (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3761a635-c392-48a1-80ea-fd65084b0218",
+                "direction": "backward",
+                "recording": {
+                    "id": "3761a635-c392-48a1-80ea-fd65084b0218",
+                    "title": "Across the Universe (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14a002df-3878-4f07-88bf-2faead9d30cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "14a002df-3878-4f07-88bf-2faead9d30cb",
+                    "title": "Across the Universe (take 2)",
+                    "length": "208483"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0196532a-b3ed-4458-a001-bbf671e985cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "0196532a-b3ed-4458-a001-bbf671e985cb",
+                    "title": "Across the Universe (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4751df6-88f6-4c10-b0ba-a77f05dc2a81",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4751df6-88f6-4c10-b0ba-a77f05dc2a81",
+                    "title": "Across the Universe (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e28ed5c3-e362-4fbf-bf26-544f1cc12744",
+                "direction": "backward",
+                "recording": {
+                    "id": "e28ed5c3-e362-4fbf-bf26-544f1cc12744",
+                    "title": "Across the Universe (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f125cd38-92ee-41dd-997d-3c4b0eab6ee8",
+                "direction": "backward",
+                "recording": {
+                    "id": "f125cd38-92ee-41dd-997d-3c4b0eab6ee8",
+                    "title": "Across the Universe (take 7 - Complete, original Speed)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53a17edd-98eb-41dd-90fd-b16a85dc02a4",
+                "direction": "backward",
+                "recording": {
+                    "id": "53a17edd-98eb-41dd-90fd-b16a85dc02a4",
+                    "title": "Across the Universe (take 7 Acetate mix)",
+                    "length": "209345"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9af83a4b-5972-4ce6-807b-cd895a8dfeff",
+                "direction": "backward",
+                "recording": {
+                    "id": "9af83a4b-5972-4ce6-807b-cd895a8dfeff",
+                    "title": "Across the Universe (take 7 Si Into take 7)",
+                    "length": "210024"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b777527-0eb8-4038-adff-79b87e954076",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b777527-0eb8-4038-adff-79b87e954076",
+                    "title": "Across The Universe (Take 7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d48a6d28-bdc8-496d-af4d-5f6327975900",
+                "direction": "backward",
+                "recording": {
+                    "id": "d48a6d28-bdc8-496d-af4d-5f6327975900",
+                    "title": "Across The Universe (Take 7)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35df4755-bd65-4bc6-bfc1-61bf451e56a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "35df4755-bd65-4bc6-bfc1-61bf451e56a5",
+                    "title": "Across the Universe (take 8 Si Into take 8)",
+                    "length": "222066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "425c474b-9002-40b7-ae46-085ce5d2d8b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "425c474b-9002-40b7-ae46-085ce5d2d8b8",
+                    "title": "Across the Universe (take 8 Si Into take 8)",
+                    "length": "218435"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "951d474d-c693-4cb5-82ab-2b3f5ca7e800",
+                "direction": "backward",
+                "recording": {
+                    "id": "951d474d-c693-4cb5-82ab-2b3f5ca7e800",
+                    "title": "Across the Universe (take 8, Rm 2 'Hums Wild')",
+                    "length": "234031"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e9f1bd4-1de7-4afe-afff-24fda9aff062",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e9f1bd4-1de7-4afe-afff-24fda9aff062",
+                    "title": "Across the Universe (take 9)",
+                    "length": "209360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0a6a730-cf8d-4a48-8650-53abb41e9d7b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0a6a730-cf8d-4a48-8650-53abb41e9d7b",
+                    "title": "Across the Universe (triple j Like A Version)",
+                    "length": "246173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05d6e4ff-5d18-4ec2-b966-f94d7f0df63a",
+                "direction": "backward",
+                "recording": {
+                    "id": "05d6e4ff-5d18-4ec2-b966-f94d7f0df63a",
+                    "title": "Across the Universe (Wildlife)",
+                    "length": "241626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca1820bc-bf16-41b8-8b49-96540d0ed375",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ca1820bc-bf16-41b8-8b49-96540d0ed375",
+                    "title": "Across the Universe / Rock \u2019n\u2019 Roll Music",
+                    "length": "165626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b34edf88-d71f-4524-bf4e-d623169641c2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b34edf88-d71f-4524-bf4e-d623169641c2",
+                    "title": "Across the Universe / Tomorrow Never Knows"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-across-the-universe-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/564",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=179",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q342879",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "0adfae86-35e2-482e-b7f4-5e5488e7aef7",
+                "ordering-key": "2",
+                "direction": "backward",
+                "work": {
+                    "id": "0adfae86-35e2-482e-b7f4-5e5488e7aef7",
+                    "type": "Song",
+                    "title": "London Skies",
+                    "language": "zxx"
+                }
+            }
+        ]
+    }
+}

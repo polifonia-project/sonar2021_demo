@@ -1,0 +1,310 @@
+@prefix : <https://w3id.org/polifonia/ON/core> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix xs: <http://www.w3.org/2001/XMLSchema#> .
+@prefix cpv: <https://w3id.org/italia/onto/CPV/> .
+@prefix mp: <https://w3id.org/polifonia/ON/musical-performance/> .
+@prefix core: <https://w3id.org/polifonia/ON/core/> .
+
+:RecordingTriplesMap 
+    rml:logicalSource :RecordingSource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Recording/recording_{track_id}";
+        rr:class mp:Recording
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:hasRecordingPerformer;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Agent/{artist1_for_iri}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:hasRecordingPerformer;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Agent/{artist2_for_iri}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:hasRecordingPerformer;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Agent/{artist3_for_iri}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:hasRecordingPerformer;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Agent/{artist4_for_iri}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:hasTitle;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Title/{title_for_iri}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:hasSession;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Session/session_{track_id}_{recording_places[*].session_id}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:hasYoutubeID;
+        rr:objectMap [
+            rml:reference "youtube_id";
+            rr:datatype xs:string;        ]
+    ] .
+
+
+:Agent1TriplesMap 
+    rml:logicalSource :Agent1Source ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Agent/{artist1_for_iri}";
+        rr:class core:Agent
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "artist1";
+            rr:datatype xs:string;
+        ]
+    ] .
+
+:Agent2TriplesMap 
+    rml:logicalSource :Agent2Source ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Agent/{artist2_for_iri}";
+        rr:class core:Agent
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "artist2";
+            rr:datatype xs:string;
+        ]
+    ] .
+
+:Agent3TriplesMap 
+    rml:logicalSource :Agent3Source ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Agent/{artist3_for_iri}";
+        rr:class core:Agent
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "artist3";
+            rr:datatype xs:string;
+        ]
+    ] .
+
+
+:TitleTriplesMap 
+    rml:logicalSource :TitleSource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Title/{title_for_iri}";
+        rr:class core:Title
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "title";
+            rr:datatype xs:string;
+        ]
+    ] .
+
+
+:SessionTriplesMap 
+    rml:logicalSource :SessionSource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Session/{session_id}";
+        rr:class mp:Session
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:hasType;
+        rr:objectMap [
+            rr:template "{session_type}"
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate mp:isSessionOfRecording;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Recording/recording_{ref_id}"
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:hasTimeInterval;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/TimeInterval/ti_{session_id}"
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:hasPlace;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_{place.id}" 
+        ]
+    ] .
+
+
+:TimeIntervalTriplesMap 
+    rml:logicalSource :TimeIntervalSource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/TimeInterval/ti_{session_id}";
+        rr:class core:TimeInterval
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:startTime;
+        rr:objectMap [
+            rml:reference "begin"
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:endTime;
+        rr:objectMap [
+            rml:reference "end"
+        ]
+    ] .
+
+
+
+:PhysicalSitesTriplesMap 
+    rml:logicalSource :PhysicalSiteSource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/PhysicalSite/physical_site_{id}";
+        rr:class core:PhysicalSite
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "name";
+            rr:datatype xs:string;
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:hasAddress;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Address/address_{id}" 
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:hasGeometry;
+        rr:objectMap [
+            rr:template "https://w3id.org/polifonia/resource/Geometry/geometry_{id}" 
+        ]
+    ] .
+
+
+:AddressTriplesMap 
+    rml:logicalSource :AddressSource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Address/address_{id}";
+        rr:class core:Address 
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate rdfs:label;
+        rr:objectMap [
+            rml:reference "address";
+            rr:datatype xs:string;
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:fullAddress;
+        rr:objectMap [
+            rml:reference "address";
+            rr:datatype xs:string;
+        ]
+    ] .
+
+
+:GeometryTriplesMap 
+    rml:logicalSource :GeometrySource ;
+    rr:subjectMap [
+        rr:template "https://w3id.org/polifonia/resource/Geometry/geometry_{id}";
+        rr:class core:Geometry
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:lat;
+        rr:objectMap [
+            rml:reference "coordinates.latitude";
+            rr:datatype xs:decimal;
+        ]
+    ] ;
+
+    rr:predicateObjectMap [
+        rr:predicate core:long;
+        rr:objectMap [
+            rml:reference "coordinates.longitude";
+            rr:datatype xs:decimal;
+        ]
+    ] .
+
+:RecordingSource rml:source "./sources/full_input.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*]" .
+
+:Agent1Source rml:source "./sources/full_input2a.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*]" .
+
+:Agent2Source rml:source "./sources/full_input2b.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*]" .
+
+:Agent3Source rml:source "./sources/full_input2c.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*]" .
+
+:TitleSource rml:source "./sources/full_input3.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*]" .
+
+:SessionSource rml:source "./sources/full_input4.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*].recording_places[*]" .
+
+:SessionTypeSource rml:source "./sources/full_input5.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*].recording_places[*]" .
+
+:PhysicalSiteSource rml:source "./sources/full_input6.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*].recording_places[*].place" .
+
+:GeometrySource rml:source "./sources/full_input7.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*].recording_places[*].place" .
+
+:AddressSource rml:source "./sources/full_input8.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*].recording_places[*].place" .
+
+:TimeIntervalSource rml:source "./sources/full_input9.json";
+    rml:referenceFormulation ql:JSONPath ;
+    rml:iterator "$.tracks[*].recording_places[*]" .

@@ -1,0 +1,283 @@
+{
+    "work": {
+        "id": "a789a62d-2010-47f0-91ca-cee6af028ff3",
+        "type": "Song",
+        "title": "I\u2019m Going Slightly Mad",
+        "language": "eng",
+        "iswc": "T-010.156.314-7",
+        "iswc-list": [
+            "T-010.156.314-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "654430"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce9463ae-2e5c-45c3-804f-486ad00b99e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce9463ae-2e5c-45c3-804f-486ad00b99e5",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "231c31af-4762-4024-8494-4f17f1627852",
+                "direction": "backward",
+                "recording": {
+                    "id": "231c31af-4762-4024-8494-4f17f1627852",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b16d8128-b667-4c3b-aa8a-db24cc16ce9f",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b16d8128-b667-4c3b-aa8a-db24cc16ce9f",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb789791-d064-4fd6-872c-3ac2b12bf29b",
+                "direction": "backward",
+                "recording": {
+                    "id": "bb789791-d064-4fd6-872c-3ac2b12bf29b",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3da1151-698f-4fcd-93f5-7eaa2835b4d2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d3da1151-698f-4fcd-93f5-7eaa2835b4d2",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "268306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "362bb308-f312-475c-bd13-7dfe4c473a91",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "362bb308-f312-475c-bd13-7dfe4c473a91",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "265586",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4817f35-f4bb-4d1e-9c82-b93fca58f764",
+                "direction": "backward",
+                "recording": {
+                    "id": "c4817f35-f4bb-4d1e-9c82-b93fca58f764",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "262133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdf31478-b454-4acf-bdab-bcb59b41ada8",
+                "direction": "backward",
+                "recording": {
+                    "id": "bdf31478-b454-4acf-bdab-bcb59b41ada8",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "262000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47da04de-0329-4189-8f7e-98e8f22d1804",
+                "direction": "backward",
+                "recording": {
+                    "id": "47da04de-0329-4189-8f7e-98e8f22d1804",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "74000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27fd84a2-daf6-4ecf-81ad-fdfb52a668ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "27fd84a2-daf6-4ecf-81ad-fdfb52a668ae",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "247960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86bf2aa1-9c32-4ae7-b728-c8e66a6a8111",
+                "direction": "backward",
+                "recording": {
+                    "id": "86bf2aa1-9c32-4ae7-b728-c8e66a6a8111",
+                    "title": "I\u2019m Going Slightly Mad",
+                    "length": "250240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10b3760f-56e0-4b8e-9714-9dd3280688bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "10b3760f-56e0-4b8e-9714-9dd3280688bb",
+                    "title": "I\u2019m Going Slightly Mad (edit)",
+                    "length": "77000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "756db439-6e58-4c35-b036-1121a5a99d29",
+                "direction": "backward",
+                "recording": {
+                    "id": "756db439-6e58-4c35-b036-1121a5a99d29",
+                    "title": "I\u2019m Going Slightly Mad (Mad mix)",
+                    "length": "277853",
+                    "disambiguation": "2011 remaster"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q565479",
+                "direction": "backward"
+            }
+        ]
+    }
+}

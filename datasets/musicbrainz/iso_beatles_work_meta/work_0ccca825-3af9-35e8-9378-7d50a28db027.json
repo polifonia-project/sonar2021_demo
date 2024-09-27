@@ -1,0 +1,2832 @@
+{
+    "work": {
+        "id": "0ccca825-3af9-35e8-9378-7d50a28db027",
+        "type": "Song",
+        "title": "When I\u2019m Sixty\u2010Four",
+        "language": "eng",
+        "iswc": "T-900.306.439-9",
+        "iswc-list": [
+            "T-900.306.439-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SABAM ID",
+                "value": "001114603"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "242954EM"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "1644238"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "When I Am 64",
+                "type": "Search hint",
+                "alias": "When I Am 64"
+            },
+            {
+                "sort-name": "When I\u2019m 64",
+                "alias": "When I\u2019m 64"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "begin": "1967",
+                "end": "1967",
+                "ended": "true",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e85a125a-590d-49d1-9bf5-24ded034e52a",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-06",
+                "ended": "true",
+                "recording": {
+                    "id": "e85a125a-590d-49d1-9bf5-24ded034e52a",
+                    "title": "When I\u2019m Sixty-Four (take 2)",
+                    "length": "181160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d102107-ccfb-4796-8d0f-8e5c3bf9ef8e",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-06",
+                "ended": "true",
+                "recording": {
+                    "id": "4d102107-ccfb-4796-8d0f-8e5c3bf9ef8e",
+                    "title": "When I\u2019m Sixty\u2010Four (take 2)",
+                    "length": "178653"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "163cf257-2f13-4766-8bd4-3c4da5351ea1",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-21",
+                "ended": "true",
+                "recording": {
+                    "id": "163cf257-2f13-4766-8bd4-3c4da5351ea1",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "160000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0a9faaf-7720-4c9c-8bbd-a83d080104bf",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-21",
+                "ended": "true",
+                "recording": {
+                    "id": "e0a9faaf-7720-4c9c-8bbd-a83d080104bf",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "160000",
+                    "disambiguation": "5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d31ac841-ad33-4799-81d4-3a42b3d2decb",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-21",
+                "ended": "true",
+                "recording": {
+                    "id": "d31ac841-ad33-4799-81d4-3a42b3d2decb",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "160013",
+                    "disambiguation": "2017 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e85ecce-1205-40d5-acc8-acadc211069a",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-21",
+                "ended": "true",
+                "recording": {
+                    "id": "4e85ecce-1205-40d5-acc8-acadc211069a",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "162360",
+                    "disambiguation": "1999 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ead437b8-ea12-494a-a9db-fb7b92b0367d",
+                "direction": "backward",
+                "begin": "1966-12-06",
+                "end": "1966-12-21",
+                "ended": "true",
+                "recording": {
+                    "id": "ead437b8-ea12-494a-a9db-fb7b92b0367d",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "158000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3502a25b-26a0-4677-b83c-6c144968a41e",
+                "direction": "backward",
+                "begin": "1968-01-17",
+                "end": "1968-01-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3502a25b-26a0-4677-b83c-6c144968a41e",
+                    "title": "When I'm 64",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4371388c-5b72-444d-9aa5-50e2433acbae",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "medley",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "4371388c-5b72-444d-9aa5-50e2433acbae",
+                    "title": "When I'm Sixty-Four / Speak to Me 7.68",
+                    "length": "70000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac776dff-ed20-41f4-8317-d81b89d6d75c",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ac776dff-ed20-41f4-8317-d81b89d6d75c",
+                    "title": "When I'm Sixty-Four 7.67",
+                    "length": "32000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "187d36b3-d57a-4c5a-8eae-2d7319d53859",
+                "direction": "backward",
+                "begin": "1984-09",
+                "end": "1984-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "187d36b3-d57a-4c5a-8eae-2d7319d53859",
+                    "title": "When I'm Sixty-Four",
+                    "length": "174733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e131557-6421-4ff8-be16-a06ba719eabf",
+                "direction": "backward",
+                "begin": "1995-10-26",
+                "end": "1995-10-27",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3e131557-6421-4ff8-be16-a06ba719eabf",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "193293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6cd79df-2bbb-4f96-98b6-30125c8d6988",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d6cd79df-2bbb-4f96-98b6-30125c8d6988",
+                    "title": "When I'm Sixty-Four",
+                    "length": "181000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc573a3e-1c56-465a-ace2-5412fd909b36",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fc573a3e-1c56-465a-ace2-5412fd909b36",
+                    "title": "When I'm Sixty-Four",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32e373a3-99b7-4146-9718-d7f7fa0aa1d7",
+                "direction": "backward",
+                "begin": "2016-10",
+                "end": "2016-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32e373a3-99b7-4146-9718-d7f7fa0aa1d7",
+                    "title": "When I'm Sixty Four",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5eaed345-97c6-44ab-8545-6f3955309b14",
+                "ordering-key": "6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "5eaed345-97c6-44ab-8545-6f3955309b14",
+                    "title": "A Beatles Overture (medley)",
+                    "length": "587973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "939d72c0-1bad-4c32-bc10-009d3772a278",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "939d72c0-1bad-4c32-bc10-009d3772a278",
+                    "title": "Medley: Ramblin\u2019 Rose / King of the Road / I\u2019d Like to Teach the World to Sing / Mammy / When I\u2019m 64",
+                    "length": "318786"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0b4790d-4443-42c6-8125-3f17a715ca1b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0b4790d-4443-42c6-8125-3f17a715ca1b",
+                    "title": "When I Am 64",
+                    "length": "215000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc0d14fd-1d13-4ee2-865f-3b274c53bd4c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc0d14fd-1d13-4ee2-865f-3b274c53bd4c",
+                    "title": "When I Was 64",
+                    "length": "106000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5166e51-5c97-4dff-ac3a-c5047fcc0738",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5166e51-5c97-4dff-ac3a-c5047fcc0738",
+                    "title": "When I'm 64",
+                    "length": "139933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1c49678-e32a-45f7-81a4-3994fccfd584",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1c49678-e32a-45f7-81a4-3994fccfd584",
+                    "title": "When I'm 64"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "959b19db-2d59-498d-9c12-50abe49b91c1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "959b19db-2d59-498d-9c12-50abe49b91c1",
+                    "title": "When I'm 64",
+                    "length": "183333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9fa5eb6f-6244-4c5f-b376-d03df5a7252d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9fa5eb6f-6244-4c5f-b376-d03df5a7252d",
+                    "title": "When I'm 64",
+                    "length": "114000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbb4c5c5-a72d-4d49-a930-c4ad6c6cff4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bbb4c5c5-a72d-4d49-a930-c4ad6c6cff4d",
+                    "title": "When I'm 64",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ce1dc10-9c35-4631-b5be-c0dfd5683501",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9ce1dc10-9c35-4631-b5be-c0dfd5683501",
+                    "title": "When I'm 64",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c01b482-7127-4f62-8913-22f315932a17",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c01b482-7127-4f62-8913-22f315932a17",
+                    "title": "When I'm 64",
+                    "length": "245733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51d2d6d1-bb01-4c3e-ba8b-98333c07e5c7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "51d2d6d1-bb01-4c3e-ba8b-98333c07e5c7",
+                    "title": "When I'm 64",
+                    "length": "164440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fbb04c5-724c-417a-9c1d-12a6aea303b8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6fbb04c5-724c-417a-9c1d-12a6aea303b8",
+                    "title": "When I'm 64",
+                    "length": "196360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9905243-7175-47d9-8886-91e3ae45289b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c9905243-7175-47d9-8886-91e3ae45289b",
+                    "title": "When I'm 64",
+                    "length": "277866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "154f9836-6de0-47ef-bdb2-8546f27cf47a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "154f9836-6de0-47ef-bdb2-8546f27cf47a",
+                    "title": "When I'm 64",
+                    "length": "170200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "922ecb43-0b9a-4adf-93c9-0d24c5b7914f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "922ecb43-0b9a-4adf-93c9-0d24c5b7914f",
+                    "title": "When I'm 64",
+                    "length": "183226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "288f02d1-d286-42d4-8f75-4871baf39393",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "288f02d1-d286-42d4-8f75-4871baf39393",
+                    "title": "When I'm 64",
+                    "length": "177866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e820e94d-7152-401e-9c06-22c334396d52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e820e94d-7152-401e-9c06-22c334396d52",
+                    "title": "When I'm 64",
+                    "length": "152960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "900d58c6-3da4-4853-b2ab-72e388f03d3a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "900d58c6-3da4-4853-b2ab-72e388f03d3a",
+                    "title": "When I'm 64",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "397c1f47-4d67-4057-86d2-b18dd7ada389",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "397c1f47-4d67-4057-86d2-b18dd7ada389",
+                    "title": "When I'm 64",
+                    "length": "167040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "307e0990-730f-4e11-ba77-c4e5646a4129",
+                "direction": "backward",
+                "recording": {
+                    "id": "307e0990-730f-4e11-ba77-c4e5646a4129",
+                    "title": "When I'm Sixty Four",
+                    "length": "172160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cda1a4d9-1b13-4f12-9bb9-6d1435d8fcde",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cda1a4d9-1b13-4f12-9bb9-6d1435d8fcde",
+                    "title": "When I'm Sixty Four",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "facb0b40-e488-44b2-aec0-986a1aa03cd9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "facb0b40-e488-44b2-aec0-986a1aa03cd9",
+                    "title": "When I'm Sixty Four"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af1b2e65-44aa-431e-ba4d-5ae1c7da8471",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af1b2e65-44aa-431e-ba4d-5ae1c7da8471",
+                    "title": "When I'm Sixty Four",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4190206-dc4b-42bf-b0cb-81be13045717",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b4190206-dc4b-42bf-b0cb-81be13045717",
+                    "title": "When I'm Sixty Four",
+                    "length": "191186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "803acfdd-d54e-44fa-84f6-c7d847e59b00",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "803acfdd-d54e-44fa-84f6-c7d847e59b00",
+                    "title": "When I'm Sixty Four",
+                    "length": "162480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7bf7092-350b-47e1-842f-e888c0e5f62e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b7bf7092-350b-47e1-842f-e888c0e5f62e",
+                    "title": "When I'm Sixty Four",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a2026ec-128e-46e3-be6d-ee328042680a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6a2026ec-128e-46e3-be6d-ee328042680a",
+                    "title": "When I'm Sixty Four"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d69a8f5a-82e8-4a3f-b585-bd29e2b4c66b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d69a8f5a-82e8-4a3f-b585-bd29e2b4c66b",
+                    "title": "When I'm Sixty Four",
+                    "length": "159316"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29598c14-f222-4706-9829-497ddb059c86",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "29598c14-f222-4706-9829-497ddb059c86",
+                    "title": "When I'm Sixty Four",
+                    "length": "248133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28a7ccc8-89d6-4c32-86e9-54eb90ca431a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "28a7ccc8-89d6-4c32-86e9-54eb90ca431a",
+                    "title": "When I'm Sixty Four",
+                    "length": "151426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e00ce6d-998c-40fe-a0f4-ac495f357e73",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2e00ce6d-998c-40fe-a0f4-ac495f357e73",
+                    "title": "When I'm Sixty Four",
+                    "length": "145853"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf1818ce-ab21-4155-b0a5-4df52a1d301c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bf1818ce-ab21-4155-b0a5-4df52a1d301c",
+                    "title": "When I'm Sixty Four",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5016ea8-5698-4781-b168-62be3d0addbc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a5016ea8-5698-4781-b168-62be3d0addbc",
+                    "title": "When I'm Sixty Four",
+                    "length": "170053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d26e5af-397c-4ba9-8838-34a52710527d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5d26e5af-397c-4ba9-8838-34a52710527d",
+                    "title": "When I'm Sixty Four",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69a94989-d930-4741-bff4-afb567f38ab6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "69a94989-d930-4741-bff4-afb567f38ab6",
+                    "title": "When I'm Sixty Four",
+                    "length": "154920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2f08f20-34f2-48de-8581-8e58881b7951",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c2f08f20-34f2-48de-8581-8e58881b7951",
+                    "title": "When I'm Sixty Four",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4871b9ce-c69a-4325-b1c9-1b1450052527",
+                "direction": "backward",
+                "recording": {
+                    "id": "4871b9ce-c69a-4325-b1c9-1b1450052527",
+                    "title": "When I'm Sixty Four",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0cb7f6e-7625-4c79-8667-405a5b6ee15c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c0cb7f6e-7625-4c79-8667-405a5b6ee15c",
+                    "title": "When I'm Sixty Four",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "202a0732-fa8c-4806-aeb8-fe83e301fea6",
+                "direction": "backward",
+                "recording": {
+                    "id": "202a0732-fa8c-4806-aeb8-fe83e301fea6",
+                    "title": "When I'm Sixty Four (karaoke)",
+                    "length": "162000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4137da66-7d05-4c6a-a178-5e843fe7f582",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4137da66-7d05-4c6a-a178-5e843fe7f582",
+                    "title": "When I'm Sixty-four",
+                    "length": "181000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1fd7183a-1c92-4fd8-9b2a-d6fec9ef01f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1fd7183a-1c92-4fd8-9b2a-d6fec9ef01f7",
+                    "title": "When I'm Sixty-four",
+                    "length": "168693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc33a20e-83f4-4f4b-8361-c08bba238720",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cc33a20e-83f4-4f4b-8361-c08bba238720",
+                    "title": "When I'm Sixty-four",
+                    "length": "124000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c46d6fce-2cc8-4822-ac3d-a5cb5089057e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c46d6fce-2cc8-4822-ac3d-a5cb5089057e",
+                    "title": "When I'm Sixty-Four",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cf8666c-7c76-4436-b893-b60c13a8128e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8cf8666c-7c76-4436-b893-b60c13a8128e",
+                    "title": "When I'm Sixty-Four",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8795a039-62e1-42b7-aa0c-674f8f56d6a6",
+                "direction": "backward",
+                "recording": {
+                    "id": "8795a039-62e1-42b7-aa0c-674f8f56d6a6",
+                    "title": "When I'm Sixty-Four",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d57795b-c548-490e-a82a-42b5d8472ea1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4d57795b-c548-490e-a82a-42b5d8472ea1",
+                    "title": "When I'm Sixty-Four",
+                    "length": "131000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "743eed7f-e211-4569-ae4c-d4639bbe178b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "743eed7f-e211-4569-ae4c-d4639bbe178b",
+                    "title": "When I'm Sixty-Four",
+                    "length": "192866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27c85188-09f9-4197-9d74-6cda95fdb31d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "27c85188-09f9-4197-9d74-6cda95fdb31d",
+                    "title": "When I'm Sixty-Four"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d57b454c-6bad-4dff-b725-bdec843a7015",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d57b454c-6bad-4dff-b725-bdec843a7015",
+                    "title": "When I'm Sixty-Four"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f55f02ee-712e-470b-8845-ed77cd1d0436",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f55f02ee-712e-470b-8845-ed77cd1d0436",
+                    "title": "When I'm Sixty-Four",
+                    "length": "165706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d272cb53-8ab9-45cf-b962-9d87e242c35b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d272cb53-8ab9-45cf-b962-9d87e242c35b",
+                    "title": "When I'm Sixty-Four",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5290b958-0df8-4f2b-8b98-9468d0bcbf89",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5290b958-0df8-4f2b-8b98-9468d0bcbf89",
+                    "title": "When I'm Sixty-Four",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a7e2d8d-feee-4e62-81bc-e81bf59c6baf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6a7e2d8d-feee-4e62-81bc-e81bf59c6baf",
+                    "title": "When I'm Sixty-Four",
+                    "length": "217266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59f16fd4-2d7f-48bf-aaa1-f3639817d7af",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "59f16fd4-2d7f-48bf-aaa1-f3639817d7af",
+                    "title": "When I'm Sixty-Four",
+                    "length": "200706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39f9f199-c09a-48d9-acf6-7df3b1d1fa7a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "39f9f199-c09a-48d9-acf6-7df3b1d1fa7a",
+                    "title": "When I'm Sixty-Four",
+                    "length": "160666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6c1522f-edec-48c2-aa92-89cafdfd9617",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c6c1522f-edec-48c2-aa92-89cafdfd9617",
+                    "title": "When I'm Sixty-Four",
+                    "length": "193607"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd5a5e9d-40ea-4ab0-9853-49abf438ed18",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "dd5a5e9d-40ea-4ab0-9853-49abf438ed18",
+                    "title": "When I'm Sixty-Four",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f49b3c2-a98c-40d0-b3db-bd720b5e24f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2f49b3c2-a98c-40d0-b3db-bd720b5e24f6",
+                    "title": "When I'm Sixty-Four",
+                    "length": "163520"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3befeaf5-adfe-4cdd-8ecb-c0b8297625d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3befeaf5-adfe-4cdd-8ecb-c0b8297625d0",
+                    "title": "When I'm Sixty-Four",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "79d244ac-6056-475e-99c0-6cdc9c4684e3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "79d244ac-6056-475e-99c0-6cdc9c4684e3",
+                    "title": "When I'm Sixty-Four",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e1a272a-9d52-4bce-9fc9-de19ef03ba0e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5e1a272a-9d52-4bce-9fc9-de19ef03ba0e",
+                    "title": "When I'm Sixty-Four",
+                    "length": "160960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2148906e-bb84-4bf3-8205-0590cf867bc3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2148906e-bb84-4bf3-8205-0590cf867bc3",
+                    "title": "When I'm Sixty-Four",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44e08c85-cfaa-4119-af93-5071f250d09f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "44e08c85-cfaa-4119-af93-5071f250d09f",
+                    "title": "When I'm Sixty-Four",
+                    "length": "157040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de7dbf6f-44ae-48ad-9820-4e026ffc3696",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "de7dbf6f-44ae-48ad-9820-4e026ffc3696",
+                    "title": "When I'm Sixty-Four",
+                    "length": "162413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd6e5761-42db-468b-944b-93230fb48404",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd6e5761-42db-468b-944b-93230fb48404",
+                    "title": "When I'm Sixty-Four",
+                    "length": "160666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "367f5939-bdeb-434a-a6cb-7b4ef176004a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "367f5939-bdeb-434a-a6cb-7b4ef176004a",
+                    "title": "When I'm Sixty-Four",
+                    "length": "162066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95b505b1-4797-45cb-95a8-6764506765fb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "95b505b1-4797-45cb-95a8-6764506765fb",
+                    "title": "When I'm Sixty-Four",
+                    "length": "139575"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57cdd3ef-cdd0-4e17-b816-3d7a500b9d6c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "57cdd3ef-cdd0-4e17-b816-3d7a500b9d6c",
+                    "title": "When I'm Sixty-Four",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d80f9da-1a90-426e-b606-cdb6e97b7b4f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7d80f9da-1a90-426e-b606-cdb6e97b7b4f",
+                    "title": "When I'm Sixty-Four",
+                    "length": "188000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "327a2f0b-884a-46d3-9534-a0987c4d6f10",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "327a2f0b-884a-46d3-9534-a0987c4d6f10",
+                    "title": "When I'm Sixty-Four",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ce8cebc-3ec9-471c-aeaf-1d93d9c0824b",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ce8cebc-3ec9-471c-aeaf-1d93d9c0824b",
+                    "title": "When I'm Sixty-Four",
+                    "length": "286000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4de325c3-c479-484a-a3a8-474547d50f88",
+                "direction": "backward",
+                "recording": {
+                    "id": "4de325c3-c479-484a-a3a8-474547d50f88",
+                    "title": "When I'm Sixty-Four"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27801aed-8b2d-4e18-ad6a-045f00387bf9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "27801aed-8b2d-4e18-ad6a-045f00387bf9",
+                    "title": "When I'm Sixty-Four (extended dub mix)",
+                    "length": "334000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cadc039b-8776-4422-82ac-7360207e2d1e",
+                "direction": "backward",
+                "recording": {
+                    "id": "cadc039b-8776-4422-82ac-7360207e2d1e",
+                    "title": "When I'm Sixty-Four (mono speed corrected)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14fa3c2c-f84b-431c-8f77-a60b87d12178",
+                "direction": "backward",
+                "recording": {
+                    "id": "14fa3c2c-f84b-431c-8f77-a60b87d12178",
+                    "title": "When I'm Sixty-Four (mono version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5e6d536-c816-4cb5-9062-fd45803d1cfc",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5e6d536-c816-4cb5-9062-fd45803d1cfc",
+                    "title": "When I'm Sixty-Four (take 4 - complete, original speed)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e131cf0-7376-459b-98b3-72fe0fa8ab4a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4e131cf0-7376-459b-98b3-72fe0fa8ab4a",
+                    "title": "When I'm Sixty-Four (take 4, Rm 8)",
+                    "length": "160586"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08a810e1-9228-4cc2-9011-c635dcdabb79",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "08a810e1-9228-4cc2-9011-c635dcdabb79",
+                    "title": "When I'm Sixty-Four / Yellow Submarine",
+                    "length": "378000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3e44288-d8a7-49b3-afb7-b03a51b45bb5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e3e44288-d8a7-49b3-afb7-b03a51b45bb5",
+                    "title": "When I\u2019m 64",
+                    "length": "210173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8292146-5a96-4a06-b764-eb78d6b27be4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b8292146-5a96-4a06-b764-eb78d6b27be4",
+                    "title": "When I\u2019m 64",
+                    "length": "161920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "927660b2-2931-4606-b00a-ad2fca40a59f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "927660b2-2931-4606-b00a-ad2fca40a59f",
+                    "title": "When I\u2019m 64",
+                    "length": "208093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce780963-5e40-45db-9f09-02760855a445",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ce780963-5e40-45db-9f09-02760855a445",
+                    "title": "When I\u2019m 64",
+                    "length": "184426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd88dd70-ea4d-4c8a-b6d1-f2f6d89fb8fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd88dd70-ea4d-4c8a-b6d1-f2f6d89fb8fb",
+                    "title": "When I\u2019m 64 (Let It Be rehearsals)",
+                    "length": "86000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2addfae5-97f9-40f1-ae5c-b82e892b0554",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2addfae5-97f9-40f1-ae5c-b82e892b0554",
+                    "title": "When I\u2019m Sixty Four",
+                    "length": "163453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6d5ce99-9b6c-4a4b-8a4e-348b0ba6490a",
+                "direction": "backward",
+                "recording": {
+                    "id": "e6d5ce99-9b6c-4a4b-8a4e-348b0ba6490a",
+                    "title": "When I\u2019m Sixty Four"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ea14e6f-b974-4895-b330-d2849e87f4fa",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ea14e6f-b974-4895-b330-d2849e87f4fa",
+                    "title": "When I\u2019m Sixty Four",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "909e5bf8-4997-438a-bc47-64b1a2992a69",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "909e5bf8-4997-438a-bc47-64b1a2992a69",
+                    "title": "When I\u2019m Sixty Four",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98cf96ea-1c8b-42e4-98b0-09d93bb61702",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98cf96ea-1c8b-42e4-98b0-09d93bb61702",
+                    "title": "When I\u2019m Sixty Four",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3acb3fb4-ddb9-4e61-9c1c-4a06b64d6b20",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3acb3fb4-ddb9-4e61-9c1c-4a06b64d6b20",
+                    "title": "When I\u2019m Sixty Four",
+                    "length": "165506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e222fd9c-f903-4993-993b-0961dc4b4ebc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e222fd9c-f903-4993-993b-0961dc4b4ebc",
+                    "title": "When I\u2019m Sixty Four",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ff8835f-e71f-4250-82c3-050d0500a0e9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ff8835f-e71f-4250-82c3-050d0500a0e9",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "201224"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d12c0a4f-33d0-4390-a636-4d748794d8bd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d12c0a4f-33d0-4390-a636-4d748794d8bd",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "250000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b4b7123-7cc0-4295-9b3a-05a2073c939d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6b4b7123-7cc0-4295-9b3a-05a2073c939d",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8109a9e-5743-48c8-95e2-82f34a21aaaa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8109a9e-5743-48c8-95e2-82f34a21aaaa",
+                    "title": "When I\u2019m Sixty-Four"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ee53efb-cf19-4290-a3c7-ba2122ef181e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ee53efb-cf19-4290-a3c7-ba2122ef181e",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "167457"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d82e4ea7-70fd-4eb5-bd43-4db42a81b848",
+                "direction": "backward",
+                "recording": {
+                    "id": "d82e4ea7-70fd-4eb5-bd43-4db42a81b848",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "160493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "76e90040-8f18-4422-87a6-9e38d8072c6e",
+                "direction": "backward",
+                "recording": {
+                    "id": "76e90040-8f18-4422-87a6-9e38d8072c6e",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0b8060e-6a50-4bb1-9513-e710214a3cd4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b0b8060e-6a50-4bb1-9513-e710214a3cd4",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8664d5c6-d532-4647-a170-d00743935ff1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8664d5c6-d532-4647-a170-d00743935ff1",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "170000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11f9458b-4846-4c71-ae88-2d14d91aa5d0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "11f9458b-4846-4c71-ae88-2d14d91aa5d0",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "158493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b01b2173-a850-4a62-912d-80709ad3be10",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b01b2173-a850-4a62-912d-80709ad3be10",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "191693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5767d524-9ad2-443f-8bf7-aff744fc9c47",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5767d524-9ad2-443f-8bf7-aff744fc9c47",
+                    "title": "When I\u2019m Sixty-Four",
+                    "length": "308000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4f8bf63-8842-4cbd-a5c9-c6a788a6e67e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4f8bf63-8842-4cbd-a5c9-c6a788a6e67e",
+                    "title": "When I\u2019m Sixty-Four (Sgt. Pepper\u2019s)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60a6feb9-67d6-485f-8d57-3df203faf994",
+                "direction": "backward",
+                "recording": {
+                    "id": "60a6feb9-67d6-485f-8d57-3df203faf994",
+                    "title": "When I\u2019m Sixty\u2010four",
+                    "length": "159666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c53d282f-0490-4bd9-a431-81b7a588e37e",
+                "direction": "backward",
+                "recording": {
+                    "id": "c53d282f-0490-4bd9-a431-81b7a588e37e",
+                    "title": "When I\u2019m Sixty\u2010four",
+                    "length": "161666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e4d5586-ea4b-4b04-bb28-2fc773f3b529",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1e4d5586-ea4b-4b04-bb28-2fc773f3b529",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c642b704-68e1-4e3b-b2c1-3addf24c94bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c642b704-68e1-4e3b-b2c1-3addf24c94bb",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e5b936e-1ad2-4303-9e32-24ecbe455f95",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e5b936e-1ad2-4303-9e32-24ecbe455f95",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "162066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87ac6952-0524-42f6-8dfd-c2e2ef2337b4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "87ac6952-0524-42f6-8dfd-c2e2ef2337b4",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "length": "173696",
+                    "disambiguation": "live",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eaa22df6-cd22-4dc7-a3fd-bdd2f7eec8e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "eaa22df6-cd22-4dc7-a3fd-bdd2f7eec8e2",
+                    "title": "When I\u2019m Sixty\u2010Four (RM8 take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14514fb9-af43-4354-b909-23d29d7f6694",
+                "direction": "backward",
+                "recording": {
+                    "id": "14514fb9-af43-4354-b909-23d29d7f6694",
+                    "title": "When I\u2019m Sixty\u2010Four (RS1 take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ced7e96-5aaa-45d0-be4e-8c4d07e4ed37",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8ced7e96-5aaa-45d0-be4e-8c4d07e4ed37",
+                    "title": "When I\u2019m Sixty\u2010Four / Yellow Submarine",
+                    "length": "378174"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0033315950",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-when-im-sixty-four-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/1130",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=126",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1141022",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/When_I'm_Sixty-Four",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "7449b9fd-18a6-4163-ad92-c01a06c2b2fc",
+                "direction": "forward",
+                "work": {
+                    "id": "7449b9fd-18a6-4163-ad92-c01a06c2b2fc",
+                    "type": "Song",
+                    "title": "When I\u2019m Sixty\u2010Four",
+                    "language": "eng",
+                    "disambiguation": "for male voices, Hare"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "36a8485b-6f81-4aee-ade7-05c35e113e79",
+                "ordering-key": "6",
+                "direction": "backward",
+                "work": {
+                    "id": "36a8485b-6f81-4aee-ade7-05c35e113e79",
+                    "title": "All Together Now",
+                    "language": "eng",
+                    "disambiguation": "medley"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "f51367d8-2f7b-47bd-849f-594913f9d0c7",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "f51367d8-2f7b-47bd-849f-594913f9d0c7",
+                    "type": "Song",
+                    "title": "Wenn ich 64 bin",
+                    "language": "deu"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "2f10e2bd-6c8c-3f6a-86b6-75fa7824ea5c",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "2f10e2bd-6c8c-3f6a-86b6-75fa7824ea5c",
+                    "type": "Song",
+                    "title": "Dans 45 ans",
+                    "language": "fra"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "d4e426ce-331f-4eed-9311-c10ca017347a",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "d4e426ce-331f-4eed-9311-c10ca017347a",
+                    "type": "Song",
+                    "title": "Velhos no ano 2000",
+                    "language": "por"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "c7152e06-eba3-48cf-b966-d860fd872a96",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "c7152e06-eba3-48cf-b966-d860fd872a96",
+                    "type": "Song",
+                    "title": "Kaupungin harmain mies",
+                    "language": "fin"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "f2d35e9d-3e22-40bb-a599-f972cd158042",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "f2d35e9d-3e22-40bb-a599-f972cd158042",
+                    "type": "Song",
+                    "title": "N\u00e5r jeg er 65",
+                    "language": "dan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

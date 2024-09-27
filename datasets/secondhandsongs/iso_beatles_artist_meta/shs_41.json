@@ -1,0 +1,91 @@
+{
+    "entityType": "artist",
+    "entitySubType": "group",
+    "uri": "https://secondhandsongs.com/artist/41",
+    "commonName": "The Beatles",
+    "realName": null,
+    "birthDate": null,
+    "deathDate": null,
+    "picture": "https://secondhandsongs.com/picture/164954",
+    "homeCountry": "GB",
+    "comments": null,
+    "aliases": [
+        "The Beat Brothers",
+        "Die Beatles"
+    ],
+    "relations": [
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/1451",
+                "commonName": "George Harrison"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/7686",
+                "commonName": "Ringo Starr"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/588",
+                "commonName": "Paul McCartney"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/143",
+                "commonName": "John Lennon"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/32952",
+                "commonName": "Pete Best"
+            },
+            "comments": "Drums (1960-1962)"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/1087",
+                "commonName": "George Martin"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/65592",
+                "commonName": "The Quarrymen"
+            },
+            "comments": null
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/41/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/41/works",
+    "releases": "https://secondhandsongs.com/artist/41/releases"
+}

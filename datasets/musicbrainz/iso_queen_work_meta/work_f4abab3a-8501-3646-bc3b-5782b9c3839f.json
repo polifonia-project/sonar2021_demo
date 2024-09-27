@@ -1,0 +1,1181 @@
+{
+    "work": {
+        "id": "f4abab3a-8501-3646-bc3b-5782b9c3839f",
+        "type": "Song",
+        "title": "Flash",
+        "language": "eng",
+        "iswc": "T-010.069.522-4",
+        "iswc-list": [
+            "T-010.069.522-4"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "423592"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Flash's Theme",
+                "alias": "Flash's Theme"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "bb14d260-8044-421e-a7f4-322147f65088",
+                "direction": "backward",
+                "label": {
+                    "id": "bb14d260-8044-421e-a7f4-322147f65088",
+                    "type": "Publisher",
+                    "name": "Wide Music Inc.",
+                    "sort-name": "Wide Music Inc."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19b52366-217d-4078-b32c-387347dc4be2",
+                "direction": "backward",
+                "begin": "1981-02-28",
+                "end": "1981-02-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "19b52366-217d-4078-b32c-387347dc4be2",
+                    "title": "Flash\u2019s Theme",
+                    "length": "133613"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55676bba-85a9-4688-b067-f81d2467ea94",
+                "direction": "backward",
+                "begin": "1981-03-20",
+                "end": "1981-03-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "55676bba-85a9-4688-b067-f81d2467ea94",
+                    "title": "Flash / The Hero (live at Morumbi Stadium, 1981)",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f7b912c-5b3c-48a9-bc21-2c5bef826277",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3f7b912c-5b3c-48a9-bc21-2c5bef826277",
+                    "title": "Flash",
+                    "length": "131000",
+                    "disambiguation": "live, 1981-11-(24-25): Montreal Forum, Montreal, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb8d8aa4-4e7a-4f3c-bb4a-ffe4b6ab7bf7",
+                "direction": "backward",
+                "begin": "1981-11-24",
+                "end": "1981-11-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cb8d8aa4-4e7a-4f3c-bb4a-ffe4b6ab7bf7",
+                    "title": "Flash (live in Montreal, November 1981)",
+                    "length": "132053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cef91bde-f032-4b73-8a39-2c5726cfb66f",
+                "direction": "backward",
+                "begin": "1981-12-08",
+                "end": "1981-12-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cef91bde-f032-4b73-8a39-2c5726cfb66f",
+                    "title": "Flash",
+                    "length": "186866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "243ec5c2-0b0e-44d2-b353-c5a47abbc54c",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "243ec5c2-0b0e-44d2-b353-c5a47abbc54c",
+                    "title": "Flash",
+                    "length": "114173",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Buckinghamshire, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53f13e14-29b5-430b-b793-648c038a0222",
+                "direction": "backward",
+                "begin": "1982-06-05",
+                "end": "1982-06-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "53f13e14-29b5-430b-b793-648c038a0222",
+                    "title": "Flash",
+                    "length": "112682",
+                    "disambiguation": "live, 1982-06-05: Milton Keynes Bowl, Milton Keynes, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c78a4a4-ca19-4658-8dda-784835c1f0b3",
+                "direction": "backward",
+                "begin": "1982-07-28",
+                "end": "1982-07-28",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c78a4a4-ca19-4658-8dda-784835c1f0b3",
+                    "title": "Flash",
+                    "disambiguation": "live, 1982-07-28: Madison Square Gardens, New York City, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3dbbfffc-02bf-49c7-b0f6-cf67797c2629",
+                "direction": "backward",
+                "begin": "1982-10-19",
+                "end": "1982-10-19",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3dbbfffc-02bf-49c7-b0f6-cf67797c2629",
+                    "title": "Flash Gordon",
+                    "length": "169333",
+                    "disambiguation": "live, 1982-10-19: Kyuden Auditorium, Fukuoka, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85964dd8-a740-4aed-b29e-55b376f56dab",
+                "direction": "backward",
+                "begin": "1982-10-26",
+                "end": "1982-10-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "85964dd8-a740-4aed-b29e-55b376f56dab",
+                    "title": "Flash (intro)",
+                    "disambiguation": "live, 1982-10-26: Kosusai Tenjijo, Nagoya, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "909c26ad-562b-49ef-babc-80705bd558f9",
+                "direction": "backward",
+                "begin": "1982-11-03",
+                "end": "1982-11-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "909c26ad-562b-49ef-babc-80705bd558f9",
+                    "title": "Flash / The Hero (from Seibu Stadium, Tokyo, Japan \u2013 3rd November 1982)",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3c499d4-8c57-4409-90a2-587f45e62a6a",
+                "direction": "backward",
+                "begin": "1996-06-12",
+                "end": "1996-06-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b3c499d4-8c57-4409-90a2-587f45e62a6a",
+                    "title": "Blumen (inkl. \"Flash\" von Queen)",
+                    "length": "232000",
+                    "disambiguation": "live, 1996-06-12: Hugenottenhalle, Neu-Isenburg, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc124e2e-a798-4744-81dd-b06264f73461",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dc124e2e-a798-4744-81dd-b06264f73461",
+                    "title": "Flash",
+                    "length": "42000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0db9caaa-3873-47cc-81ad-921efabdbe64",
+                "direction": "backward",
+                "begin": "2005",
+                "end": "2005",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0db9caaa-3873-47cc-81ad-921efabdbe64",
+                    "title": "Flash",
+                    "length": "52000",
+                    "disambiguation": "We Will Rock You, 2005 K\u00f6ln cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f8af1f4-e953-45a7-8fff-e500b6c820ce",
+                "direction": "backward",
+                "begin": "2006-12-03",
+                "end": "2006-12-03",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5f8af1f4-e953-45a7-8fff-e500b6c820ce",
+                    "title": "Flash >",
+                    "length": "120000",
+                    "disambiguation": "live, 2006-12-03: Patriot Center, Fairfax, VA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12d92289-1f2a-49f3-b489-35d3c24f60a1",
+                "direction": "backward",
+                "begin": "2010-12-10",
+                "end": "2010-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "12d92289-1f2a-49f3-b489-35d3c24f60a1",
+                    "title": "Flash",
+                    "length": "232000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bde97d8d-72b3-470d-aa74-64d4f90586c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "bde97d8d-72b3-470d-aa74-64d4f90586c1",
+                    "title": "Flash",
+                    "length": "160666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12776d26-feb6-4783-b7be-06c4520a525c",
+                "direction": "backward",
+                "recording": {
+                    "id": "12776d26-feb6-4783-b7be-06c4520a525c",
+                    "title": "Flash",
+                    "length": "197666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e61e12a1-118a-4441-9a58-b5eaff2ce9bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "e61e12a1-118a-4441-9a58-b5eaff2ce9bc",
+                    "title": "Flash",
+                    "length": "168400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4942ebbe-84d9-409c-b14c-d87a9410acb2",
+                "direction": "backward",
+                "recording": {
+                    "id": "4942ebbe-84d9-409c-b14c-d87a9410acb2",
+                    "title": "Flash",
+                    "length": "177000",
+                    "disambiguation": "single version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d1de58e-e98d-401f-9f6d-58f8985ed680",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d1de58e-e98d-401f-9f6d-58f8985ed680",
+                    "title": "Flash",
+                    "length": "195160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5726de4-44d5-42b9-99bc-3f55b19a0390",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b5726de4-44d5-42b9-99bc-3f55b19a0390",
+                    "title": "Flash",
+                    "disambiguation": "live, 1981-01-15: Musikladen 59 TV broadcast",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c398ed40-52d8-4d83-971e-110d34c1aa8f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c398ed40-52d8-4d83-971e-110d34c1aa8f",
+                    "title": "Flash",
+                    "length": "171080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6155de5-6aab-4060-bac5-f04eac0ce3e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "e6155de5-6aab-4060-bac5-f04eac0ce3e2",
+                    "title": "Flash"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c86665d-bade-4a65-9b64-72df833efd1d",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c86665d-bade-4a65-9b64-72df833efd1d",
+                    "title": "Flash",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a23926e5-c6dd-4fbc-ba5e-5d24ae09d3f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a23926e5-c6dd-4fbc-ba5e-5d24ae09d3f7",
+                    "title": "Flash",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e90ba431-e707-4e3d-a156-8f52475fe0c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "e90ba431-e707-4e3d-a156-8f52475fe0c3",
+                    "title": "Flash",
+                    "length": "166160",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4c21b6f-c6ce-4234-9ce0-506f78518b51",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4c21b6f-c6ce-4234-9ce0-506f78518b51",
+                    "title": "Flash",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f7b7fd6-ffd7-4b65-8942-90c0a9bb7cff",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f7b7fd6-ffd7-4b65-8942-90c0a9bb7cff",
+                    "title": "Flash",
+                    "length": "197680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e59f767-103c-4191-a294-302e97d12de3",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e59f767-103c-4191-a294-302e97d12de3",
+                    "title": "Flash",
+                    "length": "197000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2ed8917-d167-42d2-b406-b1dda9856a40",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f2ed8917-d167-42d2-b406-b1dda9856a40",
+                    "title": "Flash",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "945ed768-3a20-4e2c-9123-6493f6ffd107",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "945ed768-3a20-4e2c-9123-6493f6ffd107",
+                    "title": "Flash",
+                    "length": "163613",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42c2d36a-9fde-45c5-8548-d03022ca062b",
+                "direction": "backward",
+                "recording": {
+                    "id": "42c2d36a-9fde-45c5-8548-d03022ca062b",
+                    "title": "Flash",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b29e7621-f025-4ec1-a2a6-bbf01044c50c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b29e7621-f025-4ec1-a2a6-bbf01044c50c",
+                    "title": "Flash",
+                    "length": "204574"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca5e2d63-90ea-4412-9e51-885be80933ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "ca5e2d63-90ea-4412-9e51-885be80933ae",
+                    "title": "Flash",
+                    "length": "210000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4644832-2a3e-42f6-a5ca-b15a54cdde43",
+                "direction": "backward",
+                "recording": {
+                    "id": "d4644832-2a3e-42f6-a5ca-b15a54cdde43",
+                    "title": "Flash",
+                    "length": "157693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4fbdcf6-615d-4604-bc85-2f29aac41019",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c4fbdcf6-615d-4604-bc85-2f29aac41019",
+                    "title": "Flash",
+                    "length": "166440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44076572-2982-4169-9474-ae5ef68913a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "44076572-2982-4169-9474-ae5ef68913a8",
+                    "title": "Flash (alternative Promo)",
+                    "length": "197680"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abf22294-783d-4e61-9942-30adf4a3e8cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "abf22294-783d-4e61-9942-30adf4a3e8cd",
+                    "title": "Flash (Electro mix)",
+                    "length": "442000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6440e541-185a-4deb-ab2b-ca43728d955e",
+                "direction": "backward",
+                "recording": {
+                    "id": "6440e541-185a-4deb-ab2b-ca43728d955e",
+                    "title": "Flash (Flash mix)",
+                    "length": "741000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5089468c-7670-49df-a399-b09993ee7ae0",
+                "direction": "backward",
+                "recording": {
+                    "id": "5089468c-7670-49df-a399-b09993ee7ae0",
+                    "title": "Flash (radio mix)",
+                    "length": "184266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "429cc876-2fa1-482f-b1b8-385c905576b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "429cc876-2fa1-482f-b1b8-385c905576b1",
+                    "title": "Flash (single mix)",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "401c8e8e-e579-4886-9820-75407c63cd60",
+                "direction": "backward",
+                "recording": {
+                    "id": "401c8e8e-e579-4886-9820-75407c63cd60",
+                    "title": "Flash (single version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68e71ce5-52e4-4c21-b974-2e9b1b620dec",
+                "direction": "backward",
+                "recording": {
+                    "id": "68e71ce5-52e4-4c21-b974-2e9b1b620dec",
+                    "title": "Flash (Smith and Selway remix)",
+                    "length": "440000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00483ce0-bc22-4fa5-b06d-bb2a68666f98",
+                "direction": "backward",
+                "recording": {
+                    "id": "00483ce0-bc22-4fa5-b06d-bb2a68666f98",
+                    "title": "Flash (Tomcraft remix)",
+                    "length": "208480",
+                    "disambiguation": "part of the \u201cClub System 27\u201d DJ-mix by djsvenlanvin.com"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48291320-5e75-4c20-bfb6-720b0ec5acdf",
+                "direction": "backward",
+                "recording": {
+                    "id": "48291320-5e75-4c20-bfb6-720b0ec5acdf",
+                    "title": "Flash (Tomcraft Remix)",
+                    "length": "267800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6742ef95-c447-4f2f-8a20-b020329feda4",
+                "direction": "backward",
+                "recording": {
+                    "id": "6742ef95-c447-4f2f-8a20-b020329feda4",
+                    "title": "Flash (Tomcraft Remix)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8b24370-198b-4718-86e9-fc2543e8a471",
+                "direction": "backward",
+                "recording": {
+                    "id": "a8b24370-198b-4718-86e9-fc2543e8a471",
+                    "title": "Flash Gordon (suite)",
+                    "length": "303000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "731ae7c6-8956-4026-9796-8c051b4f76e3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "731ae7c6-8956-4026-9796-8c051b4f76e3",
+                    "title": "Flash!",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc3bd39a-c12e-40be-916f-7b2ff97d88e3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cc3bd39a-c12e-40be-916f-7b2ff97d88e3",
+                    "title": "Flash!",
+                    "length": "279226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fc8bafd-3331-49cc-8e8a-fed7083c17b5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3fc8bafd-3331-49cc-8e8a-fed7083c17b5",
+                    "title": "Flash's Theme",
+                    "length": "337946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6279aea-59e6-49a5-8d3c-0f77f3d617d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d6279aea-59e6-49a5-8d3c-0f77f3d617d3",
+                    "title": "Flash\u2019s Theme",
+                    "length": "57000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46b9a01f-e3b7-4646-b9b1-a255bf42f391",
+                "direction": "backward",
+                "recording": {
+                    "id": "46b9a01f-e3b7-4646-b9b1-a255bf42f391",
+                    "title": "Flash\u2019s Theme",
+                    "length": "210000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d0c9926-b325-412f-adb6-5519bab52672",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d0c9926-b325-412f-adb6-5519bab52672",
+                    "title": "Flash\u2019s Theme",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1544c3e7-c874-4e99-ac86-df4825a4ae4c",
+                "direction": "backward",
+                "recording": {
+                    "id": "1544c3e7-c874-4e99-ac86-df4825a4ae4c",
+                    "title": "Flash\u2019s Theme (1991 remix by Mista Lawnge, 9.5)",
+                    "length": "402334"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d961097-c3c5-4220-99d7-383de0ff015d",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d961097-c3c5-4220-99d7-383de0ff015d",
+                    "title": "Flash\u2019s Theme (2007 High Octane Mix)",
+                    "length": "112000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ffa2385-98db-45b6-b5b2-d517063df2fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ffa2385-98db-45b6-b5b2-d517063df2fa",
+                    "title": "The Hero",
+                    "length": "174186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89341935-fea9-4dd3-9815-4a42af42d553",
+                "direction": "backward",
+                "recording": {
+                    "id": "89341935-fea9-4dd3-9815-4a42af42d553",
+                    "title": "Theme From Flash Gordon",
+                    "length": "400586",
+                    "disambiguation": "remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d767871-311c-429f-a1e5-dffcd72ca4d1",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d767871-311c-429f-a1e5-dffcd72ca4d1",
+                    "title": "Theme from Flash Gordon (One-Two Mix)",
+                    "length": "401240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e22a3eb9-64ed-4720-8345-f3e1e5b025d7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e22a3eb9-64ed-4720-8345-f3e1e5b025d7",
+                    "title": "Theme From Flash Gordon (One\u2010Two mix)",
+                    "length": "410000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/5475",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1001928",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "dc384b27-a6ef-34c5-8733-0044c9fc6d97",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "dc384b27-a6ef-34c5-8733-0044c9fc6d97",
+                    "title": "Bush"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "20c9e9d7-2ba2-35bb-a6b8-de05cc50279c",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "20c9e9d7-2ba2-35bb-a6b8-de05cc50279c",
+                    "title": "Schnapsflash"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                "direction": "backward",
+                "work": {
+                    "id": "3bc30f3c-dd6d-4d20-b368-2253afc050fe",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "deu",
+                    "disambiguation": "German version of the Queen musical"
+                }
+            }
+        ]
+    }
+}

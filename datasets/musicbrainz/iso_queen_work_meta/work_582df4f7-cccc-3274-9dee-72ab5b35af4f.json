@@ -1,0 +1,519 @@
+{
+    "work": {
+        "id": "582df4f7-cccc-3274-9dee-72ab5b35af4f",
+        "type": "Song",
+        "title": "Breakthru",
+        "language": "eng",
+        "iswc": "T-010.156.304-5",
+        "iswc-list": [
+            "T-010.156.304-5"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "149038"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Breakthrough",
+                "type": "Search hint",
+                "alias": "Breakthrough"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                "direction": "backward",
+                "artist": {
+                    "id": "a0b77a10-ecff-4b84-b1f3-008391038d67",
+                    "type": "Person",
+                    "name": "John Deacon",
+                    "sort-name": "Deacon, John"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c993c188-9ba5-46bc-ae2e-fde414fbffd8",
+                "direction": "backward",
+                "begin": "2006-12",
+                "end": "2006-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c993c188-9ba5-46bc-ae2e-fde414fbffd8",
+                    "title": "Breakthru",
+                    "length": "224000",
+                    "disambiguation": "live, 2006-12: Cafe Hahn, Koblenz, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e1c1878-126e-48dc-a958-c1650d3d5d78",
+                "direction": "backward",
+                "begin": "2007-04-14",
+                "end": "2007-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7e1c1878-126e-48dc-a958-c1650d3d5d78",
+                    "title": "Breakthru",
+                    "disambiguation": "live, 2007-04-14: H\u00fcckeswagen, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                    "title": "A Sample of Magic",
+                    "length": "556000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3aad1b3-137a-44f3-9ab4-c8b3767de468",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e3aad1b3-137a-44f3-9ab4-c8b3767de468",
+                    "title": "Breakthrough",
+                    "length": "248493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5bce584-6318-401f-ab22-696847112517",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e5bce584-6318-401f-ab22-696847112517",
+                    "title": "Breakthru",
+                    "length": "260920",
+                    "disambiguation": "live, 2012: Aleksanterin teatteri, Helsinki, Finland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa4de3e1-80c6-42ec-a94f-c7b9a4e729f0",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "aa4de3e1-80c6-42ec-a94f-c7b9a4e729f0",
+                    "title": "Breakthru",
+                    "length": "126973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87e3057c-34ba-4d4d-a63f-3dfd151ff1ed",
+                "direction": "backward",
+                "recording": {
+                    "id": "87e3057c-34ba-4d4d-a63f-3dfd151ff1ed",
+                    "title": "Breakthru",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34310138-b423-4ef7-a914-7972cee6a3d3",
+                "direction": "backward",
+                "recording": {
+                    "id": "34310138-b423-4ef7-a914-7972cee6a3d3",
+                    "title": "Breakthru",
+                    "length": "249000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4c30c53f-0a51-4cad-8401-0bff1da229b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "4c30c53f-0a51-4cad-8401-0bff1da229b7",
+                    "title": "Breakthru",
+                    "length": "248000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da42480e-ee19-42d3-8762-7019e9f14f7a",
+                "direction": "backward",
+                "recording": {
+                    "id": "da42480e-ee19-42d3-8762-7019e9f14f7a",
+                    "title": "Breakthru",
+                    "length": "342773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b60f07b3-863f-402f-b725-b61a848b3871",
+                "direction": "backward",
+                "recording": {
+                    "id": "b60f07b3-863f-402f-b725-b61a848b3871",
+                    "title": "Breakthru",
+                    "length": "253213"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38b39a4e-0537-4041-b031-759c6b15e218",
+                "direction": "backward",
+                "recording": {
+                    "id": "38b39a4e-0537-4041-b031-759c6b15e218",
+                    "title": "Breakthru",
+                    "length": "247093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9f5df0f-3d08-4c00-a37e-93d6d1482f38",
+                "direction": "backward",
+                "recording": {
+                    "id": "a9f5df0f-3d08-4c00-a37e-93d6d1482f38",
+                    "title": "Breakthru",
+                    "length": "249266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3eedb8b7-6e9d-4806-a4bc-e2b28e934213",
+                "direction": "backward",
+                "recording": {
+                    "id": "3eedb8b7-6e9d-4806-a4bc-e2b28e934213",
+                    "title": "Breakthru",
+                    "length": "265000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7961880c-2ab1-45d2-8abe-c7bc47ff54d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7961880c-2ab1-45d2-8abe-c7bc47ff54d1",
+                    "title": "Breakthru",
+                    "length": "252533",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "728eb651-8bb8-45f0-afc1-6b4244635752",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "728eb651-8bb8-45f0-afc1-6b4244635752",
+                    "title": "Breakthru",
+                    "length": "248760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bfb0c8c3-908d-4ad0-8355-3fb827ad8a02",
+                "direction": "backward",
+                "recording": {
+                    "id": "bfb0c8c3-908d-4ad0-8355-3fb827ad8a02",
+                    "title": "Breakthru",
+                    "length": "249101"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ee50f03-2c5e-4d71-85ca-4299217e7c26",
+                "direction": "backward",
+                "recording": {
+                    "id": "0ee50f03-2c5e-4d71-85ca-4299217e7c26",
+                    "title": "Breakthru",
+                    "length": "247000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae6cb599-c1ba-4cf6-95f1-89db9548b5f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae6cb599-c1ba-4cf6-95f1-89db9548b5f3",
+                    "title": "Breakthru (12\u2033 extended version)",
+                    "length": "342000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05638a36-e657-484c-816c-19126ce8c8c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "05638a36-e657-484c-816c-19126ce8c8c3",
+                    "title": "Breakthru (12\u2033 version)",
+                    "length": "347000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ccf397cd-1162-4c88-9c08-5692c6270cae",
+                "direction": "backward",
+                "recording": {
+                    "id": "ccf397cd-1162-4c88-9c08-5692c6270cae",
+                    "title": "Breakthru (12\u2033 version)",
+                    "length": "346440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd06a473-730d-4d24-8665-8e58edbad017",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd06a473-730d-4d24-8665-8e58edbad017",
+                    "title": "Breakthru (single version)",
+                    "length": "248000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a10ceff4-a3a1-4db5-a669-0d41e6fbaee1",
+                "direction": "backward",
+                "recording": {
+                    "id": "a10ceff4-a3a1-4db5-a669-0d41e6fbaee1",
+                    "title": "Breakthru (The Almost Now edit)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f5ce5f9-da1f-4ed6-914b-4de27359e3c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f5ce5f9-da1f-4ed6-914b-4de27359e3c6",
+                    "title": "Breakthru (The Almost Now edit)",
+                    "length": "231000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20bc0f3e-d8de-4f2a-80eb-c7dc2be3e377",
+                "direction": "backward",
+                "recording": {
+                    "id": "20bc0f3e-d8de-4f2a-80eb-c7dc2be3e377",
+                    "title": "Breakthru (The Almost Now edit)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89ed4df6-395b-46c3-b31f-cbcdd50e6433",
+                "direction": "backward",
+                "recording": {
+                    "id": "89ed4df6-395b-46c3-b31f-cbcdd50e6433",
+                    "title": "Breakthru (The Now edit)",
+                    "length": "216000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q849262",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "a018c931-af3c-4188-af7b-255e04de70b6",
+                "direction": "forward",
+                "work": {
+                    "id": "a018c931-af3c-4188-af7b-255e04de70b6",
+                    "type": "Song",
+                    "title": "Weus\u2019d a Herz hast wia a Bergwerk"
+                }
+            }
+        ]
+    }
+}

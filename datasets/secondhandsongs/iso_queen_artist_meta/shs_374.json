@@ -1,0 +1,78 @@
+{
+    "entityType": "artist",
+    "entitySubType": "group",
+    "uri": "https://secondhandsongs.com/artist/374",
+    "commonName": "Queen",
+    "realName": null,
+    "birthDate": null,
+    "deathDate": null,
+    "picture": "https://secondhandsongs.com/picture/116881",
+    "homeCountry": "GB",
+    "comments": "Iconic rock band that formed in London",
+    "aliases": [],
+    "relations": [
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/3621",
+                "commonName": "Roger Taylor [GB1]"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/3622",
+                "commonName": "John Deacon"
+            },
+            "comments": "(1971-1998)"
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/3304",
+                "commonName": "Brian May [GB]"
+            },
+            "comments": null
+        },
+        {
+            "relationName": "has as member",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/3337",
+                "commonName": "Freddie Mercury"
+            },
+            "comments": "(1970-1991)"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/3062",
+                "commonName": "Paul Rodgers"
+            },
+            "comments": "Played with Queen as vocalist from 2004 into 2009 after the death of [[artist|3337|Freddie Mercury]], but was never an official member of Queen."
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/15037",
+                "commonName": "Smile"
+            },
+            "comments": "Precursor group"
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/374/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/374/works",
+    "releases": "https://secondhandsongs.com/artist/374/releases"
+}

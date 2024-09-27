@@ -1,0 +1,97 @@
+{
+    "work": {
+        "id": "c5805cf1-6fe7-4f61-ab88-3d7085c324d3",
+        "type": "Song",
+        "title": "Blue Horizon",
+        "iswc": "T-003.006.330-9",
+        "iswc-list": [
+            "T-003.006.330-9"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "bf1b23ea-9b76-42cf-a5f6-4a691e81af5e",
+                "direction": "backward",
+                "artist": {
+                    "id": "bf1b23ea-9b76-42cf-a5f6-4a691e81af5e",
+                    "type": "Person",
+                    "name": "Sidney Bechet",
+                    "sort-name": "Bechet, Sidney"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4f7d6de-e863-4713-8b96-f4bddd58518b",
+                "direction": "backward",
+                "begin": "1944-12-20",
+                "end": "1944-12-20",
+                "ended": "true",
+                "recording": {
+                    "id": "e4f7d6de-e863-4713-8b96-f4bddd58518b",
+                    "title": "Blue horizon",
+                    "length": "262000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a278fcb-224c-4c63-9e65-48cf3f0c1232",
+                "direction": "backward",
+                "begin": "1944-12-20",
+                "end": "1944-12-20",
+                "ended": "true",
+                "recording": {
+                    "id": "6a278fcb-224c-4c63-9e65-48cf3f0c1232",
+                    "title": "Blue Horizon",
+                    "length": "269000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51c6f27d-04b3-49b4-b235-9d3606b3a116",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "51c6f27d-04b3-49b4-b235-9d3606b3a116",
+                    "title": "Blue Horizon",
+                    "length": "248000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28eac489-a2f8-4cf5-a05e-27149fbe23a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "28eac489-a2f8-4cf5-a05e-27149fbe23a5",
+                    "title": "Blue Horizon",
+                    "length": "268000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b523c8b7-2647-44c4-b73f-056b0151a515",
+                "direction": "backward",
+                "recording": {
+                    "id": "b523c8b7-2647-44c4-b73f-056b0151a515",
+                    "title": "Blue Horizon",
+                    "length": "262000"
+                }
+            }
+        ]
+    }
+}

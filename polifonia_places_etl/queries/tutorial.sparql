@@ -1,0 +1,51 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX fx:   <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz:  <http://sparql.xyz/facade-x/data/>
+PREFIX ont: <http://sparql.xyz/facade-x/example/>
+PREFIX xpath: <https://www.w3.org/TR/xpath-functions/>
+
+CONSTRUCT {
+ ?recordingEntity a ont:Recording ;
+    ont:creator ?artistEntity ;#
+	ont:relevantPlace ?placeEntity 
+	.
+ ?placeEntity a ont:Place ; 
+    ont:geometry ?geometryEntity
+   .
+ ?geometryEntity ont:latitude ?latitude .
+ ?geometryEntity ont:longitude ?longitude .
+}
+#SELECT ?place
+where {
+  service <x-sparql-anything:> {
+  	  fx:properties fx:location "./data/places.json" ;
+	  	fx:media-type "application/json" ;
+		fx:blank-nodes false
+		.
+#        "track_id": "00001",
+#        "artist_1": "The Beatles",
+#        "artist_for_iri_1": "the_beatles",
+#        "title": "I Saw Her Standing There",
+	  [] xyz:track%5Fid ?track_id ;
+	  	 ?pArtist ?artist ;
+		 ?pArtistForIri ?artistForIri ;
+		 xyz:title ?title ;
+		 xyz:recording%5Fplaces ?places
+		 .
+		 FILTER(REGEX(STR(?pArtist),".*artist%5F[0-9]+$")) .
+		 FILTER(REGEX(STR(?pArtistForIri),".*artist%5Ffor%5Firi%5F[0-9]+$")) .
+		 
+		 ####
+		 ?places fx:anySlot [
+		 	xyz:place [ xyz:id ?placeId ; xyz:coordinates [ xyz:latitude ?latitude ; xyz:longitude ?longitude ]]]
+		 
+		 
+  }
+  BIND( IRI(CONCAT( STR(ont:) , "artist/", ?artistForIri)) AS ?artistEntity )
+  BIND( IRI(CONCAT( STR(ont:) , "recording/", ?track_id)) AS ?recordingEntity )
+  BIND( IRI(CONCAT( STR(ont:) , "place/", ?placeId)) AS ?placeEntity )
+  BIND( IRI(CONCAT( STR(ont:) , "geometry/", ?placeId)) AS ?geometryEntity )
+}

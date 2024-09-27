@@ -1,0 +1,2357 @@
+{
+    "work": {
+        "id": "fbd56819-db07-35c1-b445-b57b809138c3",
+        "type": "Song",
+        "title": "Hello, Goodbye",
+        "language": "eng",
+        "iswc": "T-010.433.902-7",
+        "iswc-list": [
+            "T-010.433.902-7"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 202 58"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5025"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12181066"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100150000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.072.424"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "591644"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "591644"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "217301"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3371141"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "017120235"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "63 983 612 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001182300"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "06722E"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634042-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "20475"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617614"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "2401029"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000042244"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "553627"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "380125837"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00300109"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "5181070"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243675"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "13209101"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "5939772"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0H0-4060-5"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Hello Goodbye",
+                "alias": "Hello Goodbye"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c2af0dd5-a406-481e-a415-748ee7d4e29d",
+                "direction": "backward",
+                "label": {
+                    "id": "c2af0dd5-a406-481e-a415-748ee7d4e29d",
+                    "type": "Publisher",
+                    "name": "Music Corporation of America, Inc.",
+                    "sort-name": "Music Corporation of America, Inc.",
+                    "disambiguation": "BMI-affiliated music publisher of MCA Records, Inc.?"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce2d05aa-34f3-451e-9946-a78473989a6b",
+                "direction": "backward",
+                "begin": "1967-10-02",
+                "end": "1967-10-19",
+                "ended": "true",
+                "recording": {
+                    "id": "ce2d05aa-34f3-451e-9946-a78473989a6b",
+                    "title": "Hello, Goodbye",
+                    "length": "197840",
+                    "disambiguation": "take 16"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b5ab5e3-5ef3-4c70-b0f3-74017c6f2622",
+                "direction": "backward",
+                "begin": "1967-10-02",
+                "end": "1967-11-02",
+                "ended": "true",
+                "recording": {
+                    "id": "4b5ab5e3-5ef3-4c70-b0f3-74017c6f2622",
+                    "title": "Hello Goodbye",
+                    "length": "207000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f76f968-0691-4556-a908-85956b4f4fe4",
+                "direction": "backward",
+                "begin": "1967-10-02",
+                "end": "1967-11-02",
+                "ended": "true",
+                "recording": {
+                    "id": "8f76f968-0691-4556-a908-85956b4f4fe4",
+                    "title": "Hello, Goodbye",
+                    "length": "209000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c8cafc3-e293-48b8-b6aa-cb6ad71e8b74",
+                "direction": "backward",
+                "begin": "1967-10-02",
+                "end": "1967-11-02",
+                "ended": "true",
+                "recording": {
+                    "id": "9c8cafc3-e293-48b8-b6aa-cb6ad71e8b74",
+                    "title": "Hello, Goodbye",
+                    "length": "207786",
+                    "disambiguation": "2015 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0dcde98-5b38-4eab-b8f9-9de9f7c88451",
+                "direction": "backward",
+                "begin": "1967-11",
+                "end": "1967-11",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c0dcde98-5b38-4eab-b8f9-9de9f7c88451",
+                    "title": "Hello Goodbye",
+                    "length": "195733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3651257-70f9-4261-9a15-2d9c913d43a0",
+                "direction": "backward",
+                "begin": "1970",
+                "end": "1970",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c3651257-70f9-4261-9a15-2d9c913d43a0",
+                    "title": "Hello Goodbye",
+                    "length": "221600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecd5a48a-c6c1-4c96-8b17-a301a5e47955",
+                "direction": "backward",
+                "begin": "1983-03",
+                "end": "1983-04",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ecd5a48a-c6c1-4c96-8b17-a301a5e47955",
+                    "title": "Hello Goodbye",
+                    "length": "152600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cc0eda3-5e7a-42f1-917a-d64716794cb0",
+                "direction": "backward",
+                "begin": "1983-03",
+                "end": "1983-04",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4cc0eda3-5e7a-42f1-917a-d64716794cb0",
+                    "title": "Hello Goodbye (Reprise)",
+                    "length": "80533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed1b6805-9c20-492a-9670-7190dec96de2",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ed1b6805-9c20-492a-9670-7190dec96de2",
+                    "title": "Hello Goodbye",
+                    "disambiguation": "live, 2002: USA Tour",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84bd2b36-d55b-4859-87c2-175c8ea11a04",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "84bd2b36-d55b-4859-87c2-175c8ea11a04",
+                    "title": "Hello Goodbye",
+                    "length": "226800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ba05d80-b3f1-4e0c-9ed3-3111a95354ac",
+                "direction": "backward",
+                "begin": "2003-06-01",
+                "end": "2003-06-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ba05d80-b3f1-4e0c-9ed3-3111a95354ac",
+                    "title": "Hello Goodbye",
+                    "disambiguation": "live, 2003-06-01: King's Dock, Liverpool, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4559d707-559b-4ef6-a97a-0e77d07e71de",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4559d707-559b-4ef6-a97a-0e77d07e71de",
+                    "title": "Hello Goodby (02.10.1967)",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e70876c1-28d2-4a4a-ab90-9eab92f62f2b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e70876c1-28d2-4a4a-ab90-9eab92f62f2b",
+                    "title": "hello goodbye",
+                    "length": "184000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b39466b9-1ee4-4672-a1ab-05949dfbf422",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b39466b9-1ee4-4672-a1ab-05949dfbf422",
+                    "title": "Hello Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8eb9efa0-e0ff-44e6-ab98-d7e208b9e31a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8eb9efa0-e0ff-44e6-ab98-d7e208b9e31a",
+                    "title": "Hello Goodbye",
+                    "length": "148960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6300dcb3-0e76-4469-b4bc-2b6ef7bc51fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6300dcb3-0e76-4469-b4bc-2b6ef7bc51fa",
+                    "title": "Hello Goodbye",
+                    "length": "122000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8806a1ac-b71b-4289-8a10-5d72aa6e63b7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8806a1ac-b71b-4289-8a10-5d72aa6e63b7",
+                    "title": "Hello Goodbye",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bab95c05-7ec8-450b-b565-6c0ff8d75e66",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bab95c05-7ec8-450b-b565-6c0ff8d75e66",
+                    "title": "Hello Goodbye",
+                    "length": "300106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13492cfc-deee-4879-a3ac-58891e33d1e3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "13492cfc-deee-4879-a3ac-58891e33d1e3",
+                    "title": "Hello Goodbye",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b971c36e-b7ce-4c37-95ca-a75b5de95db7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b971c36e-b7ce-4c37-95ca-a75b5de95db7",
+                    "title": "Hello Goodbye",
+                    "length": "122000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0291d855-cd28-459c-b648-749be578ae0d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0291d855-cd28-459c-b648-749be578ae0d",
+                    "title": "Hello Goodbye",
+                    "length": "203120"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d43dbc4-2ec2-44aa-ad54-fbd42638851f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2d43dbc4-2ec2-44aa-ad54-fbd42638851f",
+                    "title": "Hello Goodbye",
+                    "length": "118166"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f465bbcf-a64b-4236-afef-bf9df4f9ef4f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f465bbcf-a64b-4236-afef-bf9df4f9ef4f",
+                    "title": "Hello Goodbye",
+                    "length": "211013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "460eee4d-638f-4578-852f-d92ae0e53add",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "460eee4d-638f-4578-852f-d92ae0e53add",
+                    "title": "Hello Goodbye",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27ed1b83-4e94-4044-a601-bc774da50dc3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "27ed1b83-4e94-4044-a601-bc774da50dc3",
+                    "title": "Hello Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ca0935e-3f10-44d4-8676-2ea4d0d75622",
+                "direction": "backward",
+                "recording": {
+                    "id": "0ca0935e-3f10-44d4-8676-2ea4d0d75622",
+                    "title": "Hello Goodbye",
+                    "length": "206880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ab7d0e9-a1c2-420b-b27d-4022ae55ca27",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ab7d0e9-a1c2-420b-b27d-4022ae55ca27",
+                    "title": "Hello Goodbye",
+                    "length": "211000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6b09fbd-b656-471a-86bf-1f7779630fc7",
+                "direction": "backward",
+                "recording": {
+                    "id": "c6b09fbd-b656-471a-86bf-1f7779630fc7",
+                    "title": "Hello Goodbye",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "144d6e87-e3b9-43ce-b262-4bf6d4d8409a",
+                "direction": "backward",
+                "recording": {
+                    "id": "144d6e87-e3b9-43ce-b262-4bf6d4d8409a",
+                    "title": "Hello Goodbye",
+                    "length": "209000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72ace06b-4282-4b83-8f3a-f4ce805bfe53",
+                "direction": "backward",
+                "recording": {
+                    "id": "72ace06b-4282-4b83-8f3a-f4ce805bfe53",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbb37c70-5845-4f22-8bd2-9a29545a5058",
+                "direction": "backward",
+                "recording": {
+                    "id": "bbb37c70-5845-4f22-8bd2-9a29545a5058",
+                    "title": "Hello Goodbye",
+                    "length": "204000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb0bb21e-65ee-4b05-b3f5-cb5f7932bcf4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb0bb21e-65ee-4b05-b3f5-cb5f7932bcf4",
+                    "title": "Hello Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f2afca4-5aaf-4d24-ba3f-6270a4c7c3bb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3f2afca4-5aaf-4d24-ba3f-6270a4c7c3bb",
+                    "title": "Hello Goodbye",
+                    "length": "217000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a9bc3a0-ea86-4e12-a93d-4ea764711fa4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a9bc3a0-ea86-4e12-a93d-4ea764711fa4",
+                    "title": "Hello Goodbye",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fb724a1-8cf3-4708-b29d-51136fbaa670",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3fb724a1-8cf3-4708-b29d-51136fbaa670",
+                    "title": "Hello Goodbye",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7895d70-1339-45c1-8843-aae0f74b5197",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d7895d70-1339-45c1-8843-aae0f74b5197",
+                    "title": "Hello Goodbye",
+                    "length": "184866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1afd2ae0-d93d-4f96-8f3a-e7a566dd42e0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1afd2ae0-d93d-4f96-8f3a-e7a566dd42e0",
+                    "title": "Hello Goodbye",
+                    "length": "210626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "514457b2-a557-4ad6-a9bc-f91fcbe46a98",
+                "direction": "backward",
+                "recording": {
+                    "id": "514457b2-a557-4ad6-a9bc-f91fcbe46a98",
+                    "title": "Hello Goodbye",
+                    "length": "210840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d746771-7e10-484c-a03b-a437c485ec25",
+                "direction": "backward",
+                "recording": {
+                    "id": "4d746771-7e10-484c-a03b-a437c485ec25",
+                    "title": "Hello Goodbye",
+                    "length": "208875"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07db025c-7172-4686-b778-3eb39d88f7a2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "07db025c-7172-4686-b778-3eb39d88f7a2",
+                    "title": "Hello Goodbye",
+                    "length": "270160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96ec74ab-fa5e-4191-bed0-f9c96891957d",
+                "direction": "backward",
+                "recording": {
+                    "id": "96ec74ab-fa5e-4191-bed0-f9c96891957d",
+                    "title": "Hello Goodbye",
+                    "length": "242000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a74ecae2-c3cc-4bdc-9a77-33beb694fcdc",
+                "direction": "backward",
+                "recording": {
+                    "id": "a74ecae2-c3cc-4bdc-9a77-33beb694fcdc",
+                    "title": "Hello Goodbye",
+                    "length": "227295"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "338d65e9-e300-4326-8252-b47d36d2c399",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "338d65e9-e300-4326-8252-b47d36d2c399",
+                    "title": "Hello Goodbye",
+                    "length": "25000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6009f164-4fa3-40cc-bce8-66334168aa96",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6009f164-4fa3-40cc-bce8-66334168aa96",
+                    "title": "Hello Goodbye",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c0dcde98-5b38-4eab-b8f9-9de9f7c88451",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c0dcde98-5b38-4eab-b8f9-9de9f7c88451",
+                    "title": "Hello Goodbye",
+                    "length": "195733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5cd314d3-af3c-426e-aed1-b4dde0e57bc2",
+                "direction": "backward",
+                "recording": {
+                    "id": "5cd314d3-af3c-426e-aed1-b4dde0e57bc2",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb5e9ba0-6452-416c-8c9b-34ac8427984f",
+                "direction": "backward",
+                "recording": {
+                    "id": "fb5e9ba0-6452-416c-8c9b-34ac8427984f",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8efd94e5-45ab-416a-b945-64c8f4b4cbfa",
+                "direction": "backward",
+                "recording": {
+                    "id": "8efd94e5-45ab-416a-b945-64c8f4b4cbfa",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ec5608d-a55c-4f7a-a536-ee7508ecbf2a",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ec5608d-a55c-4f7a-a536-ee7508ecbf2a",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25135ba5-addd-4584-b2b9-52aafceb63e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "25135ba5-addd-4584-b2b9-52aafceb63e7",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6df6c127-2ede-4ac9-9eb9-dd27e8f2ba82",
+                "direction": "backward",
+                "recording": {
+                    "id": "6df6c127-2ede-4ac9-9eb9-dd27e8f2ba82",
+                    "title": "Hello Goodbye"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95aee71c-ca9a-4027-8bc2-7dafd98e8e46",
+                "direction": "backward",
+                "recording": {
+                    "id": "95aee71c-ca9a-4027-8bc2-7dafd98e8e46",
+                    "title": "Hello Goodbye",
+                    "length": "209000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfd905de-1a92-4622-8904-0cfe7daf5791",
+                "direction": "backward",
+                "recording": {
+                    "id": "cfd905de-1a92-4622-8904-0cfe7daf5791",
+                    "title": "Hello Goodbye",
+                    "length": "211000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e41dde88-b0b9-4b74-a98e-91ec7215331e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e41dde88-b0b9-4b74-a98e-91ec7215331e",
+                    "title": "Hello Goodbye",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7e91632-fb11-4633-b268-29a715ef95bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "b7e91632-fb11-4633-b268-29a715ef95bd",
+                    "title": "Hello Goodbye",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08fe1bcb-3fda-4a6e-89ee-4fe368daa2e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "08fe1bcb-3fda-4a6e-89ee-4fe368daa2e1",
+                    "title": "Hello Goodbye",
+                    "length": "209426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec161ae6-512a-4d71-ba96-4b28cedb416d",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec161ae6-512a-4d71-ba96-4b28cedb416d",
+                    "title": "Hello Goodbye",
+                    "length": "202000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fec176fc-0923-4bb3-bfb4-063c491e2567",
+                "direction": "backward",
+                "recording": {
+                    "id": "fec176fc-0923-4bb3-bfb4-063c491e2567",
+                    "title": "Hello Goodbye",
+                    "length": "201000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e036a5e-54ae-48a5-8013-516a4d635420",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e036a5e-54ae-48a5-8013-516a4d635420",
+                    "title": "Hello Goodbye",
+                    "length": "204000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb781775-9983-40de-8926-8119e1dbb269",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cb781775-9983-40de-8926-8119e1dbb269",
+                    "title": "Hello Goodbye",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1954618-fd77-4a8d-bed1-5a7c0a5ca3ea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a1954618-fd77-4a8d-bed1-5a7c0a5ca3ea",
+                    "title": "Hello Goodbye",
+                    "length": "192973"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7c54060-6a31-4d3e-af95-66824be6f624",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7c54060-6a31-4d3e-af95-66824be6f624",
+                    "title": "Hello Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca6db1e9-321f-4d72-bb93-7ae5344081bc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ca6db1e9-321f-4d72-bb93-7ae5344081bc",
+                    "title": "Hello Goodbye",
+                    "length": "144000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab451af0-3dd7-48fe-a0d3-2eb59c07365c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ab451af0-3dd7-48fe-a0d3-2eb59c07365c",
+                    "title": "Hello Goodbye",
+                    "length": "200000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f324060d-7c9f-4c44-8a34-21b8c1719b32",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f324060d-7c9f-4c44-8a34-21b8c1719b32",
+                    "title": "Hello Goodbye",
+                    "length": "176240"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0721d2ba-74d1-4033-8053-e037e2bb409a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0721d2ba-74d1-4033-8053-e037e2bb409a",
+                    "title": "Hello Goodbye",
+                    "length": "127000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb8d4690-1655-4c2b-bd89-e6c900b01afb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb8d4690-1655-4c2b-bd89-e6c900b01afb",
+                    "title": "Hello Goodbye",
+                    "length": "265933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7465b731-29f7-4571-a3c5-84e032605a02",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7465b731-29f7-4571-a3c5-84e032605a02",
+                    "title": "Hello Goodbye",
+                    "length": "211000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31eaf02f-96b7-402b-bce8-06822ef9543a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "31eaf02f-96b7-402b-bce8-06822ef9543a",
+                    "title": "Hello Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7911d3bb-7b20-473f-b7b5-948af5ba2a16",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7911d3bb-7b20-473f-b7b5-948af5ba2a16",
+                    "title": "Hello Goodbye",
+                    "length": "246893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a35a0e75-2da9-4df5-bd0d-559b5272a1ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a35a0e75-2da9-4df5-bd0d-559b5272a1ff",
+                    "title": "Hello Goodbye",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86dbcf1a-d7ed-4002-8215-43fa2691a23f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "86dbcf1a-d7ed-4002-8215-43fa2691a23f",
+                    "title": "Hello Goodbye",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1caf5ee1-2e2f-4dee-af40-6e2805d178cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "1caf5ee1-2e2f-4dee-af40-6e2805d178cc",
+                    "title": "Hello Goodbye (alternate version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20fd1031-3dbf-4bef-a373-e255207bcf80",
+                "direction": "backward",
+                "recording": {
+                    "id": "20fd1031-3dbf-4bef-a373-e255207bcf80",
+                    "title": "Hello Goodbye (Master)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a626a874-5818-4a2e-be40-dba089988291",
+                "direction": "backward",
+                "recording": {
+                    "id": "a626a874-5818-4a2e-be40-dba089988291",
+                    "title": "Hello Goodbye (RM6 Take 22)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7b6e024-1522-4e0c-8984-c60074fa4181",
+                "direction": "backward",
+                "recording": {
+                    "id": "c7b6e024-1522-4e0c-8984-c60074fa4181",
+                    "title": "Hello Goodbye (RS2 Take 22)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "206af70f-7b39-4d17-be26-dd73cc8ea3d7",
+                "direction": "backward",
+                "recording": {
+                    "id": "206af70f-7b39-4d17-be26-dd73cc8ea3d7",
+                    "title": "Hello Goodbye (RS2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6a22539-0a46-42be-b87b-7affc64d66c2",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6a22539-0a46-42be-b87b-7affc64d66c2",
+                    "title": "Hello Goodbye (stereo)",
+                    "length": "211000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f34a892-369a-494f-93d5-0c83e11afda0",
+                "direction": "backward",
+                "recording": {
+                    "id": "7f34a892-369a-494f-93d5-0c83e11afda0",
+                    "title": "Hello Goodbye (take 1 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d584216a-4ff4-416a-ab6a-1c5295a6d725",
+                "direction": "backward",
+                "recording": {
+                    "id": "d584216a-4ff4-416a-ab6a-1c5295a6d725",
+                    "title": "Hello Goodbye (take 1)",
+                    "length": "276400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69201fc4-ddf5-4fd6-bf6f-32a0a177f0da",
+                "direction": "backward",
+                "recording": {
+                    "id": "69201fc4-ddf5-4fd6-bf6f-32a0a177f0da",
+                    "title": "Hello Goodbye (take 16 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33addfc7-ea7f-46b7-a37c-a46754cd8969",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "33addfc7-ea7f-46b7-a37c-a46754cd8969",
+                    "title": "Hello, Good-Bye",
+                    "length": "315040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef8c2156-cf2c-4a6e-a452-7826ab0251ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ef8c2156-cf2c-4a6e-a452-7826ab0251ae",
+                    "title": "Hello, Goodbye",
+                    "length": "201000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "873f9c64-0366-43ca-a1f5-053560369103",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "873f9c64-0366-43ca-a1f5-053560369103",
+                    "title": "Hello, Goodbye",
+                    "length": "107066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2be613c8-d805-453d-80c9-4e815279a0d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2be613c8-d805-453d-80c9-4e815279a0d4",
+                    "title": "Hello, Goodbye",
+                    "length": "143600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd6bf10f-66e1-486f-ade9-4be2a0d3adc5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dd6bf10f-66e1-486f-ade9-4be2a0d3adc5",
+                    "title": "Hello, Goodbye",
+                    "length": "213080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4111a261-823d-4028-9a26-573080fd90db",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4111a261-823d-4028-9a26-573080fd90db",
+                    "title": "Hello, Goodbye",
+                    "length": "201000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a30930b5-0acc-4ab3-b8fd-97b1a344655f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a30930b5-0acc-4ab3-b8fd-97b1a344655f",
+                    "title": "Hello, Goodbye",
+                    "length": "206000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3b002e8-d6a7-4ba8-bb83-e46170a576c5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d3b002e8-d6a7-4ba8-bb83-e46170a576c5",
+                    "title": "Hello, Goodbye",
+                    "length": "206000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5aa12489-03e8-413c-b115-a37f87174715",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5aa12489-03e8-413c-b115-a37f87174715",
+                    "title": "Hello, Goodbye",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3f85f13-a359-4206-a651-81f928122da7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e3f85f13-a359-4206-a651-81f928122da7",
+                    "title": "Hello, Goodbye",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ea48352-fbd4-4cbc-a7c1-3355c3b3fced",
+                "direction": "backward",
+                "recording": {
+                    "id": "6ea48352-fbd4-4cbc-a7c1-3355c3b3fced",
+                    "title": "Hello, Goodbye",
+                    "length": "211826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a62192b2-ab7e-4841-a0f3-1ff8283714a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "a62192b2-ab7e-4841-a0f3-1ff8283714a0",
+                    "title": "Hello, Goodbye",
+                    "length": "225026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7704a374-05fe-46d3-9238-3a34701a0a8c",
+                "direction": "backward",
+                "recording": {
+                    "id": "7704a374-05fe-46d3-9238-3a34701a0a8c",
+                    "title": "Hello, Goodbye",
+                    "length": "207000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5103bb5b-c429-4328-b5ba-64fe5b67452c",
+                "direction": "backward",
+                "recording": {
+                    "id": "5103bb5b-c429-4328-b5ba-64fe5b67452c",
+                    "title": "Hello, Goodbye",
+                    "length": "194106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1700a811-3918-4031-9899-20fdbfe7eeb0",
+                "direction": "backward",
+                "recording": {
+                    "id": "1700a811-3918-4031-9899-20fdbfe7eeb0",
+                    "title": "Hello, Goodbye",
+                    "length": "199013"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a803f659-1818-40a7-9ac0-41f82847170c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a803f659-1818-40a7-9ac0-41f82847170c",
+                    "title": "Hello, Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed66a159-ee2f-4a11-be81-980ed586b880",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ed66a159-ee2f-4a11-be81-980ed586b880",
+                    "title": "Hello, Goodbye",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9bcabf5-cfb0-4f0a-b373-10fdac48c099",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d9bcabf5-cfb0-4f0a-b373-10fdac48c099",
+                    "title": "Hello, Goodbye",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4643c0ac-03b4-499e-b2fb-bff0d87e9458",
+                "direction": "backward",
+                "recording": {
+                    "id": "4643c0ac-03b4-499e-b2fb-bff0d87e9458",
+                    "title": "Hello, Goodbye",
+                    "length": "206000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "103ad497-a60c-46a2-ba14-8b172fd970a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "103ad497-a60c-46a2-ba14-8b172fd970a1",
+                    "title": "Hello, Goodbye",
+                    "length": "313226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f9c3257-2685-4c36-8720-92102d8a5e61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6f9c3257-2685-4c36-8720-92102d8a5e61",
+                    "title": "Hello, Goodbye",
+                    "length": "222000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4a0fdeb-ecc9-48db-b3d5-47ddc086cbf0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a4a0fdeb-ecc9-48db-b3d5-47ddc086cbf0",
+                    "title": "Hello, Goodbye",
+                    "length": "215827"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd55930d-ec5d-4ac6-8add-73cee81df901",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fd55930d-ec5d-4ac6-8add-73cee81df901",
+                    "title": "Hello, Goodbye",
+                    "length": "163866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ed3c04b-8fe2-4b31-8b9c-8ab3fc52318e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7ed3c04b-8fe2-4b31-8b9c-8ab3fc52318e",
+                    "title": "Hello, Goodbye",
+                    "length": "163866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6920ce63-e28b-4c44-ac64-dcba57444ad6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6920ce63-e28b-4c44-ac64-dcba57444ad6",
+                    "title": "Hello, Goodbye",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dcea48d4-e0f6-426e-8d7e-536f3b0973f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dcea48d4-e0f6-426e-8d7e-536f3b0973f6",
+                    "title": "Hello, Goodbye",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a544d53-d4b1-4bc6-ba0b-d86b6a4be87d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0a544d53-d4b1-4bc6-ba0b-d86b6a4be87d",
+                    "title": "Hello, Goodbye"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5a68ac0-6661-4dbd-b7e6-ff3446e66a87",
+                "direction": "backward",
+                "recording": {
+                    "id": "d5a68ac0-6661-4dbd-b7e6-ff3446e66a87",
+                    "title": "Hello, Goodbye (5.1 mix)",
+                    "length": "206000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d37a273f-fdc4-483f-9b43-a177193d9cc6",
+                "direction": "backward",
+                "recording": {
+                    "id": "d37a273f-fdc4-483f-9b43-a177193d9cc6",
+                    "title": "Hello, Goodbye (1982 stereo remix)",
+                    "length": "202133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2af7afeb-c20e-49cc-a9e8-e528adbddf35",
+                "direction": "backward",
+                "recording": {
+                    "id": "2af7afeb-c20e-49cc-a9e8-e528adbddf35",
+                    "title": "Hello, Goodbye (alternate version 1)",
+                    "length": "211600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61dcd4bc-e333-4337-a30d-be89c7eaa8ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "61dcd4bc-e333-4337-a30d-be89c7eaa8ac",
+                    "title": "Hello, Goodbye (alternate version 2)",
+                    "length": "211760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a46e9bee-86f8-42e0-a5e9-60368991cf83",
+                "direction": "backward",
+                "recording": {
+                    "id": "a46e9bee-86f8-42e0-a5e9-60368991cf83",
+                    "title": "Hello, Goodbye (commentary by Paul)",
+                    "length": "209000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "426bac10-8bbe-4fed-a0cd-0b9158bb81f3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "426bac10-8bbe-4fed-a0cd-0b9158bb81f3",
+                    "title": "Hello, Goodbye (instrumental)",
+                    "length": "206000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f46131e-cd14-4ebb-ba08-94ca4620075a",
+                "direction": "backward",
+                "recording": {
+                    "id": "6f46131e-cd14-4ebb-ba08-94ca4620075a",
+                    "title": "Hello, Goodbye (introduction by Ringo)",
+                    "length": "111000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "465f9570-9a03-434f-a6ad-75dfd47e8d79",
+                "direction": "backward",
+                "recording": {
+                    "id": "465f9570-9a03-434f-a6ad-75dfd47e8d79",
+                    "title": "Hello, Goodbye (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85c53a37-eeeb-4750-8806-ea55dacb542e",
+                "direction": "backward",
+                "recording": {
+                    "id": "85c53a37-eeeb-4750-8806-ea55dacb542e",
+                    "title": "Hello, Goodbye (version 2)",
+                    "length": "208000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18af8291-b7cf-48cd-ab0f-e0db6c3497e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "18af8291-b7cf-48cd-ab0f-e0db6c3497e9",
+                    "title": "Hello, Goodbye (version 3)",
+                    "length": "208000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c53cf0c6-0592-40f0-8450-b9487b38b07b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c53cf0c6-0592-40f0-8450-b9487b38b07b",
+                    "title": "Suite: Hello, Goodbye / Something / Penny Lane",
+                    "length": "140800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-hello-goodbye-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/11337",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=132",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q281911",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Hello,_Goodbye",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "7e9d0e36-2abe-419e-9f26-ea2a653e46bd",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "7e9d0e36-2abe-419e-9f26-ea2a653e46bd",
+                    "type": "Song",
+                    "title": "Goodbye",
+                    "language": "deu",
+                    "disambiguation": "Hello, Goodbye, german translation"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "7be6a763-909e-4ffd-9e2a-63f2ae5475ab",
+                "direction": "forward",
+                "work": {
+                    "id": "7be6a763-909e-4ffd-9e2a-63f2ae5475ab",
+                    "type": "Song",
+                    "title": "Helogutbei",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

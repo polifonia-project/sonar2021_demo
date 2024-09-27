@@ -1,0 +1,266 @@
+{
+    "work": {
+        "id": "b5bb5c4c-ee04-45e5-a134-796f5893f222",
+        "type": "Song",
+        "title": "Las palabras de amor (The Words of Love)",
+        "language": "mul",
+        "iswc": "T-010.302.260-1",
+        "iswc-list": [
+            "T-010.302.260-1"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                "direction": "backward",
+                "artist": {
+                    "id": "6d24f102-5c43-453a-8664-4ee092f441cf",
+                    "type": "Person",
+                    "name": "Brian May",
+                    "sort-name": "May, Brian",
+                    "disambiguation": "Queen guitarist"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9093a898-9026-4bf8-91b5-270e98701a1b",
+                "direction": "backward",
+                "begin": "1982",
+                "end": "1982",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9093a898-9026-4bf8-91b5-270e98701a1b",
+                    "title": "Las palabras de amor (Top of the Pops, 1982)",
+                    "length": "273320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ac79341-3990-40da-9b6b-f24cc2fdd003",
+                "direction": "backward",
+                "begin": "2008-11-21",
+                "end": "2008-11-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6ac79341-3990-40da-9b6b-f24cc2fdd003",
+                    "title": "Las Palabras De Amor",
+                    "disambiguation": "live, 2008-11-21: Estadio Velez Sarsfield, Buenos Aires, Argentina"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2272232e-5196-4c5a-9b94-9e82d0544559",
+                "direction": "backward",
+                "recording": {
+                    "id": "2272232e-5196-4c5a-9b94-9e82d0544559",
+                    "title": "Las palabras de amor",
+                    "length": "280000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81bb5100-f048-4c47-96d4-33a5706e478e",
+                "direction": "backward",
+                "recording": {
+                    "id": "81bb5100-f048-4c47-96d4-33a5706e478e",
+                    "title": "Las Palabras de Amor",
+                    "length": "272333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f9759ca-feae-4b5c-92e1-e87d660f18f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f9759ca-feae-4b5c-92e1-e87d660f18f2",
+                    "title": "Las palabras de amor (demo version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a279562d-f9a9-4969-b063-41a3274b533b",
+                "direction": "backward",
+                "recording": {
+                    "id": "a279562d-f9a9-4969-b063-41a3274b533b",
+                    "title": "Las Palabras de Amor (demo)",
+                    "length": "270000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "450e2a51-7bef-4048-9e72-0b938a8ecb68",
+                "direction": "backward",
+                "recording": {
+                    "id": "450e2a51-7bef-4048-9e72-0b938a8ecb68",
+                    "title": "Las palabras de amor (The Words of Love)",
+                    "length": "271000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34fa81d3-ea19-43a7-ab5c-233b926da3a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "34fa81d3-ea19-43a7-ab5c-233b926da3a8",
+                    "title": "Las palabras de amor (The Words of Love)",
+                    "length": "269000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e672d633-6327-4614-8c95-b7fd57e36216",
+                "direction": "backward",
+                "recording": {
+                    "id": "e672d633-6327-4614-8c95-b7fd57e36216",
+                    "title": "Las Palabras de Amor (The Words of Love)",
+                    "length": "271000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "259e53ef-2be1-4dee-a1ef-e209abc83768",
+                "direction": "backward",
+                "recording": {
+                    "id": "259e53ef-2be1-4dee-a1ef-e209abc83768",
+                    "title": "Les Palabras De Amor",
+                    "length": "271000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "052cf9d2-a58b-4b94-bc0e-f99716ba3a4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "052cf9d2-a58b-4b94-bc0e-f99716ba3a4a",
+                    "title": "The Words of Love",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6dfe2105-1731-4c6d-9cd0-f63363b4353b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6dfe2105-1731-4c6d-9cd0-f63363b4353b",
+                    "title": "The Words of Love"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1087918",
+                "direction": "backward"
+            }
+        ]
+    }
+}

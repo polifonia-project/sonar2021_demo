@@ -1,0 +1,2684 @@
+{
+    "work": {
+        "id": "94cd18bf-d7ef-3ce8-be92-ea5e70d455ef",
+        "type": "Song",
+        "title": "Eight Days a Week",
+        "language": "eng",
+        "iswc": "T-010.164.475-0",
+        "iswc-list": [
+            "T-010.164.475-0",
+            "T-910.406.024-4"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 183 36"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12118350"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.061.708"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366465"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366465"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "211944"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3352796"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "017121330"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 104 110 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "000458200"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "34876V"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633418-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "23795"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "1975010"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10617561"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000026681"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "350048325"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "910060593"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW03533832"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "5181666"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243400"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "3879501"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6066796"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4040989"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0E0-0500-1"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+                "direction": "backward",
+                "label": {
+                    "id": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+                    "type": "Publisher",
+                    "name": "\u30bd\u30cb\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0 A\u4e8b\u696d\u90e8",
+                    "sort-name": "\u30bd\u30cb\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0 A\u4e8b\u696d\u90e8"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48c00dcc-b52c-4eb9-8817-44b2100a5f7e",
+                "direction": "backward",
+                "begin": "1964-10-06",
+                "end": "1964-10-06",
+                "ended": "true",
+                "recording": {
+                    "id": "48c00dcc-b52c-4eb9-8817-44b2100a5f7e",
+                    "title": "Eight Days a Week (complete)",
+                    "length": "167626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a6f9b5e-7dd4-4d79-a567-365927e46f05",
+                "direction": "backward",
+                "begin": "1964-10-06",
+                "end": "1964-10-06",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "7a6f9b5e-7dd4-4d79-a567-365927e46f05",
+                    "title": "Eight Days a Week (sequence)",
+                    "length": "85106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8dfa5d5-4922-436e-a35b-dd611e472d66",
+                "direction": "backward",
+                "begin": "1964-10-06",
+                "end": "1964-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "b8dfa5d5-4922-436e-a35b-dd611e472d66",
+                    "title": "Eight Days a Week",
+                    "length": "163320",
+                    "disambiguation": "2015 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c2b1e21-33f3-4482-813b-c9ea34094a3a",
+                "direction": "backward",
+                "begin": "1964-10-06",
+                "end": "1964-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "9c2b1e21-33f3-4482-813b-c9ea34094a3a",
+                    "title": "Eight Days a Week",
+                    "length": "165000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63dd7ef6-6d6e-44d5-a4d9-190e49223077",
+                "direction": "backward",
+                "begin": "1964-10-06",
+                "end": "1964-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "63dd7ef6-6d6e-44d5-a4d9-190e49223077",
+                    "title": "Eight Days a Week",
+                    "length": "164373",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "119ecef3-6b90-4366-83c9-5a73f3fed7c5",
+                "direction": "backward",
+                "begin": "1964-10-06",
+                "end": "1964-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "119ecef3-6b90-4366-83c9-5a73f3fed7c5",
+                    "title": "Eight Days a Week",
+                    "length": "165000",
+                    "disambiguation": "1993 stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19b89557-87e4-4b55-bb91-c6a462374c08",
+                "direction": "backward",
+                "begin": "1975",
+                "end": "1975",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "19b89557-87e4-4b55-bb91-c6a462374c08",
+                    "title": "Eight Days a Week",
+                    "length": "175134"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b10dcb20-e306-4763-9ec0-0e88f5b40bf9",
+                "direction": "backward",
+                "begin": "1976-05",
+                "end": "1976-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b10dcb20-e306-4763-9ec0-0e88f5b40bf9",
+                    "title": "Eight Days a Week",
+                    "length": "225000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41937409-8c70-4c1a-bd98-c8e51a366a1e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41937409-8c70-4c1a-bd98-c8e51a366a1e",
+                    "title": "8 Days a Week",
+                    "length": "169426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adc23c41-5447-46b8-85ca-82075b4c74bd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "adc23c41-5447-46b8-85ca-82075b4c74bd",
+                    "title": "8 Days a Week",
+                    "length": "167000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "966063a4-a985-49f3-a9ca-be0ecd472d8e",
+                "direction": "backward",
+                "recording": {
+                    "id": "966063a4-a985-49f3-a9ca-be0ecd472d8e",
+                    "title": "Eight Day's A Week (RM2 & RM3 Takes 13 & 15)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffb32237-c1a5-42d3-aad8-3787fd6ed236",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ffb32237-c1a5-42d3-aad8-3787fd6ed236",
+                    "title": "Eight Days a Week",
+                    "length": "224000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9677db9-6ce3-4f32-a824-dd1edce5f15c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d9677db9-6ce3-4f32-a824-dd1edce5f15c",
+                    "title": "Eight Days a Week",
+                    "length": "198680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7ed80b9-b37c-455c-84bc-a48992c1e69e",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b7ed80b9-b37c-455c-84bc-a48992c1e69e",
+                    "title": "Eight Days a Week",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8c4d457-7268-4193-bcd9-224bec6b11e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8c4d457-7268-4193-bcd9-224bec6b11e5",
+                    "title": "Eight Days a Week",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f00da8a0-0914-4331-841a-6b3240530408",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f00da8a0-0914-4331-841a-6b3240530408",
+                    "title": "Eight Days a Week",
+                    "length": "199426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac0c651b-7c29-4e28-a790-9f1a2d9a2b59",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac0c651b-7c29-4e28-a790-9f1a2d9a2b59",
+                    "title": "Eight Days a Week",
+                    "length": "163453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1f8e8db-178b-449b-be2e-51f51b46f20d",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1f8e8db-178b-449b-be2e-51f51b46f20d",
+                    "title": "Eight Days a Week",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9fc6cb0-ea91-42fc-af08-1f93a247cd51",
+                "direction": "backward",
+                "recording": {
+                    "id": "b9fc6cb0-ea91-42fc-af08-1f93a247cd51",
+                    "title": "Eight Days a Week"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a2e1975-0a34-4358-81d0-7ac2fcf30eac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8a2e1975-0a34-4358-81d0-7ac2fcf30eac",
+                    "title": "Eight Days a Week",
+                    "length": "162759"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cfa07bd-db20-44f8-8194-472be99b4f44",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1cfa07bd-db20-44f8-8194-472be99b4f44",
+                    "title": "Eight Days a Week",
+                    "length": "166760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d498359-9125-4460-b0a2-e2353e716c11",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5d498359-9125-4460-b0a2-e2353e716c11",
+                    "title": "Eight Days a Week"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a675d4d4-d65e-4657-923c-66abc792b0bc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a675d4d4-d65e-4657-923c-66abc792b0bc",
+                    "title": "Eight Days a Week",
+                    "length": "227920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77cdcf4a-b6fb-49dc-977b-ec10c2000d8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77cdcf4a-b6fb-49dc-977b-ec10c2000d8b",
+                    "title": "Eight Days a Week",
+                    "length": "104866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aba79a89-04e6-40e3-b469-43155c7481c5",
+                "direction": "backward",
+                "recording": {
+                    "id": "aba79a89-04e6-40e3-b469-43155c7481c5",
+                    "title": "Eight Days a Week",
+                    "length": "189000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c996dd6-42d6-4efa-8357-c52bbf677621",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c996dd6-42d6-4efa-8357-c52bbf677621",
+                    "title": "Eight Days a Week",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43ab33f8-ba68-46c2-8ef5-7329cc1ddc69",
+                "direction": "backward",
+                "recording": {
+                    "id": "43ab33f8-ba68-46c2-8ef5-7329cc1ddc69",
+                    "title": "Eight Days a Week",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7472733b-89e9-4bc2-90a7-1acf775bc257",
+                "direction": "backward",
+                "recording": {
+                    "id": "7472733b-89e9-4bc2-90a7-1acf775bc257",
+                    "title": "Eight Days a Week",
+                    "length": "161933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5752f53-078a-46c0-8703-52b775cd5290",
+                "direction": "backward",
+                "recording": {
+                    "id": "b5752f53-078a-46c0-8703-52b775cd5290",
+                    "title": "Eight Days a Week",
+                    "length": "165493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5c1c11b-146d-472d-8a11-859420661d36",
+                "direction": "backward",
+                "recording": {
+                    "id": "f5c1c11b-146d-472d-8a11-859420661d36",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfafb0ef-aae3-4e5e-8bf6-2f6bc9da9de0",
+                "direction": "backward",
+                "recording": {
+                    "id": "cfafb0ef-aae3-4e5e-8bf6-2f6bc9da9de0",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7f3a8ea-5fd1-4597-9bb1-18d2215f001a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b7f3a8ea-5fd1-4597-9bb1-18d2215f001a",
+                    "title": "Eight Days a Week"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3615e327-473c-4786-8b2d-e3637d2d99f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "3615e327-473c-4786-8b2d-e3637d2d99f3",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "755c12da-a153-4274-8b83-1c87fed5119f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "755c12da-a153-4274-8b83-1c87fed5119f",
+                    "title": "Eight Days a Week",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e401b98f-ea18-4ec8-92ce-9c8dfab1c42f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e401b98f-ea18-4ec8-92ce-9c8dfab1c42f",
+                    "title": "Eight Days a Week",
+                    "length": "164306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c7b584a-c39a-492e-a833-fd53ee069ec9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1c7b584a-c39a-492e-a833-fd53ee069ec9",
+                    "title": "Eight Days a Week",
+                    "length": "161000",
+                    "disambiguation": "live, 2010-12-08: Maxwell\u2019s, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddb67a39-10b5-4ad1-b775-b1c40a03e340",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ddb67a39-10b5-4ad1-b775-b1c40a03e340",
+                    "title": "Eight Days a Week",
+                    "length": "224000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aceff140-daa2-4ad4-b099-ffe68ebf1eb6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "aceff140-daa2-4ad4-b099-ffe68ebf1eb6",
+                    "title": "Eight Days a Week",
+                    "length": "133000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d8d596e-5732-4ad0-b614-30b7227de3c8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3d8d596e-5732-4ad0-b614-30b7227de3c8",
+                    "title": "Eight Days a Week",
+                    "length": "154800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54989f0a-41ce-4c0a-bc02-907b539dba26",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54989f0a-41ce-4c0a-bc02-907b539dba26",
+                    "title": "Eight Days a Week",
+                    "length": "233000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21bd0391-aaeb-4f33-b298-af01af66602a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "21bd0391-aaeb-4f33-b298-af01af66602a",
+                    "title": "Eight Days a Week",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb6bfcd2-27ad-4bc8-a16b-22fda3183981",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb6bfcd2-27ad-4bc8-a16b-22fda3183981",
+                    "title": "Eight Days a Week",
+                    "length": "212600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5d68e93-45a9-4934-8fab-b3bdc9b45bc9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5d68e93-45a9-4934-8fab-b3bdc9b45bc9",
+                    "title": "Eight Days a Week",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cb5a1e5-1467-495a-acf5-564540e56c2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7cb5a1e5-1467-495a-acf5-564540e56c2e",
+                    "title": "Eight Days a Week",
+                    "length": "223640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adef66dd-f97a-47e5-b6b0-b0022a348794",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "adef66dd-f97a-47e5-b6b0-b0022a348794",
+                    "title": "Eight Days a Week",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f0beb12-6274-4bdf-8e5f-4722ab743c01",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8f0beb12-6274-4bdf-8e5f-4722ab743c01",
+                    "title": "Eight Days a Week",
+                    "length": "164133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "421d583e-f2c7-4d2c-a8dc-75cd74718af6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "421d583e-f2c7-4d2c-a8dc-75cd74718af6",
+                    "title": "Eight Days a Week",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9866ab1-f0ce-4206-8fdb-398c1d88936a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c9866ab1-f0ce-4206-8fdb-398c1d88936a",
+                    "title": "Eight Days a Week",
+                    "length": "264600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f01606d-459b-4715-9cfb-0415ca028d2c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8f01606d-459b-4715-9cfb-0415ca028d2c",
+                    "title": "Eight Days a Week",
+                    "length": "113133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b82cb12-1ae3-4a1e-8778-3c9d48ff70cf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1b82cb12-1ae3-4a1e-8778-3c9d48ff70cf",
+                    "title": "Eight Days a Week",
+                    "length": "165906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1c8c74d-28c9-40f1-9b40-e6f87ec2dd6e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f1c8c74d-28c9-40f1-9b40-e6f87ec2dd6e",
+                    "title": "Eight Days a Week",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "086d53da-00b5-4ed5-a040-ec729d0e12dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "086d53da-00b5-4ed5-a040-ec729d0e12dc",
+                    "title": "Eight Days a Week",
+                    "length": "164000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6df04cad-83fb-4c12-b9d9-44c080f97721",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6df04cad-83fb-4c12-b9d9-44c080f97721",
+                    "title": "Eight Days a Week",
+                    "length": "133000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8703e9aa-8f92-4ee9-8f56-3597a5ea2370",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8703e9aa-8f92-4ee9-8f56-3597a5ea2370",
+                    "title": "Eight Days a Week",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c728bea-985b-4f29-bbbc-e5874c30cc6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5c728bea-985b-4f29-bbbc-e5874c30cc6b",
+                    "title": "Eight Days a Week",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e042705-7495-4bde-bb59-daf47fc28b62",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1e042705-7495-4bde-bb59-daf47fc28b62",
+                    "title": "Eight Days a Week",
+                    "length": "129000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f94192b-b8d0-47b3-9e62-a45f2eacbabe",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f94192b-b8d0-47b3-9e62-a45f2eacbabe",
+                    "title": "Eight Days a Week"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60712e34-1b5e-4490-948a-679d86cbdde3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "60712e34-1b5e-4490-948a-679d86cbdde3",
+                    "title": "Eight Days a Week",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b1f608c-549d-40a4-97f8-dff5daaee50c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8b1f608c-549d-40a4-97f8-dff5daaee50c",
+                    "title": "Eight Days a Week",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc297cfe-6e18-4961-820c-510edacdcb48",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cc297cfe-6e18-4961-820c-510edacdcb48",
+                    "title": "Eight Days a Week",
+                    "length": "134360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f111043-6292-4570-a453-5b4b431bb728",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5f111043-6292-4570-a453-5b4b431bb728",
+                    "title": "Eight Days a Week",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c33f2ab1-57ec-45e7-b958-44c355737ef9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c33f2ab1-57ec-45e7-b958-44c355737ef9",
+                    "title": "Eight Days a Week",
+                    "length": "258280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54fa8196-7ce9-469d-a11d-6736bea9bd56",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "54fa8196-7ce9-469d-a11d-6736bea9bd56",
+                    "title": "Eight Days a Week",
+                    "length": "246000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d3c3a21-19a8-490e-9b9a-f1f1c1d12396",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d3c3a21-19a8-490e-9b9a-f1f1c1d12396",
+                    "title": "Eight Days a Week",
+                    "length": "183000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5357a1e-fef1-4158-b3e0-c221af8d1c85",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c5357a1e-fef1-4158-b3e0-c221af8d1c85",
+                    "title": "Eight Days a Week",
+                    "length": "189000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba8def24-d3bf-4201-92f4-9e15acfd2e4f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ba8def24-d3bf-4201-92f4-9e15acfd2e4f",
+                    "title": "Eight Days a Week",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "088c7205-e069-4d6a-afc0-8ca6b673faea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "088c7205-e069-4d6a-afc0-8ca6b673faea",
+                    "title": "Eight Days a Week",
+                    "length": "56000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3640e92b-d5f3-4f2a-b365-44033620d329",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3640e92b-d5f3-4f2a-b365-44033620d329",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "335215a0-e64f-4969-b699-a9657b8cdb95",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "335215a0-e64f-4969-b699-a9657b8cdb95",
+                    "title": "Eight Days a Week",
+                    "length": "278066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a949c23-fdc8-4550-9484-ee1a7eb2d8cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3a949c23-fdc8-4550-9484-ee1a7eb2d8cc",
+                    "title": "Eight Days a Week",
+                    "length": "168067"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6887eab6-a309-4040-a866-684d89c1aa0f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6887eab6-a309-4040-a866-684d89c1aa0f",
+                    "title": "Eight Days a Week",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3418875c-e049-40bd-ad32-c9875a6bfa81",
+                "direction": "backward",
+                "recording": {
+                    "id": "3418875c-e049-40bd-ad32-c9875a6bfa81",
+                    "title": "Eight Days a Week",
+                    "length": "165600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a199aa9-c073-45b5-9fc9-4496337c3e4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5a199aa9-c073-45b5-9fc9-4496337c3e4d",
+                    "title": "Eight Days a Week",
+                    "length": "169000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f63b4d9f-0fa1-4eed-a05f-f1ba146edc2a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f63b4d9f-0fa1-4eed-a05f-f1ba146edc2a",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2010-12-08: Maxwell\u2019s, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80625719-01c6-46b3-b47b-d0e8c3354d2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "80625719-01c6-46b3-b47b-d0e8c3354d2e",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2012-12-15: Maxwell\u2019s, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d5e2eaa-0d1e-4166-950e-a7a499459655",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3d5e2eaa-0d1e-4166-950e-a7a499459655",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2007-12-09: Maxwell's, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddfaa8a4-0002-46e6-b79b-28fc04475f90",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ddfaa8a4-0002-46e6-b79b-28fc04475f90",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2008-12-28: Maxwell's, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cba64221-00bc-4cf4-a633-8cfbf98ac502",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cba64221-00bc-4cf4-a633-8cfbf98ac502",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2008-12-28: Maxwell's, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6cbe01fb-00e2-4e93-b297-4882cba3a377",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6cbe01fb-00e2-4e93-b297-4882cba3a377",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2001-12-09: Maxwell's, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3577a891-c176-4b53-b78c-f5dac9514ff0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3577a891-c176-4b53-b78c-f5dac9514ff0",
+                    "title": "Eight Days a Week",
+                    "disambiguation": "live, 2006-01-01: Maxwell's, Hoboken, NJ, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbe70063-93f5-4833-86b1-abb4777ad501",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bbe70063-93f5-4833-86b1-abb4777ad501",
+                    "title": "Eight Days a Week",
+                    "length": "215560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1abff6d-c4d2-40ab-908c-6d942b8e0c13",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d1abff6d-c4d2-40ab-908c-6d942b8e0c13",
+                    "title": "Eight Days a Week",
+                    "length": "213000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "873e94bd-6b93-4188-81c8-31fe1faf18d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "873e94bd-6b93-4188-81c8-31fe1faf18d8",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07ca9a54-e71b-4cc8-8707-7be984426e5a",
+                "direction": "backward",
+                "recording": {
+                    "id": "07ca9a54-e71b-4cc8-8707-7be984426e5a",
+                    "title": "Eight Days a Week"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd035fe5-18d4-40ba-b722-c8c713eb8553",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd035fe5-18d4-40ba-b722-c8c713eb8553",
+                    "title": "Eight Days a Week",
+                    "length": "163000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "172a11ed-47f6-4c4d-ada5-5f53e9c10eee",
+                "direction": "backward",
+                "recording": {
+                    "id": "172a11ed-47f6-4c4d-ada5-5f53e9c10eee",
+                    "title": "Eight Days a Week",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48bf2c02-85bb-43db-aa8c-e2bb2ac3d329",
+                "direction": "backward",
+                "recording": {
+                    "id": "48bf2c02-85bb-43db-aa8c-e2bb2ac3d329",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bab4aad6-970b-44a2-9639-07c8938f5799",
+                "direction": "backward",
+                "recording": {
+                    "id": "bab4aad6-970b-44a2-9639-07c8938f5799",
+                    "title": "Eight Days a Week",
+                    "length": "163546"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d82c8ca6-2db7-43e9-b772-27b9106ec1e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "d82c8ca6-2db7-43e9-b772-27b9106ec1e4",
+                    "title": "Eight Days a Week",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85bff1e9-1465-4005-9615-9ac0eefa6195",
+                "direction": "backward",
+                "recording": {
+                    "id": "85bff1e9-1465-4005-9615-9ac0eefa6195",
+                    "title": "Eight Days a Week",
+                    "length": "165573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfd48e69-bbb3-47f2-acb9-d99ba44a156f",
+                "direction": "backward",
+                "recording": {
+                    "id": "dfd48e69-bbb3-47f2-acb9-d99ba44a156f",
+                    "title": "Eight Days a Week",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0d9ef22-07b8-467f-b28a-be9a6e2a0408",
+                "direction": "backward",
+                "recording": {
+                    "id": "e0d9ef22-07b8-467f-b28a-be9a6e2a0408",
+                    "title": "Eight Days a Week",
+                    "length": "163000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86c24cf5-8489-49a6-ad61-8d3726d84ef9",
+                "direction": "backward",
+                "recording": {
+                    "id": "86c24cf5-8489-49a6-ad61-8d3726d84ef9",
+                    "title": "Eight Days a Week",
+                    "length": "165640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73719e00-e7b4-465f-9848-fbed4735ebdf",
+                "direction": "backward",
+                "recording": {
+                    "id": "73719e00-e7b4-465f-9848-fbed4735ebdf",
+                    "title": "Eight Days a Week",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3a39ceed-e01f-447c-b86a-a5d31df42485",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3a39ceed-e01f-447c-b86a-a5d31df42485",
+                    "title": "Eight Days A Week",
+                    "length": "241666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99333548-deb7-45df-9bdf-13bb3e9c1ea7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "99333548-deb7-45df-9bdf-13bb3e9c1ea7",
+                    "title": "Eight Days A Week"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ce73235-46de-4894-9398-6275809e0644",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ce73235-46de-4894-9398-6275809e0644",
+                    "title": "Eight Days A Week"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d781ea9-3202-473b-803a-0d5d7a1af343",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6d781ea9-3202-473b-803a-0d5d7a1af343",
+                    "title": "Eight Days A Week",
+                    "length": "165906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c40887e-0a2b-4d46-ad23-5c24b256a152",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3c40887e-0a2b-4d46-ad23-5c24b256a152",
+                    "title": "Eight Days A Week",
+                    "length": "175160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32343306-b24e-41c1-8f88-491277f2faaa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "32343306-b24e-41c1-8f88-491277f2faaa",
+                    "title": "Eight Days A Week",
+                    "length": "162305"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6f0c29e-b10b-42d6-9aa7-2c8d3570a6a9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c6f0c29e-b10b-42d6-9aa7-2c8d3570a6a9",
+                    "title": "Eight Days A Week",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21deefcb-37da-45b2-bd08-e9135252806f",
+                "direction": "backward",
+                "recording": {
+                    "id": "21deefcb-37da-45b2-bd08-e9135252806f",
+                    "title": "Eight Days A Week",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d10d4934-dec6-479c-b3af-39b131b6acc7",
+                "direction": "backward",
+                "recording": {
+                    "id": "d10d4934-dec6-479c-b3af-39b131b6acc7",
+                    "title": "Eight Days a Week (5.1 mix)",
+                    "length": "163000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0773afe-f14f-437a-abe3-32f8dcac4d57",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e0773afe-f14f-437a-abe3-32f8dcac4d57",
+                    "title": "Eight Days a Week (acoustic version)",
+                    "length": "362733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0682b05-eb8c-46be-bec6-bdaab3a5c97d",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "b0682b05-eb8c-46be-bec6-bdaab3a5c97d",
+                    "title": "Eight Days a Week (extract)",
+                    "length": "17480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ef721f3-4f2a-4424-b286-b64fd6251123",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ef721f3-4f2a-4424-b286-b64fd6251123",
+                    "title": "Eight Days a Week (live acoustic version)",
+                    "length": "211266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15835932-155b-4f84-b53a-244b20c524a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "15835932-155b-4f84-b53a-244b20c524a1",
+                    "title": "Eight Days a Week (mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a229445a-0c44-4911-bff8-7afc765de730",
+                "direction": "backward",
+                "recording": {
+                    "id": "a229445a-0c44-4911-bff8-7afc765de730",
+                    "title": "Eight Days a Week (Mono)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a72bbe1d-7ee7-4ab3-a523-03e6a92f0927",
+                "direction": "backward",
+                "recording": {
+                    "id": "a72bbe1d-7ee7-4ab3-a523-03e6a92f0927",
+                    "title": "Eight Days A Week (RS1 & RS2 Takes 13 & 15)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93b07bbf-d534-4332-ae72-925d6392fc48",
+                "direction": "backward",
+                "recording": {
+                    "id": "93b07bbf-d534-4332-ae72-925d6392fc48",
+                    "title": "Eight Days a Week (stereo)",
+                    "length": "163933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "561dc27d-51e7-4190-a56a-960928f76a18",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "561dc27d-51e7-4190-a56a-960928f76a18",
+                    "title": "Eight Days a Week (take 2 - Partial)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "105e3bb0-f775-4b6a-b8e4-2b195dabbbb6",
+                "direction": "backward",
+                "recording": {
+                    "id": "105e3bb0-f775-4b6a-b8e4-2b195dabbbb6",
+                    "title": "Eight Days a Week (take 2)",
+                    "length": "75000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd3e4aad-ef08-4185-8ba2-b6fd5961066f",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd3e4aad-ef08-4185-8ba2-b6fd5961066f",
+                    "title": "Eight Days a Week (take 4 - False Start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7456a5e9-57cc-49a6-8fc8-7ee991532711",
+                "direction": "backward",
+                "recording": {
+                    "id": "7456a5e9-57cc-49a6-8fc8-7ee991532711",
+                    "title": "Eight Days a Week (take 4)",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85d7207d-9e04-4823-a48b-6b356ac6c3e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "85d7207d-9e04-4823-a48b-6b356ac6c3e1",
+                    "title": "Eight Days a Week (take 4)",
+                    "length": "9000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae056abe-0cdd-4b2d-8805-344aba57a9b5",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae056abe-0cdd-4b2d-8805-344aba57a9b5",
+                    "title": "Eight Days a Week (take 5 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e550907-89f9-4cf6-9185-04881ca159e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "3e550907-89f9-4cf6-9185-04881ca159e0",
+                    "title": "Eight Days a Week (take 5)",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09379835-ae64-4a06-a5b3-1511deec0f8f",
+                "direction": "backward",
+                "recording": {
+                    "id": "09379835-ae64-4a06-a5b3-1511deec0f8f",
+                    "title": "Eight Days a Week (take 5)",
+                    "length": "13506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a949963-97e7-496c-a9e0-ea8e183a6cda",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a949963-97e7-496c-a9e0-ea8e183a6cda",
+                    "title": "Eight Days a Week (takes 1 & 2, edit)",
+                    "length": "80613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc3c74d6-268a-4ca9-b58e-2f484560cd45",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dc3c74d6-268a-4ca9-b58e-2f484560cd45",
+                    "title": "Eight Days a Wek",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e566f56-a2e7-4dbe-95c5-7fc7db2f0d60",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0e566f56-a2e7-4dbe-95c5-7fc7db2f0d60",
+                    "title": "Eight Days Of The Week",
+                    "length": "132000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72b933f2-b36b-4b03-aae9-073fa3916718",
+                "direction": "backward",
+                "recording": {
+                    "id": "72b933f2-b36b-4b03-aae9-073fa3916718",
+                    "title": "Eight Days of Week",
+                    "length": "164226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3609de2c-dc05-4bdb-a6bb-97249a1e8e00",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3609de2c-dc05-4bdb-a6bb-97249a1e8e00",
+                    "title": "Grave-Allegro-Grave: (Eight Days A Week)",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43718c9f-f62d-4923-a431-b50faf3cd6f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "43718c9f-f62d-4923-a431-b50faf3cd6f6",
+                    "title": "Love Me Do / Eight Days a Week",
+                    "length": "347000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91367f67-c439-4282-9304-1cd49d1c09da",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "91367f67-c439-4282-9304-1cd49d1c09da",
+                    "title": "Ocho d\u00edas"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0a75fec-317d-4cc1-9911-1065dbae9dd5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "d0a75fec-317d-4cc1-9911-1065dbae9dd5",
+                    "title": "Paperback Writer / Eight Days a Week / I'll Get You",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63d12c54-94dc-4389-8855-ea0b77cf38d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "63d12c54-94dc-4389-8855-ea0b77cf38d4",
+                    "title": "Please Me: Please Please Me / All My Loving / Eight Days a Week / A Hard Day's Night / Can't Buy Me Love",
+                    "length": "449026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51d78029-3c2e-4b63-a82c-6c525909a670",
+                "direction": "backward",
+                "recording": {
+                    "id": "51d78029-3c2e-4b63-a82c-6c525909a670",
+                    "title": "\u0412\u043e\u0441\u0435\u043c\u044c \u0414\u043d\u0435\u0439 \u0412 \u041d\u0435\u0434\u0435\u043b\u044e = Eight Days A Week",
+                    "length": "162000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-eight-days-a-week-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/2928",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=60",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1303515",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "390ba068-f425-405f-98d0-0caf5741e7fb",
+                "direction": "forward",
+                "work": {
+                    "id": "390ba068-f425-405f-98d0-0caf5741e7fb",
+                    "type": "Concerto",
+                    "title": "Beatles Concerto Grosso No. 3 (In the Style of J. S. Bach): Eight Days a Week - Rondeau",
+                    "language": "zxx"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                "direction": "backward",
+                "work": {
+                    "id": "45b0694c-8461-452a-af1b-f0fe960f18a7",
+                    "title": "Beatles Medley",
+                    "language": "eng",
+                    "disambiguation": "Stars on 45"
+                }
+            },
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "1247f7a7-0f89-4736-b7d3-334e7a82083b",
+                "ordering-key": "2",
+                "direction": "backward",
+                "work": {
+                    "id": "1247f7a7-0f89-4736-b7d3-334e7a82083b",
+                    "type": "Song",
+                    "title": "Rain Eight Days a Week",
+                    "language": "zxx"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "d11ccabf-b60b-41e0-9c5d-7106d858cbfb",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "d11ccabf-b60b-41e0-9c5d-7106d858cbfb",
+                    "type": "Song",
+                    "title": "In di cun tai (Eight Days a Week)",
+                    "language": "roh"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "75b57e94-cc77-4764-a43b-5dbc8068d68b",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "75b57e94-cc77-4764-a43b-5dbc8068d68b",
+                    "type": "Song",
+                    "title": "N\u00e4in kest\u00e4 en",
+                    "language": "fin"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "c01316f5-b4de-489b-b174-9825b00efe9e",
+                "direction": "forward",
+                "work": {
+                    "id": "c01316f5-b4de-489b-b174-9825b00efe9e",
+                    "type": "Song",
+                    "title": "Zehnmal am Tag",
+                    "language": "deu",
+                    "disambiguation": "Eight Days a Week"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "84c22224-5fef-4947-b231-983f12cf527a",
+                "direction": "forward",
+                "work": {
+                    "id": "84c22224-5fef-4947-b231-983f12cf527a",
+                    "type": "Song",
+                    "title": "Huit jours par semaine",
+                    "language": "fra"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "bdef9807-587c-4994-b6e1-829a91968713",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "bdef9807-587c-4994-b6e1-829a91968713",
+                    "type": "Song",
+                    "title": "Eight Ways to Be",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            }
+        ]
+    }
+}

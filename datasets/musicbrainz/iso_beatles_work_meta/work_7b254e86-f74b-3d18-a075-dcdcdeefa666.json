@@ -1,0 +1,1621 @@
+{
+    "work": {
+        "id": "7b254e86-f74b-3d18-a075-dcdcdeefa666",
+        "type": "Song",
+        "title": "I Me Mine",
+        "language": "eng",
+        "iswc": "T-010.098.640-0",
+        "iswc-list": [
+            "T-010.098.640-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000097 231 94"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5431"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12216795"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78201868300"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "70.280"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "697025"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "697025"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "281449"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3354098"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "031241241"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 223 443 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "A0EC42600"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "1815FN"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0I0-0687-7"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "528139-001"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315975"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000051520"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390249220"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01097856"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9736488"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "3418081"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "20236101"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4784331"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4884846"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f711298b-9962-4a32-b839-504a8ed72d81",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "f711298b-9962-4a32-b839-504a8ed72d81",
+                    "title": "I Me Mine / Domino 8.98",
+                    "length": "104000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3be0281-4c7a-40d5-91b4-a0cd17f8e342",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "a3be0281-4c7a-40d5-91b4-a0cd17f8e342",
+                    "title": "I Me Mine 8.01",
+                    "length": "93000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e73dbfc9-bca8-4484-a2af-8242f12c4ec0",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "e73dbfc9-bca8-4484-a2af-8242f12c4ec0",
+                    "title": "I Me Mine 8.02",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "211f7ec4-0875-4542-b06d-2cda3c84572e",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "211f7ec4-0875-4542-b06d-2cda3c84572e",
+                    "title": "I Me Mine 8.03",
+                    "length": "20000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70d26e7a-1dc3-4804-9ba1-425287c2ade3",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "70d26e7a-1dc3-4804-9ba1-425287c2ade3",
+                    "title": "I Me Mine 8.04",
+                    "length": "198000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecf5de21-89fa-4775-b105-e9cb2b640ca0",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ecf5de21-89fa-4775-b105-e9cb2b640ca0",
+                    "title": "I Me Mine 8.54",
+                    "length": "63000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd1a5927-31f1-4379-bbf3-764a7fcfd22a",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "cd1a5927-31f1-4379-bbf3-764a7fcfd22a",
+                    "title": "I Me Mine 8.71",
+                    "length": "50000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "855767ce-f061-49dd-b287-694f5f6eaf0b",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "855767ce-f061-49dd-b287-694f5f6eaf0b",
+                    "title": "I Me Mine 8.72",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f88c45aa-5dcf-4218-9578-4482e7f41706",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "f88c45aa-5dcf-4218-9578-4482e7f41706",
+                    "title": "I Me Mine 8.76",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a9bc3787-a934-40c9-b6e8-a9d71c6634c2",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a9bc3787-a934-40c9-b6e8-a9d71c6634c2",
+                    "title": "I Me Mine 8.81",
+                    "length": "42000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb0fb6d3-4f23-4d0d-b45f-caf5c575d234",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "eb0fb6d3-4f23-4d0d-b45f-caf5c575d234",
+                    "title": "I Me Mine 8.87",
+                    "length": "167000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "993cd393-54d3-48ab-bb41-dfd22e508557",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "993cd393-54d3-48ab-bb41-dfd22e508557",
+                    "title": "I Me Mine 8.88",
+                    "length": "49000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7379902-316f-4b83-90dc-cee4b7d07421",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e7379902-316f-4b83-90dc-cee4b7d07421",
+                    "title": "I Me Mine 8.89",
+                    "length": "41000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04287f38-6550-4b40-8d8a-38aec82f2c7b",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "04287f38-6550-4b40-8d8a-38aec82f2c7b",
+                    "title": "I Me Mine 8.90",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f5566d3-22ea-473e-ac8a-bc0187f15f50",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "1f5566d3-22ea-473e-ac8a-bc0187f15f50",
+                    "title": "I Me Mine 8.91",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39a1346c-4c0c-4221-bf94-370806122cd4",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "39a1346c-4c0c-4221-bf94-370806122cd4",
+                    "title": "I Me Mine 8.92",
+                    "length": "48000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8311fb28-9fc9-43ec-891b-07fdeaca4b0b",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "8311fb28-9fc9-43ec-891b-07fdeaca4b0b",
+                    "title": "I Me Mine 8.93",
+                    "length": "53000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e02ca285-a33e-4b7d-9962-3ceeb311cb7f",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "e02ca285-a33e-4b7d-9962-3ceeb311cb7f",
+                    "title": "I Me Mine 8.94",
+                    "length": "91000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9bc2ae28-8506-46b4-94cc-9cb682370ad5",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "9bc2ae28-8506-46b4-94cc-9cb682370ad5",
+                    "title": "I Me Mine 8.95",
+                    "length": "4000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d93b9f1-ca46-4ddc-b3d3-bf158a6f9849",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "8d93b9f1-ca46-4ddc-b3d3-bf158a6f9849",
+                    "title": "I Me Mine 8.96",
+                    "length": "56000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ef05757-7a43-40a0-ae81-bd2b5678c523",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "7ef05757-7a43-40a0-ae81-bd2b5678c523",
+                    "title": "I Me Mine 8.97",
+                    "length": "72000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96304b99-d81b-4bf6-91b4-f97cf6a3f3d2",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "96304b99-d81b-4bf6-91b4-f97cf6a3f3d2",
+                    "title": "I Me Mine 8.99",
+                    "length": "81000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "716e0de8-e715-47ed-95d0-ca72786580e1",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "716e0de8-e715-47ed-95d0-ca72786580e1",
+                    "title": "I Me Mine 8.100",
+                    "length": "21000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0d29697-3dc1-41b2-8035-61989aeaefba",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "d0d29697-3dc1-41b2-8035-61989aeaefba",
+                    "title": "I Me Mine 8.101",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4b4f83c-aaab-4c73-8215-88202c299801",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e4b4f83c-aaab-4c73-8215-88202c299801",
+                    "title": "I Me Mine 8.106",
+                    "length": "39000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58227e64-3998-4241-aa05-88745ed63f3e",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "58227e64-3998-4241-aa05-88745ed63f3e",
+                    "title": "I Me Mine 8.108",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbf6011f-72ff-4c44-8203-1ab463b6e368",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "bbf6011f-72ff-4c44-8203-1ab463b6e368",
+                    "title": "I Me Mine 8.109",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5689451d-2116-486c-a82d-64dcf2646edb",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "5689451d-2116-486c-a82d-64dcf2646edb",
+                    "title": "I Me Mine 8.119",
+                    "length": "45000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0bb8f4a7-9f54-485a-aad5-8f49d9b70dcb",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "0bb8f4a7-9f54-485a-aad5-8f49d9b70dcb",
+                    "title": "I Me Mine 8.120",
+                    "length": "56000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d88e9fe-da9d-48d2-8b5f-1d7ae5c20f32",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "1d88e9fe-da9d-48d2-8b5f-1d7ae5c20f32",
+                    "title": "I Me Mine 8.121",
+                    "length": "86000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5463aee8-89a6-4521-864e-818bc0865507",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "5463aee8-89a6-4521-864e-818bc0865507",
+                    "title": "I Me Mine 8.122",
+                    "length": "43000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04fdb1d3-6400-4da0-9de1-70c62fc36b97",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "04fdb1d3-6400-4da0-9de1-70c62fc36b97",
+                    "title": "I Me Mine 8.123",
+                    "length": "77000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6b9e708-53fb-4bd4-be87-c324593b5214",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "e6b9e708-53fb-4bd4-be87-c324593b5214",
+                    "title": "I Me Mine 8.124",
+                    "length": "62000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75402fea-aa49-4b4f-a825-5c64c3566bd3",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "75402fea-aa49-4b4f-a825-5c64c3566bd3",
+                    "title": "I Me Mine 8.125",
+                    "length": "104000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5a16164-c93f-442d-aa3f-39102f6d2ca9",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "d5a16164-c93f-442d-aa3f-39102f6d2ca9",
+                    "title": "I Me Mine 8.126",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64f8b72a-f15c-4e0b-855d-06830cd97d79",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "64f8b72a-f15c-4e0b-855d-06830cd97d79",
+                    "title": "I Me Mine 8.127",
+                    "length": "68000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca947f06-ff6c-4d85-9b44-b1bd3cc31fce",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "ca947f06-ff6c-4d85-9b44-b1bd3cc31fce",
+                    "title": "I Me Mine 8.128",
+                    "length": "58000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a23386d9-0ad3-4105-9d85-0fed87c6de82",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a23386d9-0ad3-4105-9d85-0fed87c6de82",
+                    "title": "I Me Mine 8.129",
+                    "length": "24000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6206b98-b8f3-40e0-8a2d-010563ec46f6",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "d6206b98-b8f3-40e0-8a2d-010563ec46f6",
+                    "title": "I Me Mine 8.130",
+                    "length": "33000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc8dedd3-45f8-41fc-8dc9-54a9bfcd034d",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "cc8dedd3-45f8-41fc-8dc9-54a9bfcd034d",
+                    "title": "I Me Mine 8.131",
+                    "length": "49000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29d3bd82-e41c-4dfd-8216-f927921de03d",
+                "direction": "backward",
+                "begin": "1969-01-08",
+                "end": "1969-01-08",
+                "ended": "true",
+                "recording": {
+                    "id": "29d3bd82-e41c-4dfd-8216-f927921de03d",
+                    "title": "I Me Mine 8.132",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1080252-bd2d-40ce-be24-9ffb0326f872",
+                "direction": "backward",
+                "begin": "1970-01-03",
+                "end": "1970-01-03",
+                "ended": "true",
+                "recording": {
+                    "id": "b1080252-bd2d-40ce-be24-9ffb0326f872",
+                    "title": "I Me Mine",
+                    "length": "141200",
+                    "disambiguation": "Let It Be\u2026 Naked version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "50599cf3-2b76-40b3-95c5-c08405c3b80f",
+                "direction": "backward",
+                "begin": "1970-01-03",
+                "end": "1970-01-03",
+                "ended": "true",
+                "recording": {
+                    "id": "50599cf3-2b76-40b3-95c5-c08405c3b80f",
+                    "title": "I Me Mine",
+                    "length": "107987",
+                    "disambiguation": "Anthology mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b62ccbb7-bd69-468f-a95f-2f6a4604cc26",
+                "direction": "backward",
+                "begin": "1970-01-03",
+                "end": "1970-04-01",
+                "ended": "true",
+                "recording": {
+                    "id": "b62ccbb7-bd69-468f-a95f-2f6a4604cc26",
+                    "title": "I Me Mine",
+                    "length": "146000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94ebb866-dbc9-411c-b09c-c4959f82b4a4",
+                "direction": "backward",
+                "begin": "1970",
+                "end": "1970",
+                "ended": "true",
+                "recording": {
+                    "id": "94ebb866-dbc9-411c-b09c-c4959f82b4a4",
+                    "title": "I Me Mine (Summer 1970 rehearsal)",
+                    "length": "100066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14696828-50c9-458e-aa28-47cb52a16714",
+                "direction": "backward",
+                "begin": "2000-05-08",
+                "end": "2000-05-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "14696828-50c9-458e-aa28-47cb52a16714",
+                    "title": "I Me Mine",
+                    "length": "179000",
+                    "disambiguation": "live, 2000-05-08: Atlanta, GA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b78be22-7ef5-4087-aec8-0ab4c1d2e86a",
+                "direction": "backward",
+                "begin": "2000-05-17",
+                "end": "2000-05-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8b78be22-7ef5-4087-aec8-0ab4c1d2e86a",
+                    "title": "I Me Mine",
+                    "length": "164000",
+                    "disambiguation": "live, 2000-05-17: Irving Plaza, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07b99c9f-ce24-4cca-af1d-104b7b30a63c",
+                "direction": "backward",
+                "recording": {
+                    "id": "07b99c9f-ce24-4cca-af1d-104b7b30a63c",
+                    "title": "I Me Mine",
+                    "length": "174266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc6526ac-2e6d-4517-9eb4-c66d4615f040",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cc6526ac-2e6d-4517-9eb4-c66d4615f040",
+                    "title": "I Me Mine",
+                    "length": "148453",
+                    "disambiguation": "live, 2014-09-28: Fonda Theater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f22364e-36da-4e3d-9d9f-1e9f83fb7388",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6f22364e-36da-4e3d-9d9f-1e9f83fb7388",
+                    "title": "I Me Mine",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e98466e-74b6-442a-8470-97ced73de2d7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7e98466e-74b6-442a-8470-97ced73de2d7",
+                    "title": "I Me Mine",
+                    "length": "157666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42ae5390-9817-43a0-8116-a5d8a89da3fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "42ae5390-9817-43a0-8116-a5d8a89da3fb",
+                    "title": "I Me Mine",
+                    "length": "133000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9dbc3453-400a-483c-abd9-1261ce98a2ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "9dbc3453-400a-483c-abd9-1261ce98a2ac",
+                    "title": "I Me Mine",
+                    "length": "273306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42f914e6-7d77-489a-90cc-2c576ddbfe52",
+                "direction": "backward",
+                "recording": {
+                    "id": "42f914e6-7d77-489a-90cc-2c576ddbfe52",
+                    "title": "I Me Mine",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "909e1485-aef0-4659-88d4-fc4bb404319b",
+                "direction": "backward",
+                "recording": {
+                    "id": "909e1485-aef0-4659-88d4-fc4bb404319b",
+                    "title": "I Me Mine",
+                    "length": "208800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef0b4787-304e-4552-bdb5-9f5ce5d39a3f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ef0b4787-304e-4552-bdb5-9f5ce5d39a3f",
+                    "title": "I Me Mine",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf41844a-4768-4161-af6a-30931f27d747",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf41844a-4768-4161-af6a-30931f27d747",
+                    "title": "I Me Mine",
+                    "length": "139733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "418f9670-02de-4296-8dde-043672dc06a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "418f9670-02de-4296-8dde-043672dc06a2",
+                    "title": "I Me Mine",
+                    "length": "101866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a23c8c5-1238-4d1f-9191-0f0b2dc11210",
+                "direction": "backward",
+                "recording": {
+                    "id": "5a23c8c5-1238-4d1f-9191-0f0b2dc11210",
+                    "title": "I Me Mine",
+                    "length": "105000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25f2c881-2401-4229-8f38-4ce990622297",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "25f2c881-2401-4229-8f38-4ce990622297",
+                    "title": "I Me Mine",
+                    "length": "281600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43e2139c-59dc-466e-81db-b72a087ee8f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "43e2139c-59dc-466e-81db-b72a087ee8f9",
+                    "title": "I Me Mine",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10b17de6-1f2b-4cb3-9767-88358fe03f9e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "10b17de6-1f2b-4cb3-9767-88358fe03f9e",
+                    "title": "I Me Mine",
+                    "length": "236640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd1cc715-4037-4a19-ac49-d06b7b07c229",
+                "direction": "backward",
+                "recording": {
+                    "id": "dd1cc715-4037-4a19-ac49-d06b7b07c229",
+                    "title": "I Me Mine",
+                    "length": "104000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69269672-109b-4a47-8f09-bdbbe334e334",
+                "direction": "backward",
+                "recording": {
+                    "id": "69269672-109b-4a47-8f09-bdbbe334e334",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "375ba92d-0add-4ef9-8400-46c16562e275",
+                "direction": "backward",
+                "recording": {
+                    "id": "375ba92d-0add-4ef9-8400-46c16562e275",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3e77b3d-4c8e-416c-a978-e4c25af51fb6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a3e77b3d-4c8e-416c-a978-e4c25af51fb6",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a72f811-87bd-411d-a57c-7752ffdcdc61",
+                "direction": "backward",
+                "recording": {
+                    "id": "4a72f811-87bd-411d-a57c-7752ffdcdc61",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9fe8cd75-2aa2-4f45-9dbe-43ebaeb18620",
+                "direction": "backward",
+                "recording": {
+                    "id": "9fe8cd75-2aa2-4f45-9dbe-43ebaeb18620",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3b5ed49-8072-43c6-b0a5-85b5d746d63e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e3b5ed49-8072-43c6-b0a5-85b5d746d63e",
+                    "title": "I Me Mine",
+                    "length": "403786"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06305b63-d538-4cde-9873-308587298625",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "06305b63-d538-4cde-9873-308587298625",
+                    "title": "I Me Mine"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd9b5882-e884-454c-a21c-69bbb0ca9807",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd9b5882-e884-454c-a21c-69bbb0ca9807",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a83e2c1-a8bf-4743-b75b-40534ca50a44",
+                "direction": "backward",
+                "recording": {
+                    "id": "8a83e2c1-a8bf-4743-b75b-40534ca50a44",
+                    "title": "I Me Mine",
+                    "length": "100000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d1f3ee7-773a-4418-be47-d11eb16442a0",
+                "direction": "backward",
+                "recording": {
+                    "id": "7d1f3ee7-773a-4418-be47-d11eb16442a0",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b578b01-39e5-4ed3-ad9a-f63c0d2b44d1",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b578b01-39e5-4ed3-ad9a-f63c0d2b44d1",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8bdb2e6-7d0b-4569-bd83-d6b0c82bff9f",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8bdb2e6-7d0b-4569-bd83-d6b0c82bff9f",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec545f1d-fe20-4c17-8241-477e64fb4433",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec545f1d-fe20-4c17-8241-477e64fb4433",
+                    "title": "I Me Mine",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac7a222c-16a8-4c93-b681-7aa537998fb1",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac7a222c-16a8-4c93-b681-7aa537998fb1",
+                    "title": "I Me Mine",
+                    "length": "83000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30d259b6-c622-46e3-b471-85906a8953b5",
+                "direction": "backward",
+                "recording": {
+                    "id": "30d259b6-c622-46e3-b471-85906a8953b5",
+                    "title": "I Me Mine"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d198550c-3d7f-418c-af5d-c95e2bbf5cb3",
+                "direction": "backward",
+                "recording": {
+                    "id": "d198550c-3d7f-418c-af5d-c95e2bbf5cb3",
+                    "title": "I Me Mine (1970-01-03)",
+                    "length": "104906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8b11192-2ab7-494a-b592-638076cbede8",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8b11192-2ab7-494a-b592-638076cbede8",
+                    "title": "I Me Mine (alternate take)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aece4410-7e4a-4d0a-a254-82cda1ce1907",
+                "direction": "backward",
+                "recording": {
+                    "id": "aece4410-7e4a-4d0a-a254-82cda1ce1907",
+                    "title": "I Me Mine (take 16)",
+                    "length": "126054"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fe28c2b-9dc5-41ef-8a20-4ca83d51756c",
+                "direction": "backward",
+                "recording": {
+                    "id": "7fe28c2b-9dc5-41ef-8a20-4ca83d51756c",
+                    "title": "I Me Mine (take 16)",
+                    "length": "98894"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39b81464-db0a-4ccd-a8e2-9aa248a47e8f",
+                "direction": "backward",
+                "recording": {
+                    "id": "39b81464-db0a-4ccd-a8e2-9aa248a47e8f",
+                    "title": "I Me Mine (take 16)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd4ea331-c3ba-410f-bddd-7acbd8916c4a",
+                "direction": "backward",
+                "recording": {
+                    "id": "bd4ea331-c3ba-410f-bddd-7acbd8916c4a",
+                    "title": "I Me Mine (take 16)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b01d92b-e69b-4226-ae2f-4cdc0148dbcd",
+                "direction": "backward",
+                "recording": {
+                    "id": "0b01d92b-e69b-4226-ae2f-4cdc0148dbcd",
+                    "title": "I Me Mine (the making of)",
+                    "length": "298000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4aabb2c-a20d-4c96-be4e-7957a174da63",
+                "direction": "backward",
+                "recording": {
+                    "id": "b4aabb2c-a20d-4c96-be4e-7957a174da63",
+                    "title": "I, Me, Mine",
+                    "length": "92613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab731801-a7a9-4a6e-8437-eafc78c94dbb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ab731801-a7a9-4a6e-8437-eafc78c94dbb",
+                    "title": "I, Me, Mine",
+                    "length": "131000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3779bc0f-5741-4da6-8d26-8e76fdb1e421",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3779bc0f-5741-4da6-8d26-8e76fdb1e421",
+                    "title": "I, Me, Mine",
+                    "length": "175000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3412b80-1844-495f-9b30-c9c6cdffbe08",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e3412b80-1844-495f-9b30-c9c6cdffbe08",
+                    "title": "I, Me, Mine",
+                    "length": "337853"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0f8e851-595d-43e8-bf60-8f147786ddff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e0f8e851-595d-43e8-bf60-8f147786ddff",
+                    "title": "Me Mine",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-i-me-mine-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10683",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=180",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q369809",
+                "direction": "backward"
+            }
+        ]
+    }
+}

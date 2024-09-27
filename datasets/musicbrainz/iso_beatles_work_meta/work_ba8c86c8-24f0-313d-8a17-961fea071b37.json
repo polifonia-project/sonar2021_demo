@@ -1,0 +1,2123 @@
+{
+    "work": {
+        "id": "ba8c86c8-24f0-313d-8a17-961fea071b37",
+        "type": "Song",
+        "title": "Dig a Pony",
+        "language": "eng",
+        "iswc": "T-900.010.940-0",
+        "iswc-list": [
+            "T-900.010.940-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000178 294 70"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "3120"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12100689"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100086300"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "60.923"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358014"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358014"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "221422"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3354109"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "019628373"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "62 664 235 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014346500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "80122R"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0D0-0842-1"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633317-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "51205"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965852"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11269610"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "15518711"
+            },
+            {
+                "attribute": "CASH ID",
+                "value": "C-1014664013"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000240013"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "340391937"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02370752"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9334126"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243886"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "20232501"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5019389"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "302752"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aab1f29c-c372-427b-b09b-009106f0eb29",
+                "direction": "backward",
+                "begin": "1969-01-02",
+                "end": "1969-01-02",
+                "ended": "true",
+                "recording": {
+                    "id": "aab1f29c-c372-427b-b09b-009106f0eb29",
+                    "title": "Dig a Pony 2.04",
+                    "length": "185000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28e8c46a-39ce-4194-9327-2155adf90f96",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "recording": {
+                    "id": "28e8c46a-39ce-4194-9327-2155adf90f96",
+                    "title": "Dig a Pony 7.106",
+                    "length": "84000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dbd46872-c2da-40b1-a17b-b12542cc6b3b",
+                "direction": "backward",
+                "begin": "1969-01-13",
+                "end": "1969-01-13",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "dbd46872-c2da-40b1-a17b-b12542cc6b3b",
+                    "title": "Dig a Pony 13.12",
+                    "length": "13000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9feb26fd-f163-4f53-992d-23f97656db2e",
+                "direction": "backward",
+                "begin": "1969-01-13",
+                "end": "1969-01-13",
+                "ended": "true",
+                "recording": {
+                    "id": "9feb26fd-f163-4f53-992d-23f97656db2e",
+                    "title": "Dig a Pony 13.14",
+                    "length": "91000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf36edb1-b7c9-4a0c-ac2c-8f5769f8b0f0",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "bf36edb1-b7c9-4a0c-ac2c-8f5769f8b0f0",
+                    "title": "Dig a Pony 21.17",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de99a126-940e-4361-9a85-a66c4c534f5b",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "de99a126-940e-4361-9a85-a66c4c534f5b",
+                    "title": "Dig a Pony 21.20",
+                    "length": "23000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ab1c880-3534-4815-a32f-e0d46b93af4d",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "9ab1c880-3534-4815-a32f-e0d46b93af4d",
+                    "title": "Dig a Pony 21.21",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58fe8a4a-061e-4203-86f9-d00161d6130b",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "58fe8a4a-061e-4203-86f9-d00161d6130b",
+                    "title": "Dig a Pony 21.22",
+                    "length": "5000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec897868-e3a4-46cc-9ca8-75701751615b",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "ec897868-e3a4-46cc-9ca8-75701751615b",
+                    "title": "Dig a Pony 21.26",
+                    "length": "322000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e594b073-1b66-4478-86a1-b66c70f17381",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "e594b073-1b66-4478-86a1-b66c70f17381",
+                    "title": "Dig a Pony 21.28",
+                    "length": "255000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "018a58f8-be0f-48d2-87f9-c72373974c12",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "018a58f8-be0f-48d2-87f9-c72373974c12",
+                    "title": "Dig a Pony 21.39",
+                    "length": "13000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d09326d4-db33-4cd1-b325-959ef9d6cf8f",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "d09326d4-db33-4cd1-b325-959ef9d6cf8f",
+                    "title": "Dig a Pony 21.41",
+                    "length": "243000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c44d0a9-612a-49ca-8d9a-92405116ff88",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "0c44d0a9-612a-49ca-8d9a-92405116ff88",
+                    "title": "Dig a Pony 21.43",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7eab0bd-3b1a-4edb-bfa9-7a941e148005",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "a7eab0bd-3b1a-4edb-bfa9-7a941e148005",
+                    "title": "Dig a Pony 21.47",
+                    "length": "283000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c5b4e25-c98f-43d2-9473-bb3984d9e3db",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1c5b4e25-c98f-43d2-9473-bb3984d9e3db",
+                    "title": "Dig a Pony 21.49",
+                    "length": "47000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da4d6f92-c1a3-470b-a74f-957026e201e4",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "da4d6f92-c1a3-470b-a74f-957026e201e4",
+                    "title": "Dig a Pony 21.49P",
+                    "length": "428000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d19ad10-2d91-430c-b6a6-9bcaee8f3523",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "8d19ad10-2d91-430c-b6a6-9bcaee8f3523",
+                    "title": "Dig a Pony 21.49P",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07f42a51-a1b3-417b-8d41-f746e18f59ce",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "07f42a51-a1b3-417b-8d41-f746e18f59ce",
+                    "title": "Dig a Pony 21.50",
+                    "length": "6000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13fc65b5-6577-41c9-9717-32025bb37231",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "13fc65b5-6577-41c9-9717-32025bb37231",
+                    "title": "Dig a Pony 21.51",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6308e037-4bc1-4e15-94ad-21b7ba6173ef",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "6308e037-4bc1-4e15-94ad-21b7ba6173ef",
+                    "title": "Dig a Pony 21.58",
+                    "length": "30000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82b02c63-a74e-40cb-9f12-40246707c13e",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "82b02c63-a74e-40cb-9f12-40246707c13e",
+                    "title": "Dig a Pony 21.60",
+                    "length": "281000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10531646-cffe-4eb5-b24c-e9039ab7f6eb",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "10531646-cffe-4eb5-b24c-e9039ab7f6eb",
+                    "title": "Dig a Pony 21.63",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a0a0fa6-6c68-4072-991d-4c1ca49833f7",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "7a0a0fa6-6c68-4072-991d-4c1ca49833f7",
+                    "title": "Dig a Pony 21.64",
+                    "length": "20000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d159bd8-709e-4e2d-8fc5-32d63ff4cd00",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "0d159bd8-709e-4e2d-8fc5-32d63ff4cd00",
+                    "title": "Dig a Pony 21.67",
+                    "length": "56000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fefc9d9b-252c-435c-84d0-e69e94394ce5",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "fefc9d9b-252c-435c-84d0-e69e94394ce5",
+                    "title": "Dig a Pony 21.68",
+                    "length": "42000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a929e7e5-f0ca-46bb-b290-76aa344f2833",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "a929e7e5-f0ca-46bb-b290-76aa344f2833",
+                    "title": "Dig a Pony 21.69",
+                    "length": "75000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e0cfda0-3b13-4be2-ae18-469ab31d6694",
+                "direction": "backward",
+                "begin": "1969-01-21",
+                "end": "1969-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3e0cfda0-3b13-4be2-ae18-469ab31d6694",
+                    "title": "Dig a Pony 21.70",
+                    "length": "32000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce21a280-4014-4f34-a023-c9df9a96607e",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "ce21a280-4014-4f34-a023-c9df9a96607e",
+                    "title": "Dig a Pony",
+                    "length": "258000",
+                    "disambiguation": "Savile Row session"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09b9b0a2-6480-46bd-9539-838f81474305",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "09b9b0a2-6480-46bd-9539-838f81474305",
+                    "title": "Dig a Pony 22.13",
+                    "length": "22000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85ce50c0-420b-47e9-8f85-4dd35c31d608",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "85ce50c0-420b-47e9-8f85-4dd35c31d608",
+                    "title": "Dig a Pony 22.15",
+                    "length": "280000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c351496d-c8ee-4e69-89e6-6f4e30c1fcd9",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "c351496d-c8ee-4e69-89e6-6f4e30c1fcd9",
+                    "title": "Dig a Pony 22.16",
+                    "length": "4000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43da99df-8f98-420f-864e-8e6d41a2c3b2",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "43da99df-8f98-420f-864e-8e6d41a2c3b2",
+                    "title": "Dig a Pony 22.17",
+                    "length": "238000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e08dbd14-7895-4a76-8da3-5b9cab156764",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "e08dbd14-7895-4a76-8da3-5b9cab156764",
+                    "title": "Dig a Pony 22.18",
+                    "length": "97000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c4c0f47-e0ee-4755-9ee7-ff53da1be174",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "5c4c0f47-e0ee-4755-9ee7-ff53da1be174",
+                    "title": "Dig a Pony 22.19",
+                    "length": "194000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7505fe54-438e-4ff1-859b-fcd1fc2ba2b2",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "7505fe54-438e-4ff1-859b-fcd1fc2ba2b2",
+                    "title": "Dig a Pony 22.21",
+                    "length": "306000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91c58988-fb49-4cba-83cd-b0f624c3ba16",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "91c58988-fb49-4cba-83cd-b0f624c3ba16",
+                    "title": "Dig a Pony 22.21P",
+                    "length": "10000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6644ff23-509e-47c6-90c5-32dbe36f38d5",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "6644ff23-509e-47c6-90c5-32dbe36f38d5",
+                    "title": "Dig a Pony 22.23",
+                    "length": "334000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75e844a8-5bec-4ac9-86a8-dff0f59d2eb3",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "75e844a8-5bec-4ac9-86a8-dff0f59d2eb3",
+                    "title": "Dig a Pony 22.23P",
+                    "length": "67000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc12ebf5-6a71-4272-8d6f-0d9b1276036a",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "fc12ebf5-6a71-4272-8d6f-0d9b1276036a",
+                    "title": "Dig a Pony 22.23P",
+                    "length": "9000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d651446-dc9f-4f26-a835-0ad0e5269ed4",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "1d651446-dc9f-4f26-a835-0ad0e5269ed4",
+                    "title": "Dig a Pony 22.23P",
+                    "length": "112000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02bb9f34-c450-434b-9382-8a326ee813e2",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "02bb9f34-c450-434b-9382-8a326ee813e2",
+                    "title": "Dig a Pony 22.24",
+                    "length": "123000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "955195f5-061f-49c9-a841-c44ab572c26f",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "955195f5-061f-49c9-a841-c44ab572c26f",
+                    "title": "Dig a Pony 22.25",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8652d2b2-6207-432c-b47a-09fe7c2e3ecf",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "8652d2b2-6207-432c-b47a-09fe7c2e3ecf",
+                    "title": "Dig a Pony 22.26",
+                    "length": "134000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8af8194-03dc-4622-9afa-6504c7565921",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "d8af8194-03dc-4622-9afa-6504c7565921",
+                    "title": "Dig a Pony 22.27",
+                    "length": "36000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "252d28ab-a065-4366-ab98-1509c2fed276",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "252d28ab-a065-4366-ab98-1509c2fed276",
+                    "title": "Dig a Pony 22.28",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf1d7a2b-8a15-4325-9e62-092830288ec7",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "bf1d7a2b-8a15-4325-9e62-092830288ec7",
+                    "title": "Dig a Pony 22.29",
+                    "length": "243000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cae27625-178d-4bc2-b733-6638782579f2",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "cae27625-178d-4bc2-b733-6638782579f2",
+                    "title": "Dig a Pony 22.42",
+                    "length": "8000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95f68e4b-5495-4636-b66d-43bab805a6ef",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "95f68e4b-5495-4636-b66d-43bab805a6ef",
+                    "title": "Dig a Pony 22.43",
+                    "length": "406000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d19bec8e-0975-413a-9657-de755b1da7de",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "d19bec8e-0975-413a-9657-de755b1da7de",
+                    "title": "Dig a Pony 22.62",
+                    "length": "69000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16382248-a524-46c4-9079-5c214d7ff44a",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "16382248-a524-46c4-9079-5c214d7ff44a",
+                    "title": "Dig a Pony 22.63",
+                    "length": "41000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a54d8b02-2ab6-4401-99f6-fe618dec8250",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "a54d8b02-2ab6-4401-99f6-fe618dec8250",
+                    "title": "Dig a Pony 22.64",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58c4a2b9-73a9-4e36-8e2d-1882fc9fc36a",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "58c4a2b9-73a9-4e36-8e2d-1882fc9fc36a",
+                    "title": "Dig a Pony 22.64P",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ed296e9-9bb7-4ebd-bcb9-93be8cde343d",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "8ed296e9-9bb7-4ebd-bcb9-93be8cde343d",
+                    "title": "Dig a Pony 22.65",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c872329-dd76-4642-98d0-156c628e53f8",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "5c872329-dd76-4642-98d0-156c628e53f8",
+                    "title": "Dig a Pony 22.66",
+                    "length": "71000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68a53809-45d9-44ba-8b14-16e10512f950",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "68a53809-45d9-44ba-8b14-16e10512f950",
+                    "title": "Dig a Pony 22.67",
+                    "length": "223000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e9707f2-25dd-4851-8cf1-4afbbba60ab1",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "1e9707f2-25dd-4851-8cf1-4afbbba60ab1",
+                    "title": "Dig a Pony 22.68",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b9b1b11-220f-4d05-a879-6241ecd67665",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3b9b1b11-220f-4d05-a879-6241ecd67665",
+                    "title": "Dig a Pony 22.68P",
+                    "length": "60000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b516685-22a0-4c37-b9c5-e458a587902c",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "recording": {
+                    "id": "6b516685-22a0-4c37-b9c5-e458a587902c",
+                    "title": "Dig a Pony 22.68P",
+                    "length": "90000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ddc67b1-e531-4efc-9157-6117f6d45930",
+                "direction": "backward",
+                "begin": "1969-01-22",
+                "end": "1969-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "3ddc67b1-e531-4efc-9157-6117f6d45930",
+                    "title": "Dig a Pony 22.85",
+                    "length": "18000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d240d94-031d-4eee-8b19-778b820a0bcb",
+                "direction": "backward",
+                "begin": "1969-01-30",
+                "end": "1969-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3d240d94-031d-4eee-8b19-778b820a0bcb",
+                    "title": "Dig a Pony",
+                    "length": "238506",
+                    "disambiguation": "live, 1969-01-30"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78afea4f-e1f8-4cfb-8e82-62938fab3c7a",
+                "direction": "backward",
+                "begin": "1969-01-30",
+                "end": "1969-01-30",
+                "ended": "true",
+                "recording": {
+                    "id": "78afea4f-e1f8-4cfb-8e82-62938fab3c7a",
+                    "title": "Dig a Pony",
+                    "length": "218173",
+                    "disambiguation": "Let It Be\u2026 Naked version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4131e00c-13c5-4f92-a2ff-73c2edaf420c",
+                "direction": "backward",
+                "begin": "1969-01-30",
+                "end": "1969-01-30",
+                "ended": "true",
+                "recording": {
+                    "id": "4131e00c-13c5-4f92-a2ff-73c2edaf420c",
+                    "title": "Dig a Pony",
+                    "length": "234000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aba4c1f5-383b-4f71-ad2d-7b95703cb2a7",
+                "direction": "backward",
+                "begin": "2002-02-23",
+                "end": "2002-02-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "aba4c1f5-383b-4f71-ad2d-7b95703cb2a7",
+                    "title": "Dig a Pony / Don't Let Me Down"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d9f1a27-4766-4dce-99d2-9adc56654dbc",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d9f1a27-4766-4dce-99d2-9adc56654dbc",
+                    "title": "Dig a Pony",
+                    "length": "226000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db4172e5-900c-421d-929b-1426de294603",
+                "direction": "backward",
+                "recording": {
+                    "id": "db4172e5-900c-421d-929b-1426de294603",
+                    "title": "Dig a Pony",
+                    "length": "247000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f002b4c7-2ce0-43be-92ca-93d678e7f57f",
+                "direction": "backward",
+                "recording": {
+                    "id": "f002b4c7-2ce0-43be-92ca-93d678e7f57f",
+                    "title": "Dig a Pony",
+                    "length": "238000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9fd7bd7-c4ca-4934-b82e-c47e26b9cd81",
+                "direction": "backward",
+                "recording": {
+                    "id": "f9fd7bd7-c4ca-4934-b82e-c47e26b9cd81",
+                    "title": "Dig a Pony",
+                    "length": "228000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25b0b331-6f4f-4fff-8759-943c2c38d838",
+                "direction": "backward",
+                "recording": {
+                    "id": "25b0b331-6f4f-4fff-8759-943c2c38d838",
+                    "title": "Dig a Pony",
+                    "length": "246000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c4d438b-332e-4546-a20c-1aab8d075807",
+                "direction": "backward",
+                "recording": {
+                    "id": "0c4d438b-332e-4546-a20c-1aab8d075807",
+                    "title": "Dig a Pony",
+                    "length": "275000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9be7a88d-8a55-4ef8-90c2-912c3d3d93ad",
+                "direction": "backward",
+                "recording": {
+                    "id": "9be7a88d-8a55-4ef8-90c2-912c3d3d93ad",
+                    "title": "Dig a Pony",
+                    "length": "234400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbe4968a-fad8-4c93-ac10-1017170b4eab",
+                "direction": "backward",
+                "recording": {
+                    "id": "fbe4968a-fad8-4c93-ac10-1017170b4eab",
+                    "title": "Dig a Pony",
+                    "length": "225600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bea9e8ce-a9d5-4372-a88c-c0294c7f5351",
+                "direction": "backward",
+                "recording": {
+                    "id": "bea9e8ce-a9d5-4372-a88c-c0294c7f5351",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e99bded-2c87-42bc-b9ef-3f7a9265e0d9",
+                "direction": "backward",
+                "recording": {
+                    "id": "9e99bded-2c87-42bc-b9ef-3f7a9265e0d9",
+                    "title": "Dig a Pony",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f664851f-86c7-4048-a2cd-61d2d6f438a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "f664851f-86c7-4048-a2cd-61d2d6f438a7",
+                    "title": "Dig a Pony",
+                    "length": "242000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47fb257f-0df3-4cff-a29a-ca79de2b69ad",
+                "direction": "backward",
+                "recording": {
+                    "id": "47fb257f-0df3-4cff-a29a-ca79de2b69ad",
+                    "title": "Dig a Pony",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f804228-61c9-4726-ae33-19f49dfac0bf",
+                "direction": "backward",
+                "recording": {
+                    "id": "3f804228-61c9-4726-ae33-19f49dfac0bf",
+                    "title": "Dig a Pony",
+                    "length": "223000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3468a4db-e74d-4cc7-8ccf-cc72f9221d56",
+                "direction": "backward",
+                "recording": {
+                    "id": "3468a4db-e74d-4cc7-8ccf-cc72f9221d56",
+                    "title": "Dig a Pony",
+                    "length": "224733"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5697e440-8e4c-4a7c-b61e-5a82d81bad9a",
+                "direction": "backward",
+                "recording": {
+                    "id": "5697e440-8e4c-4a7c-b61e-5a82d81bad9a",
+                    "title": "Dig a Pony",
+                    "length": "238000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eaafe3e0-994d-4d9e-bd35-7d158dc3030e",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "eaafe3e0-994d-4d9e-bd35-7d158dc3030e",
+                    "title": "Dig a Pony",
+                    "length": "379000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a174feb4-9aeb-4866-8d93-672be2ccad24",
+                "direction": "backward",
+                "recording": {
+                    "id": "a174feb4-9aeb-4866-8d93-672be2ccad24",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2212cf89-21c4-4733-8e9b-4ca19d786202",
+                "direction": "backward",
+                "recording": {
+                    "id": "2212cf89-21c4-4733-8e9b-4ca19d786202",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66c3fdcb-09eb-4031-bbe2-95a468cda81f",
+                "direction": "backward",
+                "recording": {
+                    "id": "66c3fdcb-09eb-4031-bbe2-95a468cda81f",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8db0f892-8a0b-4950-8f2b-5e9f9649fff1",
+                "direction": "backward",
+                "recording": {
+                    "id": "8db0f892-8a0b-4950-8f2b-5e9f9649fff1",
+                    "title": "Dig a Pony",
+                    "length": "227400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8b1fc22a-27df-413b-ac22-b2e57a8fcf86",
+                "direction": "backward",
+                "recording": {
+                    "id": "8b1fc22a-27df-413b-ac22-b2e57a8fcf86",
+                    "title": "Dig a Pony",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b59bebd8-4c30-4e8a-aa0f-68cff5f6c0fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "b59bebd8-4c30-4e8a-aa0f-68cff5f6c0fb",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2e9415f-4423-45d5-8880-29bee33fe32a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a2e9415f-4423-45d5-8880-29bee33fe32a",
+                    "title": "Dig a Pony",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3eaba09b-fb9b-485b-83c4-eabbc7f5e553",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3eaba09b-fb9b-485b-83c4-eabbc7f5e553",
+                    "title": "Dig a Pony",
+                    "length": "270293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "060007ce-79ab-4d01-9fce-47ad8017a7df",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "060007ce-79ab-4d01-9fce-47ad8017a7df",
+                    "title": "Dig a Pony",
+                    "length": "280493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44a9a4d7-d9fe-4969-886d-8d85484dbef5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "44a9a4d7-d9fe-4969-886d-8d85484dbef5",
+                    "title": "Dig a Pony",
+                    "length": "209066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "109607a7-87ec-4b77-adbd-95c09cdf60a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "109607a7-87ec-4b77-adbd-95c09cdf60a7",
+                    "title": "Dig a Pony",
+                    "length": "212986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c48b2e7-7ee8-4f66-92c7-6f89b76ebd0d",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c48b2e7-7ee8-4f66-92c7-6f89b76ebd0d",
+                    "title": "Dig a Pony",
+                    "length": "227000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9caf160e-3615-47e1-b9d7-8289a2587c3b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9caf160e-3615-47e1-b9d7-8289a2587c3b",
+                    "title": "Dig a Pony",
+                    "length": "206440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "baa24328-b577-4fd9-933a-8cbfdefb2307",
+                "direction": "backward",
+                "recording": {
+                    "id": "baa24328-b577-4fd9-933a-8cbfdefb2307",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e032ece-b9fc-4eab-bcfd-6a7b968ffc3f",
+                "direction": "backward",
+                "recording": {
+                    "id": "1e032ece-b9fc-4eab-bcfd-6a7b968ffc3f",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9275da7b-0951-4ca0-abb9-99f55110ea1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "9275da7b-0951-4ca0-abb9-99f55110ea1c",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f2a8177-4fdb-4c2a-825e-4607008997c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "2f2a8177-4fdb-4c2a-825e-4607008997c7",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecda6e51-0819-482d-8c55-c9c92a90ce2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ecda6e51-0819-482d-8c55-c9c92a90ce2e",
+                    "title": "Dig a Pony",
+                    "length": "262800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7823f664-281c-421c-b5ca-c038bdbfa98e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7823f664-281c-421c-b5ca-c038bdbfa98e",
+                    "title": "Dig a Pony",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04813ca1-d8b7-48d6-8fd9-a2da03f3e7f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "04813ca1-d8b7-48d6-8fd9-a2da03f3e7f9",
+                    "title": "Dig a Pony",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9762ba3c-8532-4a22-bca0-c38b8d9b22d9",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9762ba3c-8532-4a22-bca0-c38b8d9b22d9",
+                    "title": "Dig a Pony",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b46d089-0227-4fe8-9746-f37be4ee5e20",
+                "direction": "backward",
+                "recording": {
+                    "id": "1b46d089-0227-4fe8-9746-f37be4ee5e20",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "055ea7b9-43b6-4b6a-a0c3-615e9e593be4",
+                "direction": "backward",
+                "recording": {
+                    "id": "055ea7b9-43b6-4b6a-a0c3-615e9e593be4",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "82b04916-8266-454c-8c0f-eb9b890b98fa",
+                "direction": "backward",
+                "recording": {
+                    "id": "82b04916-8266-454c-8c0f-eb9b890b98fa",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37bb3f70-3e27-4a91-a844-0cdf6d8298e7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "37bb3f70-3e27-4a91-a844-0cdf6d8298e7",
+                    "title": "Dig a Pony",
+                    "length": "232000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5f42716-e277-40b2-990f-02ac9a56ee45",
+                "direction": "backward",
+                "recording": {
+                    "id": "e5f42716-e277-40b2-990f-02ac9a56ee45",
+                    "title": "Dig a Pony",
+                    "length": "231000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73ada1b0-174a-4693-ade2-dc9c5e973622",
+                "direction": "backward",
+                "recording": {
+                    "id": "73ada1b0-174a-4693-ade2-dc9c5e973622",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fcab4da1-88cd-46bf-a5ec-d88295e26c06",
+                "direction": "backward",
+                "recording": {
+                    "id": "fcab4da1-88cd-46bf-a5ec-d88295e26c06",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03a8e5a7-470a-409d-9671-562f2873fce6",
+                "direction": "backward",
+                "recording": {
+                    "id": "03a8e5a7-470a-409d-9671-562f2873fce6",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2da5b805-9906-496e-b52d-2e8514004817",
+                "direction": "backward",
+                "recording": {
+                    "id": "2da5b805-9906-496e-b52d-2e8514004817",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ce0bddf-237f-4475-9ae6-10d3e3174320",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ce0bddf-237f-4475-9ae6-10d3e3174320",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e774d494-ac85-46d6-9796-081f1b91338e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e774d494-ac85-46d6-9796-081f1b91338e",
+                    "title": "Dig a Pony",
+                    "length": "247000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "475e4eb0-9984-4f1b-85a6-18ae50db766c",
+                "direction": "backward",
+                "recording": {
+                    "id": "475e4eb0-9984-4f1b-85a6-18ae50db766c",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30cf3974-2d23-4aa3-91ab-6f95f09495b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "30cf3974-2d23-4aa3-91ab-6f95f09495b7",
+                    "title": "Dig a Pony"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c96a35f-0e4b-4e01-babf-b62bdfa32b82",
+                "direction": "backward",
+                "recording": {
+                    "id": "8c96a35f-0e4b-4e01-babf-b62bdfa32b82",
+                    "title": "Dig a Pony",
+                    "length": "253106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92db0cd4-0338-4a07-bb1f-0b756c75bd0f",
+                "direction": "backward",
+                "recording": {
+                    "id": "92db0cd4-0338-4a07-bb1f-0b756c75bd0f",
+                    "title": "Dig a Pony",
+                    "length": "245000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f5fafe7-a835-494f-a43c-7d990e677eb6",
+                "direction": "backward",
+                "recording": {
+                    "id": "1f5fafe7-a835-494f-a43c-7d990e677eb6",
+                    "title": "Dig a Pony",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d28a6edd-ca43-4f92-aba8-d1ad8122c866",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d28a6edd-ca43-4f92-aba8-d1ad8122c866",
+                    "title": "Dig a Pony",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "848acdd8-2985-4bb8-a713-2fa713f49093",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "848acdd8-2985-4bb8-a713-2fa713f49093",
+                    "title": "Dig a Pony",
+                    "length": "213373"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed94492d-c53a-48eb-9d9b-f3d71ade852d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ed94492d-c53a-48eb-9d9b-f3d71ade852d",
+                    "title": "Dig A Pony",
+                    "length": "375266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9388bb04-1df1-4292-8258-578648959c55",
+                "direction": "backward",
+                "recording": {
+                    "id": "9388bb04-1df1-4292-8258-578648959c55",
+                    "title": "Dig a Pony (Apple Rooftop Concert)",
+                    "length": "231000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8352d9b-555c-4900-8b53-bacceeae86dc",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b8352d9b-555c-4900-8b53-bacceeae86dc",
+                    "title": "Dig A Pony (Rooftop Concert)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03248e56-1dc7-47bf-bbb1-7ef35b658098",
+                "direction": "backward",
+                "recording": {
+                    "id": "03248e56-1dc7-47bf-bbb1-7ef35b658098",
+                    "title": "Dig a Pony 23.65",
+                    "length": "295000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c0fda43-0bc1-441a-a559-4755463f7e97",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c0fda43-0bc1-441a-a559-4755463f7e97",
+                    "title": "I Dig a Pony"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-dig-a-pony-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/19174",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=178",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2072824",
+                "direction": "backward"
+            }
+        ]
+    }
+}

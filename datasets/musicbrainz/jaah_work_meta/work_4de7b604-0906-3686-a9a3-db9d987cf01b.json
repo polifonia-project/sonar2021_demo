@@ -1,0 +1,408 @@
+{
+    "work": {
+        "id": "4de7b604-0906-3686-a9a3-db9d987cf01b",
+        "title": "West Coast Blues",
+        "language": "zxx",
+        "iswc": "T-070.940.662-1",
+        "iswc-list": [
+            "T-070.940.662-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1561276"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "663f8232-8c46-4851-803f-a91d31593b14",
+                "direction": "backward",
+                "artist": {
+                    "id": "663f8232-8c46-4851-803f-a91d31593b14",
+                    "type": "Person",
+                    "name": "Wes Montgomery",
+                    "sort-name": "Montgomery, Wes"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "dedication",
+                "type-id": "762b17eb-e511-4cc0-836e-a081831c1754",
+                "target": "cd94593f-bddd-4ccb-b67f-022fe576d492",
+                "direction": "backward",
+                "label": {
+                    "id": "cd94593f-bddd-4ccb-b67f-022fe576d492",
+                    "type": "Publisher",
+                    "name": "Taggie Music Co.",
+                    "sort-name": "Taggie Music Co."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a75054f-bf8b-4630-8fb2-e6191db73d88",
+                "direction": "backward",
+                "begin": "1960-01-26",
+                "end": "1960-01-26",
+                "ended": "true",
+                "recording": {
+                    "id": "8a75054f-bf8b-4630-8fb2-e6191db73d88",
+                    "title": "West Coast Blues",
+                    "length": "447266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02ffe965-bd93-45bd-ae9f-5671261871ae",
+                "direction": "backward",
+                "begin": "1960-01-26",
+                "end": "1960-01-28",
+                "ended": "true",
+                "recording": {
+                    "id": "02ffe965-bd93-45bd-ae9f-5671261871ae",
+                    "title": "West Coast Blues (abridged)",
+                    "length": "336466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7ad0c12-5d9f-4c5a-a646-ed323c7fdd52",
+                "direction": "backward",
+                "begin": "1960-05-17",
+                "end": "1960-05-18",
+                "ended": "true",
+                "recording": {
+                    "id": "e7ad0c12-5d9f-4c5a-a646-ed323c7fdd52",
+                    "title": "West Coast Blues",
+                    "length": "364786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "861413ef-5470-4183-9ac8-9d9027f6e3e5",
+                "direction": "backward",
+                "begin": "1961-05-09",
+                "end": "1961-05-09",
+                "ended": "true",
+                "recording": {
+                    "id": "861413ef-5470-4183-9ac8-9d9027f6e3e5",
+                    "title": "West Coast Blues",
+                    "length": "244146"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9cdf0cc6-ce72-4d65-bbf4-edc37e5daef6",
+                "direction": "backward",
+                "begin": "1962",
+                "end": "1962",
+                "ended": "true",
+                "recording": {
+                    "id": "9cdf0cc6-ce72-4d65-bbf4-edc37e5daef6",
+                    "title": "West Coast Blues",
+                    "length": "245626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a25880f-cdc6-41cb-acb1-3d2aae110514",
+                "direction": "backward",
+                "begin": "1963-04-20",
+                "end": "1963-04-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0a25880f-cdc6-41cb-acb1-3d2aae110514",
+                    "title": "West Coast Blues",
+                    "length": "339000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bc8d8c81-6c4b-4bf1-b60f-457ce9c32813",
+                "direction": "backward",
+                "begin": "1964-11-16",
+                "end": "1964-11-16",
+                "ended": "true",
+                "recording": {
+                    "id": "bc8d8c81-6c4b-4bf1-b60f-457ce9c32813",
+                    "title": "West Coast Blues",
+                    "length": "191774"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ee993fe-0607-4aab-9a91-f70a81a9d4f4",
+                "direction": "backward",
+                "begin": "1965-03-27",
+                "end": "1965-03-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8ee993fe-0607-4aab-9a91-f70a81a9d4f4",
+                    "title": "Blue \u2019N Boogie / West Coast Blues",
+                    "length": "794000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42abe7ca-8edb-4cbb-829b-572e2bdc8301",
+                "direction": "backward",
+                "begin": "1966-04-14",
+                "end": "1966-04-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "42abe7ca-8edb-4cbb-829b-572e2bdc8301",
+                    "title": "West Coast Blues",
+                    "length": "236000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91e18caf-13bf-4ea2-84a9-18fc3d6d449a",
+                "direction": "backward",
+                "begin": "1988-06-26",
+                "end": "1988-06-26",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "91e18caf-13bf-4ea2-84a9-18fc3d6d449a",
+                    "title": "West Coast Blues"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "64ec296f-43e6-4079-a179-fa6b74166f22",
+                "direction": "backward",
+                "begin": "2002-06-30",
+                "end": "2002-06-30",
+                "ended": "true",
+                "recording": {
+                    "id": "64ec296f-43e6-4079-a179-fa6b74166f22",
+                    "title": "West Coast Blues",
+                    "length": "427000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42bb192e-6fbb-4709-ba62-90812a116931",
+                "direction": "backward",
+                "begin": "2003-05-14",
+                "end": "2003-05-14",
+                "ended": "true",
+                "recording": {
+                    "id": "42bb192e-6fbb-4709-ba62-90812a116931",
+                    "title": "West Coast Blues",
+                    "length": "407000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62a16c27-07ad-4cb7-94f5-9b345f295d98",
+                "direction": "backward",
+                "begin": "2006-08",
+                "end": "2006-08",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "62a16c27-07ad-4cb7-94f5-9b345f295d98",
+                    "title": "West Coast Blues",
+                    "length": "437000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1e6b27e0-827b-44f1-a7b6-38196cd521d2",
+                "direction": "backward",
+                "begin": "2009-11-04",
+                "end": "2009-11-04",
+                "ended": "true",
+                "recording": {
+                    "id": "1e6b27e0-827b-44f1-a7b6-38196cd521d2",
+                    "title": "West Coast Blues",
+                    "length": "414000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00c1b4f5-bd3f-4bf7-8f41-db2d9e76ede5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "00c1b4f5-bd3f-4bf7-8f41-db2d9e76ede5",
+                    "title": "West Coast Blues",
+                    "length": "205000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e468c84-7b1b-4448-9128-0ac0673bd9b3",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e468c84-7b1b-4448-9128-0ac0673bd9b3",
+                    "title": "West Coast Blues",
+                    "length": "243026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7b466f9-f08f-42c4-9498-9474a49a08e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a7b466f9-f08f-42c4-9498-9474a49a08e6",
+                    "title": "West Coast Blues",
+                    "length": "237000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6618d82-24fd-4965-8cc3-5c383034614f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b6618d82-24fd-4965-8cc3-5c383034614f",
+                    "title": "West Coast Blues",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2baf5e9c-62f8-482c-acf6-5928adf39eec",
+                "direction": "backward",
+                "recording": {
+                    "id": "2baf5e9c-62f8-482c-acf6-5928adf39eec",
+                    "title": "West Coast Blues",
+                    "length": "287000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f3fec89-4242-4ea6-9b69-1da6c9ecbb79",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0f3fec89-4242-4ea6-9b69-1da6c9ecbb79",
+                    "title": "West Coast Blues",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8f820b3-e1d4-4f4a-a68b-a0239289b427",
+                "direction": "backward",
+                "recording": {
+                    "id": "a8f820b3-e1d4-4f4a-a68b-a0239289b427",
+                    "title": "West Coast Blues",
+                    "length": "123306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cfe9edcd-81c6-4dc5-ae96-573415d201f8",
+                "direction": "backward",
+                "recording": {
+                    "id": "cfe9edcd-81c6-4dc5-ae96-573415d201f8",
+                    "title": "West Coast Blues",
+                    "length": "237000",
+                    "disambiguation": "mono"
+                }
+            }
+        ]
+    }
+}

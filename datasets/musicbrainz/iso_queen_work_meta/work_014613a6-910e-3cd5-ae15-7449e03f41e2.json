@@ -1,0 +1,1399 @@
+{
+    "work": {
+        "id": "014613a6-910e-3cd5-ae15-7449e03f41e2",
+        "type": "Song",
+        "title": "One Vision",
+        "language": "eng",
+        "iswc": "T-010.117.883-9",
+        "iswc-list": [
+            "T-010.117.883-9"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                "direction": "backward",
+                "artist": {
+                    "id": "558302b1-07ae-4be1-9edb-2a2b1f036313",
+                    "type": "Person",
+                    "name": "Roger Taylor",
+                    "sort-name": "Taylor, Roger",
+                    "disambiguation": "Queen drummer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c47b9042-6918-469e-bcd5-5afee6342624",
+                "direction": "backward",
+                "begin": "1985-05-11",
+                "end": "1985-05-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c47b9042-6918-469e-bcd5-5afee6342624",
+                    "title": "One Vision",
+                    "length": "252000",
+                    "disambiguation": "live, 1985-05-11: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57c8fa62-c62f-4155-90cf-69b90829067b",
+                "direction": "backward",
+                "begin": "1985",
+                "end": "1985",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "57c8fa62-c62f-4155-90cf-69b90829067b",
+                    "title": "One Vision",
+                    "length": "287000",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a11c49ba-f355-4b88-ba7d-42a55d4678ee",
+                "direction": "backward",
+                "begin": "1986-06-21",
+                "end": "1986-06-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a11c49ba-f355-4b88-ba7d-42a55d4678ee",
+                    "title": "One Vision / Tie Your Mother Down",
+                    "length": "545000",
+                    "disambiguation": "live, 1986-06-21: Reigns the World: Maimarktgel\u00e4nde, Mannheim, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27a9529d-c330-437c-83dc-33ebf9d0b53f",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "27a9529d-c330-437c-83dc-33ebf9d0b53f",
+                    "title": "One Vision",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c3412f2-f9c6-4927-9245-a40bcfc37223",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8c3412f2-f9c6-4927-9245-a40bcfc37223",
+                    "title": "One Vision",
+                    "disambiguation": "live, 1986-07-11: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af1a4e88-7cad-4271-9900-02c392860820",
+                "direction": "backward",
+                "begin": "1986-07-11",
+                "end": "1986-07-11",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "af1a4e88-7cad-4271-9900-02c392860820",
+                    "title": "One Vision (live at Wembley Stadium, July 11th 1986)",
+                    "length": "314733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddcbe3cb-b2f4-47b8-994d-10261f34064a",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ddcbe3cb-b2f4-47b8-994d-10261f34064a",
+                    "title": "One Vision",
+                    "length": "350000",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc731209-6770-4754-a67a-8bd6c82827f6",
+                "direction": "backward",
+                "begin": "1986-07-12",
+                "end": "1986-07-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cc731209-6770-4754-a67a-8bd6c82827f6",
+                    "title": "One Vision",
+                    "disambiguation": "live, 1986-07-12: Wembley Stadium, London, England",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19a622ca-00cb-4c8c-b6c2-698ef645a977",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "19a622ca-00cb-4c8c-b6c2-698ef645a977",
+                    "title": "One Vision",
+                    "length": "337000",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfcb7977-a1be-415b-b6d1-071813eddaf4",
+                "direction": "backward",
+                "begin": "1986-07-27",
+                "end": "1986-07-27",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dfcb7977-a1be-415b-b6d1-071813eddaf4",
+                    "title": "One Vision",
+                    "disambiguation": "live, 1986-07-27: N\u00e9pstadion, Budapest, Hungary",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e83efa1f-2b9d-46c9-98b5-4afdbbdbdb38",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e83efa1f-2b9d-46c9-98b5-4afdbbdbdb38",
+                    "title": "One Vision",
+                    "length": "308026",
+                    "disambiguation": "live, 1986-08-09: Knebworth Park, Stevenage, England, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c1372f2-f820-4614-88d8-1704b513edb1",
+                "direction": "backward",
+                "begin": "1986-08-09",
+                "end": "1986-08-09",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1c1372f2-f820-4614-88d8-1704b513edb1",
+                    "title": "One Vision",
+                    "length": "354546",
+                    "disambiguation": "live, 1986-08-09: Electric Magic: Knebworth Park, Knebworth, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a4eb310-efde-4cb8-bb37-8626aeb7eda4",
+                "direction": "backward",
+                "begin": "2002-07-12",
+                "end": "2002-07-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2a4eb310-efde-4cb8-bb37-8626aeb7eda4",
+                    "title": "One Vision",
+                    "length": "275000",
+                    "disambiguation": "We Will Rock You, 2002 original London cast"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24405a1b-6463-4f5d-bafc-a59ca28c8728",
+                "direction": "backward",
+                "begin": "2007-04-14",
+                "end": "2007-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "24405a1b-6463-4f5d-bafc-a59ca28c8728",
+                    "title": "One Vision",
+                    "disambiguation": "live, 2007-04-14: H\u00fcckeswagen, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df8cf427-09f2-4682-918b-239d8330635e",
+                "direction": "backward",
+                "begin": "2008-09-12",
+                "end": "2008-09-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "df8cf427-09f2-4682-918b-239d8330635e",
+                    "title": "One Vision",
+                    "length": "243266",
+                    "disambiguation": "live, 2008-09-12: Freedom Square, Kharkiv, Kharkivs'ka Oblast', Ukraine"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "983323c3-0e54-4d02-9055-d5c6843fd27c",
+                "direction": "backward",
+                "begin": "2008-09-16",
+                "end": "2008-09-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "983323c3-0e54-4d02-9055-d5c6843fd27c",
+                    "title": "One Vision",
+                    "disambiguation": "live, 2008-09-16: Olympiysky Sports Palace, Moskva, Russia"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "faf92e0b-f858-47b7-becc-4715131e5f7e",
+                "direction": "backward",
+                "begin": "2010-12-10",
+                "end": "2010-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "faf92e0b-f858-47b7-becc-4715131e5f7e",
+                    "title": "One Vision",
+                    "length": "248000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "aa27b6ae-fe2f-403e-9b57-5a3eb846a168",
+                    "title": "A Sample of Magic",
+                    "length": "556000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc08eb28-b0bc-4a6d-ba45-a0f1cce82d21",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc08eb28-b0bc-4a6d-ba45-a0f1cce82d21",
+                    "title": "Blurred Vision",
+                    "length": "282000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aecd3c0b-d70b-4015-b175-738bee3f2db9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "aecd3c0b-d70b-4015-b175-738bee3f2db9",
+                    "title": "Geburt einer Nation",
+                    "length": "261333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb093e14-c149-401f-9c62-a207ab2f48b7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fb093e14-c149-401f-9c62-a207ab2f48b7",
+                    "title": "One Vision",
+                    "length": "228693",
+                    "disambiguation": "live, 1982/1986: Hallenstadion, Z\u00fcrich, Switzerland"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57ff4679-48b4-4f43-a477-af97349cec15",
+                "direction": "backward",
+                "recording": {
+                    "id": "57ff4679-48b4-4f43-a477-af97349cec15",
+                    "title": "One Vision",
+                    "length": "278000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05bfa3b7-0869-4381-abe6-bd67db9101a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "05bfa3b7-0869-4381-abe6-bd67db9101a1",
+                    "title": "One Vision",
+                    "length": "279000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b0019b1-a7ab-4f82-9ca2-a579ab18032c",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b0019b1-a7ab-4f82-9ca2-a579ab18032c",
+                    "title": "One Vision",
+                    "length": "241693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2da1caad-a49c-4a5c-92d5-70b6822b303e",
+                "direction": "backward",
+                "recording": {
+                    "id": "2da1caad-a49c-4a5c-92d5-70b6822b303e",
+                    "title": "One Vision",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84a2993a-a06e-47b1-8749-6949ec965322",
+                "direction": "backward",
+                "recording": {
+                    "id": "84a2993a-a06e-47b1-8749-6949ec965322",
+                    "title": "One Vision",
+                    "length": "243920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85d69f32-7c1b-4c9f-b53a-0ff4253d9000",
+                "direction": "backward",
+                "recording": {
+                    "id": "85d69f32-7c1b-4c9f-b53a-0ff4253d9000",
+                    "title": "One Vision",
+                    "length": "261000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d63e49c1-9b06-45f6-81c9-6573abc2896c",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d63e49c1-9b06-45f6-81c9-6573abc2896c",
+                    "title": "One Vision",
+                    "length": "147146"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e8dc466-6d50-4ced-9575-898fdfb56921",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e8dc466-6d50-4ced-9575-898fdfb56921",
+                    "title": "One Vision",
+                    "length": "240000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fab39ec3-df12-4227-b3d6-35e0c589f8de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fab39ec3-df12-4227-b3d6-35e0c589f8de",
+                    "title": "One Vision",
+                    "length": "227000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b22f7cc3-e3e1-4665-adf0-fb340dc45a14",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b22f7cc3-e3e1-4665-adf0-fb340dc45a14",
+                    "title": "One Vision",
+                    "length": "115635",
+                    "disambiguation": "live, 2009-05-21: Jubilee Auditorium, Edmonton, AB, Canada"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6d722db3-94e3-4bde-8cd1-3c8ae6d8cb48",
+                "direction": "backward",
+                "recording": {
+                    "id": "6d722db3-94e3-4bde-8cd1-3c8ae6d8cb48",
+                    "title": "One Vision"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4eed490-7551-4029-82c5-3e0ded387a85",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a4eed490-7551-4029-82c5-3e0ded387a85",
+                    "title": "One Vision",
+                    "length": "225320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67f89974-91c4-45dc-a1a7-c823f7b5c561",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "67f89974-91c4-45dc-a1a7-c823f7b5c561",
+                    "title": "One Vision",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48339025-eab8-49ca-ab88-1e7b51d20c8b",
+                "direction": "backward",
+                "recording": {
+                    "id": "48339025-eab8-49ca-ab88-1e7b51d20c8b",
+                    "title": "One Vision",
+                    "length": "242693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "654ff228-eb4b-401d-98a8-cf071ce06ef6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "654ff228-eb4b-401d-98a8-cf071ce06ef6",
+                    "title": "One Vision",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d192670-2e39-4efe-b462-a0b1a5787de2",
+                "direction": "backward",
+                "recording": {
+                    "id": "0d192670-2e39-4efe-b462-a0b1a5787de2",
+                    "title": "One Vision",
+                    "length": "244453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5afa26a1-e3c0-4687-8085-b853bbea99c2",
+                "direction": "backward",
+                "recording": {
+                    "id": "5afa26a1-e3c0-4687-8085-b853bbea99c2",
+                    "title": "One Vision",
+                    "length": "242000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "916d30bc-07c5-4659-aa10-08f3b9f2ab04",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "916d30bc-07c5-4659-aa10-08f3b9f2ab04",
+                    "title": "One Vision",
+                    "length": "251933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d0e3d10-a065-4ce7-8934-3f6ebf6b285b",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d0e3d10-a065-4ce7-8934-3f6ebf6b285b",
+                    "title": "One Vision",
+                    "length": "226000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbb39c07-8d11-463f-ba07-a25ceb471ea9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fbb39c07-8d11-463f-ba07-a25ceb471ea9",
+                    "title": "One Vision",
+                    "length": "230000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8d26882-c761-489f-8e3c-b7c32d7aa9dd",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8d26882-c761-489f-8e3c-b7c32d7aa9dd",
+                    "title": "One Vision"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fea930de-7f5f-4b89-b53f-54bbd6a3cc71",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fea930de-7f5f-4b89-b53f-54bbd6a3cc71",
+                    "title": "One Vision",
+                    "length": "250186",
+                    "disambiguation": "karaoke version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12ad6023-2576-410b-8902-4fc5bad6cc40",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "12ad6023-2576-410b-8902-4fc5bad6cc40",
+                    "title": "One Vision"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09ccaefa-1fcd-4a1d-b608-ef35a15a7cce",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "09ccaefa-1fcd-4a1d-b608-ef35a15a7cce",
+                    "title": "One Vision",
+                    "length": "194400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6cc86f6c-b564-477f-a8fe-46cafb30199f",
+                "direction": "backward",
+                "recording": {
+                    "id": "6cc86f6c-b564-477f-a8fe-46cafb30199f",
+                    "title": "One Vision",
+                    "length": "310666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77e7a774-9c9b-40a7-9d81-f42cfe6e1047",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77e7a774-9c9b-40a7-9d81-f42cfe6e1047",
+                    "title": "One Vision"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1a8e13b-6329-4c87-b08a-c5901199eb49",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b1a8e13b-6329-4c87-b08a-c5901199eb49",
+                    "title": "One Vision",
+                    "length": "273160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b88a04b-399f-493e-9a2b-b83873135735",
+                "direction": "backward",
+                "recording": {
+                    "id": "7b88a04b-399f-493e-9a2b-b83873135735",
+                    "title": "One Vision",
+                    "length": "278133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7536f412-dcdb-4773-951b-3f60cd8e8d77",
+                "direction": "backward",
+                "recording": {
+                    "id": "7536f412-dcdb-4773-951b-3f60cd8e8d77",
+                    "title": "One Vision",
+                    "length": "241000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef391778-51fd-45d3-8ef5-10c4224cf383",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ef391778-51fd-45d3-8ef5-10c4224cf383",
+                    "title": "One Vision",
+                    "length": "165280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac3bbceb-ea67-401b-b003-5b68a9323863",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac3bbceb-ea67-401b-b003-5b68a9323863",
+                    "title": "One Vision",
+                    "length": "244960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a3b340f-90ad-4d6b-8548-700428dd0cae",
+                "direction": "backward",
+                "recording": {
+                    "id": "0a3b340f-90ad-4d6b-8548-700428dd0cae",
+                    "title": "One Vision",
+                    "length": "243493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd7c1eb3-e308-4013-b8d9-d762985d931e",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "fd7c1eb3-e308-4013-b8d9-d762985d931e",
+                    "title": "One Vision",
+                    "length": "32906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07588378-0e61-4068-bbcb-a9f420a17680",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "07588378-0e61-4068-bbcb-a9f420a17680",
+                    "title": "One Vision",
+                    "length": "275866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b5f55cf-54d6-484c-98b1-c94f73396477",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2b5f55cf-54d6-484c-98b1-c94f73396477",
+                    "title": "One Vision",
+                    "length": "257666",
+                    "disambiguation": "live, 1986-07-27: Nepstadion, Budapest, Hungary"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7ce2970-00b9-40b7-a9ab-32eed39987ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d7ce2970-00b9-40b7-a9ab-32eed39987ef",
+                    "title": "One Vision",
+                    "length": "281000",
+                    "disambiguation": "live, 1985: Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff494821-e9d9-4730-bf56-d13be9b44167",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ff494821-e9d9-4730-bf56-d13be9b44167",
+                    "title": "One Vision",
+                    "length": "274493",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e44a034c-f8ce-4f30-9076-06a52188e4a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "e44a034c-f8ce-4f30-9076-06a52188e4a5",
+                    "title": "One Vision (12\u2033 extended vision)",
+                    "length": "382000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "939e1fc3-1c24-4880-aa0b-3385041b9985",
+                "direction": "backward",
+                "recording": {
+                    "id": "939e1fc3-1c24-4880-aa0b-3385041b9985",
+                    "title": "One Vision (alternate text version)",
+                    "length": "43000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15fa9fa2-d7c0-4791-9418-d4a31aa94201",
+                "direction": "backward",
+                "recording": {
+                    "id": "15fa9fa2-d7c0-4791-9418-d4a31aa94201",
+                    "title": "One Vision (extended 12\u2033)",
+                    "length": "382000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52a21616-aaa6-4f94-9f36-aa998b022f7d",
+                "direction": "backward",
+                "recording": {
+                    "id": "52a21616-aaa6-4f94-9f36-aa998b022f7d",
+                    "title": "One Vision (extended promo video, 1985)",
+                    "length": "390000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "28900241-322a-470f-8dbd-9920f80ad2cc",
+                "direction": "backward",
+                "recording": {
+                    "id": "28900241-322a-470f-8dbd-9920f80ad2cc",
+                    "title": "One Vision (extended version)",
+                    "length": "378000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5788606c-16f2-49da-9c51-7232566c3388",
+                "direction": "backward",
+                "recording": {
+                    "id": "5788606c-16f2-49da-9c51-7232566c3388",
+                    "title": "One Vision (extended version)",
+                    "length": "366600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2220e474-354a-4e4c-a1b7-5748833376c8",
+                "direction": "backward",
+                "recording": {
+                    "id": "2220e474-354a-4e4c-a1b7-5748833376c8",
+                    "title": "One Vision (extended version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2eb4c5b4-7eb4-4043-bc4c-c69c3cca8b60",
+                "direction": "backward",
+                "recording": {
+                    "id": "2eb4c5b4-7eb4-4043-bc4c-c69c3cca8b60",
+                    "title": "One Vision (extended video)",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89d60be4-62de-4501-a213-1f02bcc84162",
+                "direction": "backward",
+                "recording": {
+                    "id": "89d60be4-62de-4501-a213-1f02bcc84162",
+                    "title": "One Vision (Extended Vision)",
+                    "length": "383000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6c06605-7b6a-4f57-859d-59825dc74dcb",
+                "direction": "backward",
+                "recording": {
+                    "id": "d6c06605-7b6a-4f57-859d-59825dc74dcb",
+                    "title": "One Vision (remastered)",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fb88f59-5bba-4342-a0e8-94679c2d28f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "7fb88f59-5bba-4342-a0e8-94679c2d28f0",
+                    "title": "One Vision (single version)",
+                    "length": "241000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0df87391-2344-451e-a0dd-afc08f5df505",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0df87391-2344-451e-a0dd-afc08f5df505",
+                    "title": "One Vision (Spahn Ranch remix)",
+                    "length": "262000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3ded525-0b66-4275-97c3-82812f5f3703",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3ded525-0b66-4275-97c3-82812f5f3703",
+                    "title": "One Vision (studio take)",
+                    "length": "41440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1cc5dae-2fa4-47a7-9d14-bcb1b0b293d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1cc5dae-2fa4-47a7-9d14-bcb1b0b293d2",
+                    "title": "One Vision (with commentary)",
+                    "length": "136893"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0006333591",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/Queen-one-vision-live-1986-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/Queen-one-vision-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/11017",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q578149",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "based on",
+                "type-id": "6bb1df6b-57f3-434d-8a39-5dc363d2eb78",
+                "target": "b741abf4-e7c2-4ce5-9e99-b0cd0138d57b",
+                "direction": "forward",
+                "work": {
+                    "id": "b741abf4-e7c2-4ce5-9e99-b0cd0138d57b",
+                    "title": "The Queen Symphony: I. Adagio misterioso - Allegro con brio - Maestoso - Misterioso - Allegro"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "916e9c0d-c7d9-319f-9bcf-07c1492672b9",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody",
+                    "translated"
+                ],
+                "work": {
+                    "id": "916e9c0d-c7d9-319f-9bcf-07c1492672b9",
+                    "title": "Geburt einer Nation"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    },
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                "direction": "backward",
+                "work": {
+                    "id": "01058179-a28f-4e0d-96be-0678e3d5e053",
+                    "type": "Musical",
+                    "title": "We Will Rock You",
+                    "language": "eng",
+                    "disambiguation": "Queen musical"
+                }
+            }
+        ]
+    }
+}

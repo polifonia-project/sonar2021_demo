@@ -1,0 +1,33 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+PREFIX mei: <http://www.music-encoding.org/ns/mei#>
+PREFIX xml: <http://www.w3.org/XML/1998/namespace#>
+
+CONSTRUCT {
+ ?file xyz:artist ?artist ; xyz:title ?title ; xyz:lyrics ?lyrics ; xyz:location ?file ; xyz:filename ?filename ; xyz:lang ?lang
+} WHERE {
+	# ?_file is a basil variable, passed via CLI
+	BIND (IRI(CONCAT("x-sparql-anything:","location=", ?_file )) AS ?fx) .
+	SERVICE ?fx {
+		fx:properties
+			fx:media-type "application/json"
+		.
+	#	?A ?B ?C
+	#	[] xyz:artist ?artist ; xyz:title ?title ; xyz:lyrics ?lyrics
+	{
+		# Schubert
+		[] xyz:name ?title ; xyz:lyric ?lyrics .
+		FILTER NOT EXISTS {[] xyz:artist []} .
+		BIND("Schubert" as ?artist) .
+		BIND("de" as ?lang)
+	} UNION {
+		# Beatles, Queen, etc
+		[] xyz:artist ?artist ; xyz:title ?title ; xyz:lyrics ?lyrics .
+		BIND("en" as ?lang)
+	} 
+	
+	}
+	BIND (IRI(?_file) as ?file) .
+	BIND (IRI(?_filename) as ?filename)
+}

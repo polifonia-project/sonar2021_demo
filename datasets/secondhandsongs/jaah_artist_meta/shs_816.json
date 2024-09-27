@@ -1,0 +1,76 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/816",
+    "commonName": "Ella Fitzgerald",
+    "realName": "Ella Jane Fitzgerald",
+    "birthDate": "1917-04-25",
+    "deathDate": "1996-06-15",
+    "picture": "https://secondhandsongs.com/picture/480035",
+    "homeCountry": "US",
+    "comments": null,
+    "aliases": [
+        "Ella Fitzgerald & Her Famous Orchestra",
+        "Ella Fitzgerald and Her Famous Orchestra",
+        "Ella Fitzgerald and Her Famous Orchestra - Vocal Chorus by Ella Fitzgerald",
+        "Ella Fitzgerald & Her Orchestra",
+        "Ella Fitzgerald and Her Rhythm Makers",
+        "Ella Fitzgerald and Her Savoy Eight",
+        "Ella Fitzgerald & Her Shepherds"
+    ],
+    "relations": [
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/33398",
+                "commonName": "Paul Smith [US]"
+            },
+            "comments": "Long-time accompanist and conductor"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/5595",
+                "commonName": "Ray Brown [US]"
+            },
+            "comments": "Husband (1947-1953)"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/16634",
+                "commonName": "Chick Webb"
+            },
+            "comments": "Vocals in the Chick Webb Orchestra (1935-1939)"
+        },
+        {
+            "relationName": "is family of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/1833",
+                "commonName": "Christopher Williams"
+            },
+            "comments": "Nephew"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/29337",
+                "commonName": "Tommy Flanagan"
+            },
+            "comments": "Piano accompanist in the 1960s and 1970s."
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/816/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/816/works",
+    "releases": "https://secondhandsongs.com/artist/816/releases"
+}

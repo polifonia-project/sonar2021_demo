@@ -1,0 +1,983 @@
+{
+    "work": {
+        "id": "c31e5675-8fb4-38fc-a160-7e41638a9ffc",
+        "type": "Song",
+        "title": "Don\u2019t Bother Me",
+        "language": "eng",
+        "iswc": "T-010.168.585-1",
+        "iswc-list": [
+            "T-010.168.585-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000350 251 25"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "3268"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12105477"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78101984700"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "28.919"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "5.025.860"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "688066"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "688066"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "2150378"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3975356"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "65 327 116 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "053937100"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "111328A"
+            },
+            {
+                "attribute": "LatinNet ID",
+                "value": "4171"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "527883-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1404644"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315970"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "3231078"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "7317011"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "13446426"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000023753"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "340102409"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02694350"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "2791684"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "2447901"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4739809"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "318137"
+            },
+            {
+                "attribute": "Key",
+                "value": "E minor"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "begin": "1963-08-19",
+                "end": "1963-08-19",
+                "ended": "true",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "begin": "1963-08-19",
+                "end": "1963-08-19",
+                "ended": "true",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "2ec9634b-ed39-457d-8934-2e72a06e288f",
+                "direction": "backward",
+                "label": {
+                    "id": "2ec9634b-ed39-457d-8934-2e72a06e288f",
+                    "type": "Publisher",
+                    "name": "Dick James Music Ltd.",
+                    "sort-name": "Dick James Music Ltd.",
+                    "disambiguation": "renamed Universal/Dick James Music Ltd. since 1999\u201007\u201030"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "724c65a8-68bb-4a63-881b-9ea6208ee585",
+                "direction": "backward",
+                "label": {
+                    "id": "724c65a8-68bb-4a63-881b-9ea6208ee585",
+                    "type": "Publisher",
+                    "name": "Dick James Music, Inc.",
+                    "sort-name": "Dick James Music, Inc.",
+                    "disambiguation": "USA, affiliated with BMI"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "be763f33-814c-48a6-8bcb-596f7cccb930",
+                "direction": "backward",
+                "label": {
+                    "id": "be763f33-814c-48a6-8bcb-596f7cccb930",
+                    "type": "Publisher",
+                    "name": "Universal\u2010Songs of PolyGram International, Inc.",
+                    "sort-name": "Universal\u2010Songs of PolyGram International, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "11f9a729-88e5-48ae-8bb9-ea1fa4b76537",
+                "direction": "backward",
+                "label": {
+                    "id": "11f9a729-88e5-48ae-8bb9-ea1fa4b76537",
+                    "type": "Publisher",
+                    "name": "Universal/Dick James Music Ltd.",
+                    "sort-name": "Universal/Dick James Music Ltd.",
+                    "disambiguation": "fka Dick James Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f08dd619-d3f7-4f0b-be47-0ff279d6e5ba",
+                "direction": "backward",
+                "begin": "1963-09-12",
+                "end": "1963-09-12",
+                "ended": "true",
+                "recording": {
+                    "id": "f08dd619-d3f7-4f0b-be47-0ff279d6e5ba",
+                    "title": "Don't Bother Me (RS15 Take 15)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f927fc4-daf6-465b-b6c1-695a7f35f33b",
+                "direction": "backward",
+                "begin": "1963-09-12",
+                "end": "1963-09-12",
+                "ended": "true",
+                "recording": {
+                    "id": "0f927fc4-daf6-465b-b6c1-695a7f35f33b",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "148000",
+                    "disambiguation": "1976 Capitol stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae2c5d82-1295-4f2a-8680-8bd42e61281a",
+                "direction": "backward",
+                "begin": "1963-09-12",
+                "end": "1963-09-12",
+                "ended": "true",
+                "recording": {
+                    "id": "ae2c5d82-1295-4f2a-8680-8bd42e61281a",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "149000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd8dec5e-c45f-4761-9d15-c1fb675cc21b",
+                "direction": "backward",
+                "begin": "1963-09-12",
+                "end": "1963-09-12",
+                "ended": "true",
+                "recording": {
+                    "id": "fd8dec5e-c45f-4761-9d15-c1fb675cc21b",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "149000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e26fd475-500c-4e51-b056-9e09dd3085c2",
+                "direction": "backward",
+                "begin": "1963-09-12",
+                "end": "1963-09-12",
+                "ended": "true",
+                "recording": {
+                    "id": "e26fd475-500c-4e51-b056-9e09dd3085c2",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "151000",
+                    "disambiguation": "1964 Capitol stereo remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "476cf21e-6080-433c-9b48-f9c08df0238a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "476cf21e-6080-433c-9b48-f9c08df0238a",
+                    "title": "Don't Bother Me",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8b41494-5fb7-4492-a83b-a2aa1ebbd3ce",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c8b41494-5fb7-4492-a83b-a2aa1ebbd3ce",
+                    "title": "Don't Bother Me",
+                    "length": "148000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7170f1c-abe5-4ed2-bdf6-15dcd15aee65",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b7170f1c-abe5-4ed2-bdf6-15dcd15aee65",
+                    "title": "Don't Bother Me",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7127d9d7-f463-4f94-be97-bdd4b33fe808",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7127d9d7-f463-4f94-be97-bdd4b33fe808",
+                    "title": "Don't Bother Me",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1451d2ec-b64b-4635-b79d-ced479d27eea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1451d2ec-b64b-4635-b79d-ced479d27eea",
+                    "title": "Don't Bother Me",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5654671e-76bd-4965-aaf9-8363b4880912",
+                "direction": "backward",
+                "recording": {
+                    "id": "5654671e-76bd-4965-aaf9-8363b4880912",
+                    "title": "Don't Bother Me",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b82f067-cb71-4401-9631-766c4ade7a7e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5b82f067-cb71-4401-9631-766c4ade7a7e",
+                    "title": "Don't Bother Me",
+                    "length": "174066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "55ba9d40-1dd8-4409-91d2-222252a5d917",
+                "direction": "backward",
+                "recording": {
+                    "id": "55ba9d40-1dd8-4409-91d2-222252a5d917",
+                    "title": "Don't Bother Me",
+                    "length": "46200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "677aa812-54fa-4c2c-b4be-f3b474c3a2b3",
+                "direction": "backward",
+                "recording": {
+                    "id": "677aa812-54fa-4c2c-b4be-f3b474c3a2b3",
+                    "title": "Don't Bother Me",
+                    "length": "233000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31f95d7d-076e-4b45-a0ac-e30e2d99f0a9",
+                "direction": "backward",
+                "recording": {
+                    "id": "31f95d7d-076e-4b45-a0ac-e30e2d99f0a9",
+                    "title": "Don't Bother Me",
+                    "length": "136000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a2e99ef5-4997-4e68-8b33-4586462169b0",
+                "direction": "backward",
+                "recording": {
+                    "id": "a2e99ef5-4997-4e68-8b33-4586462169b0",
+                    "title": "Don't Bother Me",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eac6bcb8-325c-4f6e-8ead-408067251da9",
+                "direction": "backward",
+                "recording": {
+                    "id": "eac6bcb8-325c-4f6e-8ead-408067251da9",
+                    "title": "Don't Bother Me",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29017f5d-931e-4487-bd2d-3433b5d2dcda",
+                "direction": "backward",
+                "recording": {
+                    "id": "29017f5d-931e-4487-bd2d-3433b5d2dcda",
+                    "title": "Don't Bother Me",
+                    "length": "146333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3509cf58-36ce-4100-b188-e4c5540c13af",
+                "direction": "backward",
+                "recording": {
+                    "id": "3509cf58-36ce-4100-b188-e4c5540c13af",
+                    "title": "Don't Bother Me",
+                    "length": "147506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "933a5e9e-2e7f-4406-bf0f-9e05860d4852",
+                "direction": "backward",
+                "recording": {
+                    "id": "933a5e9e-2e7f-4406-bf0f-9e05860d4852",
+                    "title": "Don't Bother Me",
+                    "length": "243000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6159f935-2688-41c4-a283-3984054c0274",
+                "direction": "backward",
+                "recording": {
+                    "id": "6159f935-2688-41c4-a283-3984054c0274",
+                    "title": "Don't Bother Me",
+                    "length": "153933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6119c191-30f0-40a6-b836-c6d2d68ed1ac",
+                "direction": "backward",
+                "recording": {
+                    "id": "6119c191-30f0-40a6-b836-c6d2d68ed1ac",
+                    "title": "Don't Bother Me (George Harrison Demos)",
+                    "length": "141866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "376d219a-c491-4d6c-a612-5cff573de1f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "376d219a-c491-4d6c-a612-5cff573de1f5",
+                    "title": "Don't Bother Me (remake) (take 11, 12 and 13)",
+                    "length": "233866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1d072bc-a239-4533-be83-8e682f3a7f86",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1d072bc-a239-4533-be83-8e682f3a7f86",
+                    "title": "Don't Bother Me (RM15 Take 15)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "48d285a0-6710-47dc-b2ad-e73791de28fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "48d285a0-6710-47dc-b2ad-e73791de28fb",
+                    "title": "Don't Bother Me (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0a5d134-b750-48d7-b586-958dd77b45d0",
+                "direction": "backward",
+                "recording": {
+                    "id": "f0a5d134-b750-48d7-b586-958dd77b45d0",
+                    "title": "Don't Bother Me (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d12952d8-1295-452f-9db6-83967b75a4d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "d12952d8-1295-452f-9db6-83967b75a4d8",
+                    "title": "Don't Bother Me (take 10 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33f17a15-2ccb-4e5a-8965-4e16cbb327ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "33f17a15-2ccb-4e5a-8965-4e16cbb327ec",
+                    "title": "Don't Bother Me (take 11 - False Start)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b28a988-77f3-456b-b12b-c22b1ebefb20",
+                "direction": "backward",
+                "recording": {
+                    "id": "2b28a988-77f3-456b-b12b-c22b1ebefb20",
+                    "title": "Don't Bother Me (take 12 - Breakdown)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "866a1ee7-fb15-4d42-9719-6bf4f6530595",
+                "direction": "backward",
+                "recording": {
+                    "id": "866a1ee7-fb15-4d42-9719-6bf4f6530595",
+                    "title": "Don't Bother Me (take 13 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e98b1a38-2517-4ba2-90a7-e352d66ef958",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e98b1a38-2517-4ba2-90a7-e352d66ef958",
+                    "title": "Don't Bother Me / No Reply / Little Child",
+                    "length": "211000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60a33c13-ab54-4b50-acd0-f4bd6a07a74c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "60a33c13-ab54-4b50-acd0-f4bd6a07a74c",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b96a334-316f-4982-af7b-8cc78a760ca7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0b96a334-316f-4982-af7b-8cc78a760ca7",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "262280"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d1fa818-c718-4672-959f-3a0ad948b7bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d1fa818-c718-4672-959f-3a0ad948b7bd",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "148400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fede9cfa-5226-4619-8878-a25cf9f75cdd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fede9cfa-5226-4619-8878-a25cf9f75cdd",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "140124dd-14d6-4580-a926-d1174da39998",
+                "direction": "backward",
+                "recording": {
+                    "id": "140124dd-14d6-4580-a926-d1174da39998",
+                    "title": "Don\u2019t Bother Me"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "74cc5d91-5f5a-4079-84fb-e84f936e67cb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "74cc5d91-5f5a-4079-84fb-e84f936e67cb",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ceccf30d-dfee-4a62-a9a0-e2a3090ca39e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ceccf30d-dfee-4a62-a9a0-e2a3090ca39e",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "264720"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41059ab0-8947-4d56-ae88-3f94e6372f27",
+                "direction": "backward",
+                "recording": {
+                    "id": "41059ab0-8947-4d56-ae88-3f94e6372f27",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35a7ac63-a455-4b01-b419-d5889998c983",
+                "direction": "backward",
+                "recording": {
+                    "id": "35a7ac63-a455-4b01-b419-d5889998c983",
+                    "title": "Don\u2019t Bother Me",
+                    "length": "145466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c507da26-f877-4289-bfc6-cf987ae66091",
+                "direction": "backward",
+                "recording": {
+                    "id": "c507da26-f877-4289-bfc6-cf987ae66091",
+                    "title": "Don\u2019t Bother Me"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3a1d8e2-2d8f-445f-9dbd-fcd567a99e45",
+                "direction": "backward",
+                "recording": {
+                    "id": "b3a1d8e2-2d8f-445f-9dbd-fcd567a99e45",
+                    "title": "Don\u2019t Bother Me"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3efa97e5-2045-498a-b0ff-013eab8e77b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "3efa97e5-2045-498a-b0ff-013eab8e77b8",
+                    "title": "Don\u2019t Bother Me"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e63a8d25-b19f-4c33-8174-84390f4b3d9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "e63a8d25-b19f-4c33-8174-84390f4b3d9c",
+                    "title": "Don\u2019t Bother Me (alternate take)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "943979e7-4c26-4f6d-afcf-7c66d670f9b0",
+                "direction": "backward",
+                "recording": {
+                    "id": "943979e7-4c26-4f6d-afcf-7c66d670f9b0",
+                    "title": "Don\u2019t Bother Me (Canadian stereo)",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7f9f9a8-d4c7-4bd3-9ec6-17f378b1b8ce",
+                "direction": "backward",
+                "recording": {
+                    "id": "c7f9f9a8-d4c7-4bd3-9ec6-17f378b1b8ce",
+                    "title": "Don\u2019t Bother Me (remake take 10)",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9484905f-dcdc-4655-a6d3-10b2d7ddff0e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9484905f-dcdc-4655-a6d3-10b2d7ddff0e",
+                    "title": "Don\u2019t Bother Me (remake takes 11/12/13)",
+                    "length": "235000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bd9a541-0438-4b80-b8b9-1e74ce9f1f61",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bd9a541-0438-4b80-b8b9-1e74ce9f1f61",
+                    "title": "Don\u2019t Bother Me (take 10 remake)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1cee08df-ecf2-4307-a053-88d2bb0d31ba",
+                "direction": "backward",
+                "recording": {
+                    "id": "1cee08df-ecf2-4307-a053-88d2bb0d31ba",
+                    "title": "Don\u2019t Bother Me (take 10)",
+                    "length": "171933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a9eadda-bfeb-4ee8-8c86-6352b3abf53f",
+                "direction": "backward",
+                "recording": {
+                    "id": "4a9eadda-bfeb-4ee8-8c86-6352b3abf53f",
+                    "title": "Don\u2019t Bother Me (take 10)",
+                    "length": "168813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5d914f90-56ca-4012-ba36-857a9a969432",
+                "direction": "backward",
+                "recording": {
+                    "id": "5d914f90-56ca-4012-ba36-857a9a969432",
+                    "title": "Don\u2019t Bother Me (take 10)",
+                    "length": "171360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "742de884-993e-47eb-85f2-9e736afde86e",
+                "direction": "backward",
+                "recording": {
+                    "id": "742de884-993e-47eb-85f2-9e736afde86e",
+                    "title": "Don\u2019t Bother Me (take 11 & 12)",
+                    "length": "51000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0a50813e-2989-4623-a6f4-60d779d29b30",
+                "direction": "backward",
+                "recording": {
+                    "id": "0a50813e-2989-4623-a6f4-60d779d29b30",
+                    "title": "Don\u2019t Bother Me (take 12)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100426",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-dont-bother-me-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/7663",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=22",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q574914",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "520fa2e5-7d50-3b94-9992-9d4367b45a90",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "520fa2e5-7d50-3b94-9992-9d4367b45a90",
+                    "title": "Mais ne viens plus (Don't Bother Me)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

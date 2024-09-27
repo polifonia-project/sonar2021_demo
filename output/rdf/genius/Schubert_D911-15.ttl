@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-15.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-15> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-15.json> ;
+        xyz:lyrics    "Eine Krähe war mit mir\naus der Stadt gezogen,\nist bis heute für und für\num mein Haupt geflogen. \n\nKrähe, wunderliches Tier,\nwillst mich nicht verlassen?\nMeinst wohl bald als Beute hier\nmeinen Leib zu fassen? \n\nNun, es wird nicht weit mehr gehn\nan dem Wanderstabe.\nKrähe, laß mich endlich sehn\nTreue bis zum Grabe,\nKrähe, laß mich endlich sehn\nTreue bis zum Grabe!" ;
+        xyz:title     "Schubert_D911-15" .

@@ -1,0 +1,1458 @@
+{
+    "work": {
+        "id": "42bcc050-2762-3cb9-af36-27010bcc855c",
+        "type": "Song",
+        "title": "Cry Baby Cry",
+        "language": "eng",
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "261264"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "94cd6321-7413-4457-86a7-332def8200f5",
+                "direction": "backward",
+                "label": {
+                    "id": "94cd6321-7413-4457-86a7-332def8200f5",
+                    "type": "Publisher",
+                    "name": "ATV (Northern Songs Catalog)",
+                    "sort-name": "ATV (Northern Songs Catalog)"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "1bfeff53-8321-4156-9eb2-0c2396cb9cb3",
+                "direction": "backward",
+                "label": {
+                    "id": "1bfeff53-8321-4156-9eb2-0c2396cb9cb3",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Songs LLC",
+                    "sort-name": "Sony/ATV Songs LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6b296173-9bee-4796-95db-b0721ae60026",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "6b296173-9bee-4796-95db-b0721ae60026",
+                    "title": "Cry Baby Cry",
+                    "length": "147733",
+                    "disambiguation": "Esher demo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75cac070-6ba3-4225-af29-dcaedf6008c1",
+                "direction": "backward",
+                "begin": "1968-07-15",
+                "end": "1968-07-15",
+                "ended": "true",
+                "recording": {
+                    "id": "75cac070-6ba3-4225-af29-dcaedf6008c1",
+                    "title": "Cry Baby Cry (unnumbered rehearsal)",
+                    "length": "182773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db9be2cd-43b5-453a-a0e0-42ff135bc1e4",
+                "direction": "backward",
+                "begin": "1968-07-16",
+                "end": "1968-07-16",
+                "ended": "true",
+                "recording": {
+                    "id": "db9be2cd-43b5-453a-a0e0-42ff135bc1e4",
+                    "title": "Cry Baby Cry",
+                    "length": "166480",
+                    "disambiguation": "take 1"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "faff8baa-6c7c-435d-a25f-f7efebb5cceb",
+                "direction": "backward",
+                "begin": "1968-07-16",
+                "end": "1968-07-18",
+                "ended": "true",
+                "recording": {
+                    "id": "faff8baa-6c7c-435d-a25f-f7efebb5cceb",
+                    "title": "Cry Baby Cry",
+                    "length": "181640",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e3af7de-3f9c-4a2d-a28f-10c2edd13c49",
+                "direction": "backward",
+                "begin": "1968-07-16",
+                "end": "1968-07-18",
+                "ended": "true",
+                "recording": {
+                    "id": "2e3af7de-3f9c-4a2d-a28f-10c2edd13c49",
+                    "title": "Cry Baby Cry",
+                    "length": "193000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42c2474a-d7cb-4a61-b2c8-966a0202dffc",
+                "direction": "backward",
+                "begin": "1968-07-16",
+                "end": "1968-09-16",
+                "ended": "true",
+                "recording": {
+                    "id": "42c2474a-d7cb-4a61-b2c8-966a0202dffc",
+                    "title": "Cry Baby Cry",
+                    "length": "181867",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "294bb935-d08e-41b2-8083-9c06d790cd3a",
+                "direction": "backward",
+                "begin": "1968-07-16",
+                "end": "1968-09-16",
+                "ended": "true",
+                "recording": {
+                    "id": "294bb935-d08e-41b2-8083-9c06d790cd3a",
+                    "title": "Cry Baby Cry (5.1 mix)",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "418cf1d9-a747-460b-839e-541b7f54f814",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "418cf1d9-a747-460b-839e-541b7f54f814",
+                    "title": "Cry Baby Cry",
+                    "length": "345000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aea568f0-4a58-42ff-9ff9-23ab21030585",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "aea568f0-4a58-42ff-9ff9-23ab21030585",
+                    "title": "Cry Baby Cry >",
+                    "length": "345600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03edfd0c-6773-4fa5-982b-e66af28c5136",
+                "direction": "backward",
+                "begin": "1994-11-22",
+                "end": "1994-11-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "03edfd0c-6773-4fa5-982b-e66af28c5136",
+                    "title": "Cry Baby Cry",
+                    "length": "253000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9407578b-dca9-4dcb-b0fc-e745da149c78",
+                "direction": "backward",
+                "begin": "1998-11-21",
+                "end": "1998-11-21",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9407578b-dca9-4dcb-b0fc-e745da149c78",
+                    "title": "Cry Baby Cry",
+                    "length": "185960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9021bb53-40ed-4e9a-a086-7221be791e95",
+                "direction": "backward",
+                "begin": "2016-07-20",
+                "end": "2016-07-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9021bb53-40ed-4e9a-a086-7221be791e95",
+                    "title": "Cry Baby Cry",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "631ba113-ef2c-48dd-8ca6-f9f9007dbaa9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "631ba113-ef2c-48dd-8ca6-f9f9007dbaa9",
+                    "title": "Cry Baby Cry",
+                    "length": "182000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6724c881-2a5e-45b9-b3ea-5f05a4ba78a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "6724c881-2a5e-45b9-b3ea-5f05a4ba78a2",
+                    "title": "Cry Baby Cry",
+                    "length": "154000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "661cc1ae-0bca-47a9-b673-cd57e8f01ec7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "661cc1ae-0bca-47a9-b673-cd57e8f01ec7",
+                    "title": "Cry Baby Cry",
+                    "length": "224000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4853c04-e8d1-46ff-838e-e4e55a5bf6f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e4853c04-e8d1-46ff-838e-e4e55a5bf6f6",
+                    "title": "Cry Baby Cry",
+                    "length": "256000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8194c60-38aa-4fa4-9954-32abcf8e03ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8194c60-38aa-4fa4-9954-32abcf8e03ee",
+                    "title": "Cry Baby Cry",
+                    "length": "198000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a87adc45-038e-4503-9cc5-e26478b730e2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a87adc45-038e-4503-9cc5-e26478b730e2",
+                    "title": "Cry Baby Cry",
+                    "length": "114000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "228e99a3-da62-40ee-906d-cdb0ea4fc13e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "228e99a3-da62-40ee-906d-cdb0ea4fc13e",
+                    "title": "Cry Baby Cry",
+                    "length": "161126"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5222ca69-ef9e-4e2c-832c-21089176e84c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5222ca69-ef9e-4e2c-832c-21089176e84c",
+                    "title": "Cry Baby Cry"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c77efc8f-5c96-40ec-9bf2-841f69004053",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c77efc8f-5c96-40ec-9bf2-841f69004053",
+                    "title": "Cry Baby Cry",
+                    "length": "185733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f0ed3f9-61c6-4250-aab0-bf2191b3a80d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0f0ed3f9-61c6-4250-aab0-bf2191b3a80d",
+                    "title": "Cry Baby Cry",
+                    "length": "186440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e912ba94-653a-4ce6-8325-c356ac535949",
+                "direction": "backward",
+                "recording": {
+                    "id": "e912ba94-653a-4ce6-8325-c356ac535949",
+                    "title": "Cry Baby Cry",
+                    "length": "150306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41296cf2-4d3c-4761-a2d9-2981874aaeea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41296cf2-4d3c-4761-a2d9-2981874aaeea",
+                    "title": "Cry Baby Cry",
+                    "length": "170000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2f83d90c-38a6-49ff-a26e-10327c1df44c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2f83d90c-38a6-49ff-a26e-10327c1df44c",
+                    "title": "Cry Baby Cry",
+                    "length": "149733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "375f22db-1a3b-4a94-86e2-8d27d8b561d6",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "375f22db-1a3b-4a94-86e2-8d27d8b561d6",
+                    "title": "Cry Baby Cry",
+                    "length": "149866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3d18dc3b-7bae-410d-ae3e-3d2577d8d6c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "3d18dc3b-7bae-410d-ae3e-3d2577d8d6c6",
+                    "title": "Cry Baby Cry",
+                    "length": "145160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ceac934e-d94e-4deb-bd25-e27edbb15c9b",
+                "direction": "backward",
+                "recording": {
+                    "id": "ceac934e-d94e-4deb-bd25-e27edbb15c9b",
+                    "title": "Cry Baby Cry",
+                    "length": "91600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e735b1b6-091c-46cb-96a6-61f901f96787",
+                "direction": "backward",
+                "recording": {
+                    "id": "e735b1b6-091c-46cb-96a6-61f901f96787",
+                    "title": "Cry Baby Cry",
+                    "length": "146493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fc21ccf-2cca-4a4b-b7a1-8a7fa9540267",
+                "direction": "backward",
+                "recording": {
+                    "id": "7fc21ccf-2cca-4a4b-b7a1-8a7fa9540267",
+                    "title": "Cry Baby Cry",
+                    "length": "152386"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "475f31d0-4372-4297-a567-988d65e28465",
+                "direction": "backward",
+                "recording": {
+                    "id": "475f31d0-4372-4297-a567-988d65e28465",
+                    "title": "Cry Baby Cry",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9eaa701f-3277-4778-912d-5e31b1219a72",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9eaa701f-3277-4778-912d-5e31b1219a72",
+                    "title": "Cry Baby Cry",
+                    "length": "217000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83f40d48-d820-477b-9494-2fbd997e22f7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "83f40d48-d820-477b-9494-2fbd997e22f7",
+                    "title": "Cry Baby Cry",
+                    "length": "159560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "130c0685-1d5c-4919-9cc9-63840a262d2f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "130c0685-1d5c-4919-9cc9-63840a262d2f",
+                    "title": "Cry Baby Cry",
+                    "length": "296093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "448627cc-eba1-4357-b975-9404201476af",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "448627cc-eba1-4357-b975-9404201476af",
+                    "title": "Cry Baby Cry",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab8a6a85-669d-4294-8a64-971553079cf5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ab8a6a85-669d-4294-8a64-971553079cf5",
+                    "title": "Cry Baby Cry",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f030c660-68c5-4c67-87ee-974727ed2458",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f030c660-68c5-4c67-87ee-974727ed2458",
+                    "title": "Cry Baby Cry",
+                    "length": "167694"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d485da7-6e3b-46e9-a603-1741ae5a1b25",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d485da7-6e3b-46e9-a603-1741ae5a1b25",
+                    "title": "Cry Baby Cry",
+                    "length": "164000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7958aac-41e7-4b2d-99d0-ad2167db2778",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c7958aac-41e7-4b2d-99d0-ad2167db2778",
+                    "title": "Cry Baby Cry",
+                    "length": "230000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bef13711-5a50-447b-9324-65ba0e6e3e36",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bef13711-5a50-447b-9324-65ba0e6e3e36",
+                    "title": "Cry Baby Cry",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4cf5a49-5a0c-427f-b307-f5b6b91f8b5b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f4cf5a49-5a0c-427f-b307-f5b6b91f8b5b",
+                    "title": "Cry Baby Cry",
+                    "length": "193893"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8e45799-e10e-4c5c-8670-69179db7e392",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b8e45799-e10e-4c5c-8670-69179db7e392",
+                    "title": "Cry Baby Cry",
+                    "length": "190000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a674679e-e4b6-470b-893a-d492daab76f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a674679e-e4b6-470b-893a-d492daab76f2",
+                    "title": "Cry Baby Cry",
+                    "length": "168000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7c747e8-011b-41b9-b479-fa20a56bedb2",
+                "direction": "backward",
+                "recording": {
+                    "id": "b7c747e8-011b-41b9-b479-fa20a56bedb2",
+                    "title": "Cry Baby Cry",
+                    "length": "149916"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3d57fbb-76ab-4fb7-b115-be51fb710018",
+                "direction": "backward",
+                "recording": {
+                    "id": "d3d57fbb-76ab-4fb7-b115-be51fb710018",
+                    "title": "Cry Baby Cry",
+                    "length": "146233"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4cce617-e111-4c19-91c8-684ec1b2b461",
+                "direction": "backward",
+                "recording": {
+                    "id": "d4cce617-e111-4c19-91c8-684ec1b2b461",
+                    "title": "Cry Baby Cry",
+                    "length": "204560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01742f0f-e94e-4950-bf12-d87c9a884914",
+                "direction": "backward",
+                "recording": {
+                    "id": "01742f0f-e94e-4950-bf12-d87c9a884914",
+                    "title": "Cry Baby Cry",
+                    "length": "147240"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73997914-ef32-42e8-bcd6-bb09f10c1947",
+                "direction": "backward",
+                "recording": {
+                    "id": "73997914-ef32-42e8-bcd6-bb09f10c1947",
+                    "title": "Cry Baby Cry",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b18510cb-72a7-411e-b67d-4155794fa5e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b18510cb-72a7-411e-b67d-4155794fa5e5",
+                    "title": "Cry Baby Cry"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb6dc0cc-eb78-4c91-8b69-8470f6bf59ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "cb6dc0cc-eb78-4c91-8b69-8470f6bf59ae",
+                    "title": "Cry Baby Cry",
+                    "length": "355000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cf25d45-704b-4e96-b82a-dfbb30fa1508",
+                "direction": "backward",
+                "recording": {
+                    "id": "8cf25d45-704b-4e96-b82a-dfbb30fa1508",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2dbd82e5-e256-4fad-80f1-d00880a841c4",
+                "direction": "backward",
+                "recording": {
+                    "id": "2dbd82e5-e256-4fad-80f1-d00880a841c4",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c31c4b16-7eb2-41e9-9727-3f91086560c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "c31c4b16-7eb2-41e9-9727-3f91086560c7",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6638cbdd-6e3c-46d9-9040-c89c3847046c",
+                "direction": "backward",
+                "recording": {
+                    "id": "6638cbdd-6e3c-46d9-9040-c89c3847046c",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aecbbf87-5abd-4db3-ab28-cca22ac1055d",
+                "direction": "backward",
+                "recording": {
+                    "id": "aecbbf87-5abd-4db3-ab28-cca22ac1055d",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c10e555-79c2-439d-9c30-1ea947acf034",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c10e555-79c2-439d-9c30-1ea947acf034",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d5fbdf57-7173-4206-90eb-1548bcc3f691",
+                "direction": "backward",
+                "recording": {
+                    "id": "d5fbdf57-7173-4206-90eb-1548bcc3f691",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f29cf735-b9cc-403a-9dff-7dc7348dd50d",
+                "direction": "backward",
+                "recording": {
+                    "id": "f29cf735-b9cc-403a-9dff-7dc7348dd50d",
+                    "title": "Cry Baby Cry",
+                    "length": "153901"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97583fb5-1250-4c86-b71d-7b605bcaaebb",
+                "direction": "backward",
+                "recording": {
+                    "id": "97583fb5-1250-4c86-b71d-7b605bcaaebb",
+                    "title": "Cry Baby Cry"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2abe5fc-6514-4cf6-8780-23d170e687c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "b2abe5fc-6514-4cf6-8780-23d170e687c9",
+                    "title": "Cry Baby Cry",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08299790-3f2e-4dc7-aad4-fbbca7cd571c",
+                "direction": "backward",
+                "recording": {
+                    "id": "08299790-3f2e-4dc7-aad4-fbbca7cd571c",
+                    "title": "Cry Baby Cry",
+                    "length": "191000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6e93a3b-6d05-40d5-979e-86fd1e9a050f",
+                "direction": "backward",
+                "recording": {
+                    "id": "b6e93a3b-6d05-40d5-979e-86fd1e9a050f",
+                    "title": "Cry Baby Cry",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e901aa3c-272d-4b11-a50d-c1d59fa524b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "e901aa3c-272d-4b11-a50d-c1d59fa524b1",
+                    "title": "Cry Baby Cry",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a411a368-117c-467e-8a3f-3be38d8274f8",
+                "direction": "backward",
+                "recording": {
+                    "id": "a411a368-117c-467e-8a3f-3be38d8274f8",
+                    "title": "Cry Baby Cry",
+                    "length": "147493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9739d24a-0ba2-4be3-bd6b-00c80c3b4346",
+                "direction": "backward",
+                "recording": {
+                    "id": "9739d24a-0ba2-4be3-bd6b-00c80c3b4346",
+                    "title": "Cry Baby Cry",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a49f47bb-1d3d-49ee-b076-8bc76330aee3",
+                "direction": "backward",
+                "recording": {
+                    "id": "a49f47bb-1d3d-49ee-b076-8bc76330aee3",
+                    "title": "Cry Baby Cry",
+                    "length": "149000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29bfd663-36e6-410f-b559-ec310fd79d7f",
+                "direction": "backward",
+                "recording": {
+                    "id": "29bfd663-36e6-410f-b559-ec310fd79d7f",
+                    "title": "Cry Baby Cry",
+                    "length": "154506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a99d6225-db17-4ceb-9f82-f84ccc21c7f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "a99d6225-db17-4ceb-9f82-f84ccc21c7f9",
+                    "title": "Cry Baby Cry",
+                    "length": "154600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c17b83d-33f7-45fb-8519-1dcf933a9103",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6c17b83d-33f7-45fb-8519-1dcf933a9103",
+                    "title": "Cry Baby Cry",
+                    "length": "142506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d576d7e-8fee-4555-a646-1001c2af0f96",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9d576d7e-8fee-4555-a646-1001c2af0f96",
+                    "title": "Cry Baby Cry (18.07.1968)",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef3b864d-e105-4cb5-b6e5-f78f1c3c5895",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef3b864d-e105-4cb5-b6e5-f78f1c3c5895",
+                    "title": "Cry Baby Cry (demo)",
+                    "length": "152986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "939b4cf5-9769-4032-ae60-08c5613b7977",
+                "direction": "backward",
+                "recording": {
+                    "id": "939b4cf5-9769-4032-ae60-08c5613b7977",
+                    "title": "Cry Baby Cry (demo)",
+                    "length": "355506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd2b989d-6d18-4a60-9d99-085159d9b04f",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd2b989d-6d18-4a60-9d99-085159d9b04f",
+                    "title": "Cry Baby Cry (demos recorded prior to the White Album)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7a60305-af09-4acd-80a5-68094137ec5c",
+                "direction": "backward",
+                "recording": {
+                    "id": "f7a60305-af09-4acd-80a5-68094137ec5c",
+                    "title": "Cry Baby Cry (early piano and electric guitar demo fragments)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5138a3bb-e414-43c8-acc4-37a1f040785b",
+                "direction": "backward",
+                "recording": {
+                    "id": "5138a3bb-e414-43c8-acc4-37a1f040785b",
+                    "title": "Cry Baby Cry (Esher demo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f14de34d-13ec-44ca-ae5b-e11eb8861731",
+                "direction": "backward",
+                "recording": {
+                    "id": "f14de34d-13ec-44ca-ae5b-e11eb8861731",
+                    "title": "Cry Baby Cry (Esher demo)",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eee1d77c-c808-4b70-b50c-773ab3888953",
+                "direction": "backward",
+                "recording": {
+                    "id": "eee1d77c-c808-4b70-b50c-773ab3888953",
+                    "title": "Cry Baby Cry (Esher demo)",
+                    "length": "150160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe936a4d-f307-46b2-bb02-60ed45ad8a09",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe936a4d-f307-46b2-bb02-60ed45ad8a09",
+                    "title": "Cry Baby Cry (RM1 take 12)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c744bf5-9d2b-45b4-b3a0-53f07ba6506d",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c744bf5-9d2b-45b4-b3a0-53f07ba6506d",
+                    "title": "Cry Baby Cry (RS3 Take 12)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c9ff3c0-f3b2-4a2b-9157-1d6610110dd7",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c9ff3c0-f3b2-4a2b-9157-1d6610110dd7",
+                    "title": "Cry Baby Cry (take 1 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1148d65a-7499-488a-9266-2363b14f5fe7",
+                "direction": "backward",
+                "recording": {
+                    "id": "1148d65a-7499-488a-9266-2363b14f5fe7",
+                    "title": "Cry Baby Cry (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae1876c0-180c-46ff-8447-cae33a9fbb04",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae1876c0-180c-46ff-8447-cae33a9fbb04",
+                    "title": "Cry Baby Cry (take 1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54519877-7b07-4d09-a961-4ccdc7ebdb7e",
+                "direction": "backward",
+                "recording": {
+                    "id": "54519877-7b07-4d09-a961-4ccdc7ebdb7e",
+                    "title": "Cry Baby Cry (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ef76e3a-221b-49af-97ce-be1dea41775a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ef76e3a-221b-49af-97ce-be1dea41775a",
+                    "title": "Cry Baby Cry (take 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7ef9956-fcb5-4077-8234-31b70d5c3aa7",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7ef9956-fcb5-4077-8234-31b70d5c3aa7",
+                    "title": "Cry Baby Cry (take 4)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1accbbb8-905b-43ed-a6b2-738c5d5c23ff",
+                "direction": "backward",
+                "recording": {
+                    "id": "1accbbb8-905b-43ed-a6b2-738c5d5c23ff",
+                    "title": "Cry Baby Cry (take 12, RM1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97b2b2e5-f089-4087-8b55-eaa4606607da",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97b2b2e5-f089-4087-8b55-eaa4606607da",
+                    "title": "Cry Baby Cry/Bungalow Bill",
+                    "length": "212933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "35f8d818-b160-4cae-a923-dc5e04f96dff",
+                "direction": "backward",
+                "recording": {
+                    "id": "35f8d818-b160-4cae-a923-dc5e04f96dff",
+                    "title": "Cry, Baby, Cry"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1865731",
+                "direction": "backward"
+            },
+            {
+                "type": "wikipedia",
+                "type-id": "b45a88d6-851e-4a6e-9ec8-9a5f4ebe76ab",
+                "target": "https://en.wikipedia.org/wiki/Cry_Baby_Cry",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "1fba3393-4264-4866-bd70-0bd5613a9b05",
+                "ordering-key": "3",
+                "direction": "backward",
+                "work": {
+                    "id": "1fba3393-4264-4866-bd70-0bd5613a9b05",
+                    "type": "Song",
+                    "title": "Come Together / Dear Prudence / Cry Baby Cry (Love version)",
+                    "language": "eng",
+                    "iswc": "T-900.219.779-7",
+                    "iswc-list": [
+                        "T-900.219.779-7"
+                    ]
+                }
+            }
+        ]
+    }
+}

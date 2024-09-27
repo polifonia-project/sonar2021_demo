@@ -1,0 +1,1751 @@
+{
+    "work": {
+        "id": "ebac52bd-5131-30b3-ba53-1d3aa12e060b",
+        "type": "Song",
+        "title": "I\u2019m Only Sleeping",
+        "language": "eng",
+        "iswc": "T-900.010.715-3",
+        "iswc-list": [
+            "T-900.010.715-3"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000087 238 86"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5415"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12215163"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100166400"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "63.824"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366424"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366424"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "214932"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3864772"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3864953"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3975540"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "016001153"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 227 557 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "008826500"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "71308V"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634472-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "69761"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10581760"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965914"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000192396"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390210136"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00320565"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9348527"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243518"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "9762901"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6352793"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "663476"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef6aa14a-a1df-4404-a1e0-145a1883e648",
+                "direction": "backward",
+                "begin": "1966-04-27",
+                "end": "1966-05-06",
+                "ended": "true",
+                "recording": {
+                    "id": "ef6aa14a-a1df-4404-a1e0-145a1883e648",
+                    "title": "I'm Only Sleeping",
+                    "length": "182000",
+                    "disambiguation": "Mock Stereo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "127c2c87-e019-4b1b-bc44-7beb40e66a8b",
+                "direction": "backward",
+                "begin": "1966-04-27",
+                "end": "1966-05-06",
+                "ended": "true",
+                "recording": {
+                    "id": "127c2c87-e019-4b1b-bc44-7beb40e66a8b",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "182000",
+                    "disambiguation": "alternate mono mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "596fb2f1-afef-4cb3-af5d-0bc6ff54e9c6",
+                "direction": "backward",
+                "begin": "1966-04-27",
+                "end": "1966-05-06",
+                "ended": "true",
+                "recording": {
+                    "id": "596fb2f1-afef-4cb3-af5d-0bc6ff54e9c6",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "183693",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f2dee49-a3cf-4101-abbc-f98eb11422cc",
+                "direction": "backward",
+                "begin": "1966-04-27",
+                "end": "1966-05-06",
+                "ended": "true",
+                "recording": {
+                    "id": "4f2dee49-a3cf-4101-abbc-f98eb11422cc",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "181986",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb484b07-9fba-4cfa-8ed5-aa88b0740046",
+                "direction": "backward",
+                "begin": "1966-04-29",
+                "end": "1966-04-29",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "bb484b07-9fba-4cfa-8ed5-aa88b0740046",
+                    "title": "I\u2019m Only Sleeping (rehearsal)",
+                    "length": "41000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "223531fd-a6d8-4a08-bed9-69d7002abff3",
+                "direction": "backward",
+                "begin": "1966-04-29",
+                "end": "1966-04-29",
+                "ended": "true",
+                "recording": {
+                    "id": "223531fd-a6d8-4a08-bed9-69d7002abff3",
+                    "title": "I\u2019m Only Sleeping (take 1)",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5d61064-505a-4eee-abe8-1f434cf15704",
+                "direction": "backward",
+                "recording": {
+                    "id": "a5d61064-505a-4eee-abe8-1f434cf15704",
+                    "title": "I Am Only Sleeping",
+                    "length": "216000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7348bca1-788e-4b69-953d-7ddcb7656e4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7348bca1-788e-4b69-953d-7ddcb7656e4d",
+                    "title": "I'm Only Sleeping",
+                    "length": "199000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e43774bc-99ff-4dfc-931c-da80df0f4d9f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e43774bc-99ff-4dfc-931c-da80df0f4d9f",
+                    "title": "I'm Only Sleeping",
+                    "length": "177000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e9cd180-43d2-4675-a9d2-3c69843e26f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2e9cd180-43d2-4675-a9d2-3c69843e26f2",
+                    "title": "I'm Only Sleeping",
+                    "length": "292000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea7f62be-0c85-4a52-9682-9e11910f2d36",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ea7f62be-0c85-4a52-9682-9e11910f2d36",
+                    "title": "I'm Only Sleeping",
+                    "length": "138791"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc66113a-0465-4e34-b582-8853298f523f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cc66113a-0465-4e34-b582-8853298f523f",
+                    "title": "I'm Only Sleeping"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c270b60-0495-490d-8946-6def6a5fdf88",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6c270b60-0495-490d-8946-6def6a5fdf88",
+                    "title": "I'm Only Sleeping",
+                    "length": "341000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25ed7c63-8c5c-47f9-812b-f086d686ed3b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "25ed7c63-8c5c-47f9-812b-f086d686ed3b",
+                    "title": "I'm Only Sleeping",
+                    "length": "214000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ed089aa-781a-494e-aaf1-feacc202b0c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5ed089aa-781a-494e-aaf1-feacc202b0c6",
+                    "title": "I'm Only Sleeping",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "933a4d7c-b93b-497d-a3a1-f0eee57d99b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "933a4d7c-b93b-497d-a3a1-f0eee57d99b0",
+                    "title": "I'm Only Sleeping",
+                    "length": "140733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d4371d5-60f4-4910-9889-699cc156ec0a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d4371d5-60f4-4910-9889-699cc156ec0a",
+                    "title": "I'm Only Sleeping",
+                    "length": "262000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c5fe9f5-c2bd-4890-93dd-be4de5771e43",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5c5fe9f5-c2bd-4890-93dd-be4de5771e43",
+                    "title": "I'm Only Sleeping",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39d535a7-7fcb-44d7-b89d-920ce5a20af4",
+                "direction": "backward",
+                "recording": {
+                    "id": "39d535a7-7fcb-44d7-b89d-920ce5a20af4",
+                    "title": "I'm Only Sleeping",
+                    "length": "178333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "186ff7f0-c6a9-4aea-a4ea-32559a5329c6",
+                "direction": "backward",
+                "recording": {
+                    "id": "186ff7f0-c6a9-4aea-a4ea-32559a5329c6",
+                    "title": "I'm Only Sleeping",
+                    "length": "181533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4f68b57-b79d-42e8-976c-943d97b5aa71",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4f68b57-b79d-42e8-976c-943d97b5aa71",
+                    "title": "I'm Only Sleeping",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "799b3f1d-8276-4337-a153-404baf9b8bfe",
+                "direction": "backward",
+                "recording": {
+                    "id": "799b3f1d-8276-4337-a153-404baf9b8bfe",
+                    "title": "I'm Only Sleeping",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f7689ae-fd75-4a49-8f27-e0c32a31b08b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6f7689ae-fd75-4a49-8f27-e0c32a31b08b",
+                    "title": "I'm Only Sleeping",
+                    "length": "242933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "762a6612-4761-4876-8377-ccb46e40b02c",
+                "direction": "backward",
+                "recording": {
+                    "id": "762a6612-4761-4876-8377-ccb46e40b02c",
+                    "title": "I'm Only Sleeping",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3011ea86-70c2-4ce0-ae3c-19b7a568d7c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "3011ea86-70c2-4ce0-ae3c-19b7a568d7c0",
+                    "title": "I'm Only Sleeping"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f151dc59-82a7-41e6-a974-bf8cb2b00f95",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f151dc59-82a7-41e6-a974-bf8cb2b00f95",
+                    "title": "I'm Only Sleeping",
+                    "length": "258506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6144234-33c4-4061-913e-2e4758f1b8ee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a6144234-33c4-4061-913e-2e4758f1b8ee",
+                    "title": "I'm Only Sleeping",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8dfeb533-bdad-4816-b455-95e6d81f5777",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8dfeb533-bdad-4816-b455-95e6d81f5777",
+                    "title": "I'm Only Sleeping",
+                    "length": "160000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f6b7b7d-aef3-4e03-b94b-da9716d8adce",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5f6b7b7d-aef3-4e03-b94b-da9716d8adce",
+                    "title": "I'm Only Sleeping",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af911db6-902b-4545-8686-bdccee33563f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af911db6-902b-4545-8686-bdccee33563f",
+                    "title": "I'm Only Sleeping",
+                    "length": "171680"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8c6ee11-151a-435d-bb82-a8900074299d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8c6ee11-151a-435d-bb82-a8900074299d",
+                    "title": "I'm Only Sleeping",
+                    "length": "214360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3fc7875-38e6-4802-a85d-2b13abbf7371",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d3fc7875-38e6-4802-a85d-2b13abbf7371",
+                    "title": "I'm Only Sleeping",
+                    "length": "253426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58e1a10a-d9b1-4503-afd5-921f6f760e88",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "58e1a10a-d9b1-4503-afd5-921f6f760e88",
+                    "title": "I'm Only Sleeping",
+                    "length": "176173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "618ba881-a30a-4763-acd5-3391d4d25c8b",
+                "direction": "backward",
+                "recording": {
+                    "id": "618ba881-a30a-4763-acd5-3391d4d25c8b",
+                    "title": "I'm Only Sleeping",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5591fc67-6d30-4a1d-8313-d3e15c66a9c9",
+                "direction": "backward",
+                "recording": {
+                    "id": "5591fc67-6d30-4a1d-8313-d3e15c66a9c9",
+                    "title": "I'm Only Sleeping"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a7cf128-6670-4c01-9eaf-057bd16bbfa2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1a7cf128-6670-4c01-9eaf-057bd16bbfa2",
+                    "title": "I'm Only Sleeping",
+                    "length": "220040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "639db96f-ab5f-4f6f-a544-8c2292a464a6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "639db96f-ab5f-4f6f-a544-8c2292a464a6",
+                    "title": "I'm Only Sleeping",
+                    "length": "218760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a87834df-3fe3-4ba0-bb1c-35278f638518",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a87834df-3fe3-4ba0-bb1c-35278f638518",
+                    "title": "I'm Only Sleeping",
+                    "length": "176426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a8dc56f-e95e-4655-9a8d-64c7e11e000b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6a8dc56f-e95e-4655-9a8d-64c7e11e000b",
+                    "title": "I'm Only Sleeping",
+                    "length": "194200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9aaf1488-0f76-48c8-9fb3-967fe1dc05a9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9aaf1488-0f76-48c8-9fb3-967fe1dc05a9",
+                    "title": "I'm Only Sleeping",
+                    "length": "217000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5dc086d4-994b-4586-9937-e0f3d671bdb9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5dc086d4-994b-4586-9937-e0f3d671bdb9",
+                    "title": "I'm Only Sleeping",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7119825d-611d-4b70-8223-b90d0782bb19",
+                "direction": "backward",
+                "recording": {
+                    "id": "7119825d-611d-4b70-8223-b90d0782bb19",
+                    "title": "I'm Only Sleeping",
+                    "length": "181613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "031a52a8-5c1f-44ea-8460-bd6f2f06f94c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "031a52a8-5c1f-44ea-8460-bd6f2f06f94c",
+                    "title": "I'm Only Sleeping",
+                    "length": "347040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "058369af-e816-4704-aa5a-385ecdc97097",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "058369af-e816-4704-aa5a-385ecdc97097",
+                    "title": "I'm Only Sleeping",
+                    "length": "178000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2540163-1305-40b8-9479-0ec9274c45f1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e2540163-1305-40b8-9479-0ec9274c45f1",
+                    "title": "I'm Only Sleeping",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60d56129-b1ce-41df-b895-ce900b54e95f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "60d56129-b1ce-41df-b895-ce900b54e95f",
+                    "title": "I'm Only Sleeping (acoustic)",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22bceb19-2e66-47cb-b0ae-a6492337e814",
+                "direction": "backward",
+                "recording": {
+                    "id": "22bceb19-2e66-47cb-b0ae-a6492337e814",
+                    "title": "I'm Only Sleeping (alt mono mix)",
+                    "length": "179373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be0f33ff-c66f-4641-b7a1-711bd0c8d4f0",
+                "direction": "backward",
+                "recording": {
+                    "id": "be0f33ff-c66f-4641-b7a1-711bd0c8d4f0",
+                    "title": "I'm Only Sleeping (alt stereo mix)",
+                    "length": "180560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "191aacea-eb0f-483f-a6ce-13e8ec6bb10d",
+                "direction": "backward",
+                "recording": {
+                    "id": "191aacea-eb0f-483f-a6ce-13e8ec6bb10d",
+                    "title": "I'm Only Sleeping (Capitol stereo version)",
+                    "length": "176973"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d0d724e-73b4-4e0f-bea7-f0444a4cdd90",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d0d724e-73b4-4e0f-bea7-f0444a4cdd90",
+                    "title": "I'm Only Sleeping (mono mix with extra guitar)",
+                    "length": "180280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3550fd8b-e326-44c0-b1a4-6b722a607f0b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3550fd8b-e326-44c0-b1a4-6b722a607f0b",
+                    "title": "I'm Only Sleeping (mono)",
+                    "length": "182760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5012566a-4991-42d4-9d5a-08ba5927f45a",
+                "direction": "backward",
+                "recording": {
+                    "id": "5012566a-4991-42d4-9d5a-08ba5927f45a",
+                    "title": "I'm Only Sleeping (mono)",
+                    "length": "184760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d5ff691-eedb-4055-a2d1-375793d5a684",
+                "direction": "backward",
+                "recording": {
+                    "id": "2d5ff691-eedb-4055-a2d1-375793d5a684",
+                    "title": "I'm Only Sleeping (mono)",
+                    "length": "182480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f22c90e8-4125-4cb9-8011-c034ea39da2d",
+                "direction": "backward",
+                "recording": {
+                    "id": "f22c90e8-4125-4cb9-8011-c034ea39da2d",
+                    "title": "I'm Only Sleeping (Rehearsal - Breakdown)",
+                    "length": "40000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c1c6e62-c5db-4f7a-a4d4-e624192afbd6",
+                "direction": "backward",
+                "recording": {
+                    "id": "0c1c6e62-c5db-4f7a-a4d4-e624192afbd6",
+                    "title": "I'm Only Sleeping (rehearsal)",
+                    "length": "40600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4c33452-0f66-4bbe-b169-8d2bec54649a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4c33452-0f66-4bbe-b169-8d2bec54649a",
+                    "title": "I'm Only Sleeping (Rehearsal)",
+                    "length": "43000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5b88229-3111-4e15-8cdc-773b7b7adb94",
+                "direction": "backward",
+                "recording": {
+                    "id": "b5b88229-3111-4e15-8cdc-773b7b7adb94",
+                    "title": "I'm Only Sleeping (Remake Take 1 - Complete)",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ac1f7ae-91b8-4dbd-bd07-cada4e9a3483",
+                "direction": "backward",
+                "recording": {
+                    "id": "8ac1f7ae-91b8-4dbd-bd07-cada4e9a3483",
+                    "title": "I'm Only Sleeping (RM5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "290fbd6c-6153-41a7-86ec-b59730674e52",
+                "direction": "backward",
+                "recording": {
+                    "id": "290fbd6c-6153-41a7-86ec-b59730674e52",
+                    "title": "I'm Only Sleeping (RM6 Take 13)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c9204114-ff26-4431-8452-34f38517db3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "c9204114-ff26-4431-8452-34f38517db3e",
+                    "title": "I'm Only Sleeping (RS1)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d401ace2-cf96-4094-8f5f-3574aaf93b6e",
+                "direction": "backward",
+                "recording": {
+                    "id": "d401ace2-cf96-4094-8f5f-3574aaf93b6e",
+                    "title": "I'm Only Sleeping (RS2 Take 13)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb56c0fc-3650-46de-a401-0f5774a5f34a",
+                "direction": "backward",
+                "recording": {
+                    "id": "bb56c0fc-3650-46de-a401-0f5774a5f34a",
+                    "title": "I'm Only Sleeping (SI Onto Take 11 Lead Guitar, Composite Mix)",
+                    "length": "85000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da8aba68-8010-4ca1-81f1-dfc7a80a70e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "da8aba68-8010-4ca1-81f1-dfc7a80a70e5",
+                    "title": "I'm Only Sleeping (SI Onto Take 11 Lead Guitar, Foreward)",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2c0d12f-796c-4b7c-9b91-f0881265d093",
+                "direction": "backward",
+                "recording": {
+                    "id": "d2c0d12f-796c-4b7c-9b91-f0881265d093",
+                    "title": "I'm Only Sleeping (SI Onto Take 11 Vocal)",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59d663f5-012b-49c5-bbca-ac9bed4a49bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "59d663f5-012b-49c5-bbca-ac9bed4a49bb",
+                    "title": "I'm Only Sleeping (SI Onto Take 13 Backing Vocals)",
+                    "length": "75000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "140149d6-d192-4f43-b6a6-2abdb7644a13",
+                "direction": "backward",
+                "recording": {
+                    "id": "140149d6-d192-4f43-b6a6-2abdb7644a13",
+                    "title": "I'm Only Sleeping (stereo)",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8916d05f-c131-4383-9988-8d0917e44e82",
+                "direction": "backward",
+                "recording": {
+                    "id": "8916d05f-c131-4383-9988-8d0917e44e82",
+                    "title": "I'm Only Sleeping (take 1)",
+                    "length": "178626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90e9d5de-bf55-448e-880d-f790b6b8ec54",
+                "direction": "backward",
+                "recording": {
+                    "id": "90e9d5de-bf55-448e-880d-f790b6b8ec54",
+                    "title": "I'm Only Sleeping (take 1)",
+                    "length": "180813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3dab1fe1-30b9-4e7b-9edf-21880d84770e",
+                "direction": "backward",
+                "recording": {
+                    "id": "3dab1fe1-30b9-4e7b-9edf-21880d84770e",
+                    "title": "I'm Only Sleeping (Take 11)",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa6fd89c-a889-4440-8a18-aecaeff50427",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa6fd89c-a889-4440-8a18-aecaeff50427",
+                    "title": "I'm only Sleeping (UK Mono Mix)",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc230a87-ce47-45a5-ba5f-df28649eab9b",
+                "direction": "backward",
+                "recording": {
+                    "id": "dc230a87-ce47-45a5-ba5f-df28649eab9b",
+                    "title": "I'm Only Sleeping (UK mono mix)",
+                    "length": "181746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6dac3dc-f4e3-4a44-ad89-edf15adb4f99",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6dac3dc-f4e3-4a44-ad89-edf15adb4f99",
+                    "title": "I'm Only Sleeping (UK Stereo Mix)",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd8c7517-4d6c-4f7b-88e9-cf926b6cbc0e",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd8c7517-4d6c-4f7b-88e9-cf926b6cbc0e",
+                    "title": "I'm Only Sleeping (US Mono Mix)",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f9153c5-90dc-436b-941e-b3ec4d176724",
+                "direction": "backward",
+                "recording": {
+                    "id": "5f9153c5-90dc-436b-941e-b3ec4d176724",
+                    "title": "I'm Only Sleeping (US Stereo Mix)",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "539ada24-0c7d-428d-851e-a085b7d47ba6",
+                "direction": "backward",
+                "recording": {
+                    "id": "539ada24-0c7d-428d-851e-a085b7d47ba6",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "15333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc8b8888-697d-4214-9c50-5bfd21c6bdd2",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc8b8888-697d-4214-9c50-5bfd21c6bdd2",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "181000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f726275-8a88-4cae-adb4-d356ad50dbc9",
+                "direction": "backward",
+                "recording": {
+                    "id": "4f726275-8a88-4cae-adb4-d356ad50dbc9",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c424d633-7fee-4399-8b25-cbfd35cc3fa3",
+                "direction": "backward",
+                "recording": {
+                    "id": "c424d633-7fee-4399-8b25-cbfd35cc3fa3",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "178000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e604a2f0-fdc4-45fb-95b3-70ea01001c2d",
+                "direction": "backward",
+                "recording": {
+                    "id": "e604a2f0-fdc4-45fb-95b3-70ea01001c2d",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce3a821e-df1d-46d7-9afa-218db5bdecb8",
+                "direction": "backward",
+                "recording": {
+                    "id": "ce3a821e-df1d-46d7-9afa-218db5bdecb8",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "178200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f65149d-6dfc-4cee-bfb1-45b111bc51d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5f65149d-6dfc-4cee-bfb1-45b111bc51d3",
+                    "title": "I\u2019m Only Sleeping"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f86f341-32d6-4cd8-87da-1732cdd10a95",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1f86f341-32d6-4cd8-87da-1732cdd10a95",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "258853"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4166848f-4fa7-411d-9cc6-b4b3b4c6b81b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4166848f-4fa7-411d-9cc6-b4b3b4c6b81b",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89b38aed-307b-4915-9ee1-2c5ca751d09c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "89b38aed-307b-4915-9ee1-2c5ca751d09c",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "164000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4429c9d3-01ba-4609-a06d-4695395889fc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4429c9d3-01ba-4609-a06d-4695395889fc",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "259333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a48085d2-4358-4ded-81ea-189172979706",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a48085d2-4358-4ded-81ea-189172979706",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "199000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "872cf59a-546d-465d-b552-0f22ae3b30b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "872cf59a-546d-465d-b552-0f22ae3b30b0",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a029d3ee-1ae2-469a-95e9-7f0da2e54a58",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a029d3ee-1ae2-469a-95e9-7f0da2e54a58",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "268000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "315fbb53-7bd9-448c-b8c8-9f0002bf275b",
+                "direction": "backward",
+                "recording": {
+                    "id": "315fbb53-7bd9-448c-b8c8-9f0002bf275b",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "183693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "095e279f-0d8b-4659-9c42-c6058f9649c2",
+                "direction": "backward",
+                "recording": {
+                    "id": "095e279f-0d8b-4659-9c42-c6058f9649c2",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "180200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5436c5a4-8e08-4824-826c-2057f2d81649",
+                "direction": "backward",
+                "recording": {
+                    "id": "5436c5a4-8e08-4824-826c-2057f2d81649",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "180266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14a7b25d-ec53-427c-8e08-f2ed01a4cba7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "14a7b25d-ec53-427c-8e08-f2ed01a4cba7",
+                    "title": "I\u2019m Only Sleeping",
+                    "length": "185493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3300b267-ecde-4434-89b7-df2869b23d75",
+                "direction": "backward",
+                "recording": {
+                    "id": "3300b267-ecde-4434-89b7-df2869b23d75",
+                    "title": "I\u2019m Only Sleeping (delayed guitar version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb30497b-993f-4134-b832-f44db317b122",
+                "direction": "backward",
+                "recording": {
+                    "id": "eb30497b-993f-4134-b832-f44db317b122",
+                    "title": "I\u2019m Only Sleeping (mock stereo)",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "294b074a-b3ef-45a8-9af7-67f941589d57",
+                "direction": "backward",
+                "recording": {
+                    "id": "294b074a-b3ef-45a8-9af7-67f941589d57",
+                    "title": "I\u2019m Only Sleeping (mono mix)",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63dabb75-7a0e-4a23-810a-cf574fcdb64a",
+                "direction": "backward",
+                "recording": {
+                    "id": "63dabb75-7a0e-4a23-810a-cf574fcdb64a",
+                    "title": "I\u2019m Only Sleeping (mono)",
+                    "length": "179493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f447b13-218f-4637-9812-df6db62fbd34",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f447b13-218f-4637-9812-df6db62fbd34",
+                    "title": "I\u2019m Only Sleeping (stereo)",
+                    "length": "178813"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecb766db-e043-4ff5-ab46-69730d9201f6",
+                "direction": "backward",
+                "recording": {
+                    "id": "ecb766db-e043-4ff5-ab46-69730d9201f6",
+                    "title": "I\u2019m Only Sleeping (US duophonic mix)",
+                    "length": "180560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f93406ea-5227-444f-978a-c47eeda6d8f7",
+                "direction": "backward",
+                "recording": {
+                    "id": "f93406ea-5227-444f-978a-c47eeda6d8f7",
+                    "title": "I\u2019m Only Sleeping (US mono mix)",
+                    "length": "182786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "21120e34-fe9f-43f0-b22d-b573413ed4c7",
+                "direction": "backward",
+                "recording": {
+                    "id": "21120e34-fe9f-43f0-b22d-b573413ed4c7",
+                    "title": "I\u2019m Only Sleeping (US stereo mix)",
+                    "length": "181866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af071b7c-c020-4ac6-9623-5fd656fc2426",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af071b7c-c020-4ac6-9623-5fd656fc2426",
+                    "title": "Stay in Bed (I'm Only Sleeping)",
+                    "length": "148000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-im-only-sleeping-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/3167",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=103",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2035545",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "8e22f7fb-0f3d-4e8c-a862-18f5a1f61122",
+                "ordering-key": "2",
+                "direction": "backward",
+                "work": {
+                    "id": "8e22f7fb-0f3d-4e8c-a862-18f5a1f61122",
+                    "type": "Song",
+                    "title": "Because I'm Only Sleeping",
+                    "language": "zxx"
+                }
+            }
+        ]
+    }
+}

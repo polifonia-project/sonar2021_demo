@@ -1,0 +1,1112 @@
+{
+    "work": {
+        "id": "0a80240a-d1b2-3e1d-bfa1-20d53509116c",
+        "type": "Song",
+        "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+        "language": "eng",
+        "iswc": "T-010.159.703-8",
+        "iswc-list": [
+            "T-010.159.703-8",
+            "T-010.614.193-8"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SABAM ID",
+                "value": "004964600"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "08878Y"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "3633885"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000028983"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "390234"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "274dbc35-9f9f-444b-a97f-f159c086f536",
+                "direction": "backward",
+                "begin": "1968-05",
+                "end": "1968-05",
+                "ended": "true",
+                "recording": {
+                    "id": "274dbc35-9f9f-444b-a97f-f159c086f536",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "183893",
+                    "disambiguation": "Esher demo"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3b0d73a-91fa-4a11-a437-d383c6c91542",
+                "direction": "backward",
+                "begin": "1968-06-26",
+                "end": "1968-06-26",
+                "ended": "true",
+                "recording": {
+                    "id": "b3b0d73a-91fa-4a11-a437-d383c6c91542",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey (unnumbered rehearsal)",
+                    "length": "163000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c7948f5-f6b7-404f-abda-b3a140a7ac6a",
+                "direction": "backward",
+                "begin": "1968-06-27",
+                "end": "1968-07-23",
+                "ended": "true",
+                "recording": {
+                    "id": "3c7948f5-f6b7-404f-abda-b3a140a7ac6a",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey (5.1 mix)",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b4f96ea4-2ddc-40aa-9072-48efbb11b91c",
+                "direction": "backward",
+                "begin": "1968-06-27",
+                "end": "1968-07-23",
+                "ended": "true",
+                "recording": {
+                    "id": "b4f96ea4-2ddc-40aa-9072-48efbb11b91c",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "146586",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e33fc22-9735-46d3-931b-bdb78350b2ee",
+                "direction": "backward",
+                "begin": "1968-06-27",
+                "end": "1968-07-23",
+                "ended": "true",
+                "recording": {
+                    "id": "8e33fc22-9735-46d3-931b-bdb78350b2ee",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "144653",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4d638a2-853b-4a57-a996-1f64458cb2e2",
+                "direction": "backward",
+                "begin": "1968-06-27",
+                "end": "1968-07-23",
+                "ended": "true",
+                "recording": {
+                    "id": "e4d638a2-853b-4a57-a996-1f64458cb2e2",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "145000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a856d07e-8054-46a8-9022-fd2ec83c8d2a",
+                "direction": "backward",
+                "begin": "1968",
+                "end": "1968",
+                "ended": "true",
+                "recording": {
+                    "id": "a856d07e-8054-46a8-9022-fd2ec83c8d2a",
+                    "title": "Everybody\u2019s Got Something to Hide Except for Me and My Monkey (Esher demo)",
+                    "length": "182106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abba4fcb-71a7-449f-b50f-a0111a58634c",
+                "direction": "backward",
+                "begin": "1985-12-23",
+                "end": "1985-12-23",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "abba4fcb-71a7-449f-b50f-a0111a58634c",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5f5b3cb7-cd1a-4610-af2a-c10b55c7db24",
+                "direction": "backward",
+                "begin": "1988-07-09",
+                "end": "1988-07-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5f5b3cb7-cd1a-4610-af2a-c10b55c7db24",
+                    "title": "Everybody\u2019s Got Something to Hide Except for Me and My Monkey",
+                    "length": "299293",
+                    "disambiguation": "live, 1988-07-09: Zabo Linde, N\u00fcrnberg, West Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7ef4041-cc11-4536-bebf-6c470a5ee1d7",
+                "direction": "backward",
+                "begin": "1989-05-14",
+                "end": "1989-05-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d7ef4041-cc11-4536-bebf-6c470a5ee1d7",
+                    "title": "Everybody's Got Something to Hide...",
+                    "length": "136000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90e24c97-e23f-437f-a6b3-197a36a05585",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "90e24c97-e23f-437f-a6b3-197a36a05585",
+                    "title": "Everybody's Got Something to Hide Except for Me & My Monkey",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed4cbebe-48e9-4771-a01d-73aec330bf3f",
+                "direction": "backward",
+                "begin": "1995-10-13",
+                "end": "1995-10-13",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ed4cbebe-48e9-4771-a01d-73aec330bf3f",
+                    "title": "Everybody's Got Something to Hide (Except for Me and My Monkey)",
+                    "length": "207906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0359b0e-dde7-4e0f-96de-4835b47017de",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0359b0e-dde7-4e0f-96de-4835b47017de",
+                    "title": "Everybody Got Something to Hide",
+                    "length": "322000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3c115126-3172-4eef-b257-043252784d40",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3c115126-3172-4eef-b257-043252784d40",
+                    "title": "Everybody Has Something to Hide (Except for Me and My Monkey)",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a84c2462-d838-4a3a-af35-9f08abe60a78",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a84c2462-d838-4a3a-af35-9f08abe60a78",
+                    "title": "Everybody's Got Something to Hide Except for Me & My Monkey",
+                    "length": "141293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac65f729-541a-4b6c-9a48-5d6ea2e83da4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ac65f729-541a-4b6c-9a48-5d6ea2e83da4",
+                    "title": "Everybody's Got Something to Hide Except for Me and My Monkey",
+                    "length": "160840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17602272-d542-4736-86e2-797b183c68a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "17602272-d542-4736-86e2-797b183c68a2",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "145960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf4c0118-2fa6-49a2-bf82-8ea9a51f9f46",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cf4c0118-2fa6-49a2-bf82-8ea9a51f9f46",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7360d582-5875-420d-9f49-26ea9587d784",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7360d582-5875-420d-9f49-26ea9587d784",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "193866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8af47308-cddd-4ff5-98b5-334a106fe0d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8af47308-cddd-4ff5-98b5-334a106fe0d3",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "151957"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e2d033f-d9d8-45b1-8b00-afe48fc30c2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3e2d033f-d9d8-45b1-8b00-afe48fc30c2e",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "921f9833-4c32-4624-bb3e-829142506d52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "921f9833-4c32-4624-bb3e-829142506d52",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "150733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05fd6f2f-26df-4cf9-a2ce-4e46b814bb00",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "05fd6f2f-26df-4cf9-a2ce-4e46b814bb00",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05fd6f2f-26df-4cf9-a2ce-4e46b814bb00",
+                "direction": "backward",
+                "recording": {
+                    "id": "05fd6f2f-26df-4cf9-a2ce-4e46b814bb00",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6af23d27-fde7-4520-ae87-a2bec763606c",
+                "direction": "backward",
+                "recording": {
+                    "id": "6af23d27-fde7-4520-ae87-a2bec763606c",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "178285"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18603287-1e60-4826-9bcc-631550c3ead5",
+                "direction": "backward",
+                "recording": {
+                    "id": "18603287-1e60-4826-9bcc-631550c3ead5",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "177333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a68d6b47-9a98-43bf-8b73-f709ce4760bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "a68d6b47-9a98-43bf-8b73-f709ce4760bc",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f093c07a-bb20-4272-a44d-49bbe7a42c24",
+                "direction": "backward",
+                "recording": {
+                    "id": "f093c07a-bb20-4272-a44d-49bbe7a42c24",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "180466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d43c88d4-5f1e-49c8-b6d6-ac74e3e7e511",
+                "direction": "backward",
+                "recording": {
+                    "id": "d43c88d4-5f1e-49c8-b6d6-ac74e3e7e511",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2bcaa91d-381e-46d9-aef6-3ba4bfdd9935",
+                "direction": "backward",
+                "recording": {
+                    "id": "2bcaa91d-381e-46d9-aef6-3ba4bfdd9935",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07f77488-e3c9-4963-a405-69e43ca25e46",
+                "direction": "backward",
+                "recording": {
+                    "id": "07f77488-e3c9-4963-a405-69e43ca25e46",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fecdb59-8406-4ca0-8487-60192184e0f3",
+                "direction": "backward",
+                "recording": {
+                    "id": "7fecdb59-8406-4ca0-8487-60192184e0f3",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "152000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "157f62ea-d1f4-4501-9a91-a3f41d69e666",
+                "direction": "backward",
+                "recording": {
+                    "id": "157f62ea-d1f4-4501-9a91-a3f41d69e666",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "145560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf3344e0-26f1-4182-9b04-b2d85cdb0bb7",
+                "direction": "backward",
+                "recording": {
+                    "id": "bf3344e0-26f1-4182-9b04-b2d85cdb0bb7",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "154146"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6fde6c55-38a8-431c-9b2d-f3e44d569db4",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6fde6c55-38a8-431c-9b2d-f3e44d569db4",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81f7f0d7-cace-402e-84a3-7db3d9c75d6e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "81f7f0d7-cace-402e-84a3-7db3d9c75d6e",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "144000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "322a2abf-5d8c-46bf-a7d0-4591e8fd07c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "322a2abf-5d8c-46bf-a7d0-4591e8fd07c3",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "178693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62383ccc-0ea4-49a9-a3d2-3a15721ee3fd",
+                "direction": "backward",
+                "recording": {
+                    "id": "62383ccc-0ea4-49a9-a3d2-3a15721ee3fd",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b24a591-058f-4946-97b2-f4aef6e58d7e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2b24a591-058f-4946-97b2-f4aef6e58d7e",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "168173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ff4386e-0245-40fb-b7d0-9a22dd84058a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5ff4386e-0245-40fb-b7d0-9a22dd84058a",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "145000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7ec737e-b254-45f8-a6a6-8bdcd178ef29",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7ec737e-b254-45f8-a6a6-8bdcd178ef29",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cdd0769-eee7-469a-87c5-08abb016eeb0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0cdd0769-eee7-469a-87c5-08abb016eeb0",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "201253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57c7d63b-5e02-4cb2-91fc-a7f4d7790f5a",
+                "direction": "backward",
+                "recording": {
+                    "id": "57c7d63b-5e02-4cb2-91fc-a7f4d7790f5a",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a4bdcca-ece3-49f1-83f0-dcab5dc3fe90",
+                "direction": "backward",
+                "recording": {
+                    "id": "7a4bdcca-ece3-49f1-83f0-dcab5dc3fe90",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15ab1c79-d9bb-4f2f-903a-eca97e7f8103",
+                "direction": "backward",
+                "recording": {
+                    "id": "15ab1c79-d9bb-4f2f-903a-eca97e7f8103",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "144533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f91052f9-8c83-485c-bf18-457a6b153da1",
+                "direction": "backward",
+                "recording": {
+                    "id": "f91052f9-8c83-485c-bf18-457a6b153da1",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e46be831-8863-4b10-b7db-57289ec99616",
+                "direction": "backward",
+                "recording": {
+                    "id": "e46be831-8863-4b10-b7db-57289ec99616",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "69fb42c3-5202-4413-927b-aaaba9dc5327",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "69fb42c3-5202-4413-927b-aaaba9dc5327",
+                    "title": "Everybody's Got Something To Hide Except Me And My Monkey",
+                    "length": "258902"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65ac3bdd-3ac5-49a4-a225-af05d3a8a1f9",
+                "direction": "backward",
+                "recording": {
+                    "id": "65ac3bdd-3ac5-49a4-a225-af05d3a8a1f9",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey (RM1 take 12)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "178c4cd3-94a4-43c5-afaf-a027f6fd5769",
+                "direction": "backward",
+                "recording": {
+                    "id": "178c4cd3-94a4-43c5-afaf-a027f6fd5769",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey (RM5)",
+                    "length": "157160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80565463-af89-4d35-9927-c236e94efc1c",
+                "direction": "backward",
+                "recording": {
+                    "id": "80565463-af89-4d35-9927-c236e94efc1c",
+                    "title": "Everybody's Got Something To Hide Except Me And My Monkey (RS1 Take 12)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d543a4a-848c-4473-bc5c-116b6908de53",
+                "direction": "backward",
+                "recording": {
+                    "id": "1d543a4a-848c-4473-bc5c-116b6908de53",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey (take 12 RM5 - Complete)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b50ab260-cfec-4c2f-b0e4-50c62bba21bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "b50ab260-cfec-4c2f-b0e4-50c62bba21bb",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey (take 12, RM5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5315d71d-f625-439a-94f7-27ca0c103957",
+                "direction": "backward",
+                "recording": {
+                    "id": "5315d71d-f625-439a-94f7-27ca0c103957",
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey (take 12, RM5)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5778528b-3310-4d9e-860a-bbfe3d80edab",
+                "direction": "backward",
+                "recording": {
+                    "id": "5778528b-3310-4d9e-860a-bbfe3d80edab",
+                    "title": "Everybody's Got Something to Hide Exept Me and My Monkey",
+                    "length": "178266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cec6bec-047b-4fc7-841f-8dbed8fee21f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2cec6bec-047b-4fc7-841f-8dbed8fee21f",
+                    "title": "Everybody\u2019s Got Something to Hide",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aaa4908f-304f-4ce3-a81a-63cb4d8cab3a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "aaa4908f-304f-4ce3-a81a-63cb4d8cab3a",
+                    "title": "Everybody\u2019s Got Something to Hide (Except Me and My Monkey)",
+                    "length": "145000",
+                    "disambiguation": "Peel Session"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e90a2a83-058e-4941-b1d3-9f4965803a91",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e90a2a83-058e-4941-b1d3-9f4965803a91",
+                    "title": "Everybody\u2019s Got Something to Hide (Except Me and My Monkey)",
+                    "length": "251000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "36d92375-25d3-44f9-b6ef-b1aa5646fea5",
+                "direction": "backward",
+                "recording": {
+                    "id": "36d92375-25d3-44f9-b6ef-b1aa5646fea5",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7bd1e12-a821-43ab-9f56-9d71456f30f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "e7bd1e12-a821-43ab-9f56-9d71456f30f2",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "156333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e15c04f-373b-4a5a-8733-429f4d852b00",
+                "direction": "backward",
+                "recording": {
+                    "id": "6e15c04f-373b-4a5a-8733-429f4d852b00",
+                    "title": "Everybody\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "186467"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de3520bb-2dac-4789-a77f-3ad2fc6d185d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "de3520bb-2dac-4789-a77f-3ad2fc6d185d",
+                    "title": "Everyone\u2019s Got Something to Hide Except Me and My Monkey",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-everybodys-got-something-to-hide-except-me-and-my-monkey-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10997",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=167",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2004908",
+                "direction": "backward"
+            }
+        ]
+    }
+}

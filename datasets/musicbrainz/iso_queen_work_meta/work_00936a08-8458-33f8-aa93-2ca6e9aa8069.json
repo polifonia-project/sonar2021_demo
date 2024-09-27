@@ -1,0 +1,831 @@
+{
+    "work": {
+        "id": "00936a08-8458-33f8-aa93-2ca6e9aa8069",
+        "type": "Song",
+        "title": "Barcelona",
+        "language": "mul",
+        "iswc": "T-011.346.395-8",
+        "iswc-list": [
+            "T-011.346.395-8"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "b5859eea-e825-4a6c-9272-f3fada390345",
+                "direction": "backward",
+                "artist": {
+                    "id": "b5859eea-e825-4a6c-9272-f3fada390345",
+                    "type": "Person",
+                    "name": "Mike Moran",
+                    "sort-name": "Moran, Mike",
+                    "disambiguation": "keyboardist, songwriter, film and TV composer, producer"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "b5859eea-e825-4a6c-9272-f3fada390345",
+                "direction": "backward",
+                "artist": {
+                    "id": "b5859eea-e825-4a6c-9272-f3fada390345",
+                    "type": "Person",
+                    "name": "Mike Moran",
+                    "sort-name": "Moran, Mike",
+                    "disambiguation": "keyboardist, songwriter, film and TV composer, producer"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "6cd1e903-7d57-4aeb-8735-cd382673abe7",
+                "direction": "backward",
+                "label": {
+                    "id": "6cd1e903-7d57-4aeb-8735-cd382673abe7",
+                    "type": "Publisher",
+                    "name": "Mercury Songs Ltd.",
+                    "sort-name": "Mercury Songs Ltd.",
+                    "disambiguation": "copyright holders, publishing company of Freddie Mercury"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7e705a8-93ee-4138-a4c6-e2652441a69e",
+                "direction": "backward",
+                "begin": "1987-05",
+                "end": "1987-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e7e705a8-93ee-4138-a4c6-e2652441a69e",
+                    "title": "Barcelona (Ku Klub Performance)",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d858e009-0e54-414f-bcb0-edbd75104e24",
+                "direction": "backward",
+                "begin": "1987-05",
+                "end": "1987-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d858e009-0e54-414f-bcb0-edbd75104e24",
+                    "title": "Barcelona (Ku Klub Performance)",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10ea4c03-0c66-4ec1-b82a-5a163bf7a770",
+                "direction": "backward",
+                "begin": "2000-12-12",
+                "end": "2000-12-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "10ea4c03-0c66-4ec1-b82a-5a163bf7a770",
+                    "title": "Barcelona (Improvisation)",
+                    "length": "192386",
+                    "disambiguation": "live, 2000-12-12: Sala Bikini, Barcelona, Spain"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3eda5cc1-28e6-4766-8c86-6e746afd22e5",
+                "direction": "backward",
+                "begin": "2001-05-25",
+                "end": "2001-05-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3eda5cc1-28e6-4766-8c86-6e746afd22e5",
+                    "title": "Barcelona (Friends Until the End)",
+                    "length": "259000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c0952a9-4ffa-4f85-81f6-dba5011f2a83",
+                "direction": "backward",
+                "begin": "2005-06-06",
+                "end": "2005-06-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6c0952a9-4ffa-4f85-81f6-dba5011f2a83",
+                    "title": "Barcelona",
+                    "length": "302000",
+                    "disambiguation": "live, 2005-06-06: Royal Albert Hall, Kensington Gore, London SW7 2AP, UK",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc151bf8-3a37-474a-91e4-f40465780604",
+                "direction": "backward",
+                "begin": "2007-04-14",
+                "end": "2007-04-14",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cc151bf8-3a37-474a-91e4-f40465780604",
+                    "title": "Barcelona",
+                    "disambiguation": "live, 2007-04-14: H\u00fcckeswagen, Germany",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0354a3a0-8325-4757-9ce9-fa1e61f2c7b8",
+                "direction": "backward",
+                "begin": "2011-06-18",
+                "end": "2011-06-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "0354a3a0-8325-4757-9ce9-fa1e61f2c7b8",
+                    "title": "Barcelona",
+                    "length": "353653",
+                    "disambiguation": "live, 2011-06"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "30e5b5ac-39a4-4a9c-8d81-f002a6dc8eb3",
+                "direction": "backward",
+                "recording": {
+                    "id": "30e5b5ac-39a4-4a9c-8d81-f002a6dc8eb3",
+                    "title": "Barcelona",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91df88f1-d0ae-4089-ba24-95bfa72575c0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "91df88f1-d0ae-4089-ba24-95bfa72575c0",
+                    "title": "Barcelona",
+                    "length": "330106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd7882d2-5421-43bf-a037-1faca7aea9c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "bd7882d2-5421-43bf-a037-1faca7aea9c9",
+                    "title": "Barcelona"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f203081-fa67-427f-8360-5e46d0623c42",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f203081-fa67-427f-8360-5e46d0623c42",
+                    "title": "Barcelona",
+                    "length": "345000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "edae8db0-dbb4-47f7-81ed-bfb6763bc9f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "edae8db0-dbb4-47f7-81ed-bfb6763bc9f5",
+                    "title": "Barcelona",
+                    "length": "265000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cc31803-6523-4d68-b208-400c220fc67a",
+                "direction": "backward",
+                "recording": {
+                    "id": "8cc31803-6523-4d68-b208-400c220fc67a",
+                    "title": "Barcelona",
+                    "length": "343000",
+                    "disambiguation": "orchestral version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b1a47a7-37f7-49e3-963b-21002cf61b26",
+                "direction": "backward",
+                "recording": {
+                    "id": "4b1a47a7-37f7-49e3-963b-21002cf61b26",
+                    "title": "Barcelona",
+                    "length": "267466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63004534-b133-4f26-94be-cb4f8c4dee7e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "63004534-b133-4f26-94be-cb4f8c4dee7e",
+                    "title": "Barcelona",
+                    "length": "273000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8beafb08-fd5f-410a-b196-1c9fca5cb083",
+                "direction": "backward",
+                "recording": {
+                    "id": "8beafb08-fd5f-410a-b196-1c9fca5cb083",
+                    "title": "Barcelona",
+                    "length": "344666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8499b26-2a28-49b5-8d3c-cf8101ac84d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8499b26-2a28-49b5-8d3c-cf8101ac84d6",
+                    "title": "Barcelona",
+                    "length": "270000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef82c198-02ce-4663-bbba-962ab8c4e408",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef82c198-02ce-4663-bbba-962ab8c4e408",
+                    "title": "Barcelona",
+                    "length": "342000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0aa7317-78b4-4d55-a538-e0fdda640b54",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e0aa7317-78b4-4d55-a538-e0fdda640b54",
+                    "title": "Barcelona",
+                    "length": "266866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "177f190f-9db8-4d8a-8af6-14c044e62423",
+                "direction": "backward",
+                "recording": {
+                    "id": "177f190f-9db8-4d8a-8af6-14c044e62423",
+                    "title": "Barcelona",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41d15c86-11d3-48e6-9688-bf0b037c31b0",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "41d15c86-11d3-48e6-9688-bf0b037c31b0",
+                    "title": "Barcelona",
+                    "length": "267160",
+                    "disambiguation": "instrumental"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91cb4ea4-418b-4e79-a62f-54bcbd338925",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "91cb4ea4-418b-4e79-a62f-54bcbd338925",
+                    "title": "Barcelona",
+                    "length": "368000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad640d42-67d1-4c91-8633-f9ebc7a36d38",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad640d42-67d1-4c91-8633-f9ebc7a36d38",
+                    "title": "Barcelona",
+                    "length": "265440",
+                    "disambiguation": "single version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d248a29f-c3a2-4697-b617-acabdf40b090",
+                "direction": "backward",
+                "recording": {
+                    "id": "d248a29f-c3a2-4697-b617-acabdf40b090",
+                    "title": "Barcelona",
+                    "length": "341333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fc0153b-a92d-432f-a60e-67039342f999",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4fc0153b-a92d-432f-a60e-67039342f999",
+                    "title": "Barcelona",
+                    "length": "270000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a0d9275e-37b1-4bce-98be-01addff8c79e",
+                "direction": "backward",
+                "recording": {
+                    "id": "a0d9275e-37b1-4bce-98be-01addff8c79e",
+                    "title": "Barcelona",
+                    "length": "339000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8e1fbda-866a-4eb5-a286-ed3efe5d7f35",
+                "direction": "backward",
+                "recording": {
+                    "id": "c8e1fbda-866a-4eb5-a286-ed3efe5d7f35",
+                    "title": "Barcelona",
+                    "length": "265360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4244b085-259b-426e-b447-84744fb50cf8",
+                "direction": "backward",
+                "recording": {
+                    "id": "4244b085-259b-426e-b447-84744fb50cf8",
+                    "title": "Barcelona (2012 Orchestrated Version)",
+                    "length": "342000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f631d4b-0364-4b69-9fa1-987a9c9dba16",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f631d4b-0364-4b69-9fa1-987a9c9dba16",
+                    "title": "Barcelona (early version: Freddie\u2019s demo vocal)",
+                    "length": "262160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57554427-2c44-4fa6-bccf-470557b6885f",
+                "direction": "backward",
+                "recording": {
+                    "id": "57554427-2c44-4fa6-bccf-470557b6885f",
+                    "title": "Barcelona (extended version)",
+                    "length": "423560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3fe2cf8-8f4b-4f0a-b80e-32a21f103123",
+                "direction": "backward",
+                "recording": {
+                    "id": "d3fe2cf8-8f4b-4f0a-b80e-32a21f103123",
+                    "title": "Barcelona (Freddie\u2019s vocal slave)",
+                    "length": "271840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1664b0e2-7873-470d-9c96-531f6e6618e8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1664b0e2-7873-470d-9c96-531f6e6618e8",
+                    "title": "Barcelona (Friends Until the End)",
+                    "length": "246000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d58319d1-fa2f-4cb2-bf13-054361aa3f16",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d58319d1-fa2f-4cb2-bf13-054361aa3f16",
+                    "title": "Barcelona (Friends Until the End)",
+                    "length": "253640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77293895-856e-4fe2-a16c-6578c8519101",
+                "direction": "backward",
+                "recording": {
+                    "id": "77293895-856e-4fe2-a16c-6578c8519101",
+                    "title": "Barcelona (La Nit Performance)",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be20cce3-51b9-4c68-9a28-3f7a5eb7f5ed",
+                "direction": "backward",
+                "recording": {
+                    "id": "be20cce3-51b9-4c68-9a28-3f7a5eb7f5ed",
+                    "title": "Barcelona (La Nit Performance)",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4dc2359d-59e0-492e-be02-cb12aa38942f",
+                "direction": "backward",
+                "recording": {
+                    "id": "4dc2359d-59e0-492e-be02-cb12aa38942f",
+                    "title": "Barcelona (later version: Freddie\u2019s vocal only)",
+                    "length": "266626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e44803b5-400f-474e-bef3-37d3409811a8",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e44803b5-400f-474e-bef3-37d3409811a8",
+                    "title": "Barcelona (live version)",
+                    "length": "266000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18f4ba5a-48a0-461c-9744-b0ce6a573fe6",
+                "direction": "backward",
+                "recording": {
+                    "id": "18f4ba5a-48a0-461c-9744-b0ce6a573fe6",
+                    "title": "Barcelona (New Orchestrated Version)",
+                    "length": "345000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8acd187-09ce-4e89-a091-8553e63db1a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8acd187-09ce-4e89-a091-8553e63db1a7",
+                    "title": "Barcelona (original 1987 extended version)",
+                    "length": "428400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e52cf43-a185-48e9-b912-4eec09c44053",
+                "direction": "backward",
+                "recording": {
+                    "id": "7e52cf43-a185-48e9-b912-4eec09c44053",
+                    "title": "Barcelona (TV edit)",
+                    "length": "80840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "707cdca3-76f6-4b6b-a7a4-85d8f488a478",
+                "direction": "backward",
+                "recording": {
+                    "id": "707cdca3-76f6-4b6b-a7a4-85d8f488a478",
+                    "title": "Idea (Barcelona) (2nd extract from Garden Lodge tape)",
+                    "length": "65373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01feb972-f8f6-4da0-ba13-8855037ffeff",
+                "direction": "backward",
+                "recording": {
+                    "id": "01feb972-f8f6-4da0-ba13-8855037ffeff",
+                    "title": "Idea (Barcelona) (extract from Garden Lodge tape)",
+                    "length": "73333"
+                }
+            }
+        ],
+        "series-relation-list": [
+            {
+                "type": "part of",
+                "type-id": "b0d44366-cdf0-3acb-bee6-0f65a77a6ef0",
+                "target": "206192f7-9228-43af-a11e-14fe4ff824cd",
+                "ordering-key": "4",
+                "direction": "backward",
+                "attribute-list": [
+                    "number"
+                ],
+                "series": {
+                    "id": "206192f7-9228-43af-a11e-14fe4ff824cd",
+                    "type": "Work series",
+                    "name": "Official Songs of the Olympic Games"
+                },
+                "attributes": [
+                    {
+                        "type-id": "a59c5830-5ec7-38fe-9a21-c7ea54f6650a",
+                        "value": "1992",
+                        "attribute": "number"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/Freddie-mercury-barcelona-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/118991",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q807917",
+                "direction": "backward"
+            }
+        ]
+    }
+}

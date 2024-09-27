@@ -1,0 +1,910 @@
+{
+    "work": {
+        "id": "c1338c20-085f-32ac-8400-e71c95139705",
+        "type": "Song",
+        "title": "Long, Long, Long",
+        "language": "eng",
+        "iswc": "T-010.098.632-0",
+        "iswc-list": [
+            "T-010.098.632-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000047 435 07"
+            },
+            {
+                "attribute": "SPAC ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "6494"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12287716"
+            },
+            {
+                "attribute": "SOBODAYCOM ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "78201869200"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "58.953"
+            },
+            {
+                "attribute": "SGACEDOM ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "701553"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "701553"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "281592"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "051652889"
+            },
+            {
+                "attribute": "SACIM ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "65 146 137 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "004965000"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "1775BW"
+            },
+            {
+                "attribute": "NICAUTOR ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0L0-2360-5"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "528441-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1169302"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315977"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000068001"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "420150858"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01244275"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "10339474"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "22503301"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4969183"
+            },
+            {
+                "attribute": "AEI ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4031461"
+            },
+            {
+                "attribute": "AACIMH ID",
+                "value": "4031461"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                "direction": "backward",
+                "label": {
+                    "id": "c762993e-ab7d-4bd1-9028-0ae7d197e502",
+                    "type": "Publisher",
+                    "name": "Harrisongs Ltd.",
+                    "sort-name": "Harrisongs Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3f09c8ed-61fb-46f5-9201-80e5aed09c99",
+                "direction": "backward",
+                "begin": "1968-10-07",
+                "end": "1968-10-07",
+                "ended": "true",
+                "recording": {
+                    "id": "3f09c8ed-61fb-46f5-9201-80e5aed09c99",
+                    "title": "Long, Long, Long (take 44)",
+                    "length": "174867"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5a7a4ba-75c3-436e-8599-d9305f39e1c7",
+                "direction": "backward",
+                "begin": "1968-10-07",
+                "end": "1968-10-09",
+                "ended": "true",
+                "recording": {
+                    "id": "a5a7a4ba-75c3-436e-8599-d9305f39e1c7",
+                    "title": "Long, Long, Long",
+                    "length": "185000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57ea15c6-fd27-4f76-999a-b8064b206ce3",
+                "direction": "backward",
+                "begin": "1968-10-07",
+                "end": "1968-10-09",
+                "ended": "true",
+                "recording": {
+                    "id": "57ea15c6-fd27-4f76-999a-b8064b206ce3",
+                    "title": "Long, Long, Long",
+                    "length": "186426",
+                    "disambiguation": "2018 stereo mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87031e7c-f9a2-43c6-b123-93601643e49a",
+                "direction": "backward",
+                "begin": "1968-10-07",
+                "end": "1968-10-09",
+                "ended": "true",
+                "recording": {
+                    "id": "87031e7c-f9a2-43c6-b123-93601643e49a",
+                    "title": "Long, Long, Long",
+                    "length": "185493",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2e4166d-27bf-4919-a071-7b5a0efe03f5",
+                "direction": "backward",
+                "begin": "1968-10-07",
+                "end": "1968-10-09",
+                "ended": "true",
+                "recording": {
+                    "id": "e2e4166d-27bf-4919-a071-7b5a0efe03f5",
+                    "title": "Long, Long, Long (5.1 mix)",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e123e59-f8a7-4464-9a28-85f4a309907b",
+                "direction": "backward",
+                "begin": "1994-10-31",
+                "end": "1994-10-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4e123e59-f8a7-4464-9a28-85f4a309907b",
+                    "title": "Long, Long, Long",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "369eefd2-8904-4657-a8fa-eb23bffdacd6",
+                "direction": "backward",
+                "begin": "2002-01-10",
+                "end": "2002-01-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "369eefd2-8904-4657-a8fa-eb23bffdacd6",
+                    "title": "Long, Long, Long",
+                    "length": "137000",
+                    "disambiguation": "live, 2002-01-10: Echo, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a317068-629f-40af-b9ad-36cdd960a4bf",
+                "direction": "backward",
+                "begin": "2002-10-06",
+                "end": "2002-10-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1a317068-629f-40af-b9ad-36cdd960a4bf",
+                    "title": "Long, Long, Long",
+                    "disambiguation": "live, 2002-10-06: Mercury Theatre, Chicago, IL, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8a73786f-91ee-4aa1-b920-28014972135e",
+                "direction": "backward",
+                "begin": "2003-01-12",
+                "end": "2003-01-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "8a73786f-91ee-4aa1-b920-28014972135e",
+                    "title": "Long, Long, Long",
+                    "disambiguation": "live, 2003-01-12: Spaceland, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da6c4e57-b908-41f4-b7f2-fea323ec51eb",
+                "direction": "backward",
+                "begin": "2003-01-31",
+                "end": "2003-01-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "da6c4e57-b908-41f4-b7f2-fea323ec51eb",
+                    "title": "Long, Long, Long",
+                    "disambiguation": "live, 2003-01-31: Henry Fonda Theater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f6bcfc8-482d-45ab-aaa3-b14144b4e782",
+                "direction": "backward",
+                "begin": "2003-01-31",
+                "end": "2003-01-31",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9f6bcfc8-482d-45ab-aaa3-b14144b4e782",
+                    "title": "Long, Long, Long",
+                    "disambiguation": "live, 2003-01-31: Henry Fonda Theater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "210c0dbf-7878-412b-b4a7-e476f443529f",
+                "direction": "backward",
+                "begin": "2003-09-19",
+                "end": "2003-09-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "210c0dbf-7878-412b-b4a7-e476f443529f",
+                    "title": "Long, Long, Long",
+                    "length": "188000",
+                    "disambiguation": "live, 2003-09-19: Redfest, Salt Lake City, UT, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24a3927f-d60e-4119-92d7-a8bd6e738c5b",
+                "direction": "backward",
+                "begin": "2018-10-01",
+                "end": "2018-10-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "24a3927f-d60e-4119-92d7-a8bd6e738c5b",
+                    "title": "Long, Long, Long",
+                    "length": "401000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed031d30-5f33-44f5-be9b-2fdbd6170e8b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ed031d30-5f33-44f5-be9b-2fdbd6170e8b",
+                    "title": "Long Long Long",
+                    "length": "298800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df2ad444-da54-4bab-8986-5fd12ff518de",
+                "direction": "backward",
+                "recording": {
+                    "id": "df2ad444-da54-4bab-8986-5fd12ff518de",
+                    "title": "Long Long Long",
+                    "length": "184000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d2884cdb-2345-4ee4-8c39-c57c289b59f4",
+                "direction": "backward",
+                "recording": {
+                    "id": "d2884cdb-2345-4ee4-8c39-c57c289b59f4",
+                    "title": "Long Long Long",
+                    "length": "185000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d39cee0-4340-4d99-bedc-7ff395744690",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9d39cee0-4340-4d99-bedc-7ff395744690",
+                    "title": "Long Long Long",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd63a3eb-19f5-4d3b-92ba-1164c7c03b67",
+                "direction": "backward",
+                "recording": {
+                    "id": "cd63a3eb-19f5-4d3b-92ba-1164c7c03b67",
+                    "title": "Long Long Long"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd09512e-15d4-478d-81aa-10d93de88ba0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd09512e-15d4-478d-81aa-10d93de88ba0",
+                    "title": "Long Long Long",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dce6b438-00ed-424e-9be5-8e2de7873bb6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dce6b438-00ed-424e-9be5-8e2de7873bb6",
+                    "title": "Long Long Long",
+                    "length": "230653"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af3a2076-c569-4235-a2a3-73829677e29f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af3a2076-c569-4235-a2a3-73829677e29f",
+                    "title": "Long Long Long",
+                    "length": "204000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc2bd41f-d3f5-4931-9e5a-022a59c7e7a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fc2bd41f-d3f5-4931-9e5a-022a59c7e7a4",
+                    "title": "Long Long Long",
+                    "length": "244000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "973b872c-4a62-48f4-90f8-7a2ca7bf1f93",
+                "direction": "backward",
+                "recording": {
+                    "id": "973b872c-4a62-48f4-90f8-7a2ca7bf1f93",
+                    "title": "Long Long Long (take 67, RM3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d4b07cd-5fc6-4ce2-a4af-dba72860f581",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d4b07cd-5fc6-4ce2-a4af-dba72860f581",
+                    "title": "Long, Long, Long",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b377c9a5-1a37-422b-9b79-3a6c411873bf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b377c9a5-1a37-422b-9b79-3a6c411873bf",
+                    "title": "Long, Long, Long",
+                    "length": "179000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ecce946-b752-4d13-98c5-20f68061da98",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ecce946-b752-4d13-98c5-20f68061da98",
+                    "title": "Long, Long, Long",
+                    "length": "159466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0eeab2d1-0c57-4853-b249-068f9f6eca93",
+                "direction": "backward",
+                "recording": {
+                    "id": "0eeab2d1-0c57-4853-b249-068f9f6eca93",
+                    "title": "Long, Long, Long"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6952bd6-369f-4f08-85ac-4efda134f7e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "c6952bd6-369f-4f08-85ac-4efda134f7e2",
+                    "title": "Long, Long, Long",
+                    "length": "185000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "533fad96-7319-4000-a05f-67c05f40aceb",
+                "direction": "backward",
+                "recording": {
+                    "id": "533fad96-7319-4000-a05f-67c05f40aceb",
+                    "title": "Long, Long, Long",
+                    "length": "183000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f60c2c8f-b97c-468f-80ee-124ea4244581",
+                "direction": "backward",
+                "recording": {
+                    "id": "f60c2c8f-b97c-468f-80ee-124ea4244581",
+                    "title": "Long, Long, Long",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4df67a40-6bb5-4614-87f6-a045f6b0256a",
+                "direction": "backward",
+                "recording": {
+                    "id": "4df67a40-6bb5-4614-87f6-a045f6b0256a",
+                    "title": "Long, Long, Long",
+                    "length": "185866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "478d4953-4d23-45a8-90fb-be4af8dfa765",
+                "direction": "backward",
+                "recording": {
+                    "id": "478d4953-4d23-45a8-90fb-be4af8dfa765",
+                    "title": "Long, Long, Long",
+                    "length": "184306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d22ce6d-5f9c-4317-9e28-eedffcddd869",
+                "direction": "backward",
+                "recording": {
+                    "id": "1d22ce6d-5f9c-4317-9e28-eedffcddd869",
+                    "title": "Long, Long, Long",
+                    "length": "187000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42b70966-d390-445d-8f1e-dbe6b1af00b9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "42b70966-d390-445d-8f1e-dbe6b1af00b9",
+                    "title": "Long, Long, Long",
+                    "length": "218426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5248be4-b650-42fc-a3f3-4dae5a0ce2c9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c5248be4-b650-42fc-a3f3-4dae5a0ce2c9",
+                    "title": "Long, Long, Long",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90a22015-8b46-40fd-99b4-ce7a2b4d5442",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "90a22015-8b46-40fd-99b4-ce7a2b4d5442",
+                    "title": "Long, Long, Long",
+                    "length": "244666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e9baae1-c3dc-42cf-9876-686e30346258",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7e9baae1-c3dc-42cf-9876-686e30346258",
+                    "title": "Long, Long, Long",
+                    "length": "188000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "709bc235-0c03-4b19-a7a3-4e3fad8f3842",
+                "direction": "backward",
+                "recording": {
+                    "id": "709bc235-0c03-4b19-a7a3-4e3fad8f3842",
+                    "title": "Long, Long, Long (RM3 take 67)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99f17f40-bdd7-4c91-a825-51d5a76404bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "99f17f40-bdd7-4c91-a825-51d5a76404bb",
+                    "title": "Long, Long, Long (RS4 Take 67)"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-long-long-long-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/29855",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=170",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q963500",
+                "direction": "backward"
+            }
+        ]
+    }
+}

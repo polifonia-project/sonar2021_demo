@@ -1,0 +1,60 @@
+{
+    "work": {
+        "id": "0930bcb5-fc03-40e3-9439-1556bccd753b",
+        "type": "Song",
+        "title": "Lost Your Head Blues",
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+                "direction": "backward",
+                "artist": {
+                    "id": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+                    "type": "Person",
+                    "name": "Bessie Smith",
+                    "sort-name": "Smith, Bessie",
+                    "disambiguation": "Tennessee blues singer"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdf130fd-b72c-4cc1-89d0-1be77ecdbdd8",
+                "direction": "backward",
+                "begin": "1926-05-04",
+                "end": "1926-05-04",
+                "ended": "true",
+                "recording": {
+                    "id": "bdf130fd-b72c-4cc1-89d0-1be77ecdbdd8",
+                    "title": "Lost Your Head Blues",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b2f783a-64b7-4577-90de-1bc31353ca73",
+                "direction": "backward",
+                "recording": {
+                    "id": "0b2f783a-64b7-4577-90de-1bc31353ca73",
+                    "title": "Lost Your Head Blues",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46fcc1c0-32d0-4765-a1fb-7163f77c0837",
+                "direction": "backward",
+                "recording": {
+                    "id": "46fcc1c0-32d0-4765-a1fb-7163f77c0837",
+                    "title": "Lost Your Head Blues",
+                    "length": "178066"
+                }
+            }
+        ]
+    }
+}

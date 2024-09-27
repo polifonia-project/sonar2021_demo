@@ -1,0 +1,624 @@
+{
+    "work": {
+        "id": "01ae5439-4214-3055-9b11-9533bc56d3ee",
+        "type": "Song",
+        "title": "Schwanengesang, D. 957: V. Aufenthalt",
+        "language": "deu",
+        "alias-list": [
+            {
+                "sort-name": "Aufenthalt",
+                "alias": "Aufenthalt"
+            },
+            {
+                "sort-name": "Schwanengesang, D 957: Aufenthalt",
+                "alias": "Schwanengesang, D 957: Aufenthalt"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "begin": "1828",
+                "end": "1828",
+                "ended": "true",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "74baf230-2fc5-4507-917b-b6593f016dfa",
+                "direction": "backward",
+                "artist": {
+                    "id": "74baf230-2fc5-4507-917b-b6593f016dfa",
+                    "type": "Person",
+                    "name": "Ludwig Rellstab",
+                    "sort-name": "Rellstab, Ludwig"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d58cc62e-56c0-43dd-8df7-4b13a82823ae",
+                "direction": "backward",
+                "begin": "1912-04-21",
+                "end": "1912-04-21",
+                "ended": "true",
+                "recording": {
+                    "id": "d58cc62e-56c0-43dd-8df7-4b13a82823ae",
+                    "title": "Aufenthalt (Schwanengesang D957 No.5)",
+                    "length": "190706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4b6262b-b7ea-45eb-897e-068f1a276f6f",
+                "direction": "backward",
+                "begin": "1928-11-07",
+                "end": "1928-11-07",
+                "ended": "true",
+                "recording": {
+                    "id": "f4b6262b-b7ea-45eb-897e-068f1a276f6f",
+                    "title": "Schwanengesang D957 (1997 Remastered Version): Aufenthalt (Rellstab)",
+                    "length": "189466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2cab175-536c-4921-b8e3-c424ba817d4b",
+                "direction": "backward",
+                "begin": "1936-01",
+                "end": "1936-01",
+                "ended": "true",
+                "recording": {
+                    "id": "c2cab175-536c-4921-b8e3-c424ba817d4b",
+                    "title": "Schwanengesang: Aufenthalt",
+                    "length": "230000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96bb4b59-e209-485d-9f58-a8b7fb0c6d30",
+                "direction": "backward",
+                "begin": "1954-05-28",
+                "end": "1954-05-30",
+                "ended": "true",
+                "recording": {
+                    "id": "96bb4b59-e209-485d-9f58-a8b7fb0c6d30",
+                    "title": "Schwanengesang: V. Aufenthalt",
+                    "length": "163000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bcb17e4d-0486-4a3e-a1af-e501a69384ca",
+                "direction": "backward",
+                "begin": "1958-05-23",
+                "end": "1958-05-24",
+                "ended": "true",
+                "recording": {
+                    "id": "bcb17e4d-0486-4a3e-a1af-e501a69384ca",
+                    "title": "Schwanengesang, D 957 No. 5: Aufenthalt",
+                    "length": "175880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "904525d5-a843-4ac3-85e0-ff8e87ebf985",
+                "direction": "backward",
+                "begin": "1962-05-07",
+                "end": "1962-09-08",
+                "ended": "true",
+                "recording": {
+                    "id": "904525d5-a843-4ac3-85e0-ff8e87ebf985",
+                    "title": "Schwanengesang, D. 957: V. Aufenthalt",
+                    "length": "219000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67f1cfa0-365c-4c0e-a787-0798f13ffa7d",
+                "direction": "backward",
+                "begin": "1972-03",
+                "end": "1972-03",
+                "ended": "true",
+                "recording": {
+                    "id": "67f1cfa0-365c-4c0e-a787-0798f13ffa7d",
+                    "title": "Schwanengesang, D. 957: 5. \"Aufenthalt\"",
+                    "length": "203000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0736cff8-8cd6-445d-9a4f-7ff0adab2124",
+                "direction": "backward",
+                "begin": "1982-09",
+                "end": "1982-09",
+                "ended": "true",
+                "recording": {
+                    "id": "0736cff8-8cd6-445d-9a4f-7ff0adab2124",
+                    "title": "Schwanengesang, D 957: 5. Aufenthalt (Rellstab)",
+                    "length": "169706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7592de88-0141-484a-bd07-584ac8db5869",
+                "direction": "backward",
+                "begin": "1985-11",
+                "end": "1985-11",
+                "ended": "true",
+                "recording": {
+                    "id": "7592de88-0141-484a-bd07-584ac8db5869",
+                    "title": "Aufenthalt",
+                    "length": "234000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06c981e3-4c72-441f-832e-613f3286e958",
+                "direction": "backward",
+                "begin": "1989-08",
+                "end": "1989-08",
+                "ended": "true",
+                "recording": {
+                    "id": "06c981e3-4c72-441f-832e-613f3286e958",
+                    "title": "Schwanengesang, D. 957: Aufenthalt",
+                    "length": "204600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aef030c8-9f6b-439c-8fb9-f9306f32fb97",
+                "direction": "backward",
+                "begin": "1994-09",
+                "end": "1994-12",
+                "ended": "true",
+                "recording": {
+                    "id": "aef030c8-9f6b-439c-8fb9-f9306f32fb97",
+                    "title": "Svanas\u00f6gnur: \u00c1ning",
+                    "length": "190333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "431a13a6-4108-473f-82e8-0aab5fbacec8",
+                "direction": "backward",
+                "begin": "1998-03",
+                "end": "1998-06",
+                "ended": "true",
+                "recording": {
+                    "id": "431a13a6-4108-473f-82e8-0aab5fbacec8",
+                    "title": "Schwanengesang, D. 957: V. Aufenthalt",
+                    "length": "217000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8ee57b7c-e0af-4370-815c-d00df8cb14de",
+                "direction": "backward",
+                "begin": "2003-11-05",
+                "end": "2003-11-07",
+                "ended": "true",
+                "recording": {
+                    "id": "8ee57b7c-e0af-4370-815c-d00df8cb14de",
+                    "title": "Schwanengesang, D 957: Aufenthalt",
+                    "length": "170853"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "769bde28-c24f-4bb9-ab38-f9b670013f52",
+                "direction": "backward",
+                "begin": "2010-10",
+                "end": "2010-10",
+                "ended": "true",
+                "recording": {
+                    "id": "769bde28-c24f-4bb9-ab38-f9b670013f52",
+                    "title": "Schwanengesang, D.957: Aufenthalt",
+                    "length": "193000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c801ff8-81b0-48a6-bc0e-eff1f8a8584a",
+                "direction": "backward",
+                "begin": "2015-01",
+                "end": "2015-01",
+                "ended": "true",
+                "recording": {
+                    "id": "2c801ff8-81b0-48a6-bc0e-eff1f8a8584a",
+                    "title": "Schwanengesang, D. 957: Aufenthalt",
+                    "length": "193000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac899bba-9717-418f-b86d-497e739297d2",
+                "direction": "backward",
+                "begin": "2018-10-04",
+                "end": "2018-10-06",
+                "ended": "true",
+                "recording": {
+                    "id": "ac899bba-9717-418f-b86d-497e739297d2",
+                    "title": "Schwanengesang, D957: Aufenthalt",
+                    "length": "206000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "06e82e03-8a2c-45ae-94a0-227779004ce4",
+                "direction": "backward",
+                "begin": "2019-04-30",
+                "end": "2019-05-02",
+                "ended": "true",
+                "recording": {
+                    "id": "06e82e03-8a2c-45ae-94a0-227779004ce4",
+                    "title": "Schwanengesang, D 957: 5. Aufenthalt",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91f1f0ba-723d-4878-90ca-ffda404bc04a",
+                "direction": "backward",
+                "recording": {
+                    "id": "91f1f0ba-723d-4878-90ca-ffda404bc04a",
+                    "title": "Aufenthalt",
+                    "length": "195533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ee8663a-68a9-43c5-b9c1-72c6dc2754c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "4ee8663a-68a9-43c5-b9c1-72c6dc2754c0",
+                    "title": "Aufenthalt",
+                    "length": "208000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa6bec20-2153-4279-b167-34090a055e3c",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa6bec20-2153-4279-b167-34090a055e3c",
+                    "title": "Aufenthalt",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05198130-773a-4acc-88b0-019c16869d00",
+                "direction": "backward",
+                "recording": {
+                    "id": "05198130-773a-4acc-88b0-019c16869d00",
+                    "title": "Aufenthalt (from Schwanengesang, D. 957)",
+                    "length": "230640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0575272a-fde8-4084-9df9-eea7622eaae2",
+                "direction": "backward",
+                "recording": {
+                    "id": "0575272a-fde8-4084-9df9-eea7622eaae2",
+                    "title": "Aufenthalt D. 957 no. 5",
+                    "length": "179000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f01884c6-a8cf-4dcf-826a-27a379071887",
+                "direction": "backward",
+                "recording": {
+                    "id": "f01884c6-a8cf-4dcf-826a-27a379071887",
+                    "title": "Aufenthalt, D. 957, no. 5",
+                    "length": "173471"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6937468b-1328-455d-8423-837d9b6495b7",
+                "direction": "backward",
+                "recording": {
+                    "id": "6937468b-1328-455d-8423-837d9b6495b7",
+                    "title": "Schwanengesang (Swan Song), song cycle for voice & piano, D. 957: Aufenthalt",
+                    "length": "166000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0eb13b7a-0f3b-4b0b-b6c7-86114554d811",
+                "direction": "backward",
+                "recording": {
+                    "id": "0eb13b7a-0f3b-4b0b-b6c7-86114554d811",
+                    "title": "Schwanengesang D. 957 No. 5: Aufenthalt",
+                    "length": "171840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c14fb0af-d1d9-4432-be79-76feb8dbda42",
+                "direction": "backward",
+                "recording": {
+                    "id": "c14fb0af-d1d9-4432-be79-76feb8dbda42",
+                    "title": "Schwanengesang D. 957: V. Aufenthalt",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d792b43-a96c-468f-9091-bbbb9490c74e",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d792b43-a96c-468f-9091-bbbb9490c74e",
+                    "title": "Schwanengesang D.957: V. Aufenthalt",
+                    "length": "182000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5d52936-7d2d-43f5-930b-1f2833d21887",
+                "direction": "backward",
+                "recording": {
+                    "id": "f5d52936-7d2d-43f5-930b-1f2833d21887",
+                    "title": "Schwanengesang D957: Aufenthalt",
+                    "length": "177560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abf92918-d624-4ea8-908a-c3e6558622e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "abf92918-d624-4ea8-908a-c3e6558622e7",
+                    "title": "Schwanengesang, D 957: Aufenthalt",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19356479-6c33-4d8f-9bf9-bb6687966113",
+                "direction": "backward",
+                "recording": {
+                    "id": "19356479-6c33-4d8f-9bf9-bb6687966113",
+                    "title": "Schwanengesang, D. 957 No. 5: Aufenthalt",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "572ebdb6-8f0f-4e29-b6a7-4f1e5fa19095",
+                "direction": "backward",
+                "recording": {
+                    "id": "572ebdb6-8f0f-4e29-b6a7-4f1e5fa19095",
+                    "title": "Schwanengesang, D. 957 No. 5: Aufenthalt",
+                    "length": "211000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b51522ab-05bf-42f3-ae3c-389e16b7ee2f",
+                "direction": "backward",
+                "recording": {
+                    "id": "b51522ab-05bf-42f3-ae3c-389e16b7ee2f",
+                    "title": "Schwanengesang, D. 957 no. 5: Aufenthalt \"Rauschender Strom\"",
+                    "length": "217760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6af08869-65d2-46d3-a919-bc0822cb211a",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6af08869-65d2-46d3-a919-bc0822cb211a",
+                    "title": "Schwanengesang, D. 957: Aufenthalt",
+                    "length": "181493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "962687ee-4e3f-419c-bb10-d08b8d76c436",
+                "direction": "backward",
+                "recording": {
+                    "id": "962687ee-4e3f-419c-bb10-d08b8d76c436",
+                    "title": "Schwanengesang, D. 957: Aufenthalt",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e67993b8-e7f0-4872-81f0-8bf6a9b47a32",
+                "direction": "backward",
+                "recording": {
+                    "id": "e67993b8-e7f0-4872-81f0-8bf6a9b47a32",
+                    "title": "Schwanengesang, D. 957: Aufenthalt",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e88fc4ee-d272-4898-b7f9-bd53548c3153",
+                "direction": "backward",
+                "recording": {
+                    "id": "e88fc4ee-d272-4898-b7f9-bd53548c3153",
+                    "title": "Schwanengesang, D. 957: No. 5: Aufenthalt (2011 Digital Remaster)",
+                    "length": "178360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fcdd5bb2-3359-4816-9b36-6e48b6dbf7e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "fcdd5bb2-3359-4816-9b36-6e48b6dbf7e7",
+                    "title": "Schwanengesang, D. 957: Nr. 5. Aufenthalt",
+                    "length": "176786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23476be5-19f9-470c-a0e1-9a263f23caf9",
+                "direction": "backward",
+                "recording": {
+                    "id": "23476be5-19f9-470c-a0e1-9a263f23caf9",
+                    "title": "Schwanengesang, D. 957: V. Aufenthalt",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23403fa8-6a84-4390-bbbc-f71602f3d872",
+                "direction": "backward",
+                "recording": {
+                    "id": "23403fa8-6a84-4390-bbbc-f71602f3d872",
+                    "title": "Schwanengesang, D. 957: V. Aufenthalt",
+                    "length": "177613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73beeaac-29b0-46f7-b69b-f1b3786acf82",
+                "direction": "backward",
+                "recording": {
+                    "id": "73beeaac-29b0-46f7-b69b-f1b3786acf82",
+                    "title": "Schwanengesang, D. 957: VI. Aufenthalt",
+                    "length": "170387"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c44c1ca-3796-4373-b3b7-02ed4cc7c8dd",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c44c1ca-3796-4373-b3b7-02ed4cc7c8dd",
+                    "title": "Schwanengesang, D957: Aufenthalt",
+                    "length": "151026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c222999f-0a20-46c7-b9fc-6a2a1fca5019",
+                "direction": "backward",
+                "recording": {
+                    "id": "c222999f-0a20-46c7-b9fc-6a2a1fca5019",
+                    "title": "Schwanengesang: \"Aufenthalt\"",
+                    "length": "186000"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "fd255116-9065-3c20-9901-6cd6e5495c61",
+                "direction": "forward",
+                "work": {
+                    "id": "fd255116-9065-3c20-9901-6cd6e5495c61",
+                    "title": "Schwanengesang, S. 560: No. 3. Aufenthalt",
+                    "language": "zxx",
+                    "disambiguation": "for solo piano, Liszt"
+                }
+            },
+            {
+                "type": "arrangement",
+                "type-id": "51975ed8-bbfa-486b-9f28-5947f4370299",
+                "target": "5e149b3e-62a7-45c0-b6ef-03da0e03484d",
+                "direction": "forward",
+                "work": {
+                    "id": "5e149b3e-62a7-45c0-b6ef-03da0e03484d",
+                    "title": "Three Songs from Schwanengesang: Aufenthalt",
+                    "language": "zxx",
+                    "disambiguation": "for cello octet, Birchall"
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "b7952e83-bb8c-4c5a-87ba-43fb9385b0fb",
+                "direction": "forward",
+                "work": {
+                    "id": "b7952e83-bb8c-4c5a-87ba-43fb9385b0fb",
+                    "title": "Schwanengesang, D. 957: V. Aufenthalt",
+                    "language": "zxx",
+                    "disambiguation": "for guitar solo, Mertz"
+                }
+            },
+            {
+                "type": "parts",
+                "type-id": "ca8d3642-ce5f-49f8-91f2-125d72524e6a",
+                "target": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                "ordering-key": "5",
+                "direction": "backward",
+                "work": {
+                    "id": "03e6ddaa-ddda-4e51-82ce-2adce7cfcb7e",
+                    "type": "Song-cycle",
+                    "title": "Schwanengesang, D. 957",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

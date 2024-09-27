@@ -1,0 +1,311 @@
+{
+    "work": {
+        "id": "d402465a-1c44-4520-b8e2-4e2732bca442",
+        "type": "Song",
+        "title": "Princes of the Universe",
+        "language": "eng",
+        "iswc": "T-010.148.897-4",
+        "iswc-list": [
+            "T-010.148.897-4"
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "022589ac-7177-460d-a178-9976cf70e29f",
+                "direction": "backward",
+                "artist": {
+                    "id": "022589ac-7177-460d-a178-9976cf70e29f",
+                    "type": "Person",
+                    "name": "Freddie Mercury",
+                    "sort-name": "Mercury, Freddie"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "97ef6a28-dfed-4eda-bd24-17a45c792d29",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing Ltd.",
+                    "sort-name": "EMI Music Publishing Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                "direction": "backward",
+                "begin": "1986",
+                "end": "1986",
+                "ended": "true",
+                "label": {
+                    "id": "0a815e3e-c710-4d60-a1af-4935b72ffb52",
+                    "type": "Publisher",
+                    "name": "Queen Music Ltd.",
+                    "sort-name": "Queen Music Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6b6f772-4658-461b-9478-9d794cba90fb",
+                "direction": "backward",
+                "begin": "2010-12-10",
+                "end": "2010-12-10",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b6b6f772-4658-461b-9478-9d794cba90fb",
+                    "title": "Princes of the Universe",
+                    "length": "209000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d5c6990-1803-44df-a04b-384134e86f4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "1d5c6990-1803-44df-a04b-384134e86f4e",
+                    "title": "Highlander, Part 1",
+                    "length": "240000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a257828-f7ec-456c-b709-2618f086d7e4",
+                "direction": "backward",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "5a257828-f7ec-456c-b709-2618f086d7e4",
+                    "title": "Highlander: 1. Program Start / Main Title",
+                    "length": "100000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f21785c-34dc-44bd-87e2-07f11ad4dc04",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9f21785c-34dc-44bd-87e2-07f11ad4dc04",
+                    "title": "Princes of the Universe",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8da2b888-3dc9-4652-b69b-aa09978988df",
+                "direction": "backward",
+                "recording": {
+                    "id": "8da2b888-3dc9-4652-b69b-aa09978988df",
+                    "title": "Princes of the Universe",
+                    "length": "212000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d22a1459-b0e8-4d56-bd45-2c2cdeb114ff",
+                "direction": "backward",
+                "recording": {
+                    "id": "d22a1459-b0e8-4d56-bd45-2c2cdeb114ff",
+                    "title": "Princes of the Universe"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1db61865-0ca8-477e-8e73-6b9c214cf7a7",
+                "direction": "backward",
+                "recording": {
+                    "id": "1db61865-0ca8-477e-8e73-6b9c214cf7a7",
+                    "title": "Princes of the Universe",
+                    "length": "217200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "73800fd9-d287-458b-ac6b-434b342b3468",
+                "direction": "backward",
+                "recording": {
+                    "id": "73800fd9-d287-458b-ac6b-434b342b3468",
+                    "title": "Princes of the Universe",
+                    "length": "213040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24e31654-7de1-46c3-bb76-1fe9654b1e93",
+                "direction": "backward",
+                "recording": {
+                    "id": "24e31654-7de1-46c3-bb76-1fe9654b1e93",
+                    "title": "Princes of the Universe",
+                    "length": "212440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a51027b-b4ed-412c-bca8-435fb7494207",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a51027b-b4ed-412c-bca8-435fb7494207",
+                    "title": "Princes of the Universe",
+                    "length": "232000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8f0cae4-5c59-4528-8c1b-9ab7ebead64b",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8f0cae4-5c59-4528-8c1b-9ab7ebead64b",
+                    "title": "Princes of the Universe",
+                    "length": "211000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6532e53d-a101-46b1-81fb-5db9e2eaf81c",
+                "direction": "backward",
+                "recording": {
+                    "id": "6532e53d-a101-46b1-81fb-5db9e2eaf81c",
+                    "title": "Princes of the Universe (soundtrack version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "951f3d0a-b2dc-4366-90df-4030abdb377c",
+                "direction": "backward",
+                "recording": {
+                    "id": "951f3d0a-b2dc-4366-90df-4030abdb377c",
+                    "title": "Princes of the Universe (soundtrack version)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4e0106b-f6f2-4634-acde-1d6cc5046520",
+                "direction": "backward",
+                "recording": {
+                    "id": "a4e0106b-f6f2-4634-acde-1d6cc5046520",
+                    "title": "Princes of the Universe [cinematic version]",
+                    "length": "220000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec2406e0-7183-4efb-9357-fc7396086713",
+                "direction": "backward",
+                "recording": {
+                    "id": "ec2406e0-7183-4efb-9357-fc7396086713",
+                    "title": "Princes of the Universe [instrumental]",
+                    "length": "210000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f9557f1-f378-40eb-b96e-6fc44d81ee5f",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f9557f1-f378-40eb-b96e-6fc44d81ee5f",
+                    "title": "Princess of the Universe (\u201cHighlander\u201d alternative version)",
+                    "length": "108000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20db4e8e-9f90-400e-a536-46ae239dd227",
+                "direction": "backward",
+                "recording": {
+                    "id": "20db4e8e-9f90-400e-a536-46ae239dd227",
+                    "title": "Princess of the Universe (reprise) (\u201cHighlander\u201d version)",
+                    "length": "82000"
+                }
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q264053",
+                "direction": "backward"
+            }
+        ]
+    }
+}

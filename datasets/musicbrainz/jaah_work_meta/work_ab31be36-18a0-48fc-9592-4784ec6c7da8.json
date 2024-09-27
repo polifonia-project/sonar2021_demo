@@ -1,0 +1,792 @@
+{
+    "work": {
+        "id": "ab31be36-18a0-48fc-9592-4784ec6c7da8",
+        "type": "Song",
+        "title": "Swing That Music",
+        "language": "eng",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "eea8a864-fcda-4602-9569-38ab446decd6",
+                "direction": "backward",
+                "artist": {
+                    "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                    "type": "Person",
+                    "name": "Louis Armstrong",
+                    "sort-name": "Armstrong, Louis"
+                }
+            },
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "2726a5b3-1491-4746-8c48-a46dccc830f9",
+                "direction": "backward",
+                "artist": {
+                    "id": "2726a5b3-1491-4746-8c48-a46dccc830f9",
+                    "type": "Person",
+                    "name": "Horace Gerlach",
+                    "sort-name": "Gerlach, Horace"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "eea8a864-fcda-4602-9569-38ab446decd6",
+                "direction": "backward",
+                "artist": {
+                    "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+                    "type": "Person",
+                    "name": "Louis Armstrong",
+                    "sort-name": "Armstrong, Louis"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "2726a5b3-1491-4746-8c48-a46dccc830f9",
+                "direction": "backward",
+                "artist": {
+                    "id": "2726a5b3-1491-4746-8c48-a46dccc830f9",
+                    "type": "Person",
+                    "name": "Horace Gerlach",
+                    "sort-name": "Gerlach, Horace"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a3b16fb-d992-4285-954c-8c6cf7566d44",
+                "direction": "backward",
+                "begin": "1936-05-18",
+                "end": "1936-05-18",
+                "ended": "true",
+                "recording": {
+                    "id": "7a3b16fb-d992-4285-954c-8c6cf7566d44",
+                    "title": "Swing That Music",
+                    "length": "172160",
+                    "disambiguation": "matrix no. 61108-A"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1321635a-1fe8-47a4-a365-f260b1927dfd",
+                "direction": "backward",
+                "begin": "1936-05-18",
+                "end": "1936-05-18",
+                "ended": "true",
+                "recording": {
+                    "id": "1321635a-1fe8-47a4-a365-f260b1927dfd",
+                    "title": "Swing That Music",
+                    "length": "169226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9014a78f-72b9-42ae-9d02-3148e6c03b76",
+                "direction": "backward",
+                "begin": "1936-05-18",
+                "end": "1936-05-18",
+                "ended": "true",
+                "recording": {
+                    "id": "9014a78f-72b9-42ae-9d02-3148e6c03b76",
+                    "title": "Swing That Music",
+                    "length": "171626",
+                    "disambiguation": "1936-05-18"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7554b172-38cd-431d-88e4-18b447035235",
+                "direction": "backward",
+                "begin": "1936-08-07",
+                "end": "1936-08-07",
+                "ended": "true",
+                "recording": {
+                    "id": "7554b172-38cd-431d-88e4-18b447035235",
+                    "title": "Swing That Music",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6e3d9ec0-b269-487e-bcc7-45520a0f5008",
+                "direction": "backward",
+                "begin": "1959-03-25",
+                "end": "1959-03-25",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6e3d9ec0-b269-487e-bcc7-45520a0f5008",
+                    "title": "Swing That Music",
+                    "length": "132840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d978cb6f-6f61-41d3-b48b-4d117a2cc342",
+                "direction": "backward",
+                "begin": "1959-03-25",
+                "end": "1959-03-25",
+                "ended": "true",
+                "recording": {
+                    "id": "d978cb6f-6f61-41d3-b48b-4d117a2cc342",
+                    "title": "Swing That Music",
+                    "length": "133506"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6b8cd20-8bbd-47d0-9986-1107deaa0e6f",
+                "direction": "backward",
+                "begin": "1959",
+                "end": "1959",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b6b8cd20-8bbd-47d0-9986-1107deaa0e6f",
+                    "title": "Swing That Music"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd854292-564d-4648-92a4-3fbe0255a276",
+                "direction": "backward",
+                "begin": "1969-10-20",
+                "end": "1969-10-20",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fd854292-564d-4648-92a4-3fbe0255a276",
+                    "title": "Swing That Music",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "411620e2-509f-4148-92fb-b22a1a72f18e",
+                "direction": "backward",
+                "begin": "1983-08-25",
+                "end": "1983-08-25",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "411620e2-509f-4148-92fb-b22a1a72f18e",
+                    "title": "Swing That Music",
+                    "length": "241000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee60d3dc-701e-417b-a9ed-2bd571f434a3",
+                "direction": "backward",
+                "begin": "1995-02-25",
+                "end": "1995-02-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ee60d3dc-701e-417b-a9ed-2bd571f434a3",
+                    "title": "Swing That Music",
+                    "length": "323000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a9edd06-9a13-446e-8179-aac00f4f9bd9",
+                "direction": "backward",
+                "recording": {
+                    "id": "6a9edd06-9a13-446e-8179-aac00f4f9bd9",
+                    "title": "Swing That Magic",
+                    "length": "168333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3812ae4-d736-44f7-8a72-a1f5f9403d71",
+                "direction": "backward",
+                "recording": {
+                    "id": "b3812ae4-d736-44f7-8a72-a1f5f9403d71",
+                    "title": "Swing that Music",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd9262ac-296b-4177-9cf1-ab750bf1c70e",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd9262ac-296b-4177-9cf1-ab750bf1c70e",
+                    "title": "Swing That Music",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "763e857f-afe9-468f-b2e9-82fab33520d8",
+                "direction": "backward",
+                "recording": {
+                    "id": "763e857f-afe9-468f-b2e9-82fab33520d8",
+                    "title": "Swing That Music",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32c0f124-d21a-45f6-a789-3598e542adf5",
+                "direction": "backward",
+                "recording": {
+                    "id": "32c0f124-d21a-45f6-a789-3598e542adf5",
+                    "title": "Swing That Music",
+                    "length": "170586"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49a3124c-b2cb-4cf9-b69c-4007326f3a39",
+                "direction": "backward",
+                "recording": {
+                    "id": "49a3124c-b2cb-4cf9-b69c-4007326f3a39",
+                    "title": "Swing That Music"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7424741f-8e44-4714-808c-3d89550f8688",
+                "direction": "backward",
+                "recording": {
+                    "id": "7424741f-8e44-4714-808c-3d89550f8688",
+                    "title": "Swing That Music",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f6a1edb7-a69e-4758-b358-3370c801e623",
+                "direction": "backward",
+                "recording": {
+                    "id": "f6a1edb7-a69e-4758-b358-3370c801e623",
+                    "title": "Swing That Music",
+                    "length": "175933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3e00762-ac38-447c-849e-4f93f94f2245",
+                "direction": "backward",
+                "recording": {
+                    "id": "f3e00762-ac38-447c-849e-4f93f94f2245",
+                    "title": "Swing That Music",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "705f20be-ae10-4cde-b7a5-b5312066419d",
+                "direction": "backward",
+                "recording": {
+                    "id": "705f20be-ae10-4cde-b7a5-b5312066419d",
+                    "title": "Swing That Music"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efb1a2d1-4bf9-4b0e-afc5-92e68f6b49a1",
+                "direction": "backward",
+                "recording": {
+                    "id": "efb1a2d1-4bf9-4b0e-afc5-92e68f6b49a1",
+                    "title": "Swing That Music",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9bd9ae5c-1b7a-4395-94f7-ee430268226e",
+                "direction": "backward",
+                "recording": {
+                    "id": "9bd9ae5c-1b7a-4395-94f7-ee430268226e",
+                    "title": "Swing That Music",
+                    "length": "175440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12df1127-a801-49f8-b9cb-cd8dd28e3a26",
+                "direction": "backward",
+                "recording": {
+                    "id": "12df1127-a801-49f8-b9cb-cd8dd28e3a26",
+                    "title": "Swing That Music",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bef4ce43-56e3-4ea4-89f7-858005bcb4df",
+                "direction": "backward",
+                "recording": {
+                    "id": "bef4ce43-56e3-4ea4-89f7-858005bcb4df",
+                    "title": "Swing That Music",
+                    "length": "175373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1577065-207c-4c8c-a4cb-484ee240d1b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "e1577065-207c-4c8c-a4cb-484ee240d1b8",
+                    "title": "Swing That Music",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34de55d5-71a5-40a7-ab83-fea1aa191fba",
+                "direction": "backward",
+                "recording": {
+                    "id": "34de55d5-71a5-40a7-ab83-fea1aa191fba",
+                    "title": "Swing That Music",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a36c3418-869c-43ce-9268-f82a6fd3d839",
+                "direction": "backward",
+                "recording": {
+                    "id": "a36c3418-869c-43ce-9268-f82a6fd3d839",
+                    "title": "Swing That Music",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38b7f6f4-9be9-4c96-99c6-a69ceaf7f5f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "38b7f6f4-9be9-4c96-99c6-a69ceaf7f5f5",
+                    "title": "Swing That Music",
+                    "length": "174413"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eae93853-e9e8-439d-a696-98cf4dd8e1eb",
+                "direction": "backward",
+                "recording": {
+                    "id": "eae93853-e9e8-439d-a696-98cf4dd8e1eb",
+                    "title": "Swing That Music",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3499b51-16b7-4401-92ca-c23c408bb204",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3499b51-16b7-4401-92ca-c23c408bb204",
+                    "title": "Swing That Music",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "663973e6-8898-4d20-b883-8fefce98c1e9",
+                "direction": "backward",
+                "recording": {
+                    "id": "663973e6-8898-4d20-b883-8fefce98c1e9",
+                    "title": "Swing That Music",
+                    "length": "177066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "443c9e35-0423-433a-b1bc-51728e469a12",
+                "direction": "backward",
+                "recording": {
+                    "id": "443c9e35-0423-433a-b1bc-51728e469a12",
+                    "title": "Swing That Music",
+                    "length": "173400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a32b5636-b85e-4cb3-9fb4-fd20fbdea5af",
+                "direction": "backward",
+                "recording": {
+                    "id": "a32b5636-b85e-4cb3-9fb4-fd20fbdea5af",
+                    "title": "Swing That Music",
+                    "length": "171200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab0bc7f1-9353-4fe4-bbeb-62981675a37b",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab0bc7f1-9353-4fe4-bbeb-62981675a37b",
+                    "title": "Swing That Music",
+                    "length": "172986"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1fce4a3-c484-494c-95b4-3d20a0f9943f",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1fce4a3-c484-494c-95b4-3d20a0f9943f",
+                    "title": "Swing That Music",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4dacee89-019a-4c3a-b56b-a157514a53e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "4dacee89-019a-4c3a-b56b-a157514a53e2",
+                    "title": "Swing That Music",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a3423177-b344-4990-b23d-c1aa6aaa2e16",
+                "direction": "backward",
+                "recording": {
+                    "id": "a3423177-b344-4990-b23d-c1aa6aaa2e16",
+                    "title": "Swing That Music",
+                    "length": "172960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fcc978d-6c04-4f7a-9f53-95df8850bf15",
+                "direction": "backward",
+                "recording": {
+                    "id": "3fcc978d-6c04-4f7a-9f53-95df8850bf15",
+                    "title": "Swing That Music",
+                    "length": "170000",
+                    "disambiguation": "stereo re-creation by Robert Parker"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9325ba7-e551-4c14-a660-f50bdac9a47e",
+                "direction": "backward",
+                "recording": {
+                    "id": "e9325ba7-e551-4c14-a660-f50bdac9a47e",
+                    "title": "Swing That Music",
+                    "length": "172266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8606eba-0576-48b3-bc09-2e19db6a2a99",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8606eba-0576-48b3-bc09-2e19db6a2a99",
+                    "title": "Swing That Music",
+                    "length": "221133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32dcca70-86be-464b-9bb0-0f0be11dbf57",
+                "direction": "backward",
+                "recording": {
+                    "id": "32dcca70-86be-464b-9bb0-0f0be11dbf57",
+                    "title": "Swing That Music",
+                    "length": "171200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c692799-0947-41de-ad21-5e6733e63990",
+                "direction": "backward",
+                "recording": {
+                    "id": "8c692799-0947-41de-ad21-5e6733e63990",
+                    "title": "Swing That Music",
+                    "length": "169072"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe23115d-4883-4b3e-a940-159114e8bea8",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe23115d-4883-4b3e-a940-159114e8bea8",
+                    "title": "Swing That Music",
+                    "length": "190160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39a991c2-1d1a-4a97-a227-6f0bb8769541",
+                "direction": "backward",
+                "recording": {
+                    "id": "39a991c2-1d1a-4a97-a227-6f0bb8769541",
+                    "title": "Swing That Music",
+                    "length": "167493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8d02499c-7522-402b-9acd-c2a73b395d9f",
+                "direction": "backward",
+                "recording": {
+                    "id": "8d02499c-7522-402b-9acd-c2a73b395d9f",
+                    "title": "Swing That Music",
+                    "length": "175346"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2390ff53-1956-462a-90a3-81a44fea1c56",
+                "direction": "backward",
+                "recording": {
+                    "id": "2390ff53-1956-462a-90a3-81a44fea1c56",
+                    "title": "Swing That Music",
+                    "length": "174666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe4f4e83-e2a2-4536-a245-a155b11be9fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "fe4f4e83-e2a2-4536-a245-a155b11be9fb",
+                    "title": "Swing That Music",
+                    "length": "215000",
+                    "disambiguation": "television broadcast, 1949-09-03"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "448f16f5-9421-4658-892f-798c46a3acf9",
+                "direction": "backward",
+                "recording": {
+                    "id": "448f16f5-9421-4658-892f-798c46a3acf9",
+                    "title": "Swing That Music",
+                    "length": "172106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f3c9b6e-f630-4fd5-b3f5-4afe9eff8715",
+                "direction": "backward",
+                "recording": {
+                    "id": "8f3c9b6e-f630-4fd5-b3f5-4afe9eff8715",
+                    "title": "Swing That Music",
+                    "length": "169266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7fc39bdc-d066-4dc3-bf23-89313655349d",
+                "direction": "backward",
+                "recording": {
+                    "id": "7fc39bdc-d066-4dc3-bf23-89313655349d",
+                    "title": "Swing That Music",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ada572cf-2eb6-4205-b15d-c44fe80100cb",
+                "direction": "backward",
+                "recording": {
+                    "id": "ada572cf-2eb6-4205-b15d-c44fe80100cb",
+                    "title": "Swing That Music",
+                    "length": "168706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b2df4b99-8a6c-467b-bc8e-a94f263ba587",
+                "direction": "backward",
+                "recording": {
+                    "id": "b2df4b99-8a6c-467b-bc8e-a94f263ba587",
+                    "title": "Swing That Music"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1b6b5afa-7ce1-4f49-b12a-2402c11d2e5f",
+                "direction": "backward",
+                "recording": {
+                    "id": "1b6b5afa-7ce1-4f49-b12a-2402c11d2e5f",
+                    "title": "Swing That Music"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eda6702d-7dc0-4f60-a96e-cf8f5a12a11b",
+                "direction": "backward",
+                "recording": {
+                    "id": "eda6702d-7dc0-4f60-a96e-cf8f5a12a11b",
+                    "title": "Swing That Music",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "308ae03a-f244-42be-8667-28674ea402a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "308ae03a-f244-42be-8667-28674ea402a3",
+                    "title": "Swing That Music",
+                    "length": "174000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4acdbf9-6e47-4d7e-9139-614d3a2c44e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4acdbf9-6e47-4d7e-9139-614d3a2c44e4",
+                    "title": "Swing That Music",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac9df03d-6ed0-414e-beca-2c3785133c23",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ac9df03d-6ed0-414e-beca-2c3785133c23",
+                    "title": "Swing That Music",
+                    "length": "263266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f33b988d-f5cf-49df-92b1-b1ba38e764d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "f33b988d-f5cf-49df-92b1-b1ba38e764d4",
+                    "title": "Swing That Music",
+                    "length": "174600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12302e6c-5b1e-4582-941d-bf8ba92e3e9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "12302e6c-5b1e-4582-941d-bf8ba92e3e9c",
+                    "title": "Swing That Music",
+                    "length": "170000"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "entityType": "artist",
+    "entitySubType": "person",
+    "uri": "https://secondhandsongs.com/artist/105",
+    "commonName": "Elton John",
+    "realName": "Reginald Kenneth Dwight",
+    "birthDate": "1947-03-25",
+    "deathDate": null,
+    "picture": "https://secondhandsongs.com/picture/131740",
+    "homeCountry": "GB",
+    "comments": "Singer, songwriter, composer and pianist.\r\nHe was inducted into the Songwriters Hall of Fame in 1992 and into the Rock and Roll Hall of Fame in 1994 as performer. He and Bernie Taupin received the 2013 Johnny Mercer Award for their high quality of songwriting.",
+    "aliases": [
+        "Ann Orson",
+        "The Elton John Band",
+        "Elton John & Luther Vandross [sampled]",
+        "Reg Dwight"
+    ],
+    "relations": [
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/172385",
+                "commonName": "The Bread and Beer Band"
+            },
+            "comments": "Keyboards"
+        },
+        {
+            "relationName": "is member of",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "group",
+                "uri": "https://secondhandsongs.com/artist/95289",
+                "commonName": "Bluesology"
+            },
+            "comments": "Keyboards (1962-1968) (as \"Reg Dwight\")"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/3620",
+                "commonName": "Tim Rice"
+            },
+            "comments": "Songwriting collaborator"
+        },
+        {
+            "relationName": "is related to",
+            "artist": {
+                "entityType": "artist",
+                "entitySubType": "person",
+                "uri": "https://secondhandsongs.com/artist/13812",
+                "commonName": "Davey  Johnstone"
+            },
+            "comments": null
+        }
+    ],
+    "performances": "https://secondhandsongs.com/artist/105/performances",
+    "creditedWorks": "https://secondhandsongs.com/artist/105/works",
+    "releases": "https://secondhandsongs.com/artist/105/releases"
+}

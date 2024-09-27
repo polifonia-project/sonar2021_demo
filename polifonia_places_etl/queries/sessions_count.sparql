@@ -1,0 +1,36 @@
+# POLIFONIA prefixes
+PREFIX core:    <https://w3id.org/polifonia/ON/core/> 
+PREFIX mp:      <https://w3id.org/polifonia/ON/musical-performance/>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX pr:      <https://w3id.org/polifonia/resource/>
+
+# SPARQL anything prefixes
+PREFIX fx:  <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz: <http://sparql.xyz/facade-x/data/>
+
+SELECT
+    (COUNT(?sessionID) as ?count ) 
+WHERE {
+
+    SERVICE <x-sparql-anything:> {
+
+        # location for json preprocessed file
+		fx:properties fx:location "data/places.json"  ;
+	  	fx:media-type "application/json" ;
+		fx:blank-nodes false    .
+
+
+        { SELECT DISTINCT ?sessionID WHERE {
+
+            ?recording  xyz:track%5Fid ?recordingID ;
+                    xyz:recording%5Fplaces ?recordingSessionList .
+
+            # Session
+            ?recordingSessionList ?li ?recordingSession .
+            ?recordingSession xyz:session%5Fid ?sessionID .
+
+          }        
+	    }
+    } 
+}

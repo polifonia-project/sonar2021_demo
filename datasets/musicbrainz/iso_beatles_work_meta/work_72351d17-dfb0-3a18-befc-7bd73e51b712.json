@@ -1,0 +1,1887 @@
+{
+    "work": {
+        "id": "72351d17-dfb0-3a18-befc-7bd73e51b712",
+        "type": "Song",
+        "title": "I\u2019ve Just Seen a Face",
+        "language": "eng",
+        "iswc": "T-010.434.642-0",
+        "iswc-list": [
+            "T-010.434.642-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000087 239 84"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5469"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12221515"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100169700"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "32.395"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1357952"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1357952"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "212636"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3975549"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009887839"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 350 430 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014402200"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "14363T"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634688-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "63918"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "3234319"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10586070"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000056089"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390203957"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00410564"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3260359"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243423"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243444"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "14022501"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6143570"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "686205"
+            },
+            {
+                "attribute": "Key",
+                "value": "A major"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0I0-6820-1"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Auntie Gin's Theme",
+                "alias": "Auntie Gin's Theme"
+            },
+            {
+                "sort-name": "Aunty Gin's Theme",
+                "alias": "Aunty Gin's Theme"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                },
+                "target-credit": "Maclen Music Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+                "direction": "backward",
+                "label": {
+                    "id": "2d6a4031-8007-4bf8-b90c-36501a120b45",
+                    "type": "Publisher",
+                    "name": "\u30bd\u30cb\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0 A\u4e8b\u696d\u90e8",
+                    "sort-name": "\u30bd\u30cb\u30fc\u30fb\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30d1\u30d6\u30ea\u30c3\u30b7\u30f3\u30b0 A\u4e8b\u696d\u90e8"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99f573a2-d2a4-4133-b167-ba6298a09bad",
+                "direction": "backward",
+                "begin": "1965-06-14",
+                "end": "1965-06-14",
+                "ended": "true",
+                "recording": {
+                    "id": "99f573a2-d2a4-4133-b167-ba6298a09bad",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "127160",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c5b5248-9044-407c-a3e4-87be327f59d0",
+                "direction": "backward",
+                "begin": "1965-06-14",
+                "end": "1965-06-14",
+                "ended": "true",
+                "recording": {
+                    "id": "9c5b5248-9044-407c-a3e4-87be327f59d0",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "127160",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4faaf80-30a4-4803-bb1e-2b7ad90ab794",
+                "direction": "backward",
+                "begin": "1965-06-14",
+                "end": "1965-06-14",
+                "ended": "true",
+                "recording": {
+                    "id": "c4faaf80-30a4-4803-bb1e-2b7ad90ab794",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "127160",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a529cbcb-fe43-406f-b165-c05d2bc208b2",
+                "direction": "backward",
+                "begin": "1976-03-26",
+                "end": "1976-03-26",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a529cbcb-fe43-406f-b165-c05d2bc208b2",
+                    "title": "Ive Just Seen a Face",
+                    "length": "138805",
+                    "disambiguation": "live, 1976-03-26:"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7566682-89dd-4360-8040-27a0ecf040ee",
+                "direction": "backward",
+                "begin": "1976-05-04",
+                "end": "1976-05-04",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a7566682-89dd-4360-8040-27a0ecf040ee",
+                    "title": "I've Just Seen a Face",
+                    "length": "162000",
+                    "disambiguation": "live, 1976-05-04: The Summit, Houston, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0d538af6-3573-4d00-9b2a-456126347014",
+                "direction": "backward",
+                "begin": "1976-06-23",
+                "end": "1976-06-23",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0d538af6-3573-4d00-9b2a-456126347014",
+                    "title": "I've Just Seen A Face",
+                    "disambiguation": "live, 1976-06-23: L.A. Forum, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68a09ef0-2f77-496a-99bb-60f2fc998f53",
+                "direction": "backward",
+                "begin": "1976-06-23",
+                "end": "1976-06-23",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "68a09ef0-2f77-496a-99bb-60f2fc998f53",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "131000",
+                    "disambiguation": "live, 1976-06-23: The Forum, Inglewood, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01c78693-fbb3-4578-ab8e-40dcb4d5033f",
+                "direction": "backward",
+                "begin": "1991-01-25",
+                "end": "1991-01-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "01c78693-fbb3-4578-ab8e-40dcb4d5033f",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "181000",
+                    "disambiguation": "live, 1991-01-25: MTV Unplugged: Limehouse Television Studios, Wembley, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aeb3c78e-1813-40a1-a9af-4085d6e2e59d",
+                "direction": "backward",
+                "begin": "1996-04-09",
+                "end": "1996-04-09",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "aeb3c78e-1813-40a1-a9af-4085d6e2e59d",
+                    "title": "I've Just Seen a Face",
+                    "length": "235000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0c63a97-542d-4132-9325-799b03ae5ae4",
+                "direction": "backward",
+                "begin": "1996-07-17",
+                "end": "1996-07-17",
+                "ended": "true",
+                "recording": {
+                    "id": "d0c63a97-542d-4132-9325-799b03ae5ae4",
+                    "title": "I've Just Seen a Face",
+                    "length": "269360",
+                    "disambiguation": "live 1996-07-17: Shibuya Orchard Hall, Tokyo, Japan"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ce4ba15-c688-4324-8127-ee67f08d78d5",
+                "direction": "backward",
+                "begin": "2003-06-01",
+                "end": "2003-06-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6ce4ba15-c688-4324-8127-ee67f08d78d5",
+                    "title": "I've Just Seen a Face",
+                    "length": "143560",
+                    "disambiguation": "live, 2003-06-01: King's Dock, Liverpool, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1d2a7c0-4529-4e38-8a37-0d23f5f3bae9",
+                "direction": "backward",
+                "begin": "2018-12-05",
+                "end": "2018-12-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e1d2a7c0-4529-4e38-8a37-0d23f5f3bae9",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "133485",
+                    "disambiguation": "live, 2018-12-05: Wiener Stadthalle, Wien, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "716ec589-66de-4ace-b590-85d15d2124ef",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "716ec589-66de-4ace-b590-85d15d2124ef",
+                    "title": "(I've Just Seen A Face)",
+                    "length": "65000",
+                    "disambiguation": "live, 1995-06-20: Red Rocks Amphitheatre, Morrison, CO, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "743a1e16-a54f-469f-88bd-f77cff1f7e76",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "743a1e16-a54f-469f-88bd-f77cff1f7e76",
+                    "title": "Auntie Gin's Theme",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "efcd02f1-1b81-4996-ab0c-e4cd6fe8a96e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "efcd02f1-1b81-4996-ab0c-e4cd6fe8a96e",
+                    "title": "I've Just Seen a Face",
+                    "length": "139000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52fab203-b47b-4db9-a69c-38a25d23b230",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "52fab203-b47b-4db9-a69c-38a25d23b230",
+                    "title": "I've Just Seen a Face"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "944e1ada-7cb1-47b8-b981-2a824f186520",
+                "direction": "backward",
+                "recording": {
+                    "id": "944e1ada-7cb1-47b8-b981-2a824f186520",
+                    "title": "I've Just Seen a Face"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c73f0f9b-b446-4cae-a01d-d9e0cacea3ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c73f0f9b-b446-4cae-a01d-d9e0cacea3ad",
+                    "title": "I've Just Seen a Face"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf5c081f-8172-4f7b-9657-15d3b5244614",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bf5c081f-8172-4f7b-9657-15d3b5244614",
+                    "title": "I've Just Seen a Face",
+                    "length": "127986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e0ddf3fc-c4fe-4a7c-b1c3-e18faa6d9dca",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e0ddf3fc-c4fe-4a7c-b1c3-e18faa6d9dca",
+                    "title": "I've Just Seen a Face",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7193b005-f29e-44f1-a218-52a3b986da4f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7193b005-f29e-44f1-a218-52a3b986da4f",
+                    "title": "I've Just Seen a Face",
+                    "length": "254000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dad2ea1b-b542-4eb7-9e0c-eaffb3c7e1b6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dad2ea1b-b542-4eb7-9e0c-eaffb3c7e1b6",
+                    "title": "I've Just Seen a Face",
+                    "length": "254000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a53cac5c-558f-49ea-b5ee-e04c66a33585",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a53cac5c-558f-49ea-b5ee-e04c66a33585",
+                    "title": "I've Just Seen a Face",
+                    "length": "113000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "60c3493d-e059-401e-bda9-90c3e675268a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "60c3493d-e059-401e-bda9-90c3e675268a",
+                    "title": "I've Just Seen a Face",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ee1c28f4-1877-4458-aaec-b8e66f7ed02b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ee1c28f4-1877-4458-aaec-b8e66f7ed02b",
+                    "title": "I've Just Seen a Face",
+                    "length": "162147"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "004b982e-de82-41e7-a681-32a66f2c69b5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "004b982e-de82-41e7-a681-32a66f2c69b5",
+                    "title": "I've Just Seen a Face",
+                    "length": "190000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4fed8890-1c87-4c4b-b621-54672d5e0efa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4fed8890-1c87-4c4b-b621-54672d5e0efa",
+                    "title": "I've Just Seen a Face",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8e75407-d883-4eb6-be04-29c1eae17b29",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a8e75407-d883-4eb6-be04-29c1eae17b29",
+                    "title": "I've Just Seen a Face",
+                    "length": "198320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "59ca39ed-9e59-49d7-95dc-105297e01266",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "59ca39ed-9e59-49d7-95dc-105297e01266",
+                    "title": "I've Just Seen a Face",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de7a3af4-4e46-4ff9-a864-4211d2a12022",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "de7a3af4-4e46-4ff9-a864-4211d2a12022",
+                    "title": "I've Just Seen a Face",
+                    "length": "270000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97f316be-ea2a-49c5-9d44-4e9ab8af01b2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97f316be-ea2a-49c5-9d44-4e9ab8af01b2",
+                    "title": "I've Just Seen a Face",
+                    "length": "168360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5ee1b22b-1ac9-496a-bfb6-650c438011ec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5ee1b22b-1ac9-496a-bfb6-650c438011ec",
+                    "title": "I've Just Seen a Face",
+                    "length": "128866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f3c21af-9776-48d1-a688-7f3ba944a0cd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6f3c21af-9776-48d1-a688-7f3ba944a0cd",
+                    "title": "I've Just Seen a Face",
+                    "length": "180333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6388633f-b305-4ea4-ae45-79e0f3723fee",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6388633f-b305-4ea4-ae45-79e0f3723fee",
+                    "title": "I've Just Seen a Face",
+                    "length": "147840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0b9913f-c639-48f1-85b4-e14911812d94",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d0b9913f-c639-48f1-85b4-e14911812d94",
+                    "title": "I've Just Seen a Face",
+                    "length": "163413"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e1e7ab3-8c73-4908-9280-05d8d6ad4e08",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3e1e7ab3-8c73-4908-9280-05d8d6ad4e08",
+                    "title": "I've Just Seen a Face",
+                    "length": "199000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d4a37a79-02a7-4cd1-affb-f5ceaf3e5c84",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d4a37a79-02a7-4cd1-affb-f5ceaf3e5c84",
+                    "title": "I've Just Seen a Face",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a9a6987-8fe2-4553-9f47-42e3c0e262e2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4a9a6987-8fe2-4553-9f47-42e3c0e262e2",
+                    "title": "I've Just Seen a Face",
+                    "length": "205000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41ae4193-338a-4bc2-aed0-d0b708de9659",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41ae4193-338a-4bc2-aed0-d0b708de9659",
+                    "title": "I've Just Seen a Face",
+                    "length": "104000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7337160c-56bf-4638-952f-3a43ee0e474a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7337160c-56bf-4638-952f-3a43ee0e474a",
+                    "title": "I've Just Seen a Face",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1dc089c0-a7b1-47c6-9ac0-e922080c9226",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1dc089c0-a7b1-47c6-9ac0-e922080c9226",
+                    "title": "I've Just Seen a Face",
+                    "length": "134000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88d1aed5-a3a2-4ed7-a5a4-db55b0ee320a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "88d1aed5-a3a2-4ed7-a5a4-db55b0ee320a",
+                    "title": "I've Just Seen a Face",
+                    "length": "148000",
+                    "disambiguation": "live, 1976-06: The Forum, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "820e536e-93ff-4997-a854-25f7695452d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "820e536e-93ff-4997-a854-25f7695452d4",
+                    "title": "I've Just Seen a Face",
+                    "length": "177000",
+                    "disambiguation": "live, 1976-05-22: Boston Garden, Boston, MA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4eb5b8e-9542-40a0-986d-dd0fa2f26caf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a4eb5b8e-9542-40a0-986d-dd0fa2f26caf",
+                    "title": "I've Just Seen a Face",
+                    "length": "207760"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "db9c3822-96ef-4cf6-bceb-543adab0aa0e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "db9c3822-96ef-4cf6-bceb-543adab0aa0e",
+                    "title": "I've Just Seen a Face",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1315a3ac-2f13-4dbb-b66e-25a462c41584",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1315a3ac-2f13-4dbb-b66e-25a462c41584",
+                    "title": "I've Just Seen a Face",
+                    "length": "207186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5b65843-ab01-4d83-9ca7-38b203e289fb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f5b65843-ab01-4d83-9ca7-38b203e289fb",
+                    "title": "I've Just Seen a Face",
+                    "length": "217670"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70215d25-8f26-4fcb-938c-a5a2e00074e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "70215d25-8f26-4fcb-938c-a5a2e00074e5",
+                    "title": "I've Just Seen a Face",
+                    "length": "126293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34f6905f-2d65-4486-9f6e-823ec78de89e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "34f6905f-2d65-4486-9f6e-823ec78de89e",
+                    "title": "I've Just Seen a Face",
+                    "length": "50200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4bb5386-80b2-498b-b3a8-6d19b1100c67",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "e4bb5386-80b2-498b-b3a8-6d19b1100c67",
+                    "title": "I've Just Seen a Face",
+                    "length": "225960",
+                    "disambiguation": "live, 2006-08-06: Cuthbert Amphitheater, Eugene, OR, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68ed7828-6f30-440a-9146-92ccadb9e4a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "68ed7828-6f30-440a-9146-92ccadb9e4a7",
+                    "title": "I've Just Seen a Face",
+                    "length": "125000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ac2f806-d5e3-4ac7-8a8a-668c720dfddc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6ac2f806-d5e3-4ac7-8a8a-668c720dfddc",
+                    "title": "I've Just Seen a Face",
+                    "length": "62083"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f21e908-eb1b-4d9b-aab7-e90cfc23de7d",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7f21e908-eb1b-4d9b-aab7-e90cfc23de7d",
+                    "title": "I've Just Seen a Face",
+                    "length": "105000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91c59f39-f0cc-4e04-b821-9f1febd183a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "91c59f39-f0cc-4e04-b821-9f1febd183a8",
+                    "title": "I've Just Seen a Face"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2240f768-99fa-4725-9a68-6fd123dd3a6d",
+                "direction": "backward",
+                "recording": {
+                    "id": "2240f768-99fa-4725-9a68-6fd123dd3a6d",
+                    "title": "I've Just Seen a Face",
+                    "length": "238000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c849619-2d3d-4e24-912d-422b92164618",
+                "direction": "backward",
+                "recording": {
+                    "id": "0c849619-2d3d-4e24-912d-422b92164618",
+                    "title": "I've Just Seen a Face",
+                    "length": "234466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9cf95c7-c9bd-4c52-88ba-f94670954e4b",
+                "direction": "backward",
+                "recording": {
+                    "id": "d9cf95c7-c9bd-4c52-88ba-f94670954e4b",
+                    "title": "I've Just Seen a Face",
+                    "length": "327146"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20cf7dec-b42a-457c-91d3-bc3003e18cea",
+                "direction": "backward",
+                "recording": {
+                    "id": "20cf7dec-b42a-457c-91d3-bc3003e18cea",
+                    "title": "I've Just Seen a Face",
+                    "length": "230720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08c5de55-2297-4d25-be2b-62af660eff03",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "08c5de55-2297-4d25-be2b-62af660eff03",
+                    "title": "I've Just Seen a Face",
+                    "length": "265160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9192c046-f876-44fc-ae3b-88e8f65258d3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9192c046-f876-44fc-ae3b-88e8f65258d3",
+                    "title": "I've Just Seen a Face",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f58fa9a3-be7f-4f14-ab67-36f36db8c081",
+                "direction": "backward",
+                "recording": {
+                    "id": "f58fa9a3-be7f-4f14-ab67-36f36db8c081",
+                    "title": "I've Just Seen a Face",
+                    "length": "126106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d07c1aa9-972b-4879-aed9-178c8d4b72f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d07c1aa9-972b-4879-aed9-178c8d4b72f8",
+                    "title": "I've Just Seen a Face",
+                    "length": "387933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c64dea09-108c-4875-bd0b-4e7362ed4706",
+                "direction": "backward",
+                "recording": {
+                    "id": "c64dea09-108c-4875-bd0b-4e7362ed4706",
+                    "title": "I've Just Seen a Face (mono)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fbc5941-e219-497a-ae1d-cb68bea71854",
+                "direction": "backward",
+                "recording": {
+                    "id": "5fbc5941-e219-497a-ae1d-cb68bea71854",
+                    "title": "I've Just Seen A Face (RM1 Take 6)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01840560-9ab5-497b-9d20-f408823b0464",
+                "direction": "backward",
+                "recording": {
+                    "id": "01840560-9ab5-497b-9d20-f408823b0464",
+                    "title": "I've Just Seen A Face (RS1 Take 6)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14d9a4ee-aa03-4ab8-9ed7-30b8f0d13579",
+                "direction": "backward",
+                "recording": {
+                    "id": "14d9a4ee-aa03-4ab8-9ed7-30b8f0d13579",
+                    "title": "I've Just Seen a Face (stereo)",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4cd95e8e-572c-4e0f-b5d4-b25a0b36f062",
+                "direction": "backward",
+                "recording": {
+                    "id": "4cd95e8e-572c-4e0f-b5d4-b25a0b36f062",
+                    "title": "I've Just Seen a Face (tour rehearsal)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0a5b291-b474-442d-9f19-76d0bc179bf9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0a5b291-b474-442d-9f19-76d0bc179bf9",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "159000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bd7b05c-8937-4ad7-a29d-e77e725d0e55",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4bd7b05c-8937-4ad7-a29d-e77e725d0e55",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "132000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86a5e2cb-5da6-49b3-919b-6b8bb1226efe",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "86a5e2cb-5da6-49b3-919b-6b8bb1226efe",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "208226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e15789d2-aae7-4f1a-9c83-0c5352278826",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e15789d2-aae7-4f1a-9c83-0c5352278826",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "116616",
+                    "disambiguation": "Wings Over The World Tour Rehearsal"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bcfedbf-7fdd-4685-aa28-7009fa115ea3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5bcfedbf-7fdd-4685-aa28-7009fa115ea3",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "111000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "792ba225-6ffc-4dda-afbb-b34c484c1e59",
+                "direction": "backward",
+                "recording": {
+                    "id": "792ba225-6ffc-4dda-afbb-b34c484c1e59",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "129199"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5a6adaf3-3f1d-4ff7-ac8a-4594696258fd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5a6adaf3-3f1d-4ff7-ac8a-4594696258fd",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03165fee-72fc-4e77-91a8-7cff07919aec",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "03165fee-72fc-4e77-91a8-7cff07919aec",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "146688",
+                    "disambiguation": "Wings Over The World Tour Rehearsal"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e379ad4c-382b-4b2d-b0d1-6d6c9f4d566d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e379ad4c-382b-4b2d-b0d1-6d6c9f4d566d",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "119933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "62f9c760-ecb4-456c-a632-6d2b3702497c",
+                "direction": "backward",
+                "recording": {
+                    "id": "62f9c760-ecb4-456c-a632-6d2b3702497c",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "125000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "183f63ef-8b6f-4dec-8867-1ea4cefe6642",
+                "direction": "backward",
+                "recording": {
+                    "id": "183f63ef-8b6f-4dec-8867-1ea4cefe6642",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70ac1a31-a012-4a2e-8b41-2322995e28d5",
+                "direction": "backward",
+                "recording": {
+                    "id": "70ac1a31-a012-4a2e-8b41-2322995e28d5",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "126266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d87b1f7b-3ad2-4676-9877-e86250718aa8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d87b1f7b-3ad2-4676-9877-e86250718aa8",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "144093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ec6ba37-02a6-42d8-a41d-c6fc371ce2ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ec6ba37-02a6-42d8-a41d-c6fc371ce2ff",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "130000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "285bfc6a-5cea-4012-949a-10dbb959d645",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "285bfc6a-5cea-4012-949a-10dbb959d645",
+                    "title": "I\u2019ve Just Seen a Face"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6a6cb09-1b06-4646-af2e-72c6b2939486",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b6a6cb09-1b06-4646-af2e-72c6b2939486",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "110000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "238b69e4-fe05-4d41-8d74-58af0b70e36f",
+                "direction": "backward",
+                "recording": {
+                    "id": "238b69e4-fe05-4d41-8d74-58af0b70e36f",
+                    "title": "I\u2019ve Just Seen a Face"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "074b3863-0911-4db6-990b-d79f3c796521",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "074b3863-0911-4db6-990b-d79f3c796521",
+                    "title": "I\u2019ve Just Seen a Face"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0556f8d-f78b-4fce-a70f-48318e1e3837",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0556f8d-f78b-4fce-a70f-48318e1e3837",
+                    "title": "I\u2019ve Just Seen a Face",
+                    "length": "126720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "846c8bf7-0870-4374-bdca-1ea40377b5a8",
+                "direction": "backward",
+                "recording": {
+                    "id": "846c8bf7-0870-4374-bdca-1ea40377b5a8",
+                    "title": "I\u2019ve Just Seen a Face (mono)",
+                    "length": "130000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ecdbb75d-dfb3-4395-839d-85e36a5deb9a",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ecdbb75d-dfb3-4395-839d-85e36a5deb9a",
+                    "title": "Strawberry Moon / I've Just Seen a Face",
+                    "length": "267026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100352",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-ive-just-seen-a-face-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10525",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=81",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2450813",
+                "direction": "backward"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-23.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-23> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-23.json> ;
+        xyz:lyrics    "Drei Sonnen sah ich am Himmel stehn,\nhab lang' und fest sie angesehn;\nund sie auch standen da so stier,\nals wollten sie nicht weg von mir.\n\nAch, meine Sonnen seid ihr nicht!\nschaut andern doch ins Angesicht!\n\nJa, neulich hatt ich auch wohl drei;\nnun sind hinab die besten zwei.\nGing nur die dritt erst hinterdrein!\nIm Dunkeln wird mir wohler sein." ;
+        xyz:title     "Schubert_D911-23" .

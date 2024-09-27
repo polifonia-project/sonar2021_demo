@@ -1,0 +1,4525 @@
+{
+    "work": {
+        "id": "291f1eeb-030e-35f4-bd70-9206eb9dc752",
+        "type": "Song",
+        "title": "Indiana (Back Home Again in Indiana)",
+        "language": "eng",
+        "alias-list": [
+            {
+                "sort-name": "Indiana",
+                "alias": "Indiana"
+            },
+            {
+                "sort-name": "Indiana (#1)",
+                "alias": "Indiana (#1)"
+            },
+            {
+                "sort-name": "Indiana (#2) (Incomplete)",
+                "alias": "Indiana (#2) (Incomplete)"
+            }
+        ],
+        "alias-count": 3,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "e2a2fff4-a214-4a03-aa4a-ab91fbaa8891",
+                "direction": "backward",
+                "begin": "1917",
+                "end": "1917",
+                "ended": "true",
+                "artist": {
+                    "id": "e2a2fff4-a214-4a03-aa4a-ab91fbaa8891",
+                    "type": "Person",
+                    "name": "James F. Hanley",
+                    "sort-name": "Hanley, James F."
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "ab00597c-43f1-41c4-98ee-6934dcd4179c",
+                "direction": "backward",
+                "begin": "1917",
+                "end": "1917",
+                "ended": "true",
+                "artist": {
+                    "id": "ab00597c-43f1-41c4-98ee-6934dcd4179c",
+                    "type": "Person",
+                    "name": "Ballard MacDonald",
+                    "sort-name": "MacDonald, Ballard"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "71e25609-33f3-4c22-b341-708f74a943e0",
+                "direction": "backward",
+                "label": {
+                    "id": "71e25609-33f3-4c22-b341-708f74a943e0",
+                    "type": "Publisher",
+                    "name": "B. Feldman & Co. Ltd.",
+                    "sort-name": "B. Feldman & Co. Ltd."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9095adc0-6ff7-4dbc-ace5-bddadc155823",
+                "direction": "backward",
+                "begin": "1917-05-31",
+                "end": "1917-05-31",
+                "ended": "true",
+                "recording": {
+                    "id": "9095adc0-6ff7-4dbc-ace5-bddadc155823",
+                    "title": "Indiana",
+                    "length": "211533",
+                    "disambiguation": "studio, 1917-05-31, matrix 77087-2"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "619e0fde-39dc-41f2-9f04-365d11aedcad",
+                "direction": "backward",
+                "begin": "1917-05-31",
+                "end": "1917-05-31",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "619e0fde-39dc-41f2-9f04-365d11aedcad",
+                    "title": "Indiana",
+                    "length": "206133",
+                    "disambiguation": "studio, 1917-05-31, for Aeolian"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3167ff9b-2885-4d10-bbf1-235ff3ebd317",
+                "direction": "backward",
+                "begin": "1917-05-31",
+                "end": "1917-05-31",
+                "ended": "true",
+                "recording": {
+                    "id": "3167ff9b-2885-4d10-bbf1-235ff3ebd317",
+                    "title": "Indiana",
+                    "length": "198506",
+                    "disambiguation": "recording session no. 77087-3"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4545f2c-520f-4385-b042-e681fac59f96",
+                "direction": "backward",
+                "begin": "1935-05-09",
+                "end": "1935-05-09",
+                "ended": "true",
+                "recording": {
+                    "id": "f4545f2c-520f-4385-b042-e681fac59f96",
+                    "title": "Indiana",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4aa4228-3656-4cab-921f-b755a4480a35",
+                "direction": "backward",
+                "begin": "1937-03-23",
+                "end": "1937-03-23",
+                "ended": "true",
+                "recording": {
+                    "id": "f4aa4228-3656-4cab-921f-b755a4480a35",
+                    "title": "Indiana",
+                    "length": "170866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "287e8299-efb3-4e5d-b8e8-caf4969c51c8",
+                "direction": "backward",
+                "begin": "1937-11-12",
+                "end": "1937-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "287e8299-efb3-4e5d-b8e8-caf4969c51c8",
+                    "title": "Indiana",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf362cb3-1819-48a0-87f2-d5c1df1fc329",
+                "direction": "backward",
+                "begin": "1937-11-12",
+                "end": "1937-11-12",
+                "ended": "true",
+                "recording": {
+                    "id": "cf362cb3-1819-48a0-87f2-d5c1df1fc329",
+                    "title": "Indiana",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa7e5b04-73f0-4fe2-a73c-312967d1b965",
+                "direction": "backward",
+                "begin": "1938-09-06",
+                "end": "1938-09-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "aa7e5b04-73f0-4fe2-a73c-312967d1b965",
+                    "title": "Indiana (#1)",
+                    "length": "246693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f65a9a63-6b4d-44e3-aacb-e9d335964b1b",
+                "direction": "backward",
+                "begin": "1938",
+                "end": "1938",
+                "ended": "true",
+                "recording": {
+                    "id": "f65a9a63-6b4d-44e3-aacb-e9d335964b1b",
+                    "title": "Indiana",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f5a056ef-f8db-4ae8-9067-7bd0ae03d0c2",
+                "direction": "backward",
+                "begin": "1938",
+                "end": "1938",
+                "ended": "true",
+                "recording": {
+                    "id": "f5a056ef-f8db-4ae8-9067-7bd0ae03d0c2",
+                    "title": "Indiana",
+                    "length": "244000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbbae1ec-74f3-4787-b18f-32febdbf9d03",
+                "direction": "backward",
+                "begin": "1939-04-06",
+                "end": "1939-04-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bbbae1ec-74f3-4787-b18f-32febdbf9d03",
+                    "title": "Indiana",
+                    "length": "162253"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f83cb96-5d89-404d-89fc-f6fd42da419e",
+                "direction": "backward",
+                "begin": "1939-07-12",
+                "end": "1939-07-12",
+                "ended": "true",
+                "recording": {
+                    "id": "0f83cb96-5d89-404d-89fc-f6fd42da419e",
+                    "title": "Indiana",
+                    "length": "124000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "427dd854-7552-4080-a73e-da05553da7b9",
+                "direction": "backward",
+                "begin": "1939-09-13",
+                "end": "1939-09-13",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "427dd854-7552-4080-a73e-da05553da7b9",
+                    "title": "Indiana (#2) (Incomplete)",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "baf8fab3-0c18-48b5-a86c-1307a0ce2ea8",
+                "direction": "backward",
+                "begin": "1940-07-26",
+                "end": "1940-07-26",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "baf8fab3-0c18-48b5-a86c-1307a0ce2ea8",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86dfb9b9-461d-4951-baab-3d4c225340ba",
+                "direction": "backward",
+                "begin": "1941-05",
+                "end": "1941-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "86dfb9b9-461d-4951-baab-3d4c225340ba",
+                    "title": "Indiana",
+                    "length": "306413",
+                    "disambiguation": "live, 1941-05: Minton's Playhouse, NY"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b1aa0ba-3bfe-4b67-83d6-9ec097a90035",
+                "direction": "backward",
+                "begin": "1941",
+                "end": "1941",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "2b1aa0ba-3bfe-4b67-83d6-9ec097a90035",
+                    "title": "Indiana",
+                    "length": "391000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "843dc325-9931-43cb-9111-5d415c4cdc62",
+                "direction": "backward",
+                "begin": "1941",
+                "end": "1941",
+                "ended": "true",
+                "recording": {
+                    "id": "843dc325-9931-43cb-9111-5d415c4cdc62",
+                    "title": "Indiana",
+                    "length": "309000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88382856-59f8-4565-8c6d-59d332396ec8",
+                "direction": "backward",
+                "begin": "1942-07-15",
+                "end": "1942-07-15",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "88382856-59f8-4565-8c6d-59d332396ec8",
+                    "title": "Indiana",
+                    "length": "293066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bf2c612d-a0e3-4b0e-b665-83f74bbcd748",
+                "direction": "backward",
+                "begin": "1944-02-19",
+                "end": "1944-02-19",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bf2c612d-a0e3-4b0e-b665-83f74bbcd748",
+                    "title": "Indiana",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22afa71e-becb-491d-b28c-c732bc543756",
+                "direction": "backward",
+                "begin": "1944-02-19",
+                "end": "1944-02-19",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "22afa71e-becb-491d-b28c-c732bc543756",
+                    "title": "Indiana",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b9259b8-583e-49c8-9b7e-9528e1e157f1",
+                "direction": "backward",
+                "begin": "1944-02-19",
+                "end": "1944-02-19",
+                "ended": "true",
+                "recording": {
+                    "id": "5b9259b8-583e-49c8-9b7e-9528e1e157f1",
+                    "title": "Indiana No. 2",
+                    "length": "155000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c46b069-4126-4b02-a0de-5107a38d71f9",
+                "direction": "backward",
+                "begin": "1944-05-01",
+                "end": "1944-05-01",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1c46b069-4126-4b02-a0de-5107a38d71f9",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "174573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "27c08fd9-fa33-467f-be13-88c2a064b97f",
+                "direction": "backward",
+                "begin": "1944-05-01",
+                "end": "1944-05-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "27c08fd9-fa33-467f-be13-88c2a064b97f",
+                    "title": "Indiana (take 2)",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6ae9a76a-9942-4201-a552-00290c9c41e8",
+                "direction": "backward",
+                "begin": "1944-06-15",
+                "end": "1944-06-15",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6ae9a76a-9942-4201-a552-00290c9c41e8",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "182266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b7a30f3-1f4c-4fba-aa50-a4abe5f510f9",
+                "direction": "backward",
+                "begin": "1944-06-15",
+                "end": "1944-06-15",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3b7a30f3-1f4c-4fba-aa50-a4abe5f510f9",
+                    "title": "Indiana",
+                    "length": "181440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34c47a20-2bf7-4b65-b74b-b3c8c834d3f4",
+                "direction": "backward",
+                "begin": "1944-07-18",
+                "end": "1944-07-18",
+                "ended": "true",
+                "recording": {
+                    "id": "34c47a20-2bf7-4b65-b74b-b3c8c834d3f4",
+                    "title": "Indiana",
+                    "length": "239426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca702b94-3ecb-4a25-b5c2-f390d63ff84c",
+                "direction": "backward",
+                "begin": "1944-07-18",
+                "end": "1944-07-18",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ca702b94-3ecb-4a25-b5c2-f390d63ff84c",
+                    "title": "Indiana",
+                    "length": "233000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4adf38f-d17d-4ede-9195-76e8c0b16c8a",
+                "direction": "backward",
+                "begin": "1944-12-11",
+                "end": "1944-12-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f4adf38f-d17d-4ede-9195-76e8c0b16c8a",
+                    "title": "Indiana",
+                    "length": "176000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61560b00-85ed-4d8f-a457-b5fe9cd5a031",
+                "direction": "backward",
+                "begin": "1945-03-02",
+                "end": "1945-03-02",
+                "ended": "true",
+                "recording": {
+                    "id": "61560b00-85ed-4d8f-a457-b5fe9cd5a031",
+                    "title": "Indiana",
+                    "length": "168000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f385e4d-33df-4b90-b02c-d82c92797b3d",
+                "direction": "backward",
+                "begin": "1945-06-09",
+                "end": "1945-06-09",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4f385e4d-33df-4b90-b02c-d82c92797b3d",
+                    "title": "Indiana",
+                    "length": "313800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9d4c7a2-a95f-437b-a959-94d64c617e47",
+                "direction": "backward",
+                "begin": "1945-06-09",
+                "end": "1945-06-09",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b9d4c7a2-a95f-437b-a959-94d64c617e47",
+                    "title": "Indiana",
+                    "length": "314000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7f4360d6-5245-4c0d-9a83-cd0b29c0f88a",
+                "direction": "backward",
+                "begin": "1945-06-09",
+                "end": "1945-06-09",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7f4360d6-5245-4c0d-9a83-cd0b29c0f88a",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "313000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "29348869-b472-41ab-841e-c6d0537afe2b",
+                "direction": "backward",
+                "begin": "1945-09-25",
+                "end": "1945-09-25",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "29348869-b472-41ab-841e-c6d0537afe2b",
+                    "title": "Back Home Again in Indiana",
+                    "length": "155866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1e12eb7-4fc8-468d-87ed-d3e7e2102dfd",
+                "direction": "backward",
+                "begin": "1945-09",
+                "end": "1945-09",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b1e12eb7-4fc8-468d-87ed-d3e7e2102dfd",
+                    "title": "Indiana",
+                    "length": "157533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c61e6ce3-2a11-4f9a-b291-eb3458acd287",
+                "direction": "backward",
+                "begin": "1946-01-21",
+                "end": "1946-01-21",
+                "ended": "true",
+                "recording": {
+                    "id": "c61e6ce3-2a11-4f9a-b291-eb3458acd287",
+                    "title": "Back Home Again in Indiana",
+                    "length": "160000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88e47a3d-1665-4dcb-b5aa-82d1912380dd",
+                "direction": "backward",
+                "begin": "1946-01-21",
+                "end": "1946-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "88e47a3d-1665-4dcb-b5aa-82d1912380dd",
+                    "title": "Indiana",
+                    "length": "164080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e9c09e68-6f11-4df6-9a0f-04c2be862167",
+                "direction": "backward",
+                "begin": "1946-02-20",
+                "end": "1946-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "e9c09e68-6f11-4df6-9a0f-04c2be862167",
+                    "title": "Indiana",
+                    "length": "181426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "94e33f1c-e6d7-42c2-ab60-46e257bdb165",
+                "direction": "backward",
+                "begin": "1946-02-20",
+                "end": "1946-02-20",
+                "ended": "true",
+                "recording": {
+                    "id": "94e33f1c-e6d7-42c2-ab60-46e257bdb165",
+                    "title": "Indiana",
+                    "length": "180120"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83c7f31b-dc5c-4ae2-a65e-59f5b732e55f",
+                "direction": "backward",
+                "begin": "1946-05",
+                "end": "1946-05",
+                "ended": "true",
+                "recording": {
+                    "id": "83c7f31b-dc5c-4ae2-a65e-59f5b732e55f",
+                    "title": "Indiana",
+                    "length": "94933"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "83e50dcf-fe51-496d-80ca-c4300e06f886",
+                "direction": "backward",
+                "begin": "1946-06-30",
+                "end": "1946-06-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "83e50dcf-fe51-496d-80ca-c4300e06f886",
+                    "title": "Indiana",
+                    "length": "188000",
+                    "disambiguation": "live, 1946-06-30: Convention Hall, Asbury Park, New Jersey"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "68e08fa7-c502-45c6-9b33-4dccdd013cb6",
+                "direction": "backward",
+                "begin": "1946-08-26",
+                "end": "1946-08-26",
+                "ended": "true",
+                "recording": {
+                    "id": "68e08fa7-c502-45c6-9b33-4dccdd013cb6",
+                    "title": "Back Home Again in Indiana",
+                    "length": "169306"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4112b30-28a0-4ae0-b284-4f895e77fa04",
+                "direction": "backward",
+                "begin": "1947-01-10",
+                "end": "1947-01-10",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e4112b30-28a0-4ae0-b284-4f895e77fa04",
+                    "title": "Indiana",
+                    "length": "158733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b890d832-b54d-4b61-b30f-36f53df79b3b",
+                "direction": "backward",
+                "begin": "1947-01-10",
+                "end": "1947-01-10",
+                "ended": "true",
+                "recording": {
+                    "id": "b890d832-b54d-4b61-b30f-36f53df79b3b",
+                    "title": "Indiana",
+                    "length": "166000",
+                    "disambiguation": "matrix no. 2992"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0e03bf2-6c3d-48e7-aa7c-ab321ae8a459",
+                "direction": "backward",
+                "begin": "1947",
+                "end": "1947",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b0e03bf2-6c3d-48e7-aa7c-ab321ae8a459",
+                    "title": "Back Home Again in Indiana",
+                    "length": "192000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "775daa46-f101-4215-9583-af54c2e1d384",
+                "direction": "backward",
+                "begin": "1949-10-12",
+                "end": "1949-10-12",
+                "ended": "true",
+                "recording": {
+                    "id": "775daa46-f101-4215-9583-af54c2e1d384",
+                    "title": "Indiana",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "380dc6fb-9618-43db-a8f8-3e9c46e7762c",
+                "direction": "backward",
+                "begin": "1949-10-12",
+                "end": "1949-10-12",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "380dc6fb-9618-43db-a8f8-3e9c46e7762c",
+                    "title": "Indiana"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8667e8ba-4211-4b35-8710-881620cce965",
+                "direction": "backward",
+                "begin": "1949-11-18",
+                "end": "1949-11-18",
+                "ended": "true",
+                "recording": {
+                    "id": "8667e8ba-4211-4b35-8710-881620cce965",
+                    "title": "Indiana",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ea4abc2b-86d8-4c0f-a45b-b5e911f7fe49",
+                "direction": "backward",
+                "begin": "1949-12-22",
+                "end": "1949-12-22",
+                "ended": "true",
+                "recording": {
+                    "id": "ea4abc2b-86d8-4c0f-a45b-b5e911f7fe49",
+                    "title": "Indiana",
+                    "length": "148000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "569252c1-4308-4216-8d4f-b73af20b4e05",
+                "direction": "backward",
+                "begin": "1950-08-28",
+                "end": "1950-08-28",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "569252c1-4308-4216-8d4f-b73af20b4e05",
+                    "title": "Indiana",
+                    "length": "274466"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ed60f9d-38c3-42d7-ba85-8e380d11da26",
+                "direction": "backward",
+                "begin": "1950",
+                "end": "1950",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1ed60f9d-38c3-42d7-ba85-8e380d11da26",
+                    "title": "Indiana",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "240f3eaa-f289-4b87-aa23-faf5eb169d02",
+                "direction": "backward",
+                "begin": "1951-01-11",
+                "end": "1951-01-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "240f3eaa-f289-4b87-aa23-faf5eb169d02",
+                    "title": "Indiana",
+                    "length": "129226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d23d65f7-ff23-4cb9-a97c-ea56bfc204a5",
+                "direction": "backward",
+                "begin": "1951-01-13",
+                "end": "1951-01-13",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d23d65f7-ff23-4cb9-a97c-ea56bfc204a5",
+                    "title": "(Back Home in) Indiana",
+                    "length": "252133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce32c731-f3a7-4f34-a38a-005cae3c4271",
+                "direction": "backward",
+                "begin": "1951-01-30",
+                "end": "1951-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ce32c731-f3a7-4f34-a38a-005cae3c4271",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "331640",
+                    "disambiguation": "live, 1951-01-30: Civic Auditorium, Pasadena, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce32c731-f3a7-4f34-a38a-005cae3c4271",
+                "direction": "backward",
+                "begin": "1951-01-30",
+                "end": "1951-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ce32c731-f3a7-4f34-a38a-005cae3c4271",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "331640",
+                    "disambiguation": "live, 1951-01-30: Civic Auditorium, Pasadena, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46a18b4a-cb87-4226-a31b-41c576459ead",
+                "direction": "backward",
+                "begin": "1951-01-30",
+                "end": "1951-01-30",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "46a18b4a-cb87-4226-a31b-41c576459ead",
+                    "title": "Indiana",
+                    "length": "321906",
+                    "disambiguation": "live, 1951-01-30: Civic Auditorium, Pasadena, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0138fe79-4959-4548-a2ed-7fae481138cf",
+                "direction": "backward",
+                "begin": "1951-04-10",
+                "end": "1951-04-10",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "0138fe79-4959-4548-a2ed-7fae481138cf",
+                    "title": "Indiana",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae7146a2-ae48-4523-8257-e24aa4ca0c77",
+                "direction": "backward",
+                "begin": "1952-06-16",
+                "end": "1952-06-16",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ae7146a2-ae48-4523-8257-e24aa4ca0c77",
+                    "title": "(Back Home Again in) Indiana / Donna Lee",
+                    "length": "666000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22295f72-352e-4971-80ed-ee9a530180bd",
+                "direction": "backward",
+                "begin": "1952-10-06",
+                "end": "1952-10-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "22295f72-352e-4971-80ed-ee9a530180bd",
+                    "title": "Indiana",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d84dc802-8c16-4b01-9570-1112500ab743",
+                "direction": "backward",
+                "begin": "1952-10-18",
+                "end": "1952-10-18",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d84dc802-8c16-4b01-9570-1112500ab743",
+                    "title": "Indiana",
+                    "length": "214013"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3761afe-0031-4c9b-805a-933c1717f6bd",
+                "direction": "backward",
+                "begin": "1952-12-20",
+                "end": "1952-12-20",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c3761afe-0031-4c9b-805a-933c1717f6bd",
+                    "title": "Indiana",
+                    "length": "209360"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c06c546d-845a-4031-8f03-6d14d96cfc60",
+                "direction": "backward",
+                "begin": "1952",
+                "end": "1952",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c06c546d-845a-4031-8f03-6d14d96cfc60",
+                    "title": "Indiana",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "724db1b5-a201-439a-be6e-c763c274a1c6",
+                "direction": "backward",
+                "begin": "1953-06",
+                "end": "1953-06",
+                "ended": "true",
+                "recording": {
+                    "id": "724db1b5-a201-439a-be6e-c763c274a1c6",
+                    "title": "Indiana",
+                    "length": "255000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1522aeab-7a19-4593-8d2a-8f2012e601fb",
+                "direction": "backward",
+                "begin": "1953-07-01",
+                "end": "1953-07-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "1522aeab-7a19-4593-8d2a-8f2012e601fb",
+                    "title": "Indiana",
+                    "length": "344000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0b73f92-55dd-4307-ae53-c5666aec2e47",
+                "direction": "backward",
+                "begin": "1953-09-17",
+                "end": "1953-09-17",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f0b73f92-55dd-4307-ae53-c5666aec2e47",
+                    "title": "Indiana",
+                    "length": "228000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a923b5b6-ab29-41ae-a1a3-a4dc4e808a8e",
+                "direction": "backward",
+                "begin": "1953-10-25",
+                "end": "1953-10-25",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a923b5b6-ab29-41ae-a1a3-a4dc4e808a8e",
+                    "title": "Indiana",
+                    "length": "379666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89a6e27f-d2e7-48d8-b13e-7a67bbcc391d",
+                "direction": "backward",
+                "begin": "1953-10-25",
+                "end": "1953-10-25",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "89a6e27f-d2e7-48d8-b13e-7a67bbcc391d",
+                    "title": "Indiana",
+                    "length": "373306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4026565-b18f-41a2-b290-680c58827031",
+                "direction": "backward",
+                "begin": "1953-12-31",
+                "end": "1953-12-31",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e4026565-b18f-41a2-b290-680c58827031",
+                    "title": "Indiana",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15ddd621-c857-4255-8343-dc5109a3e6bc",
+                "direction": "backward",
+                "begin": "1954-03-07",
+                "end": "1954-03-07",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "15ddd621-c857-4255-8343-dc5109a3e6bc",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "231490"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3fbc8778-f913-4485-9ade-c17f8b7bf3cc",
+                "direction": "backward",
+                "begin": "1954-03-07",
+                "end": "1954-03-07",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "3fbc8778-f913-4485-9ade-c17f8b7bf3cc",
+                    "title": "Indiana",
+                    "length": "229000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e471ca5-1926-4660-bca8-c047602fa947",
+                "direction": "backward",
+                "begin": "1954-05-05",
+                "end": "1954-05-05",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "8e471ca5-1926-4660-bca8-c047602fa947",
+                    "title": "Indiana",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "22a12f48-3736-4785-9402-4d4dc755f3ac",
+                "direction": "backward",
+                "begin": "1954-06-29",
+                "end": "1954-06-29",
+                "ended": "true",
+                "recording": {
+                    "id": "22a12f48-3736-4785-9402-4d4dc755f3ac",
+                    "title": "Indiana",
+                    "length": "153000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bb95a3c-456f-4b16-b804-06f89dbb1581",
+                "direction": "backward",
+                "begin": "1954-08-13",
+                "end": "1954-08-13",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5bb95a3c-456f-4b16-b804-06f89dbb1581",
+                    "title": "Indiana",
+                    "length": "275000",
+                    "disambiguation": "radio broadcast, 1954-08-13: Basin Street Club, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f613eb24-0b06-41b4-9b00-7cdf15ac05d7",
+                "direction": "backward",
+                "begin": "1954-10-12",
+                "end": "1954-10-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f613eb24-0b06-41b4-9b00-7cdf15ac05d7",
+                    "title": "Indiana",
+                    "length": "345000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "505fbf29-8a15-47df-a81c-7f6b6d9de32a",
+                "direction": "backward",
+                "begin": "1954-11-30",
+                "end": "1954-12-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "505fbf29-8a15-47df-a81c-7f6b6d9de32a",
+                    "title": "Indiana",
+                    "length": "231000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12d07b0d-f707-4802-bd66-80209c985567",
+                "direction": "backward",
+                "begin": "1954-12-31",
+                "end": "1954-12-31",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "12d07b0d-f707-4802-bd66-80209c985567",
+                    "title": "Indiana",
+                    "length": "257000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "39128807-6d73-49eb-9236-4db2f0a90ac7",
+                "direction": "backward",
+                "begin": "1955-01-21",
+                "end": "1955-01-21",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "39128807-6d73-49eb-9236-4db2f0a90ac7",
+                    "title": "Indiana",
+                    "length": "262000",
+                    "disambiguation": "live, 1955-01-21: Crescendo Club, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4a97126e-7977-497f-a0b1-d0d3fbc97f1b",
+                "direction": "backward",
+                "begin": "1955-04-21",
+                "end": "1955-04-21",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "4a97126e-7977-497f-a0b1-d0d3fbc97f1b",
+                    "title": "Indiana",
+                    "length": "144000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6f64ea66-788f-4e91-9575-4bf917cd2b28",
+                "direction": "backward",
+                "begin": "1955-07-26",
+                "end": "1955-07-26",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6f64ea66-788f-4e91-9575-4bf917cd2b28",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ae4b674-07e9-4df0-ba89-ae5c5e0419ae",
+                "direction": "backward",
+                "begin": "1955-10-30",
+                "end": "1955-10-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "1ae4b674-07e9-4df0-ba89-ae5c5e0419ae",
+                    "title": "Indiana",
+                    "length": "259000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e608bcd-eb27-4cfa-80e6-e7e1269ce378",
+                "direction": "backward",
+                "begin": "1955-12-16",
+                "end": "1955-12-16",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3e608bcd-eb27-4cfa-80e6-e7e1269ce378",
+                    "title": "Indiana",
+                    "length": "293000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "52fecadb-42ca-4ec6-899e-432acb41ed08",
+                "direction": "backward",
+                "begin": "1955-12-16",
+                "end": "1955-12-16",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "52fecadb-42ca-4ec6-899e-432acb41ed08",
+                    "title": "Indiana",
+                    "length": "294480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1b6ae92-52d9-4b39-a709-301dd5944383",
+                "direction": "backward",
+                "begin": "1955-12-20",
+                "end": "1955-12-20",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c1b6ae92-52d9-4b39-a709-301dd5944383",
+                    "title": "Indiana Take 2",
+                    "length": "256000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b62289af-2daa-4a15-83f7-198e32b6a6d8",
+                "direction": "backward",
+                "begin": "1956-02-20",
+                "end": "1956-02-20",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b62289af-2daa-4a15-83f7-198e32b6a6d8",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "224000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6be6ea4-3e2e-46dd-8722-5b588fd358cd",
+                "direction": "backward",
+                "begin": "1956-06-01",
+                "end": "1956-06-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c6be6ea4-3e2e-46dd-8722-5b588fd358cd",
+                    "title": "Indiana",
+                    "length": "268000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14905ae0-01ad-4bc2-b649-296859990618",
+                "direction": "backward",
+                "begin": "1956-07-06",
+                "end": "1956-07-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "14905ae0-01ad-4bc2-b649-296859990618",
+                    "title": "Indiana",
+                    "length": "255000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da621377-a856-4fd9-91ef-6581e1b96ef5",
+                "direction": "backward",
+                "begin": "1956-07-06",
+                "end": "1956-07-06",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "da621377-a856-4fd9-91ef-6581e1b96ef5",
+                    "title": "Indiana",
+                    "length": "249000",
+                    "disambiguation": "live, 1956-06-06: Newport Jazz Festival in Newport, Richmond"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1c3ab17-d9eb-4454-afa6-5747f4937d18",
+                "direction": "backward",
+                "begin": "1956-07-14",
+                "end": "1956-07-14",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d1c3ab17-d9eb-4454-afa6-5747f4937d18",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "288826",
+                    "disambiguation": "live, 1956-07-14: Lewisohn Stadium, New York, NY, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "74f32ebd-9720-417c-9ea1-b0678fe1add0",
+                "direction": "backward",
+                "begin": "1956-10-22",
+                "end": "1956-10-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "74f32ebd-9720-417c-9ea1-b0678fe1add0",
+                    "title": "Indiana",
+                    "length": "453693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1215f0d-93e0-44ca-844c-9a443152b980",
+                "direction": "backward",
+                "begin": "1957-02-05",
+                "end": "1957-02-05",
+                "ended": "true",
+                "recording": {
+                    "id": "f1215f0d-93e0-44ca-844c-9a443152b980",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "206026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88a0ee9b-2777-462d-b73c-3ec6fff2d0ea",
+                "direction": "backward",
+                "begin": "1957-09-16",
+                "end": "1957-09-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "88a0ee9b-2777-462d-b73c-3ec6fff2d0ea",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "disambiguation": "mono"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8f0b1d99-854e-47ed-be9c-e9a535e3fd4e",
+                "direction": "backward",
+                "begin": "1957-10",
+                "end": "1957-10",
+                "ended": "true",
+                "recording": {
+                    "id": "8f0b1d99-854e-47ed-be9c-e9a535e3fd4e",
+                    "title": "(Back Home Again) In Indiana",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdd11df0-9744-4271-81f5-f49f8a7ee96a",
+                "direction": "backward",
+                "begin": "1957-11-15",
+                "end": "1957-11-15",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "cdd11df0-9744-4271-81f5-f49f8a7ee96a",
+                    "title": "Indiana",
+                    "length": "941000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7b2b21f-46e3-49c6-ac8b-1ff96b2bd51c",
+                "direction": "backward",
+                "begin": "1957-11",
+                "end": "1957-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a7b2b21f-46e3-49c6-ac8b-1ff96b2bd51c",
+                    "title": "Indiana",
+                    "length": "667733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "23a4ba21-a426-4406-9f05-70ce98713df0",
+                "direction": "backward",
+                "begin": "1958-02",
+                "end": "1958-02",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "23a4ba21-a426-4406-9f05-70ce98713df0",
+                    "title": "Indiana",
+                    "length": "276440"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a3ac49e-c225-4f80-a0ef-380a65d8e0ec",
+                "direction": "backward",
+                "begin": "1959-01",
+                "end": "1959-01",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2a3ac49e-c225-4f80-a0ef-380a65d8e0ec",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "352720"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "429eb1c8-7d9f-4bef-93b8-54e3c39b6ff6",
+                "direction": "backward",
+                "begin": "1959-03-04",
+                "end": "1959-03-04",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "429eb1c8-7d9f-4bef-93b8-54e3c39b6ff6",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "166920"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c8e3c2db-1589-43eb-916c-45c7013f46ce",
+                "direction": "backward",
+                "begin": "1959-03",
+                "end": "1959-03",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c8e3c2db-1589-43eb-916c-45c7013f46ce",
+                    "title": "Indiana",
+                    "length": "260000",
+                    "disambiguation": "live, 1959-03: Ancienne Belgique, Antwerp, Belgium"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04494552-4a04-4870-97d3-0b2a9591c37c",
+                "direction": "backward",
+                "begin": "1959-04",
+                "end": "1959-04",
+                "ended": "true",
+                "recording": {
+                    "id": "04494552-4a04-4870-97d3-0b2a9591c37c",
+                    "title": "Indiana",
+                    "length": "202440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54c69b84-8d02-450e-b7b8-44b786c9b1fd",
+                "direction": "backward",
+                "begin": "1959",
+                "end": "1959",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "54c69b84-8d02-450e-b7b8-44b786c9b1fd",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3682a62c-778f-4097-899a-a76e34a9627d",
+                "direction": "backward",
+                "begin": "1960-05-15",
+                "end": "1960-05-15",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3682a62c-778f-4097-899a-a76e34a9627d",
+                    "title": "Indiana"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdde93e8-58f6-40e7-9385-563f097eaa58",
+                "direction": "backward",
+                "begin": "1960-07-01",
+                "end": "1960-07-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cdde93e8-58f6-40e7-9385-563f097eaa58",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "251533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14dab7dd-fe84-40d1-a030-71d902793a23",
+                "direction": "backward",
+                "begin": "1960-12",
+                "end": "1960-12",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "14dab7dd-fe84-40d1-a030-71d902793a23",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "271506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a87bb1c-79d2-42be-9795-2acbfeeb8015",
+                "direction": "backward",
+                "begin": "1961-04-10",
+                "end": "1961-04-10",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7a87bb1c-79d2-42be-9795-2acbfeeb8015",
+                    "title": "Indiana"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8e8a3de9-3e66-42ca-810c-63b80029a86b",
+                "direction": "backward",
+                "begin": "1962-04-24",
+                "end": "1962-04-24",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "8e8a3de9-3e66-42ca-810c-63b80029a86b",
+                    "title": "Indiana",
+                    "length": "261000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd1199b6-4863-4fea-be6e-bf83183ace9d",
+                "direction": "backward",
+                "begin": "1962-05",
+                "end": "1962-05",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bd1199b6-4863-4fea-be6e-bf83183ace9d",
+                    "title": "Indiana",
+                    "length": "177800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7e9f137b-fe1a-4fb8-9fdf-e1aaedb13e46",
+                "direction": "backward",
+                "begin": "1963-02",
+                "end": "1963-02",
+                "ended": "true",
+                "recording": {
+                    "id": "7e9f137b-fe1a-4fb8-9fdf-e1aaedb13e46",
+                    "title": "Indiana (Back Home Again in)",
+                    "length": "277693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3006536d-fde9-4a8e-8d40-4d748ed0b182",
+                "direction": "backward",
+                "begin": "1963-09",
+                "end": "1963-09",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "3006536d-fde9-4a8e-8d40-4d748ed0b182",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "271640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5bb50925-53d4-43ea-9f7a-e6cdcd3463ea",
+                "direction": "backward",
+                "begin": "1964",
+                "end": "1964",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "5bb50925-53d4-43ea-9f7a-e6cdcd3463ea",
+                    "title": "Indiana",
+                    "length": "398000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f3a52673-5f87-470a-a878-5374627b55d8",
+                "direction": "backward",
+                "begin": "1965-01-31",
+                "end": "1965-01-31",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f3a52673-5f87-470a-a878-5374627b55d8",
+                    "title": "Indiana",
+                    "length": "353573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e74b93cf-2322-4248-b412-86e4641122aa",
+                "direction": "backward",
+                "begin": "1965-03",
+                "end": "1965-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "e74b93cf-2322-4248-b412-86e4641122aa",
+                    "title": "Louisiana",
+                    "length": "250000",
+                    "disambiguation": "live, 1965-03: Lucerna Hall, Prague, Czechia"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a226774-9c38-40a4-bc52-a6fb95d15535",
+                "direction": "backward",
+                "begin": "1965-06-04",
+                "end": "1965-06-04",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "6a226774-9c38-40a4-bc52-a6fb95d15535",
+                    "title": "Indiana",
+                    "length": "242000",
+                    "disambiguation": "live, 1965-06-04: Palais des Sports, Paris, France"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e3bd5d0-defa-4186-a49c-861921372ab2",
+                "direction": "backward",
+                "begin": "1967-07",
+                "end": "1967-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4e3bd5d0-defa-4186-a49c-861921372ab2",
+                    "title": "Indiana",
+                    "length": "229333"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "492d30c0-da24-4ce3-ae5d-94abd3c8c88e",
+                "direction": "backward",
+                "begin": "1967-09",
+                "end": "1967-09",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "492d30c0-da24-4ce3-ae5d-94abd3c8c88e",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "127226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eb039c8f-b8e1-41b9-99bf-4f80d474d75b",
+                "direction": "backward",
+                "begin": "1968-11",
+                "end": "1968-11",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "eb039c8f-b8e1-41b9-99bf-4f80d474d75b",
+                    "title": "Indiana",
+                    "length": "312000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "950c927b-70f8-4c34-901b-ca7371a647c2",
+                "direction": "backward",
+                "begin": "1968-12-12",
+                "end": "1968-12-12",
+                "ended": "true",
+                "recording": {
+                    "id": "950c927b-70f8-4c34-901b-ca7371a647c2",
+                    "title": "Indiana"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d869116-1e5c-42b2-ad4b-4a0eb5493c36",
+                "direction": "backward",
+                "begin": "1969-04-22",
+                "end": "1969-04-22",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1d869116-1e5c-42b2-ad4b-4a0eb5493c36",
+                    "title": "Indiana",
+                    "length": "244666"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fdfbf505-a617-442e-837d-64b1001232b6",
+                "direction": "backward",
+                "begin": "1969-04",
+                "end": "1969-04",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fdfbf505-a617-442e-837d-64b1001232b6",
+                    "title": "Back Home in Indiana",
+                    "length": "210007"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2295e37d-f39a-4838-9c77-e9586758fc50",
+                "direction": "backward",
+                "begin": "1974-02",
+                "end": "1974-02",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2295e37d-f39a-4838-9c77-e9586758fc50",
+                    "title": "Back Home in Alabama",
+                    "length": "428200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "01dc16a2-d4a2-4541-9ff0-9792e3379527",
+                "direction": "backward",
+                "begin": "1975-07-16",
+                "end": "1975-07-16",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "01dc16a2-d4a2-4541-9ff0-9792e3379527",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "543000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dfb9c031-ba21-4916-aa0b-2e138cff20aa",
+                "direction": "backward",
+                "begin": "1978-02",
+                "end": "1978-02",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dfb9c031-ba21-4916-aa0b-2e138cff20aa",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "191066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd6644c3-70c2-42b2-ba4c-f3b1505d4945",
+                "direction": "backward",
+                "begin": "1980-07-21",
+                "end": "1980-07-21",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bd6644c3-70c2-42b2-ba4c-f3b1505d4945",
+                    "title": "Back Home Again in Indiana",
+                    "length": "281061"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5dad4bb-7e92-4f78-b4ad-34163dbede4f",
+                "direction": "backward",
+                "begin": "1980-07-21",
+                "end": "1980-07-21",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b5dad4bb-7e92-4f78-b4ad-34163dbede4f",
+                    "title": "Back Home Again in Indiana [take 2]",
+                    "length": "335756"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc95a905-adb7-49e7-84d1-61e62993420e",
+                "direction": "backward",
+                "begin": "1989-05-01",
+                "end": "1989-05-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fc95a905-adb7-49e7-84d1-61e62993420e",
+                    "title": "Back Home Again in Indiana",
+                    "length": "368866"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "09955328-ec5d-41ae-a7c8-ca99c38ea6a9",
+                "direction": "backward",
+                "begin": "1990-09-12",
+                "end": "1991-02-06",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "09955328-ec5d-41ae-a7c8-ca99c38ea6a9",
+                    "title": "Indiana",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ea79f57-1894-4bda-a626-b591e6dd286e",
+                "direction": "backward",
+                "begin": "1990-11-27",
+                "end": "1990-11-27",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9ea79f57-1894-4bda-a626-b591e6dd286e",
+                    "title": "Indiana",
+                    "length": "546000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a22c8b8b-2c00-4970-a448-89b9c67f9cd3",
+                "direction": "backward",
+                "begin": "1993-10",
+                "end": "1993-10",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a22c8b8b-2c00-4970-a448-89b9c67f9cd3",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "374000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec7fda38-d020-4d26-8bdf-6b962a3f048d",
+                "direction": "backward",
+                "begin": "1993-11",
+                "end": "1993-11",
+                "ended": "true",
+                "recording": {
+                    "id": "ec7fda38-d020-4d26-8bdf-6b962a3f048d",
+                    "title": "Back Home in Indiana",
+                    "length": "126333"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb5ba53d-9798-4f15-a0e1-f51f8a3f24f4",
+                "ordering-key": "2",
+                "direction": "backward",
+                "begin": "1996-01-05",
+                "end": "1997-04-25",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "bb5ba53d-9798-4f15-a0e1-f51f8a3f24f4",
+                    "title": "Donna Lee / (Back Home Again in) Indiana",
+                    "length": "284226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2c538358-d765-439e-9769-811336a35f36",
+                "direction": "backward",
+                "begin": "1996-09-28",
+                "end": "1996-09-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2c538358-d765-439e-9769-811336a35f36",
+                    "title": "Back Home Again in Indiana",
+                    "length": "343000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "89b49d4e-093e-40d4-ae61-ff0271ca8bb4",
+                "direction": "backward",
+                "begin": "1998-06",
+                "end": "1998-06",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "89b49d4e-093e-40d4-ae61-ff0271ca8bb4",
+                    "title": "Back Home Again in Indiana",
+                    "length": "208000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0100e9e-44a3-479a-afac-43f967d03074",
+                "direction": "backward",
+                "begin": "1999-03-02",
+                "end": "1999-03-04",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "d0100e9e-44a3-479a-afac-43f967d03074",
+                    "title": "Back Home Again in Indiana",
+                    "length": "299000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c2cc9a51-ffcf-4541-b1d9-2861f5c52bea",
+                "direction": "backward",
+                "begin": "1999-09",
+                "end": "1999-09",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c2cc9a51-ffcf-4541-b1d9-2861f5c52bea",
+                    "title": "(Back Home Again In) Indiana / Donna Lee",
+                    "length": "281000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d390a823-e8e6-4479-8220-33cc70543a4c",
+                "direction": "backward",
+                "begin": "2000-03-08",
+                "end": "2000-03-08",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d390a823-e8e6-4479-8220-33cc70543a4c",
+                    "title": "Back Home in Indiana",
+                    "length": "274000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "683111cc-e990-4a58-a10a-4f878f0aecee",
+                "direction": "backward",
+                "begin": "2000-07",
+                "end": "2000-07",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "683111cc-e990-4a58-a10a-4f878f0aecee",
+                    "title": "Indiana",
+                    "length": "158000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ddbba96-6355-4517-a906-c35613e7cd4b",
+                "direction": "backward",
+                "begin": "2002-08-07",
+                "end": "2002-08-07",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9ddbba96-6355-4517-a906-c35613e7cd4b",
+                    "title": "Indiana",
+                    "length": "585000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8b8f0c9-f0a1-4169-a82d-6f7cab740204",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8b8f0c9-f0a1-4169-a82d-6f7cab740204",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "158000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb820d85-b394-4d72-878c-5c2c308f1eda",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cb820d85-b394-4d72-878c-5c2c308f1eda",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "193160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ce3f572-442c-4881-bd20-e4cdb4be39df",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ce3f572-442c-4881-bd20-e4cdb4be39df",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f35fc5db-47fb-4c7c-adfe-9af9ce68e87e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f35fc5db-47fb-4c7c-adfe-9af9ce68e87e",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "327600"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9af1e0a8-5d96-4852-8d54-1e80384e6e6b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9af1e0a8-5d96-4852-8d54-1e80384e6e6b",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "260946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "412e0792-0a3c-446d-90ec-87832b1e159c",
+                "direction": "backward",
+                "recording": {
+                    "id": "412e0792-0a3c-446d-90ec-87832b1e159c",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "170200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce20f2e6-99cc-4714-a100-cf4216c59760",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ce20f2e6-99cc-4714-a100-cf4216c59760",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "173000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de7b7b6d-a5cf-4111-b0a5-6d5f21a976d2",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "de7b7b6d-a5cf-4111-b0a5-6d5f21a976d2",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "121000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ddae5b69-1294-4784-b2fd-0b23d1584df0",
+                "direction": "backward",
+                "recording": {
+                    "id": "ddae5b69-1294-4784-b2fd-0b23d1584df0",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8a644ac-95c1-43d1-aa74-39d9794f0641",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a8a644ac-95c1-43d1-aa74-39d9794f0641",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "125200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7eb8be8-f43f-4eb1-8e7b-17e2e7528baf",
+                "direction": "backward",
+                "recording": {
+                    "id": "c7eb8be8-f43f-4eb1-8e7b-17e2e7528baf",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "129066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42f7a6a8-e241-4136-a33c-c6dd6faee0a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "42f7a6a8-e241-4136-a33c-c6dd6faee0a4",
+                    "title": "(Back Home Again in) Indiana",
+                    "length": "177160"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ae5f8904-9df0-49c0-855c-9575a20a5cc8",
+                "direction": "backward",
+                "recording": {
+                    "id": "ae5f8904-9df0-49c0-855c-9575a20a5cc8",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "132880"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af555f8a-0035-4b88-8f6c-b01fd4b52512",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "af555f8a-0035-4b88-8f6c-b01fd4b52512",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "286760",
+                    "disambiguation": "live, 1962-08-01: Chicago, IL, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd038d49-80aa-43c5-a974-fb2cf3df6cf4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fd038d49-80aa-43c5-a974-fb2cf3df6cf4",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "237000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "85db4983-f2fb-48b7-aedc-f990c2e6d28d",
+                "direction": "backward",
+                "recording": {
+                    "id": "85db4983-f2fb-48b7-aedc-f990c2e6d28d",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "38370d9f-2e04-4a37-a7b4-0160fefbac1b",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "38370d9f-2e04-4a37-a7b4-0160fefbac1b",
+                    "title": "(Back Home Again In) Indiana",
+                    "length": "177133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ab70a45-aa0b-4cb0-98ca-5916502f91d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "1ab70a45-aa0b-4cb0-98ca-5916502f91d4",
+                    "title": "(Back Home Again in) Indiana (II)",
+                    "length": "206626"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d70cb4d-67b8-4e04-84ca-3d11727a181c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4d70cb4d-67b8-4e04-84ca-3d11727a181c",
+                    "title": "(Back Home Again In) Indiana / Closing",
+                    "length": "259826"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b53ad295-6314-4069-ae4d-5b233c6b7a83",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b53ad295-6314-4069-ae4d-5b233c6b7a83",
+                    "title": "(Back Home Again) Indiana",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9b18986-0ed5-4412-a19f-9346c5b01716",
+                "direction": "backward",
+                "recording": {
+                    "id": "d9b18986-0ed5-4412-a19f-9346c5b01716",
+                    "title": "(Back Home in) Indiana",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4d382be2-f394-4c26-9bc7-02a5a1537f25",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4d382be2-f394-4c26-9bc7-02a5a1537f25",
+                    "title": "Back Home Again in Indiana",
+                    "length": "253533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c547298-4704-4733-b583-ecad7e85b2b0",
+                "direction": "backward",
+                "recording": {
+                    "id": "0c547298-4704-4733-b583-ecad7e85b2b0",
+                    "title": "Back Home Again in Indiana",
+                    "length": "190000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ff5dda4-273a-41d0-b1d5-6aac14d50d71",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ff5dda4-273a-41d0-b1d5-6aac14d50d71",
+                    "title": "Back Home Again in Indiana",
+                    "length": "99000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "423da68d-806e-42d5-b28d-9842eb10fa3e",
+                "direction": "backward",
+                "recording": {
+                    "id": "423da68d-806e-42d5-b28d-9842eb10fa3e",
+                    "title": "Back Home Again in Indiana",
+                    "length": "116960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b734c65a-595c-48b5-8715-dfd43a9353a2",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b734c65a-595c-48b5-8715-dfd43a9353a2",
+                    "title": "Back Home Again in Indiana",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "644832a9-1875-438c-8b05-affb50baf68c",
+                "direction": "backward",
+                "recording": {
+                    "id": "644832a9-1875-438c-8b05-affb50baf68c",
+                    "title": "Back Home Again in Indiana",
+                    "length": "202746"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbca4cee-2318-4e30-b1c6-be55c6ac615b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bbca4cee-2318-4e30-b1c6-be55c6ac615b",
+                    "title": "Back Home Again in Indiana",
+                    "length": "194400"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12abb5a2-c27a-49b1-8fc2-f3e7503c1e06",
+                "direction": "backward",
+                "recording": {
+                    "id": "12abb5a2-c27a-49b1-8fc2-f3e7503c1e06",
+                    "title": "Back Home Again in Indiana",
+                    "length": "215600"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a045cb35-f18c-483e-8fe2-26f650330524",
+                "direction": "backward",
+                "recording": {
+                    "id": "a045cb35-f18c-483e-8fe2-26f650330524",
+                    "title": "Back Home Again in Indiana",
+                    "length": "165000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4a97558-9f4e-4595-a2e2-cfe9359382b5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e4a97558-9f4e-4595-a2e2-cfe9359382b5",
+                    "title": "Back Home Again in Indiana",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "395ea0aa-95e4-4672-a9e7-ddae76748892",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "395ea0aa-95e4-4672-a9e7-ddae76748892",
+                    "title": "Back Home Again in Indiana",
+                    "length": "294000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1da886cd-a5d8-4ad1-a77b-a13b7401935d",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1da886cd-a5d8-4ad1-a77b-a13b7401935d",
+                    "title": "Back Home Again in Indiana",
+                    "length": "375693"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "04bc4fd1-815d-4a2d-9e6c-b5b50447e816",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "04bc4fd1-815d-4a2d-9e6c-b5b50447e816",
+                    "title": "Back Home Again in Indiana",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32f182d7-c406-40c3-94fb-434a952f02ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "32f182d7-c406-40c3-94fb-434a952f02ae",
+                    "title": "Back Home Again in Indiana",
+                    "length": "189080"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15567ecb-0a97-404b-8d1f-b1fdc06234ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "15567ecb-0a97-404b-8d1f-b1fdc06234ac",
+                    "title": "Back Home Again in Indiana",
+                    "length": "237840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd1fa5fd-f7f6-4927-81e4-a8db936447bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd1fa5fd-f7f6-4927-81e4-a8db936447bb",
+                    "title": "Back Home Again in Indiana",
+                    "length": "192440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2a061cd5-0306-42ff-b2dc-00603970748a",
+                "direction": "backward",
+                "recording": {
+                    "id": "2a061cd5-0306-42ff-b2dc-00603970748a",
+                    "title": "Back Home Again In Indiana",
+                    "length": "190786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "401a53cf-aaf2-4acf-b2a1-bddbe962e31d",
+                "direction": "backward",
+                "recording": {
+                    "id": "401a53cf-aaf2-4acf-b2a1-bddbe962e31d",
+                    "title": "Back Home Again In Indiana",
+                    "length": "190171"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37eb96d4-7ee8-4f90-87f4-4e84c289c4b1",
+                "direction": "backward",
+                "recording": {
+                    "id": "37eb96d4-7ee8-4f90-87f4-4e84c289c4b1",
+                    "title": "Back Home Again In Indiana",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c4bfc4e-72f6-45b1-947a-4eb293f1cade",
+                "direction": "backward",
+                "recording": {
+                    "id": "6c4bfc4e-72f6-45b1-947a-4eb293f1cade",
+                    "title": "Back Home Again in Indiana (Binaural mix)",
+                    "length": "98000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be1708c1-b7f7-4a3f-a3e5-32e0c65f091b",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "be1708c1-b7f7-4a3f-a3e5-32e0c65f091b",
+                    "title": "Back Home in Indiana",
+                    "length": "141106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b800844a-5894-46b7-afac-ee0ec0c3427f",
+                "direction": "backward",
+                "recording": {
+                    "id": "b800844a-5894-46b7-afac-ee0ec0c3427f",
+                    "title": "Back Home in Indiana",
+                    "length": "189893"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77234a74-a644-4851-ab00-e27bbbffa0ae",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "77234a74-a644-4851-ab00-e27bbbffa0ae",
+                    "title": "Back Home in Indiana",
+                    "length": "157093"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be8fa085-f329-42ec-a604-6e5e8a669fd2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "be8fa085-f329-42ec-a604-6e5e8a669fd2",
+                    "title": "Donna Lee",
+                    "length": "680733"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0ab3e25-e15a-41bc-9c69-7e07cdaa1f89",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0ab3e25-e15a-41bc-9c69-7e07cdaa1f89",
+                    "title": "Indiana",
+                    "length": "263000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "958691af-54ee-481b-8400-ce6b1fb8a418",
+                "direction": "backward",
+                "recording": {
+                    "id": "958691af-54ee-481b-8400-ce6b1fb8a418",
+                    "title": "Indiana",
+                    "length": "265000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "682c5571-9185-4746-85e1-295cc5bce75f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "682c5571-9185-4746-85e1-295cc5bce75f",
+                    "title": "Indiana",
+                    "length": "110000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0ec2d28-224f-47f7-a2d3-939b035fff96",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d0ec2d28-224f-47f7-a2d3-939b035fff96",
+                    "title": "Indiana",
+                    "length": "198000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "472da20b-e341-4f89-99a3-48f564d6b9be",
+                "direction": "backward",
+                "recording": {
+                    "id": "472da20b-e341-4f89-99a3-48f564d6b9be",
+                    "title": "Indiana",
+                    "length": "232440"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bce0dd0b-2c45-4624-ba8c-50b0b731de23",
+                "direction": "backward",
+                "recording": {
+                    "id": "bce0dd0b-2c45-4624-ba8c-50b0b731de23",
+                    "title": "Indiana",
+                    "length": "184843"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c64ab962-3712-483e-8cf4-71a23b52015b",
+                "direction": "backward",
+                "recording": {
+                    "id": "c64ab962-3712-483e-8cf4-71a23b52015b",
+                    "title": "Indiana",
+                    "length": "105866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4eec4bf2-ce42-4341-837a-6cea1a7060a2",
+                "direction": "backward",
+                "recording": {
+                    "id": "4eec4bf2-ce42-4341-837a-6cea1a7060a2",
+                    "title": "Indiana",
+                    "length": "136133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49589075-7e2c-4f04-8841-9a1f2569dfff",
+                "direction": "backward",
+                "recording": {
+                    "id": "49589075-7e2c-4f04-8841-9a1f2569dfff",
+                    "title": "Indiana",
+                    "length": "154800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e93f241-5ca4-4f84-8759-f31c8687a7e5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "9e93f241-5ca4-4f84-8759-f31c8687a7e5",
+                    "title": "Indiana",
+                    "length": "354906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3826fec2-9b28-4794-81de-d3fb4cc79ccd",
+                "direction": "backward",
+                "recording": {
+                    "id": "3826fec2-9b28-4794-81de-d3fb4cc79ccd",
+                    "title": "Indiana"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ebc71d0-e425-4e3f-a8c3-8066ccfe39eb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ebc71d0-e425-4e3f-a8c3-8066ccfe39eb",
+                    "title": "Indiana",
+                    "length": "145306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a076d2a3-658d-4765-8aa0-4bec3b7bac5a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a076d2a3-658d-4765-8aa0-4bec3b7bac5a",
+                    "title": "Indiana",
+                    "length": "192000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fce90f99-d63a-49b2-ab48-1d6143029e2c",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fce90f99-d63a-49b2-ab48-1d6143029e2c",
+                    "title": "Indiana"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e2f2d258-04bb-435d-976a-73d7b7328fff",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e2f2d258-04bb-435d-976a-73d7b7328fff",
+                    "title": "Indiana",
+                    "length": "155000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a50d928c-b78a-4e93-9760-eb1fc4e70f0a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a50d928c-b78a-4e93-9760-eb1fc4e70f0a",
+                    "title": "Indiana",
+                    "length": "234800"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c6e24012-8690-4659-9198-dd1adc859cb0",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "c6e24012-8690-4659-9198-dd1adc859cb0",
+                    "title": "Indiana",
+                    "length": "293774"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e8e93072-4381-4586-a229-f008cbb9bfe8",
+                "direction": "backward",
+                "recording": {
+                    "id": "e8e93072-4381-4586-a229-f008cbb9bfe8",
+                    "title": "Indiana",
+                    "length": "359760"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e18bcee-4985-487d-8ab9-d663b4ea8ce4",
+                "direction": "backward",
+                "recording": {
+                    "id": "9e18bcee-4985-487d-8ab9-d663b4ea8ce4",
+                    "title": "Indiana",
+                    "length": "176000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e4698adb-695c-4ca4-ab99-873be0dc0c66",
+                "direction": "backward",
+                "recording": {
+                    "id": "e4698adb-695c-4ca4-ab99-873be0dc0c66",
+                    "title": "Indiana",
+                    "length": "287000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7d11701-7c50-4cf8-bbae-c8a083f68de4",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7d11701-7c50-4cf8-bbae-c8a083f68de4",
+                    "title": "Indiana",
+                    "length": "112453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e511036e-552a-4e3c-b961-c2ce2db6248a",
+                "direction": "backward",
+                "recording": {
+                    "id": "e511036e-552a-4e3c-b961-c2ce2db6248a",
+                    "title": "Indiana",
+                    "length": "544186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a603d9ab-a2ee-4748-aa27-6ce57ac5de5b",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a603d9ab-a2ee-4748-aa27-6ce57ac5de5b",
+                    "title": "Indiana",
+                    "length": "181480"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bdfd744d-2fd3-483d-951a-a30781a41c44",
+                "direction": "backward",
+                "recording": {
+                    "id": "bdfd744d-2fd3-483d-951a-a30781a41c44",
+                    "title": "Indiana",
+                    "length": "182400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "521d1aff-93fd-466a-868c-12a8bd5a9d91",
+                "direction": "backward",
+                "recording": {
+                    "id": "521d1aff-93fd-466a-868c-12a8bd5a9d91",
+                    "title": "Indiana",
+                    "length": "236373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4bea936f-38f4-4b2f-a645-522e16eb77b0",
+                "direction": "backward",
+                "recording": {
+                    "id": "4bea936f-38f4-4b2f-a645-522e16eb77b0",
+                    "title": "Indiana",
+                    "length": "127000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4865a0b3-d6f7-445d-826e-1dded64a6e5c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "4865a0b3-d6f7-445d-826e-1dded64a6e5c",
+                    "title": "Indiana",
+                    "length": "154901"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a49a62b1-7af7-436c-ad37-ef40d3c83c11",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a49a62b1-7af7-436c-ad37-ef40d3c83c11",
+                    "title": "Indiana",
+                    "length": "182000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b08eed4b-3ab1-44d8-bdaa-f64814ca5eee",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "b08eed4b-3ab1-44d8-bdaa-f64814ca5eee",
+                    "title": "Indiana",
+                    "length": "127000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce3e7e3b-11ef-4c7f-8d1c-a9e48ce2c367",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "ce3e7e3b-11ef-4c7f-8d1c-a9e48ce2c367",
+                    "title": "Indiana",
+                    "length": "288000",
+                    "disambiguation": "live, 2006-05-20: Philharmonie, M\u00fcnchen, Germany"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "436506da-7d76-47e2-b7e7-22859b85e3ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "436506da-7d76-47e2-b7e7-22859b85e3ab",
+                    "title": "Indiana",
+                    "length": "238360"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fcd55cf5-ff52-4f47-ae28-bfd9686d9cf7",
+                "direction": "backward",
+                "recording": {
+                    "id": "fcd55cf5-ff52-4f47-ae28-bfd9686d9cf7",
+                    "title": "Indiana",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3173c4b0-8467-4e7a-afae-4f673e9f692b",
+                "direction": "backward",
+                "recording": {
+                    "id": "3173c4b0-8467-4e7a-afae-4f673e9f692b",
+                    "title": "Indiana",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bce6069c-c322-418a-a423-ca43322c4812",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bce6069c-c322-418a-a423-ca43322c4812",
+                    "title": "Indiana",
+                    "length": "354906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bd3fb6bc-e168-4e1d-92c7-65e913b75440",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "bd3fb6bc-e168-4e1d-92c7-65e913b75440",
+                    "title": "Indiana",
+                    "length": "286000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "007896cd-083b-4d5b-b707-b4fa86ef6709",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "007896cd-083b-4d5b-b707-b4fa86ef6709",
+                    "title": "Indiana",
+                    "length": "336000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d75528d-2ec8-473f-9f5a-0eb2bb53acfe",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "1d75528d-2ec8-473f-9f5a-0eb2bb53acfe",
+                    "title": "Indiana",
+                    "length": "339000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "88e6f683-f183-4514-9b2b-5b3fd5e5287c",
+                "direction": "backward",
+                "recording": {
+                    "id": "88e6f683-f183-4514-9b2b-5b3fd5e5287c",
+                    "title": "Indiana",
+                    "length": "184200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72302a86-4c81-4c00-88e2-9cac20e68353",
+                "direction": "backward",
+                "recording": {
+                    "id": "72302a86-4c81-4c00-88e2-9cac20e68353",
+                    "title": "Indiana",
+                    "length": "158573"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a507a8de-d840-4c99-b80a-324b4c071dbb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "a507a8de-d840-4c99-b80a-324b4c071dbb",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25ae7478-26d9-4441-a582-0320636f545d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "25ae7478-26d9-4441-a582-0320636f545d",
+                    "title": "Indiana (Back Home Again in Indiana)",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "503fa760-8072-4b58-942e-7cb86a171ae0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "503fa760-8072-4b58-942e-7cb86a171ae0",
+                    "title": "Indiana (Back Home Again)",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/62850",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q798311",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "medley",
+                "type-id": "c1dca2cd-194c-36dd-93f8-6a359167e992",
+                "target": "f373ca6f-a09b-49b4-9d36-b64da8cee477",
+                "ordering-key": "5",
+                "direction": "backward",
+                "work": {
+                    "id": "f373ca6f-a09b-49b4-9d36-b64da8cee477",
+                    "title": "Bugle Call Rag Medley",
+                    "language": "zxx"
+                }
+            }
+        ]
+    }
+}

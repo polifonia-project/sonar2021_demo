@@ -1,0 +1,1679 @@
+{
+    "work": {
+        "id": "f30bb75f-2f9d-3f16-928e-cf8b4ce6288a",
+        "type": "Song",
+        "title": "If I Needed Someone",
+        "language": "eng",
+        "iswc": "T-010.158.847-9",
+        "iswc-list": [
+            "T-010.158.847-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000207 661 08"
+            },
+            {
+                "attribute": "SPAC ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5526"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12226418"
+            },
+            {
+                "attribute": "SOBODAYCOM ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75101249600"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "32.347"
+            },
+            {
+                "attribute": "SGACEDOM ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1346005"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1346005"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "213312"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3967898"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "009887055"
+            },
+            {
+                "attribute": "SACIM ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 170 261 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "014383700"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "09279Z"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "1766FT"
+            },
+            {
+                "attribute": "NICAUTOR ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "528119-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1013368"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "10609130"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "3628633"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000238602"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390206589"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00231156"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3307236"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243469"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "54762001"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6245405"
+            },
+            {
+                "attribute": "AEI ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5020605"
+            },
+            {
+                "attribute": "AACIMH ID",
+                "value": "5020605"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "42a8f507-8412-4611-854f-926571049fa0",
+                "direction": "backward",
+                "artist": {
+                    "id": "42a8f507-8412-4611-854f-926571049fa0",
+                    "type": "Person",
+                    "name": "George Harrison",
+                    "sort-name": "Harrison, George",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a01e8675-b1ad-4985-999d-1020012c523f",
+                "direction": "backward",
+                "begin": "1965-10-16",
+                "end": "1965-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "a01e8675-b1ad-4985-999d-1020012c523f",
+                    "title": "If I Needed Someone",
+                    "length": "142266",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc768ac9-2254-48d6-a66b-0b3d768f7d32",
+                "direction": "backward",
+                "begin": "1965-10-16",
+                "end": "1965-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "dc768ac9-2254-48d6-a66b-0b3d768f7d32",
+                    "title": "If I Needed Someone",
+                    "length": "141000",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15bed6d7-5ef7-4fb4-bf43-fa3c88a42abd",
+                "direction": "backward",
+                "begin": "1965-10-16",
+                "end": "1965-10-18",
+                "ended": "true",
+                "recording": {
+                    "id": "15bed6d7-5ef7-4fb4-bf43-fa3c88a42abd",
+                    "title": "If I Needed Someone",
+                    "length": "143000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8c8941e1-fefc-450f-be18-235dbbe33f61",
+                "direction": "backward",
+                "begin": "1965-11-17",
+                "end": "1965-11-17",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8c8941e1-fefc-450f-be18-235dbbe33f61",
+                    "title": "If I Needed Someone",
+                    "length": "140386"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2544cd04-5479-41e9-a9e5-d84f9d2b7748",
+                "direction": "backward",
+                "begin": "1966-06-30",
+                "end": "1966-06-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "2544cd04-5479-41e9-a9e5-d84f9d2b7748",
+                    "title": "If I Need Someone",
+                    "length": "176946",
+                    "disambiguation": "live, 1966\u201006\u201030: Nippon Budokan Hall, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab8b3ebf-e1bb-4101-868a-320b051e65b5",
+                "direction": "backward",
+                "begin": "1966-06-30",
+                "end": "1966-06-30",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ab8b3ebf-e1bb-4101-868a-320b051e65b5",
+                    "title": "If I Needed Someone (Tokyo, 30th June 1966)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c6ec331-129f-4838-87a0-20c668044609",
+                "direction": "backward",
+                "begin": "1966-07-01",
+                "end": "1966-07-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "7c6ec331-129f-4838-87a0-20c668044609",
+                    "title": "If I Needed Someone",
+                    "length": "178000",
+                    "disambiguation": "live, 1966-07-01: Nippon Budokan Hall, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa1fbf7f-d5b5-4d50-8e81-4700e573f459",
+                "direction": "backward",
+                "begin": "1966-07-02",
+                "end": "1966-07-02",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "fa1fbf7f-d5b5-4d50-8e81-4700e573f459",
+                    "title": "If I Needed Someone",
+                    "length": "197066",
+                    "disambiguation": "live, 1966-07-02: Budokan Hall, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c261682c-1240-4b5a-9c2f-49d4c576e075",
+                "direction": "backward",
+                "begin": "1966-08-29",
+                "end": "1966-08-29",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "c261682c-1240-4b5a-9c2f-49d4c576e075",
+                    "title": "If I Needed Someone",
+                    "length": "172000",
+                    "disambiguation": "live, 1966-08-29: Candlestick Park, San Francisco, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c0253f0-2f0d-42b1-88df-38d60473b297",
+                "direction": "backward",
+                "begin": "1991-12",
+                "end": "1991-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5c0253f0-2f0d-42b1-88df-38d60473b297",
+                    "title": "If I Needed Someone",
+                    "length": "230026",
+                    "disambiguation": "live, 1991-12: Osaka and Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e1efb8c-de61-4b9f-85fb-840bc23129d5",
+                "direction": "backward",
+                "begin": "1991-12",
+                "end": "1991-12",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4e1efb8c-de61-4b9f-85fb-840bc23129d5",
+                    "title": "If I Needed Someone (5.1 mix)",
+                    "length": "230026",
+                    "disambiguation": "live, 1991-12: Osaka and Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f363771-99cf-4637-a327-c1b0cbddd54b",
+                "direction": "backward",
+                "begin": "2002-11-29",
+                "end": "2002-11-29",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "9f363771-99cf-4637-a327-c1b0cbddd54b",
+                    "title": "If I Needed Someone",
+                    "length": "148866",
+                    "disambiguation": "live, 2002-11-29: Royal Albert Hall, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1d5b7a6-6e17-4c25-85be-67d26566f63a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "e1d5b7a6-6e17-4c25-85be-67d26566f63a",
+                    "title": "Day Tripper (medley)",
+                    "length": "422066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ce5dd22-49b6-45d0-ad01-c607e82766c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3ce5dd22-49b6-45d0-ad01-c607e82766c4",
+                    "title": "If I Needed Someone",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66b74b03-f61e-42f7-b379-4d7b0b09db52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "66b74b03-f61e-42f7-b379-4d7b0b09db52",
+                    "title": "If I Needed Someone",
+                    "length": "175000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fde79e2-59eb-4888-81b6-cdadbfd73c8c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5fde79e2-59eb-4888-81b6-cdadbfd73c8c",
+                    "title": "If I Needed Someone",
+                    "length": "175146"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "deaf73c4-6183-451b-b134-631eb94bb0f8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "deaf73c4-6183-451b-b134-631eb94bb0f8",
+                    "title": "If I Needed Someone",
+                    "length": "309080"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7646bae2-841c-461e-8dfc-ff2fc57dad97",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7646bae2-841c-461e-8dfc-ff2fc57dad97",
+                    "title": "If I Needed Someone",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a4dd8762-dd3b-42fc-8ba4-94e061286172",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a4dd8762-dd3b-42fc-8ba4-94e061286172",
+                    "title": "If I Needed Someone",
+                    "length": "342000",
+                    "disambiguation": "live, 2013-04-16: Teatro Vorterix, Buenos Aires, Argentina"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26301aaa-674d-4a2a-91cf-c36599421dad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "26301aaa-674d-4a2a-91cf-c36599421dad",
+                    "title": "If I Needed Someone",
+                    "length": "218000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "765bbb6c-2bcf-4605-ac6c-2f8c6fcbce39",
+                "direction": "backward",
+                "recording": {
+                    "id": "765bbb6c-2bcf-4605-ac6c-2f8c6fcbce39",
+                    "title": "If I Needed Someone",
+                    "disambiguation": "live, 1991-12-05: The International Exhibition Center, Nagoya, Japan"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e134700-93dd-45af-b869-82c66d38e413",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e134700-93dd-45af-b869-82c66d38e413",
+                    "title": "If I Needed Someone"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b972e4d-5b1c-4717-93a4-3ef0264f581c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9b972e4d-5b1c-4717-93a4-3ef0264f581c",
+                    "title": "If I Needed Someone",
+                    "length": "150266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2e644351-1992-415e-83ca-4e5b2a0b2a0e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2e644351-1992-415e-83ca-4e5b2a0b2a0e",
+                    "title": "If I Needed Someone",
+                    "length": "140000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "959223e2-634c-49a7-bb6a-245bc5e10d84",
+                "direction": "backward",
+                "recording": {
+                    "id": "959223e2-634c-49a7-bb6a-245bc5e10d84",
+                    "title": "If I Needed Someone",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7546ee61-d9a0-48ab-836f-40170bfeb324",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7546ee61-d9a0-48ab-836f-40170bfeb324",
+                    "title": "If I Needed Someone",
+                    "length": "140960",
+                    "disambiguation": "live, 2014-09-28: Fonda Theater, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ce81654b-9eee-4d2d-9d38-4e50a55ef08c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ce81654b-9eee-4d2d-9d38-4e50a55ef08c",
+                    "title": "If I Needed Someone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e5bf46cf-ed24-4767-8372-39e8a49e1d8e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e5bf46cf-ed24-4767-8372-39e8a49e1d8e",
+                    "title": "If I Needed Someone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9b6ea031-8539-4f2b-9ca6-59254fa054a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9b6ea031-8539-4f2b-9ca6-59254fa054a7",
+                    "title": "If I Needed Someone",
+                    "length": "175706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd9eb1d3-0375-4ead-8785-8237f1d49605",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd9eb1d3-0375-4ead-8785-8237f1d49605",
+                    "title": "If I Needed Someone",
+                    "length": "140000",
+                    "disambiguation": "mono, 1965"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7c7640c4-648a-46ed-bdbc-a7089c9d4770",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7c7640c4-648a-46ed-bdbc-a7089c9d4770",
+                    "title": "If I Needed Someone",
+                    "length": "143000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffe0bb3c-0200-4204-825b-721a441c3292",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ffe0bb3c-0200-4204-825b-721a441c3292",
+                    "title": "If I Needed Someone",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3a22345-fd76-4793-a781-7844f6f172e4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b3a22345-fd76-4793-a781-7844f6f172e4",
+                    "title": "If I Needed Someone",
+                    "length": "142106"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "befb554a-ab0f-4fa9-9431-eed36a8e7445",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "befb554a-ab0f-4fa9-9431-eed36a8e7445",
+                    "title": "If I Needed Someone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d474b66-3c0b-4086-b08b-2fcbb7e1336b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7d474b66-3c0b-4086-b08b-2fcbb7e1336b",
+                    "title": "If I Needed Someone",
+                    "length": "149000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f2e857fe-33ba-426e-935b-e09fd29ba161",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f2e857fe-33ba-426e-935b-e09fd29ba161",
+                    "title": "If I Needed Someone",
+                    "length": "139000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5fbedd81-a764-4431-8665-f6e88f25d456",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5fbedd81-a764-4431-8665-f6e88f25d456",
+                    "title": "If I Needed Someone",
+                    "length": "217000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bb1e2fbf-4ebf-404a-b345-613463b6aa28",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bb1e2fbf-4ebf-404a-b345-613463b6aa28",
+                    "title": "If I Needed Someone",
+                    "length": "163000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d14de0d7-1568-4ee3-bccc-33adf8b90fc4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d14de0d7-1568-4ee3-bccc-33adf8b90fc4",
+                    "title": "If I Needed Someone",
+                    "length": "137000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af07a576-6de9-4b7b-adbc-603e124779f5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "af07a576-6de9-4b7b-adbc-603e124779f5",
+                    "title": "If I Needed Someone",
+                    "length": "147320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c76eaa6d-216d-4991-a140-12b5838d7fec",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c76eaa6d-216d-4991-a140-12b5838d7fec",
+                    "title": "If I Needed Someone",
+                    "length": "134000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0df6b387-f81c-44d4-92fe-bcd6788846d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0df6b387-f81c-44d4-92fe-bcd6788846d1",
+                    "title": "If I Needed Someone",
+                    "length": "153493"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7edca6a7-74e4-4516-a8c5-222a7d68b9f4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7edca6a7-74e4-4516-a8c5-222a7d68b9f4",
+                    "title": "If I Needed Someone",
+                    "length": "143000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "638010cb-4aaf-40a4-9476-58a432f09144",
+                "direction": "backward",
+                "recording": {
+                    "id": "638010cb-4aaf-40a4-9476-58a432f09144",
+                    "title": "If I Needed Someone",
+                    "length": "142773"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da1e5e7d-cacc-48b4-9053-24adbba30f7d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "da1e5e7d-cacc-48b4-9053-24adbba30f7d",
+                    "title": "If I Needed Someone",
+                    "length": "269000",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "47ddbe66-1450-4426-857a-81b1d2cd217f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "47ddbe66-1450-4426-857a-81b1d2cd217f",
+                    "title": "If I Needed Someone",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9914f64a-6ea4-4c0e-abd5-3baf55f5fb3c",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "9914f64a-6ea4-4c0e-abd5-3baf55f5fb3c",
+                    "title": "If I Needed Someone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4b0b690e-65b3-4a7b-b751-35643073b2d2",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "4b0b690e-65b3-4a7b-b751-35643073b2d2",
+                    "title": "If I Needed Someone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19ea4f8e-8d1c-4af6-b5ea-d05f3e242fef",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "19ea4f8e-8d1c-4af6-b5ea-d05f3e242fef",
+                    "title": "If I Needed Someone",
+                    "disambiguation": "live, 1991-12-17: Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e16ab71d-37e4-4c05-8eb1-9b84c9c57b34",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e16ab71d-37e4-4c05-8eb1-9b84c9c57b34",
+                    "title": "If I Needed Someone",
+                    "length": "148000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f05a2ec3-1df7-4fab-ac2d-81d8d73b2686",
+                "direction": "backward",
+                "recording": {
+                    "id": "f05a2ec3-1df7-4fab-ac2d-81d8d73b2686",
+                    "title": "If I Needed Someone",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a53396fa-40ed-45fb-a16f-ee7a209cbbb7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a53396fa-40ed-45fb-a16f-ee7a209cbbb7",
+                    "title": "If I Needed Someone",
+                    "length": "153000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0e919738-2bab-47bf-8d12-cc70d14ba2f5",
+                "direction": "backward",
+                "recording": {
+                    "id": "0e919738-2bab-47bf-8d12-cc70d14ba2f5",
+                    "title": "If I Needed Someone",
+                    "length": "180000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "be4578a4-1c6d-4d40-8833-b3a2b57e791b",
+                "direction": "backward",
+                "recording": {
+                    "id": "be4578a4-1c6d-4d40-8833-b3a2b57e791b",
+                    "title": "If I Needed Someone",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97206bb3-d067-4337-892a-449edefe4ff4",
+                "direction": "backward",
+                "recording": {
+                    "id": "97206bb3-d067-4337-892a-449edefe4ff4",
+                    "title": "If I Needed Someone",
+                    "length": "175000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b31fb81-597a-4bfd-abaf-4b3f80c43a0b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "5b31fb81-597a-4bfd-abaf-4b3f80c43a0b",
+                    "title": "If I Needed Someone"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b5fe69ea-1b0d-4271-9a49-cd1439148524",
+                "direction": "backward",
+                "recording": {
+                    "id": "b5fe69ea-1b0d-4271-9a49-cd1439148524",
+                    "title": "If I Needed Someone",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "63305b39-8fdf-437d-ad73-fd2aa314c311",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "63305b39-8fdf-437d-ad73-fd2aa314c311",
+                    "title": "If I Needed Someone",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "603862d2-a3f7-43a6-977f-1097329eb63d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "603862d2-a3f7-43a6-977f-1097329eb63d",
+                    "title": "If I Needed Someone",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3916ae6d-673f-4140-bd3f-d6b449263615",
+                "direction": "backward",
+                "recording": {
+                    "id": "3916ae6d-673f-4140-bd3f-d6b449263615",
+                    "title": "If I Needed Someone",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9eecb0b-7743-4f90-9504-118ed0cba9d2",
+                "direction": "backward",
+                "recording": {
+                    "id": "f9eecb0b-7743-4f90-9504-118ed0cba9d2",
+                    "title": "If I Needed Someone",
+                    "length": "143133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd0b3c2e-2f72-46d2-ab2e-cc9560142df2",
+                "direction": "backward",
+                "recording": {
+                    "id": "fd0b3c2e-2f72-46d2-ab2e-cc9560142df2",
+                    "title": "If I Needed Someone",
+                    "length": "164000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e517e58-fa14-4d8b-9994-bdf819820559",
+                "direction": "backward",
+                "recording": {
+                    "id": "3e517e58-fa14-4d8b-9994-bdf819820559",
+                    "title": "If I Needed Someone"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "277e18b4-0388-49d5-8582-d47ba0b99899",
+                "direction": "backward",
+                "recording": {
+                    "id": "277e18b4-0388-49d5-8582-d47ba0b99899",
+                    "title": "If I Needed Someone",
+                    "length": "199000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "65e6bf6c-1c56-40db-8a15-7594e22fd993",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "65e6bf6c-1c56-40db-8a15-7594e22fd993",
+                    "title": "If I Needed Someone",
+                    "length": "181200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ad57fd8a-37b6-41dd-91b9-29cc64d39210",
+                "direction": "backward",
+                "recording": {
+                    "id": "ad57fd8a-37b6-41dd-91b9-29cc64d39210",
+                    "title": "If I Needed Someone",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "158245b7-8316-4b38-9de7-be80b7c526b9",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "158245b7-8316-4b38-9de7-be80b7c526b9",
+                    "title": "If I Needed Someone",
+                    "length": "172506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "46c13559-609d-4881-adba-0c23ccae3aa5",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "46c13559-609d-4881-adba-0c23ccae3aa5",
+                    "title": "If I Needed Someone",
+                    "length": "170626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b77f148-7d47-4ebf-8111-a7c52b4a4b84",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0b77f148-7d47-4ebf-8111-a7c52b4a4b84",
+                    "title": "If I Needed Someone",
+                    "length": "162506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3746a0aa-8ee4-4033-acfd-0dc9dcce0a36",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "3746a0aa-8ee4-4033-acfd-0dc9dcce0a36",
+                    "title": "If I Needed Someone",
+                    "length": "179506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bec3ead6-6c8b-4108-b801-c86c3bc22e23",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "bec3ead6-6c8b-4108-b801-c86c3bc22e23",
+                    "title": "If I Needed Someone",
+                    "length": "216000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7910a68c-587e-45a1-914d-309d3348868c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7910a68c-587e-45a1-914d-309d3348868c",
+                    "title": "If I Needed Someone",
+                    "length": "213266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5047c29d-cfb4-4fb8-b375-641a1d4c92f2",
+                "direction": "backward",
+                "recording": {
+                    "id": "5047c29d-cfb4-4fb8-b375-641a1d4c92f2",
+                    "title": "If I Needed Someone (1966-06-30)",
+                    "length": "147000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4e1999f4-2c37-48f2-b808-c7b3f21422c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "4e1999f4-2c37-48f2-b808-c7b3f21422c3",
+                    "title": "If I Needed Someone (Chestnut Cabaret \u2013 Philadelphia, PA 5/19/92)",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0982854-6330-4c5b-b636-9fae208f1238",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b0982854-6330-4c5b-b636-9fae208f1238",
+                    "title": "If I Needed Someone (live)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f4100683-9106-4499-a88a-18bdf4ff03b0",
+                "direction": "backward",
+                "recording": {
+                    "id": "f4100683-9106-4499-a88a-18bdf4ff03b0",
+                    "title": "If I Needed Someone (RM1 take 1)",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5344754e-91d1-44e3-9005-7e5ae81436b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "5344754e-91d1-44e3-9005-7e5ae81436b8",
+                    "title": "If I Needed Someone (RS1 take 1)",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d3bfcc6f-3061-461f-8711-06b69f26e895",
+                "direction": "backward",
+                "recording": {
+                    "id": "d3bfcc6f-3061-461f-8711-06b69f26e895",
+                    "title": "If I Needed Someone (take 1, RM1)",
+                    "length": "140400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "161f657f-7a23-4338-9462-2fa3de7566a7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "161f657f-7a23-4338-9462-2fa3de7566a7",
+                    "title": "If I Needed Someone (version 2)",
+                    "length": "142000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1ab6c38-a2bc-461d-8099-4385115eeae6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b1ab6c38-a2bc-461d-8099-4385115eeae6",
+                    "title": "Ob-La-Di, Ob-La-Da / If I Needed Someone / Here Comes the Sun",
+                    "length": "150000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/3185",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2269445",
+                "direction": "backward"
+            }
+        ]
+    }
+}

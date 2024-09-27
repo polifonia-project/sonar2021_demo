@@ -1,0 +1,13 @@
+@prefix mei:   <http://www.music-encoding.org/ns/mei#> .
+@prefix fx:    <http://sparql.xyz/facade-x/ns/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml:   <http://www.w3.org/XML/1998/namespace#> .
+@prefix xyz:   <http://sparql.xyz/facade-x/data/> .
+
+<file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-06.json>
+        xyz:artist    "Schubert" ;
+        xyz:filename  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/Schubert_D911-06> ;
+        xyz:lang      "de" ;
+        xyz:location  <file:///Users/ed4565/Development/polifonia/sonar2021_demo/datasets/genius/schubert_lyrics/Schubert_D911-06.json> ;
+        xyz:lyrics    "Manche Trän aus meinen Augen\nist gefallen in den Schnee;\nseine kalten Flocken saugen\ndurstig ein das heiße Weh,\ndurstig ein das heiße Weh. \n\nWenn die Gräser sprossen wollen,\nweht daher ein lauer Wind,\nund das Eis zerspringt in Schollen\nund der weiche Schnee zerrinnt,\nund der weiche Schnee zerrinnt. \n\nSchnee, du weißt von meinem Sehnen,\nsag, wohin doch geht dein Lauf?\nFolge nach nur meinen Tränen,\nnimmt dich bald das Bächlein auf,\nnimmt dich bald das Bächlein auf. \n\nWirst mit ihm die Stadt durchziehen,\nmuntre Straßen ein und aus;\nfühlst du meine Tränen glühen,\nda ist meiner Liebsten Haus,\nda ist meiner Liebsten Haus." ;
+        xyz:title     "Schubert_D911-06" .

@@ -1,0 +1,1671 @@
+{
+    "work": {
+        "id": "b97caa46-b381-36e8-9482-0c9c6d6ea030",
+        "type": "Song",
+        "title": "Carry That Weight",
+        "language": "eng",
+        "iswc": "T-010.435.909-2",
+        "iswc-list": [
+            "T-010.435.909-2"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SACM ID",
+                "value": "00000017061123"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "0030425Q"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6212216004"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1358010065"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1358010084"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "3260379007"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "17762001"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3966186060"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4044056107"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "220222061"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75200052200"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6966756"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5868870015"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001138700"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "1987"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "633191-001"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12063089"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "001517437"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "75369"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "50663"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "6141859511"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000014256"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02872990"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0C221407"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "330174280"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "187794"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                "direction": "backward",
+                "label": {
+                    "id": "a789c5e2-2dc5-47f2-bb97-12c23e5805d2",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Tunes LLC",
+                    "sort-name": "Sony/ATV Tunes LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67b78021-3c12-4377-b140-d144db04c7f8",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "67b78021-3c12-4377-b140-d144db04c7f8",
+                    "title": "Carry That Weight 6.12",
+                    "length": "91000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8843953-69c5-4ef3-b048-303b05b6abc4",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "d8843953-69c5-4ef3-b048-303b05b6abc4",
+                    "title": "Carry That Weight 6.14",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9586124b-afcb-4838-bf12-0ce01a7b65dc",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "recording": {
+                    "id": "9586124b-afcb-4838-bf12-0ce01a7b65dc",
+                    "title": "Carry That Weight 6.131",
+                    "length": "86000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca4dcd15-c988-47ef-8fa0-345df038b2d5",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ca4dcd15-c988-47ef-8fa0-345df038b2d5",
+                    "title": "Octopus's Garden / Carry That Weight 6.13",
+                    "length": "42000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "174c2c31-b7ba-4d51-94b8-9a5ab97cd0a0",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "174c2c31-b7ba-4d51-94b8-9a5ab97cd0a0",
+                    "title": "Golden Slumbers / Carry That Weight 7.02",
+                    "length": "242000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80064715-d537-42c6-bc4a-c00234bd3acf",
+                "direction": "backward",
+                "begin": "1969-01-07",
+                "end": "1969-01-07",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "80064715-d537-42c6-bc4a-c00234bd3acf",
+                    "title": "What'd I Say / Carry That Weight / Shout! 7.15",
+                    "length": "82000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa0fc1b4-1d07-4f1d-a2a0-80f3533f882f",
+                "direction": "backward",
+                "begin": "1969-01-09",
+                "end": "1969-01-09",
+                "ended": "true",
+                "recording": {
+                    "id": "fa0fc1b4-1d07-4f1d-a2a0-80f3533f882f",
+                    "title": "Carry That Weight 9.11",
+                    "length": "177000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "795c2a7a-5524-4a4d-a9a3-9b0691742340",
+                "direction": "backward",
+                "begin": "1969-07-02",
+                "end": "1969-07-02",
+                "ended": "true",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "795c2a7a-5524-4a4d-a9a3-9b0691742340",
+                    "title": "Golden Slumbers / Carry That Weight (takes 1\u20133 / medley)",
+                    "length": "200506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb903881-cdc2-4de6-af05-028636647a4e",
+                "ordering-key": "8",
+                "direction": "backward",
+                "begin": "1969-07-02",
+                "end": "1969-07-30",
+                "ended": "true",
+                "recording": {
+                    "id": "fb903881-cdc2-4de6-af05-028636647a4e",
+                    "title": "The Long One: You Never Give Me Your Money / Sun King / Mean Mr Mustard / Her Majesty / Polythene Pam / She Came in Through the Bathroom Window / Golden Slumbers / Carry That Weight / The End",
+                    "length": "970466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "daaee15a-8a4c-4275-a7c1-5b6211f0ec69",
+                "direction": "backward",
+                "begin": "1969-07-02",
+                "end": "1969-08-15",
+                "ended": "true",
+                "recording": {
+                    "id": "daaee15a-8a4c-4275-a7c1-5b6211f0ec69",
+                    "title": "Carry That Weight",
+                    "length": "97000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9dea819b-335a-4c27-b21c-b7cfda7eba6c",
+                "direction": "backward",
+                "begin": "1969-08-15",
+                "end": "1969-08-15",
+                "ended": "true",
+                "attribute-list": [
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "9dea819b-335a-4c27-b21c-b7cfda7eba6c",
+                    "title": "Golden Slumbers / Carry That Weight (take 17 / instrumental / strings & brass only)",
+                    "length": "197266"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec42328c-8171-47a6-9573-d6809259ae66",
+                "direction": "backward",
+                "begin": "1970-02-16",
+                "end": "1970-02-16",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ec42328c-8171-47a6-9573-d6809259ae66",
+                    "title": "Carry That Weight",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "600b59bb-e386-4057-9e35-f88cacbabefb",
+                "direction": "backward",
+                "begin": "1990-03-07",
+                "end": "1990-03-07",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "600b59bb-e386-4057-9e35-f88cacbabefb",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "disambiguation": "live, 1990-03-07: Tokyo Dome, Tokyo, Japan"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d094d876-2fb7-42a8-a520-e13c8e66ae1d",
+                "direction": "backward",
+                "begin": "1997-09-15",
+                "end": "1997-09-15",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "d094d876-2fb7-42a8-a520-e13c8e66ae1d",
+                    "title": "Golden Slumber/Carry That Weight/The End",
+                    "length": "514000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "714785f3-5dca-44b2-9622-ef21ae328a86",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855040",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                "direction": "backward",
+                "begin": "2001-11-12",
+                "end": "2001-11-12",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "a65f0627-0b2f-4a81-8f1c-c658c775840c",
+                    "title": "Suite Charlotte Pike Medley",
+                    "length": "1855000",
+                    "disambiguation": "live, 2001-11-12: 013, Tilburg, Netherlands"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b400292b-1a02-4747-9f57-82adb957a8bd",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b400292b-1a02-4747-9f57-82adb957a8bd",
+                    "title": "Carry That Weight",
+                    "length": "185800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7902bc48-cb3d-4582-a42a-dc2c48f9fe3a",
+                "direction": "backward",
+                "begin": "2002",
+                "end": "2002",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "7902bc48-cb3d-4582-a42a-dc2c48f9fe3a",
+                    "title": "You Never Give Me Your Money / Carry That Weight (bonus track)",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df18e1e0-b80c-4b5e-a848-d495134f8b2c",
+                "direction": "backward",
+                "begin": "2003-06-01",
+                "end": "2003-06-01",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "df18e1e0-b80c-4b5e-a848-d495134f8b2c",
+                    "title": "You Never Give Me Your Money / Carry That Weight",
+                    "disambiguation": "live, 2003-06-01: King's Dock, Liverpool, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1e1d20c-86fb-4f4c-b196-179aef4996d6",
+                "direction": "backward",
+                "begin": "2008-06-28",
+                "end": "2008-06-28",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "f1e1d20c-86fb-4f4c-b196-179aef4996d6",
+                    "title": "Carry That Weight",
+                    "disambiguation": "live, 2008-06-28: Sgt. Pepper\u2019s \u2026 Revisited, Hollywood Bowl, Los Angeles, CA, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7d1c6b11-8336-43e4-bea0-2984185f0d55",
+                "direction": "backward",
+                "begin": "2012-04-19",
+                "end": "2012-04-19",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "7d1c6b11-8336-43e4-bea0-2984185f0d55",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "284752",
+                    "disambiguation": "live, 2012-04-19: Good Danny's, Austin, TX, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ff77eb56-316c-40da-ab9a-8787dc6225ab",
+                "direction": "backward",
+                "begin": "2018-12-05",
+                "end": "2018-12-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "ff77eb56-316c-40da-ab9a-8787dc6225ab",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "427180",
+                    "disambiguation": "live, 2018-12-05: Wiener Stadthalle, Wien, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f6e66fe-029c-407c-b283-571020e46ea3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "0f6e66fe-029c-407c-b283-571020e46ea3",
+                    "title": "Abby Road Suite",
+                    "length": "423346"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6647889-b409-4990-b403-e905d4312c6f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b6647889-b409-4990-b403-e905d4312c6f",
+                    "title": "Beatles Medley: Golden Slumbers / Carry That Weight / The End",
+                    "length": "221040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12cd72c0-82aa-4808-b596-e777bd437d3f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "12cd72c0-82aa-4808-b596-e777bd437d3f",
+                    "title": "Carry That Weight",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7945c48-ba51-4f51-982a-0052a7070b23",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a7945c48-ba51-4f51-982a-0052a7070b23",
+                    "title": "Carry That Weight",
+                    "length": "123000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8002a6c4-6b5c-4423-bb34-05a1a91ee9cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8002a6c4-6b5c-4423-bb34-05a1a91ee9cc",
+                    "title": "Carry That Weight",
+                    "length": "90000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0911cbdc-e354-4095-8489-40473eef15f3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0911cbdc-e354-4095-8489-40473eef15f3",
+                    "title": "Carry That Weight",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a83f98d0-4f53-4b2c-9a62-3efa82c69401",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "a83f98d0-4f53-4b2c-9a62-3efa82c69401",
+                    "title": "Carry That Weight",
+                    "length": "190840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f7b698b3-34c6-4f7c-8752-d875ca32db10",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f7b698b3-34c6-4f7c-8752-d875ca32db10",
+                    "title": "Carry That Weight",
+                    "length": "170626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "53f306a8-83bb-457f-b139-0f98a1f3f076",
+                "direction": "backward",
+                "recording": {
+                    "id": "53f306a8-83bb-457f-b139-0f98a1f3f076",
+                    "title": "Carry That Weight"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "093ac3c7-686f-4393-8842-6122ae7a33cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "093ac3c7-686f-4393-8842-6122ae7a33cd",
+                    "title": "Carry That Weight",
+                    "length": "96440",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e1bd63bf-de98-446e-909f-16c1b87102b8",
+                "direction": "backward",
+                "recording": {
+                    "id": "e1bd63bf-de98-446e-909f-16c1b87102b8",
+                    "title": "Carry That Weight"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80265f36-796c-43dc-9bb2-cf9b4f7ca8a4",
+                "direction": "backward",
+                "recording": {
+                    "id": "80265f36-796c-43dc-9bb2-cf9b4f7ca8a4",
+                    "title": "Carry That Weight"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3938ab46-5ac7-4a70-b0ea-cbf5256a75e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "3938ab46-5ac7-4a70-b0ea-cbf5256a75e7",
+                    "title": "Carry That Weight"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8be8273-f300-440f-85ba-22183bad7d4d",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8be8273-f300-440f-85ba-22183bad7d4d",
+                    "title": "Carry That Weight"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "228be5c1-4c3d-41ae-894f-b5fe916706e2",
+                "direction": "backward",
+                "recording": {
+                    "id": "228be5c1-4c3d-41ae-894f-b5fe916706e2",
+                    "title": "Carry That Weight",
+                    "length": "96000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "540b56e4-ce15-4c1a-aa15-5804ef97e16c",
+                "direction": "backward",
+                "recording": {
+                    "id": "540b56e4-ce15-4c1a-aa15-5804ef97e16c",
+                    "title": "Carry That Weight"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14330a59-7127-4b04-8528-2e348fe0bb9f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "14330a59-7127-4b04-8528-2e348fe0bb9f",
+                    "title": "Carry That Weight",
+                    "length": "165066"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1ebbd6a7-bf20-4f39-974a-3e8033332049",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1ebbd6a7-bf20-4f39-974a-3e8033332049",
+                    "title": "Carry That Weight",
+                    "length": "80000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df4f615d-7489-45f8-a8ac-9d6d28f10cb3",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "df4f615d-7489-45f8-a8ac-9d6d28f10cb3",
+                    "title": "Carry That Weight",
+                    "length": "108000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "278fabaa-24cd-42ce-b5b6-eb986e7158cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "278fabaa-24cd-42ce-b5b6-eb986e7158cc",
+                    "title": "Carry That Weight",
+                    "length": "50573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20442510-0af7-4198-9856-6ac89db00d3f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "20442510-0af7-4198-9856-6ac89db00d3f",
+                    "title": "Carry That Weight",
+                    "length": "104000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d4cc2d7-e346-4dc4-a1bd-f17b2be0cc66",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2d4cc2d7-e346-4dc4-a1bd-f17b2be0cc66",
+                    "title": "Carry That Weight",
+                    "length": "96000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0c290549-f032-4239-9828-b72ea46ffffd",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0c290549-f032-4239-9828-b72ea46ffffd",
+                    "title": "Carry That Weight",
+                    "length": "375040"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5176ce47-93ea-44f3-ad55-bd89a3cfdfab",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "5176ce47-93ea-44f3-ad55-bd89a3cfdfab",
+                    "title": "Carry That Weight",
+                    "length": "94000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7cc2d0bd-9c11-4aa5-ae1a-899784f3889c",
+                "direction": "backward",
+                "recording": {
+                    "id": "7cc2d0bd-9c11-4aa5-ae1a-899784f3889c",
+                    "title": "Carry That Weight (5.1 mix)",
+                    "length": "96000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "131382a9-2fe9-40c7-b6f3-c770f5026ed5",
+                "direction": "backward",
+                "recording": {
+                    "id": "131382a9-2fe9-40c7-b6f3-c770f5026ed5",
+                    "title": "Carry That Weight (early take)",
+                    "length": "100000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3b81847-b862-4cdd-ad62-a40d7acb5320",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c3b81847-b862-4cdd-ad62-a40d7acb5320",
+                    "title": "Carry That Weight / The End / Her Majesty"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41cd5e07-1ac7-4c39-bf5c-ce7b8f2c4993",
+                "direction": "backward",
+                "recording": {
+                    "id": "41cd5e07-1ac7-4c39-bf5c-ce7b8f2c4993",
+                    "title": "Carry That Weight 1",
+                    "length": "99666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cce20f67-8d91-4cbc-82db-ad7a41aaf5cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "cce20f67-8d91-4cbc-82db-ad7a41aaf5cf",
+                    "title": "Carry That Weight 2",
+                    "length": "101400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "965b5327-2570-4ca7-aa55-5336a57be2e7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "965b5327-2570-4ca7-aa55-5336a57be2e7",
+                    "title": "Golden Slumbers / Carry That Weight",
+                    "length": "245320"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe4ad3fb-dbe5-4a75-8047-5fbafc617a6d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fe4ad3fb-dbe5-4a75-8047-5fbafc617a6d",
+                    "title": "Golden Slumbers / Carry That Weight",
+                    "length": "197000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "10eb834f-7fbf-4ca5-98d4-ed4188304caf",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "10eb834f-7fbf-4ca5-98d4-ed4188304caf",
+                    "title": "Golden Slumbers / Carry That Weight"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c78e0d48-d8f0-4f56-8a7a-a0835511b7b8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c78e0d48-d8f0-4f56-8a7a-a0835511b7b8",
+                    "title": "Golden Slumbers / Carry That Weight",
+                    "length": "203000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "493d7500-ed6a-4c62-9486-6436d30b8d2e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "493d7500-ed6a-4c62-9486-6436d30b8d2e",
+                    "title": "Golden Slumbers / Carry That Weight",
+                    "length": "187250"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d1d2798-265e-4b50-9b8c-e9995e743bd6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "2d1d2798-265e-4b50-9b8c-e9995e743bd6",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "266000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3238352d-d2fd-41b2-8146-d0b695476323",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "3238352d-d2fd-41b2-8146-d0b695476323",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "352706"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3c13f98-428f-4664-ad4b-5f066849b938",
+                "direction": "backward",
+                "attribute-list": [
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "b3c13f98-428f-4664-ad4b-5f066849b938",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "387000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "afcf908b-5529-493b-99a4-fe063d96c0ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "afcf908b-5529-493b-99a4-fe063d96c0ad",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "330000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24c95a01-becf-452d-b0ac-817366c74aff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "24c95a01-becf-452d-b0ac-817366c74aff",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "339000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "44c7125a-3bd1-4c31-afbf-851aa9825a6e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "44c7125a-3bd1-4c31-afbf-851aa9825a6e",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "247026",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c333185c-c406-40bb-bd86-48560ce532f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "c333185c-c406-40bb-bd86-48560ce532f6",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "391000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "abae5719-97c2-40c3-a3bb-d888e9d3f6cf",
+                "direction": "backward",
+                "recording": {
+                    "id": "abae5719-97c2-40c3-a3bb-d888e9d3f6cf",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "401466"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1d96a50b-d9eb-47a2-aceb-2e38bcf169d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "1d96a50b-d9eb-47a2-aceb-2e38bcf169d4",
+                    "title": "Golden Slumbers / Carry That Weight / The End",
+                    "length": "331000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f56425fe-2f11-4a37-a3e5-ebbd9e5822a5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "f56425fe-2f11-4a37-a3e5-ebbd9e5822a5",
+                    "title": "Golden Slumbers / Carry That Weight / The End (medley)",
+                    "video": "true"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6000d095-f751-4f72-bd2b-f4c9469689be",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6000d095-f751-4f72-bd2b-f4c9469689be",
+                    "title": "Golden Slumbers and Carry That Weight",
+                    "length": "330000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66d69ad0-1d6e-44f2-9ef3-8eb7b59b6694",
+                "direction": "backward",
+                "attribute-list": [
+                    "medley"
+                ],
+                "recording": {
+                    "id": "66d69ad0-1d6e-44f2-9ef3-8eb7b59b6694",
+                    "title": "Golden Slumbers, Carry That Weight, the End"
+                },
+                "attributes": [
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "7b98f195-ab54-4564-b2f9-2f756f1ba649",
+                    "title": "Suite Charlotte Pike / Abbey Road",
+                    "length": "1888840"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-carry-that-weight-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/6099",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=205",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q1045409",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "5494219d-0992-45b7-8c62-71269ab9024f",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "5494219d-0992-45b7-8c62-71269ab9024f",
+                    "type": "Song",
+                    "title": "Carry That Weight",
+                    "language": "jpn",
+                    "disambiguation": "Japanese version"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "f8b41e8f-5001-49b1-a934-24632d1c9310",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "f8b41e8f-5001-49b1-a934-24632d1c9310",
+                    "type": "Song",
+                    "title": "Das tr\u00e4gst du lange mit dir",
+                    "language": "deu",
+                    "disambiguation": "Carry That Weight"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}

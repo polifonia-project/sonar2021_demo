@@ -1,0 +1,992 @@
+{
+    "work": {
+        "id": "100862f7-6e9b-3487-ac59-20eb9652dce9",
+        "type": "Song",
+        "title": "It\u2019s Only Love",
+        "language": "eng",
+        "iswc": "T-010.436.838-8",
+        "iswc-list": [
+            "T-010.436.838-8"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 225 46"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12239077"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "76101721000"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "32.391"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366446"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366446"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "11899087"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "212635"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3271215"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "017137602"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 347 383 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001619100"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "39738R"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634640-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "29148"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "6965909"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11233012"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000055613"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390203966"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02049555"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "152492"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243443"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "9155301"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6215314"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "4031405"
+            },
+            {
+                "attribute": "Key",
+                "value": "C major"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "746898"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "That's a Nice Hat",
+                "alias": "That's a Nice Hat"
+            },
+            {
+                "sort-name": "That's a Nice Hat (Cap)",
+                "alias": "That's a Nice Hat (Cap)"
+            }
+        ],
+        "alias-count": 2,
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                },
+                "target-credit": "Northern Songs"
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14e79bb3-ebb0-4372-9736-9230fdbaca02",
+                "direction": "backward",
+                "begin": "1965-06-15",
+                "end": "1965-06-15",
+                "ended": "true",
+                "recording": {
+                    "id": "14e79bb3-ebb0-4372-9736-9230fdbaca02",
+                    "title": "It\u2019s Only Love",
+                    "length": "118800",
+                    "disambiguation": "1987 remix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15a79168-91d7-4580-881e-9e3d63ce52cf",
+                "direction": "backward",
+                "begin": "1965-06-15",
+                "end": "1965-06-15",
+                "ended": "true",
+                "recording": {
+                    "id": "15a79168-91d7-4580-881e-9e3d63ce52cf",
+                    "title": "It\u2019s Only Love",
+                    "length": "118800",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "980a8ae7-4191-4be5-a9b3-4ab741c6327b",
+                "direction": "backward",
+                "begin": "1965-06-15",
+                "end": "1965-06-15",
+                "ended": "true",
+                "recording": {
+                    "id": "980a8ae7-4191-4be5-a9b3-4ab741c6327b",
+                    "title": "It\u2019s Only Love",
+                    "length": "118800",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b401c05f-012e-42d0-a7d3-cc534b4efeaf",
+                "direction": "backward",
+                "begin": "1965-06-15",
+                "end": "1965-06-15",
+                "ended": "true",
+                "recording": {
+                    "id": "b401c05f-012e-42d0-a7d3-cc534b4efeaf",
+                    "title": "It\u2019s Only Love",
+                    "length": "118333",
+                    "disambiguation": "take 2 preceded by false start from take 3"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "477ebba8-bfc3-4ab9-b25e-2f4d24d39e5f",
+                "direction": "backward",
+                "begin": "1973",
+                "end": "1976",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "477ebba8-bfc3-4ab9-b25e-2f4d24d39e5f",
+                    "title": "It\u2019s Only Love",
+                    "length": "229800"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "505e350b-c1aa-4d51-ad31-a996433915a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "505e350b-c1aa-4d51-ad31-a996433915a1",
+                    "title": "It's Only Love",
+                    "length": "192773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f423ede7-53b0-4245-8ef5-ef49afd260b4",
+                "direction": "backward",
+                "recording": {
+                    "id": "f423ede7-53b0-4245-8ef5-ef49afd260b4",
+                    "title": "It's Only Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03967011-6686-4fdf-b404-e79bb2ab34d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "03967011-6686-4fdf-b404-e79bb2ab34d1",
+                    "title": "It's Only Love",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a79c67bb-f475-474a-9696-5c5a7bfd2bca",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a79c67bb-f475-474a-9696-5c5a7bfd2bca",
+                    "title": "It's Only Love",
+                    "length": "115647"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40f202b6-64b8-4797-99b0-c184a2912b34",
+                "direction": "backward",
+                "recording": {
+                    "id": "40f202b6-64b8-4797-99b0-c184a2912b34",
+                    "title": "It's Only Love",
+                    "length": "119000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b75c73f9-1aed-4ccc-986a-38fa4825a320",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b75c73f9-1aed-4ccc-986a-38fa4825a320",
+                    "title": "It's Only Love",
+                    "length": "170000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "91cc6768-60a5-498d-9b4e-78bc144dc863",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "91cc6768-60a5-498d-9b4e-78bc144dc863",
+                    "title": "It's Only Love",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "98b1c6a6-e6bf-4892-8aa2-a256ea6a1adb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "98b1c6a6-e6bf-4892-8aa2-a256ea6a1adb",
+                    "title": "It's Only Love",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "80a62548-cdad-4382-b438-b68da7ee3fcc",
+                "direction": "backward",
+                "recording": {
+                    "id": "80a62548-cdad-4382-b438-b68da7ee3fcc",
+                    "title": "It's Only Love",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "93c1e32c-bbaf-48fb-9ec2-ad4e82bc3713",
+                "direction": "backward",
+                "recording": {
+                    "id": "93c1e32c-bbaf-48fb-9ec2-ad4e82bc3713",
+                    "title": "It's Only Love",
+                    "length": "116533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92029b2d-45e3-4ff4-b0d7-dbf87c5850ec",
+                "direction": "backward",
+                "recording": {
+                    "id": "92029b2d-45e3-4ff4-b0d7-dbf87c5850ec",
+                    "title": "It's Only Love",
+                    "length": "116480"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "757cf119-6144-4713-8136-449d12391b33",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "757cf119-6144-4713-8136-449d12391b33",
+                    "title": "It's Only Love",
+                    "length": "239000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8e11cf5-db2b-486f-bbc2-08929bbc345a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8e11cf5-db2b-486f-bbc2-08929bbc345a",
+                    "title": "It's Only Love",
+                    "length": "208506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cbe95ac-8013-4c9b-83bb-8866028fda4f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8cbe95ac-8013-4c9b-83bb-8866028fda4f",
+                    "title": "It's Only Love",
+                    "length": "176453"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20036ea5-6765-4b76-90a2-9b780eaa36ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "20036ea5-6765-4b76-90a2-9b780eaa36ad",
+                    "title": "It's Only Love",
+                    "length": "193000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f75993cd-c91b-469a-bd1f-910f3dff6085",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f75993cd-c91b-469a-bd1f-910f3dff6085",
+                    "title": "It's Only Love",
+                    "length": "122000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f16ef0d3-7e9f-4542-b2d8-1af968e2e800",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f16ef0d3-7e9f-4542-b2d8-1af968e2e800",
+                    "title": "It's Only Love",
+                    "length": "134226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71907498-d1c8-4856-857a-a8a8ae81d476",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "71907498-d1c8-4856-857a-a8a8ae81d476",
+                    "title": "It's Only Love",
+                    "length": "284560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0d1cf45-fcac-477d-9ab7-0fa1fa32c60a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f0d1cf45-fcac-477d-9ab7-0fa1fa32c60a",
+                    "title": "It's Only Love",
+                    "length": "177000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f885bed9-5187-4df9-a081-62dc9468aee9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "f885bed9-5187-4df9-a081-62dc9468aee9",
+                    "title": "It's Only Love",
+                    "length": "114000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "570ff287-7e84-429f-958e-6a60fe31dbce",
+                "direction": "backward",
+                "recording": {
+                    "id": "570ff287-7e84-429f-958e-6a60fe31dbce",
+                    "title": "It's Only Love (RM1 Take 6)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f9f1ace9-6a6a-4544-8ec3-864a073d7379",
+                "direction": "backward",
+                "recording": {
+                    "id": "f9f1ace9-6a6a-4544-8ec3-864a073d7379",
+                    "title": "It's Only Love (RS1 Take 6)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc9cc4f9-1178-44c5-96d2-35c4c27f1666",
+                "direction": "backward",
+                "recording": {
+                    "id": "cc9cc4f9-1178-44c5-96d2-35c4c27f1666",
+                    "title": "It's Only Love (take 2, RS '95)",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0e372af-942d-4781-ba30-3af033f69e61",
+                "direction": "backward",
+                "recording": {
+                    "id": "d0e372af-942d-4781-ba30-3af033f69e61",
+                    "title": "It's Only Love (take 2)",
+                    "length": "117974"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8c3e1b1-01bd-4cf8-9f7a-3aa777c0df29",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8c3e1b1-01bd-4cf8-9f7a-3aa777c0df29",
+                    "title": "It's Only Love (take 2)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "678b8d46-252b-4c6f-8fc5-e56932189435",
+                "direction": "backward",
+                "recording": {
+                    "id": "678b8d46-252b-4c6f-8fc5-e56932189435",
+                    "title": "It's Only Love (take 2)",
+                    "length": "114000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a73fe0ea-b36e-4719-addf-01784f49e2d6",
+                "direction": "backward",
+                "recording": {
+                    "id": "a73fe0ea-b36e-4719-addf-01784f49e2d6",
+                    "title": "It's Only Love (take 3, RS '95)",
+                    "length": "9000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bed2370-e25f-4415-9843-4eb663d86b7e",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bed2370-e25f-4415-9843-4eb663d86b7e",
+                    "title": "It's Only Love (take 3)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57421a3a-3bfe-41c6-8e3a-f2597686bf09",
+                "direction": "backward",
+                "recording": {
+                    "id": "57421a3a-3bfe-41c6-8e3a-f2597686bf09",
+                    "title": "It\u2019s Only Love",
+                    "length": "117546"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "18bda2a9-3146-4845-829a-390c1592425c",
+                "direction": "backward",
+                "recording": {
+                    "id": "18bda2a9-3146-4845-829a-390c1592425c",
+                    "title": "It\u2019s Only Love",
+                    "length": "157000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "37b22f3e-4f2c-412e-a784-24404d9fa40b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "37b22f3e-4f2c-412e-a784-24404d9fa40b",
+                    "title": "It\u2019s Only Love",
+                    "length": "116000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2261b1c6-a552-4a83-81ce-6d6ad064945f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2261b1c6-a552-4a83-81ce-6d6ad064945f",
+                    "title": "It\u2019s Only Love"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16e13e5d-a4b1-4047-b28c-77a3e3e9ed47",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "16e13e5d-a4b1-4047-b28c-77a3e3e9ed47",
+                    "title": "It\u2019s Only Love",
+                    "length": "186000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9343d0f7-8c3b-4517-a0f3-d805e81c4772",
+                "direction": "backward",
+                "recording": {
+                    "id": "9343d0f7-8c3b-4517-a0f3-d805e81c4772",
+                    "title": "It\u2019s Only Love",
+                    "length": "115000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "87dc2e58-cf84-4939-ab07-d4b0dd161a21",
+                "direction": "backward",
+                "recording": {
+                    "id": "87dc2e58-cf84-4939-ab07-d4b0dd161a21",
+                    "title": "It\u2019s Only Love",
+                    "length": "117000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19e9b0e7-0b91-4b7c-9058-27f21af449bb",
+                "direction": "backward",
+                "recording": {
+                    "id": "19e9b0e7-0b91-4b7c-9058-27f21af449bb",
+                    "title": "It\u2019s Only Love",
+                    "length": "116000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5b27042-d4d6-49cd-8f59-ba84519614e1",
+                "direction": "backward",
+                "recording": {
+                    "id": "a5b27042-d4d6-49cd-8f59-ba84519614e1",
+                    "title": "It\u2019s Only Love"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb689577-17cf-4f27-89be-e20b55256f85",
+                "direction": "backward",
+                "recording": {
+                    "id": "fb689577-17cf-4f27-89be-e20b55256f85",
+                    "title": "It\u2019s Only Love",
+                    "length": "117000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "34938192-b6c8-4dae-a338-77333fc25414",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "34938192-b6c8-4dae-a338-77333fc25414",
+                    "title": "It\u2019s Only Love",
+                    "length": "194768"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8180b59-5b3d-4c1c-afb5-c0216388563a",
+                "direction": "backward",
+                "recording": {
+                    "id": "a8180b59-5b3d-4c1c-afb5-c0216388563a",
+                    "title": "It\u2019s Only Love",
+                    "length": "117040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba976061-ed56-44f7-b768-5aa03f04328c",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba976061-ed56-44f7-b768-5aa03f04328c",
+                    "title": "It\u2019s Only Love",
+                    "length": "113000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b6204acf-14f2-4dc8-a19a-c6f250a8c38d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b6204acf-14f2-4dc8-a19a-c6f250a8c38d",
+                    "title": "It\u2019s Only Love",
+                    "length": "161626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3866fb09-352c-4d1f-9562-36d6970fca21",
+                "direction": "backward",
+                "recording": {
+                    "id": "3866fb09-352c-4d1f-9562-36d6970fca21",
+                    "title": "It\u2019s Only Love (stereo)",
+                    "length": "120000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "49f81a3f-b158-4c30-af43-4f98d7a0d09a",
+                "direction": "backward",
+                "recording": {
+                    "id": "49f81a3f-b158-4c30-af43-4f98d7a0d09a",
+                    "title": "It\u00eds Only Love (take 3)",
+                    "length": "4000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "571e9721-0195-45a3-b8fb-743ecb92d4e2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "571e9721-0195-45a3-b8fb-743ecb92d4e2",
+                    "title": "That's a Nice Hat (Cap)",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0010100355",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-its-only-love-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/10381",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=78",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2454985",
+                "direction": "backward"
+            }
+        ]
+    }
+}

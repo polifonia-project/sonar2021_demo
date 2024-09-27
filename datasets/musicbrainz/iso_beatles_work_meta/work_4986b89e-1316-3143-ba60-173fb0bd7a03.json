@@ -1,0 +1,1363 @@
+{
+    "work": {
+        "id": "4986b89e-1316-3143-ba60-173fb0bd7a03",
+        "type": "Song",
+        "title": "Octopus\u2019s Garden",
+        "language": "eng",
+        "iswc": "T-010.029.771-9",
+        "iswc-list": [
+            "T-010.029.771-9"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "BMI ID",
+                "value": "1098740"
+            },
+            {
+                "attribute": "JASRAC ID",
+                "value": "0O0-7021-3"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "2735LR"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW00978122"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "450095004"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "823089-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "1013837"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "66 432 250 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "003993200"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5267592"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "312292"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "9233241"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "9913080"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000171 700 19"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "61.482"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "816275"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5008490"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12349477"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3269474"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "19148901"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9002069"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "705953"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "705953"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "018362494"
+            }
+        ],
+        "alias-list": [
+            {
+                "sort-name": "Octopus's Garden",
+                "alias": "Octopus's Garden"
+            }
+        ],
+        "alias-count": 1,
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                "direction": "backward",
+                "artist": {
+                    "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                    "type": "Person",
+                    "name": "Ringo Starr",
+                    "sort-name": "Starr, Ringo",
+                    "disambiguation": "The Beatles"
+                },
+                "target-credit": "Richard Starkey"
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                "direction": "backward",
+                "artist": {
+                    "id": "300c4c73-33ac-4255-9d57-4e32627f5e13",
+                    "type": "Person",
+                    "name": "Ringo Starr",
+                    "sort-name": "Starr, Ringo",
+                    "disambiguation": "The Beatles"
+                },
+                "target-credit": "Richard Starkey"
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7b5c7738-687b-4e6f-a8b5-bf601658d293",
+                "direction": "backward",
+                "label": {
+                    "id": "7b5c7738-687b-4e6f-a8b5-bf601658d293",
+                    "type": "Publisher",
+                    "name": "BMG Platinum Songs US",
+                    "sort-name": "BMG Platinum Songs US"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "ccb6feec-33d8-4ae9-9d5f-8924197a52ad",
+                "direction": "backward",
+                "label": {
+                    "id": "ccb6feec-33d8-4ae9-9d5f-8924197a52ad",
+                    "name": "Eaton Music Limited",
+                    "sort-name": "Eaton Music Limited"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "17820072-8509-47f7-b411-9022c291308c",
+                "direction": "backward",
+                "label": {
+                    "id": "17820072-8509-47f7-b411-9022c291308c",
+                    "type": "Publisher",
+                    "name": "Startling Music Ltd.",
+                    "sort-name": "Startling Music Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7404660f-63b8-4fde-8fd3-280a26b20dba",
+                "direction": "backward",
+                "label": {
+                    "id": "7404660f-63b8-4fde-8fd3-280a26b20dba",
+                    "type": "Publisher",
+                    "name": "\u30d5\u30b8\u30d1\u30b7\u30d5\u30a3\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af BMG\u4e8b\u696d\u90e8",
+                    "sort-name": "\u30d5\u30b8\u30d1\u30b7\u30d5\u30a3\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af BMG\u4e8b\u696d\u90e8"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca4dcd15-c988-47ef-8fa0-345df038b2d5",
+                "direction": "backward",
+                "begin": "1969-01-06",
+                "end": "1969-01-06",
+                "ended": "true",
+                "attribute-list": [
+                    "partial"
+                ],
+                "recording": {
+                    "id": "ca4dcd15-c988-47ef-8fa0-345df038b2d5",
+                    "title": "Octopus's Garden / Carry That Weight 6.13",
+                    "length": "42000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "54f5a7e2-6ba1-4abb-8242-87a4b772d393",
+                "direction": "backward",
+                "begin": "1969-04-26",
+                "end": "1969-04-26",
+                "ended": "true",
+                "recording": {
+                    "id": "54f5a7e2-6ba1-4abb-8242-87a4b772d393",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "169000",
+                    "disambiguation": "takes 2 and 8"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8efe94a2-587a-42b3-a095-fe7be2463a04",
+                "direction": "backward",
+                "begin": "1969-04-26",
+                "end": "1969-04-26",
+                "ended": "true",
+                "recording": {
+                    "id": "8efe94a2-587a-42b3-a095-fe7be2463a04",
+                    "title": "Octopus\u2019s Garden (take 9)",
+                    "length": "103000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15127932-c879-466e-b0f8-a1c5022d16e7",
+                "direction": "backward",
+                "begin": "1969-04-26",
+                "end": "1969-07-19",
+                "ended": "true",
+                "recording": {
+                    "id": "15127932-c879-466e-b0f8-a1c5022d16e7",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "171000",
+                    "disambiguation": "original studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb4f30d9-69e8-4951-a00a-1c421071483f",
+                "direction": "backward",
+                "begin": "1969-10-22",
+                "end": "1969-11-05",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb4f30d9-69e8-4951-a00a-1c421071483f",
+                    "title": "Something / Octopus\u2019s Garden / The End",
+                    "length": "382467"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a5a7755e-55cd-4190-a885-524121b2cbdf",
+                "direction": "backward",
+                "begin": "2005-08-25",
+                "end": "2005-08-25",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "a5a7755e-55cd-4190-a885-524121b2cbdf",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "189000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a74f901b-4348-4133-adc5-484f0cbe3e9a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a74f901b-4348-4133-adc5-484f0cbe3e9a",
+                    "title": "Octopus' Garden",
+                    "length": "171595"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6cf7eaf4-a3ac-4d9e-9594-bc1afea1005b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6cf7eaf4-a3ac-4d9e-9594-bc1afea1005b",
+                    "title": "Octopus's Garden",
+                    "length": "171000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "da9ff7ac-a20b-4baf-94f1-166dee812df9",
+                "direction": "backward",
+                "recording": {
+                    "id": "da9ff7ac-a20b-4baf-94f1-166dee812df9",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0299b374-e3e6-4643-9fcb-587ec11ccf46",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0299b374-e3e6-4643-9fcb-587ec11ccf46",
+                    "title": "Octopus's Garden",
+                    "length": "198000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "621b21b3-17cc-4e5b-bbc2-56f732b9f627",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "621b21b3-17cc-4e5b-bbc2-56f732b9f627",
+                    "title": "Octopus's Garden",
+                    "length": "93000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8a01d97-7461-4af3-aa6d-e4ca1389b58f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d8a01d97-7461-4af3-aa6d-e4ca1389b58f",
+                    "title": "Octopus's Garden",
+                    "length": "165175"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fb39ed7c-e7dd-411c-b77d-98de9244659e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fb39ed7c-e7dd-411c-b77d-98de9244659e",
+                    "title": "Octopus's Garden",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24e66e0b-ecf8-4f70-a4a3-f1556fbd0042",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "24e66e0b-ecf8-4f70-a4a3-f1556fbd0042",
+                    "title": "Octopus's Garden",
+                    "length": "169000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "05f70925-73fb-45ea-8244-cf7f3280a154",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "05f70925-73fb-45ea-8244-cf7f3280a154",
+                    "title": "Octopus's Garden",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ed05500b-e754-4eb0-a968-ab402e3f8b55",
+                "direction": "backward",
+                "recording": {
+                    "id": "ed05500b-e754-4eb0-a968-ab402e3f8b55",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0ae22ca0-0ab2-4b17-9b93-c0a93cf006e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "0ae22ca0-0ab2-4b17-9b93-c0a93cf006e5",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "97186a4f-4a6d-40ca-9244-810dd98d130c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "97186a4f-4a6d-40ca-9244-810dd98d130c",
+                    "title": "Octopus's Garden",
+                    "length": "182200"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3f712f1-fca7-4b1c-b515-a3397d1d29d4",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3f712f1-fca7-4b1c-b515-a3397d1d29d4",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8cbfd041-df20-477a-bec5-ee3c46dd4ffa",
+                "direction": "backward",
+                "recording": {
+                    "id": "8cbfd041-df20-477a-bec5-ee3c46dd4ffa",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e45e1e5-1350-450c-b844-eb86e2572c3d",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e45e1e5-1350-450c-b844-eb86e2572c3d",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "02614cd1-f227-4ccc-8d07-284d1474e6e0",
+                "direction": "backward",
+                "recording": {
+                    "id": "02614cd1-f227-4ccc-8d07-284d1474e6e0",
+                    "title": "Octopus's Garden",
+                    "length": "64000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4f7ea2d0-aef6-41fb-8231-1a5160c6d1d3",
+                "direction": "backward",
+                "recording": {
+                    "id": "4f7ea2d0-aef6-41fb-8231-1a5160c6d1d3",
+                    "title": "Octopus's Garden",
+                    "length": "173000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c173b701-1f4c-4222-96f4-5a71d659687c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c173b701-1f4c-4222-96f4-5a71d659687c",
+                    "title": "Octopus's Garden",
+                    "length": "169200"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0760ab79-4d81-44c5-9cfe-2f91dd69fc0e",
+                "direction": "backward",
+                "recording": {
+                    "id": "0760ab79-4d81-44c5-9cfe-2f91dd69fc0e",
+                    "title": "Octopus's Garden",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac2624c0-f54e-4868-a642-e81535b21476",
+                "direction": "backward",
+                "recording": {
+                    "id": "ac2624c0-f54e-4868-a642-e81535b21476",
+                    "title": "Octopus's Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "15b25396-0b37-4f16-9b89-26824abb8bb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "15b25396-0b37-4f16-9b89-26824abb8bb5",
+                    "title": "Octopus's Garden",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf1ff39a-0669-4a5b-9a2f-69724cab6626",
+                "direction": "backward",
+                "recording": {
+                    "id": "cf1ff39a-0669-4a5b-9a2f-69724cab6626",
+                    "title": "Octopus's Garden",
+                    "length": "165546"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "379457c7-5589-4c29-980a-fde343074102",
+                "direction": "backward",
+                "recording": {
+                    "id": "379457c7-5589-4c29-980a-fde343074102",
+                    "title": "Octopus's Garden",
+                    "length": "186000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "324dd164-d547-45f1-ae9f-3d3c19949812",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "324dd164-d547-45f1-ae9f-3d3c19949812",
+                    "title": "Octopus's Garden",
+                    "length": "265000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a589f04e-96ce-4cc8-9872-adcd17eb8ed7",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a589f04e-96ce-4cc8-9872-adcd17eb8ed7",
+                    "title": "Octopus's Garden",
+                    "length": "194000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0cd9f1cd-e885-44a6-a342-c1cacbb7cfbc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0cd9f1cd-e885-44a6-a342-c1cacbb7cfbc",
+                    "title": "Octopus's Garden",
+                    "length": "175960"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12f5c71a-d279-4000-86d9-5b9085551754",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "12f5c71a-d279-4000-86d9-5b9085551754",
+                    "title": "Octopus's Garden",
+                    "length": "143946"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "78e2a6cd-aaaf-43f0-8072-6af03b6db0ad",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "78e2a6cd-aaaf-43f0-8072-6af03b6db0ad",
+                    "title": "Octopus's Garden",
+                    "length": "113000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ddb0f4c-058e-44e1-a880-f5902cf0e4b5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ddb0f4c-058e-44e1-a880-f5902cf0e4b5",
+                    "title": "Octopus's Garden",
+                    "length": "110000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4ae6c62b-1473-4bab-8d0c-3f01942a83f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "4ae6c62b-1473-4bab-8d0c-3f01942a83f9",
+                    "title": "Octopus's Garden",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e32421c4-4836-4cb1-b8e5-108d32a1d4f2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e32421c4-4836-4cb1-b8e5-108d32a1d4f2",
+                    "title": "Octopus's Garden",
+                    "length": "161000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "16fd6179-ef34-41b2-84d0-5bf44f13a1c4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "16fd6179-ef34-41b2-84d0-5bf44f13a1c4",
+                    "title": "Octopus's Garden",
+                    "length": "187293"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fff9bc51-5eaa-4cb6-96ec-be1cd424f981",
+                "direction": "backward",
+                "recording": {
+                    "id": "fff9bc51-5eaa-4cb6-96ec-be1cd424f981",
+                    "title": "Octopus's Garden (1969-12-02: George Martin TV Special )",
+                    "length": "171226"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1a420189-386b-49be-b2bf-1dba47337bc1",
+                "direction": "backward",
+                "recording": {
+                    "id": "1a420189-386b-49be-b2bf-1dba47337bc1",
+                    "title": "Octopus's Garden (Alternate Mix)",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c697b7f-7da8-4f28-ac0b-a618cbf59a0d",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c697b7f-7da8-4f28-ac0b-a618cbf59a0d",
+                    "title": "Octopus's Garden (early 'basic track' mix)",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3bcf0442-c4cc-46f8-a44f-97bd32e09340",
+                "direction": "backward",
+                "recording": {
+                    "id": "3bcf0442-c4cc-46f8-a44f-97bd32e09340",
+                    "title": "Octopus's Garden (Get Back session)",
+                    "length": "51000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9d27a046-d29d-4b8f-8c2a-cec4bd679454",
+                "direction": "backward",
+                "recording": {
+                    "id": "9d27a046-d29d-4b8f-8c2a-cec4bd679454",
+                    "title": "Octopus's Garden (Get Back session)",
+                    "length": "836000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "19f84ae7-ca01-4960-a4c0-27abc9f7901d",
+                "direction": "backward",
+                "recording": {
+                    "id": "19f84ae7-ca01-4960-a4c0-27abc9f7901d",
+                    "title": "Octopus's Garden (Get Back session)",
+                    "length": "93000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f0cc78ff-d4fd-4c3d-bc8d-81277ea0eeda",
+                "direction": "backward",
+                "recording": {
+                    "id": "f0cc78ff-d4fd-4c3d-bc8d-81277ea0eeda",
+                    "title": "Octopus's Garden (Mono)",
+                    "length": "188000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13632910-6f29-4c13-8d22-17ba34830eb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "13632910-6f29-4c13-8d22-17ba34830eb5",
+                    "title": "Octopus's Garden (Remix for George Martin IBA Net X-mas Eve Special, Dec '69)",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b8401b79-8f44-4efa-aec0-9e2abee499f1",
+                "direction": "backward",
+                "recording": {
+                    "id": "b8401b79-8f44-4efa-aec0-9e2abee499f1",
+                    "title": "Octopus's Garden (take 2, RS'95)",
+                    "length": "170400"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df35d4ab-1e70-441c-8e54-f8e4cf0ecdfc",
+                "direction": "backward",
+                "recording": {
+                    "id": "df35d4ab-1e70-441c-8e54-f8e4cf0ecdfc",
+                    "title": "Octopus's Garden (take 2)",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "276e4f35-4859-45cd-8677-75b176686fc6",
+                "direction": "backward",
+                "recording": {
+                    "id": "276e4f35-4859-45cd-8677-75b176686fc6",
+                    "title": "Octopus's Garden (take 2)",
+                    "length": "169000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c81bd194-7fbd-4b40-a5fc-c08be762e97c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c81bd194-7fbd-4b40-a5fc-c08be762e97c",
+                    "title": "Octopus's Garden (Take 2)",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "903ef05d-b0f5-40f6-a18a-24592c8fe9bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "903ef05d-b0f5-40f6-a18a-24592c8fe9bd",
+                    "title": "Octopus's Garden (Take 10 of S1 onto Take 32, new RS2)",
+                    "length": "168453"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "75407c90-7ea6-4e0b-8430-3706bb21bed1",
+                "direction": "backward",
+                "recording": {
+                    "id": "75407c90-7ea6-4e0b-8430-3706bb21bed1",
+                    "title": "Octopus's Garden (take 32)",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c4926500-3d46-4bf9-a178-94aede92932e",
+                "direction": "backward",
+                "recording": {
+                    "id": "c4926500-3d46-4bf9-a178-94aede92932e",
+                    "title": "Octopus's Garden (Take 32)",
+                    "length": "170000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d755c109-006d-4f30-992f-d4c86f7ea521",
+                "direction": "backward",
+                "recording": {
+                    "id": "d755c109-006d-4f30-992f-d4c86f7ea521",
+                    "title": "Octopus's Garden (vocals only)",
+                    "length": "156666"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0267982b-bc87-45f6-9374-59761c34687b",
+                "direction": "backward",
+                "recording": {
+                    "id": "0267982b-bc87-45f6-9374-59761c34687b",
+                    "title": "Octopus's Garden 23.01",
+                    "length": "112000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "77aeeed3-f1e7-4fe4-b011-f2d267ee4b4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "77aeeed3-f1e7-4fe4-b011-f2d267ee4b4e",
+                    "title": "Octopus\u2019 Garden",
+                    "length": "203102"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7ccf653-93a4-40cf-9f34-ceec6a1c9c98",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c7ccf653-93a4-40cf-9f34-ceec6a1c9c98",
+                    "title": "octopus\u2019s garden",
+                    "length": "152000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b00dbaea-565c-4e8c-b864-e765e6e8f22a",
+                "direction": "backward",
+                "recording": {
+                    "id": "b00dbaea-565c-4e8c-b864-e765e6e8f22a",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "170800",
+                    "disambiguation": "2019 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1f841ef-868f-4263-8cec-1eaedbc2537d",
+                "direction": "backward",
+                "recording": {
+                    "id": "c1f841ef-868f-4263-8cec-1eaedbc2537d",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "172000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "868e38d3-62e3-4e64-9fd2-277263623172",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "868e38d3-62e3-4e64-9fd2-277263623172",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "173026"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c3f6020d-7a15-4777-a4bf-3c5b02d8ed95",
+                "direction": "backward",
+                "recording": {
+                    "id": "c3f6020d-7a15-4777-a4bf-3c5b02d8ed95",
+                    "title": "Octopus\u2019s Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "70d65799-03e6-4b08-84db-9991aa1e2a10",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "70d65799-03e6-4b08-84db-9991aa1e2a10",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "234000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d0e8afdf-9157-4064-800e-225f8eddda27",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d0e8afdf-9157-4064-800e-225f8eddda27",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "196000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b848c886-86fd-4fe5-b332-9cdc52cfe3ab",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b848c886-86fd-4fe5-b332-9cdc52cfe3ab",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "167000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "12a3f2c4-c183-489c-a40e-5b2f9d2a87de",
+                "direction": "backward",
+                "recording": {
+                    "id": "12a3f2c4-c183-489c-a40e-5b2f9d2a87de",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "199000",
+                    "disambiguation": "Love version, 5.1 mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5c16a23f-8ff5-477b-acb1-7c592eae3ca8",
+                "direction": "backward",
+                "recording": {
+                    "id": "5c16a23f-8ff5-477b-acb1-7c592eae3ca8",
+                    "title": "Octopus\u2019s Garden"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cb457249-16fb-45e3-ab18-904f449f8a06",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cb457249-16fb-45e3-ab18-904f449f8a06",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9ae7736e-cb89-4bdc-b24b-d5eac5914fed",
+                "direction": "backward",
+                "recording": {
+                    "id": "9ae7736e-cb89-4bdc-b24b-d5eac5914fed",
+                    "title": "Octopus\u2019s Garden",
+                    "length": "173186"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03b8db89-eeb7-43bb-a4c7-cd7b071a9c3f",
+                "direction": "backward",
+                "recording": {
+                    "id": "03b8db89-eeb7-43bb-a4c7-cd7b071a9c3f",
+                    "title": "Octopus\u2019s Garden (5.1 mix)",
+                    "length": "171000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5cfbf434-22f7-4157-88a7-532c8241a0e4",
+                "direction": "backward",
+                "recording": {
+                    "id": "5cfbf434-22f7-4157-88a7-532c8241a0e4",
+                    "title": "Octopus\u00b4s Garden (Take 32)",
+                    "length": "166266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "24e5b207-ad16-4977-acfc-4c15f670b5ac",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "24e5b207-ad16-4977-acfc-4c15f670b5ac",
+                    "title": "Octpus's Garden",
+                    "length": "147000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14e0560c-8664-429d-a917-c167a575daa5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "14e0560c-8664-429d-a917-c167a575daa5",
+                    "title": "Whatever - Octopus's Garden (Oasis Sing the Beatles)",
+                    "length": "359986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-octopuss-garden-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/29150",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "https://www.songfacts.com/facts/the-beatles/octopuss-garden",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q210389",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "8e47d4e3-35b0-475e-be02-105face50f32",
+                "direction": "forward",
+                "work": {
+                    "id": "8e47d4e3-35b0-475e-be02-105face50f32",
+                    "type": "Song",
+                    "title": "Octopus\u2019s Garden (Love version)",
+                    "language": "eng",
+                    "iswc": "T-900.200.820-0",
+                    "iswc-list": [
+                        "T-900.200.820-0"
+                    ]
+                }
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "806ea0b5-6434-4227-8ed0-aad9fa09b645",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "806ea0b5-6434-4227-8ed0-aad9fa09b645",
+                    "type": "Song",
+                    "title": "Shao-Lin Temple Garden",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            }
+        ]
+    }
+}

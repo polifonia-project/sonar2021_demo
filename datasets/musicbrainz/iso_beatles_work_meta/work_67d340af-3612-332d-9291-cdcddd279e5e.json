@@ -1,0 +1,970 @@
+{
+    "work": {
+        "id": "67d340af-3612-332d-9291-cdcddd279e5e",
+        "type": "Song",
+        "title": "I\u2019ll Cry Instead",
+        "language": "eng",
+        "iswc": "T-010.163.145-1",
+        "iswc-list": [
+            "T-010.163.145-1"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "SUISA ID",
+                "value": "000015 214 51"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "5356"
+            },
+            {
+                "attribute": "SOCAN ID",
+                "value": "12208161"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "75100163300"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "29.001"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "1366478"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "1366478"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "211289"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3963570"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "008872178"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 197 455 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "001095000"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "12658E"
+            },
+            {
+                "attribute": "GEMA ID",
+                "value": "634312-001"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "25089"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "5838128"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "11269692"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000050692"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "908961053"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "390194020"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW02891457"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "9334556"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "5243372"
+            },
+            {
+                "attribute": "AKM ID",
+                "value": "3876601"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "6352023"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "5030983"
+            },
+            {
+                "attribute": "Key",
+                "value": "G major"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                "direction": "backward",
+                "label": {
+                    "id": "b22f78f8-4a2a-408f-aa77-7b32ee95e83c",
+                    "type": "Publisher",
+                    "name": "Blackwood Music Inc.",
+                    "sort-name": "Blackwood Music Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                "direction": "backward",
+                "label": {
+                    "id": "7f453876-4c71-4bb3-86ae-c318efbfb0a0",
+                    "type": "Publisher",
+                    "name": "Maclen Music, Inc.",
+                    "sort-name": "Maclen Music, Inc."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "26df054d-78cf-4d83-9bb1-a41816125528",
+                "direction": "backward",
+                "label": {
+                    "id": "26df054d-78cf-4d83-9bb1-a41816125528",
+                    "type": "Publisher",
+                    "name": "Northern Songs Ltd.",
+                    "sort-name": "Northern Songs Ltd."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                "direction": "backward",
+                "label": {
+                    "id": "a744ca38-6e3e-4642-95e1-f6c5738cb156",
+                    "type": "Publisher",
+                    "name": "Sony/ATV Music Publishing LLC",
+                    "sort-name": "Sony/ATV Music Publishing LLC"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "e114b7dd-b5b4-4b46-b93f-d2e05acdec79",
+                "direction": "backward",
+                "label": {
+                    "id": "e114b7dd-b5b4-4b46-b93f-d2e05acdec79",
+                    "type": "Publisher",
+                    "name": "Unart Music Corp.",
+                    "sort-name": "Unart Music Corp."
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d116c032-eb32-4266-9b4a-57311477c44d",
+                "direction": "backward",
+                "begin": "1964-06-01",
+                "end": "1964-06-01",
+                "ended": "true",
+                "recording": {
+                    "id": "d116c032-eb32-4266-9b4a-57311477c44d",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "107733",
+                    "disambiguation": "original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ac06289f-f867-44ce-a2ff-66f6752ef7c9",
+                "direction": "backward",
+                "begin": "1964-06-01",
+                "end": "1964-06-01",
+                "ended": "true",
+                "recording": {
+                    "id": "ac06289f-f867-44ce-a2ff-66f6752ef7c9",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "108000",
+                    "disambiguation": "original stereo studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc8a17e3-6a8e-4497-b346-39c6353ae560",
+                "direction": "backward",
+                "begin": "1964-06-01",
+                "end": "1964-06-01",
+                "ended": "true",
+                "recording": {
+                    "id": "cc8a17e3-6a8e-4497-b346-39c6353ae560",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "126000",
+                    "disambiguation": "1964 US mono mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d9df1ab0-e77d-43b4-8023-7ade02c61321",
+                "direction": "backward",
+                "begin": "1964-07",
+                "end": "1964-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "d9df1ab0-e77d-43b4-8023-7ade02c61321",
+                    "title": "I Cry Instead",
+                    "length": "137000",
+                    "disambiguation": "stereo"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef7bc1d0-c99a-4428-b8fb-0890fe5b86e6",
+                "direction": "backward",
+                "begin": "1964-07",
+                "end": "1964-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ef7bc1d0-c99a-4428-b8fb-0890fe5b86e6",
+                    "title": "I Cry Instead",
+                    "length": "137000",
+                    "disambiguation": "mono"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b0943f5b-44c9-4250-94ef-6fc658be9fd9",
+                "direction": "backward",
+                "begin": "1981",
+                "end": "1981",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "b0943f5b-44c9-4250-94ef-6fc658be9fd9",
+                    "title": "I'll Cry Instead (live, 1981: New York, NY, USA)"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a05eeb4-b42c-452e-bc8c-009df03f4174",
+                "direction": "backward",
+                "begin": "1983",
+                "end": "1983",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "6a05eeb4-b42c-452e-bc8c-009df03f4174",
+                    "title": "I'll Cry Instead",
+                    "length": "144000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "686e4422-d881-4cb5-bbb9-c4e58c9d1d6b",
+                "direction": "backward",
+                "recording": {
+                    "id": "686e4422-d881-4cb5-bbb9-c4e58c9d1d6b",
+                    "title": "I'll Cry Instead",
+                    "length": "105000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "012e3459-b54d-49e9-b48d-d0922d295c5a",
+                "direction": "backward",
+                "recording": {
+                    "id": "012e3459-b54d-49e9-b48d-d0922d295c5a",
+                    "title": "I'll Cry Instead",
+                    "length": "107000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f573d99d-18a3-4b53-bf64-881f8f148a22",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "f573d99d-18a3-4b53-bf64-881f8f148a22",
+                    "title": "I'll Cry Instead",
+                    "length": "171640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "26d76690-9912-437f-915c-6ba6790abae4",
+                "direction": "backward",
+                "recording": {
+                    "id": "26d76690-9912-437f-915c-6ba6790abae4",
+                    "title": "I'll Cry Instead",
+                    "length": "103533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e45b9daa-7699-4f40-8245-c11c259b4101",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e45b9daa-7699-4f40-8245-c11c259b4101",
+                    "title": "I'll Cry Instead",
+                    "length": "162000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "527b6df1-248c-45f9-bc3e-66af5df5b1b4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "527b6df1-248c-45f9-bc3e-66af5df5b1b4",
+                    "title": "I'll Cry Instead",
+                    "length": "142000",
+                    "disambiguation": "live"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5b525f00-4bd6-4bf0-8acf-264a3941a89f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "5b525f00-4bd6-4bf0-8acf-264a3941a89f",
+                    "title": "I'll Cry Instead",
+                    "length": "105000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "262cfdce-e6a5-4d1f-9489-6225cb91b097",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "262cfdce-e6a5-4d1f-9489-6225cb91b097",
+                    "title": "I'll Cry Instead",
+                    "length": "103000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2fa91e23-be10-4a6c-ad73-c84d06a1a805",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2fa91e23-be10-4a6c-ad73-c84d06a1a805",
+                    "title": "I'll Cry Instead",
+                    "length": "201000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe057bca-656a-4601-b700-1ca9c104af4e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "fe057bca-656a-4601-b700-1ca9c104af4e",
+                    "title": "I'll Cry Instead",
+                    "length": "167000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "180b56d2-b051-425e-aa5b-befc6a4b313d",
+                "direction": "backward",
+                "recording": {
+                    "id": "180b56d2-b051-425e-aa5b-befc6a4b313d",
+                    "title": "I'll Cry Instead",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8d6eb70-b9e6-485d-827a-971996708b44",
+                "direction": "backward",
+                "recording": {
+                    "id": "a8d6eb70-b9e6-485d-827a-971996708b44",
+                    "title": "I'll Cry Instead",
+                    "length": "109000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "736cadc3-25b9-46ed-ac34-695612753b2b",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "736cadc3-25b9-46ed-ac34-695612753b2b",
+                    "title": "I'll Cry Instead",
+                    "length": "118000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fbea13ed-97a1-4bbd-9e13-6e401fdf20a0",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fbea13ed-97a1-4bbd-9e13-6e401fdf20a0",
+                    "title": "I'll Cry Instead",
+                    "length": "135000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "107c33f7-8bc8-4f6b-b4a2-2be60005926e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "107c33f7-8bc8-4f6b-b4a2-2be60005926e",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "103186"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f194640-06dd-4b8e-bdf8-21868a15010d",
+                "direction": "backward",
+                "recording": {
+                    "id": "0f194640-06dd-4b8e-bdf8-21868a15010d",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "105920"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c624024-ea65-4441-8e10-b0d8c5476511",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6c624024-ea65-4441-8e10-b0d8c5476511",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "205000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "95ea92f4-64eb-4a56-96d4-c5b767e3d4cd",
+                "direction": "backward",
+                "recording": {
+                    "id": "95ea92f4-64eb-4a56-96d4-c5b767e3d4cd",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "107026"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "32f4addd-2360-4283-925f-390dbd61d2e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "32f4addd-2360-4283-925f-390dbd61d2e5",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "106266"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6696587f-6caa-43ab-b21f-311787191b5c",
+                "direction": "backward",
+                "recording": {
+                    "id": "6696587f-6caa-43ab-b21f-311787191b5c",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "106693"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9f5ded03-8163-4b80-bf36-e769bfb14ae9",
+                "direction": "backward",
+                "recording": {
+                    "id": "9f5ded03-8163-4b80-bf36-e769bfb14ae9",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "131000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58c246b5-e16b-4793-82a3-6b08a602f90e",
+                "direction": "backward",
+                "recording": {
+                    "id": "58c246b5-e16b-4793-82a3-6b08a602f90e",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "107866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fa6c8e72-6198-4b3b-8b0e-4fb936f97587",
+                "direction": "backward",
+                "recording": {
+                    "id": "fa6c8e72-6198-4b3b-8b0e-4fb936f97587",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "128000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3b24dee8-6a4e-4d47-84a8-055cf234aa99",
+                "direction": "backward",
+                "recording": {
+                    "id": "3b24dee8-6a4e-4d47-84a8-055cf234aa99",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "126000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1c13d777-53c6-4b43-a7af-2f0b50b3e7af",
+                "direction": "backward",
+                "recording": {
+                    "id": "1c13d777-53c6-4b43-a7af-2f0b50b3e7af",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "132000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "aa1e5d55-a9e6-4449-be8f-d8605eb6e4c2",
+                "direction": "backward",
+                "recording": {
+                    "id": "aa1e5d55-a9e6-4449-be8f-d8605eb6e4c2",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "123280"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "51f3d02a-0d79-4964-8599-fbd1777c99e7",
+                "direction": "backward",
+                "recording": {
+                    "id": "51f3d02a-0d79-4964-8599-fbd1777c99e7",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "125960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3ea2f504-6e44-4f00-9a70-ff0ffbf42031",
+                "direction": "backward",
+                "recording": {
+                    "id": "3ea2f504-6e44-4f00-9a70-ff0ffbf42031",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "105000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "07a8f501-fb79-4e37-96a3-3b2d45ef84b9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "07a8f501-fb79-4e37-96a3-3b2d45ef84b9",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "157000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "969cd3c3-07d1-48a0-bb9e-e72f2d39daaa",
+                "direction": "backward",
+                "recording": {
+                    "id": "969cd3c3-07d1-48a0-bb9e-e72f2d39daaa",
+                    "title": "I\u2019ll Cry Instead"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "235f9add-e75c-4d00-916c-9b1bdf6ad4ef",
+                "direction": "backward",
+                "recording": {
+                    "id": "235f9add-e75c-4d00-916c-9b1bdf6ad4ef",
+                    "title": "I\u2019ll Cry Instead"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42947835-d6fb-4d14-ab72-ce9113df6522",
+                "direction": "backward",
+                "recording": {
+                    "id": "42947835-d6fb-4d14-ab72-ce9113df6522",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "105946"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57ef7d1a-be06-4e20-a7e7-08e388590505",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "57ef7d1a-be06-4e20-a7e7-08e388590505",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "103986"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e38cb22f-3499-4108-bdf2-04565deef14c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "e38cb22f-3499-4108-bdf2-04565deef14c",
+                    "title": "I\u2019ll Cry Instead",
+                    "length": "104306"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57ea0bc7-f68b-431e-82d5-1a360ee155c3",
+                "direction": "backward",
+                "recording": {
+                    "id": "57ea0bc7-f68b-431e-82d5-1a360ee155c3",
+                    "title": "I\u2019ll Cry Instead (RM1 takes 6 & 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "adfe88eb-d528-408a-b1e8-4b85daf54127",
+                "direction": "backward",
+                "recording": {
+                    "id": "adfe88eb-d528-408a-b1e8-4b85daf54127",
+                    "title": "I\u2019ll Cry Instead (RS1 takes 6 & 8)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "31dc811a-dc4f-4552-a01e-5f7cc9925bc4",
+                "direction": "backward",
+                "recording": {
+                    "id": "31dc811a-dc4f-4552-a01e-5f7cc9925bc4",
+                    "title": "I\u2019ll Cry Instead (stereo)",
+                    "length": "110000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c54d8515-d3e0-4d84-8300-4a02490fa727",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c54d8515-d3e0-4d84-8300-4a02490fa727",
+                    "title": "R\u00e9jouissance (I'll Cry Instead)",
+                    "length": "110000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "allmusic",
+                "type-id": "ca9c9f46-11bd-423a-b134-9109cbebe9d7",
+                "target": "https://www.allmusic.com/song/mt0007900748",
+                "direction": "backward"
+            },
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-ill-cry-instead-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/18369",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=46",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q2374165",
+                "direction": "backward"
+            }
+        ]
+    }
+}

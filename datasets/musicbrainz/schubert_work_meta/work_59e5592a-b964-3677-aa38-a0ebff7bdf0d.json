@@ -1,0 +1,112 @@
+{
+    "work": {
+        "id": "59e5592a-b964-3677-aa38-a0ebff7bdf0d",
+        "type": "Song",
+        "title": "Nacht und Tr\u00e4ume, D. 827",
+        "language": "deu",
+        "disambiguation": "orchestrated by Reger",
+        "artist-relation-list": [
+            {
+                "type": "composer",
+                "type-id": "d59d99ea-23d4-4a80-b066-edca32ee158f",
+                "target": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                "direction": "backward",
+                "artist": {
+                    "id": "f91e3a88-24ee-4563-8963-fab73d2765ed",
+                    "type": "Person",
+                    "name": "Franz Schubert",
+                    "sort-name": "Schubert, Franz",
+                    "disambiguation": "Austrian composer Franz Peter Schubert"
+                }
+            },
+            {
+                "type": "lyricist",
+                "type-id": "3e48faba-ec01-47fd-8e89-30e81161661c",
+                "target": "3560a18d-f460-43b9-a91f-11883156f9ae",
+                "direction": "backward",
+                "artist": {
+                    "id": "3560a18d-f460-43b9-a91f-11883156f9ae",
+                    "type": "Person",
+                    "name": "Matth\u00e4us von Collin",
+                    "sort-name": "Collin, Matth\u00e4us von"
+                }
+            },
+            {
+                "type": "orchestrator",
+                "type-id": "0a1771e1-8639-4740-8a43-bdafc050c3da",
+                "target": "51f5d4c3-c69a-4203-9281-d585e32aa7ef",
+                "direction": "backward",
+                "artist": {
+                    "id": "51f5d4c3-c69a-4203-9281-d585e32aa7ef",
+                    "type": "Person",
+                    "name": "Max Reger",
+                    "sort-name": "Reger, Max",
+                    "disambiguation": "composer"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8afa70b3-8dec-46b9-b323-6e4316fd98c5",
+                "direction": "backward",
+                "begin": "2002-05",
+                "end": "2002-05",
+                "ended": "true",
+                "recording": {
+                    "id": "8afa70b3-8dec-46b9-b323-6e4316fd98c5",
+                    "title": "Nacht und Tr\u00e4ume, D 827",
+                    "length": "224826"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "58f2e4c0-ebd8-49cf-9f4a-30d310ba7f97",
+                "direction": "backward",
+                "recording": {
+                    "id": "58f2e4c0-ebd8-49cf-9f4a-30d310ba7f97",
+                    "title": "Nacht und Tr\u00e4ume, D. 827",
+                    "length": "255000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "5e7b64b0-232a-4550-9118-18d42bf56e16",
+                "direction": "backward",
+                "recording": {
+                    "id": "5e7b64b0-232a-4550-9118-18d42bf56e16",
+                    "title": "Nacht und Tr\u00e4ume, D. 827",
+                    "length": "196640"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71a3e2a7-5811-4aa8-a142-4f271308c771",
+                "direction": "backward",
+                "recording": {
+                    "id": "71a3e2a7-5811-4aa8-a142-4f271308c771",
+                    "title": "Night and Dreams",
+                    "length": "233000"
+                }
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "orchestration",
+                "type-id": "dd372cb2-5f4d-4dcd-868e-7564782f460b",
+                "target": "20cbe08a-94cb-4181-92ab-86c41634e079",
+                "direction": "backward",
+                "work": {
+                    "id": "20cbe08a-94cb-4181-92ab-86c41634e079",
+                    "type": "Song",
+                    "title": "Nacht und Tr\u00e4ume, D. 827",
+                    "language": "deu"
+                }
+            }
+        ]
+    }
+}

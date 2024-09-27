@@ -1,0 +1,2765 @@
+{
+    "work": {
+        "id": "3d2be76e-8193-307e-bca5-71f9c734c0f0",
+        "type": "Song",
+        "title": "Love Me Do",
+        "language": "eng",
+        "iswc": "T-010.078.385-4",
+        "iswc-list": [
+            "T-010.078.385-4",
+            "T-927.325.528-0"
+        ],
+        "attribute-list": [
+            {
+                "attribute": "ASCAP ID",
+                "value": "896286105"
+            },
+            {
+                "attribute": "SUISA ID",
+                "value": "000009 614 21"
+            },
+            {
+                "attribute": "SPA ID",
+                "value": "6596"
+            },
+            {
+                "attribute": "SIAE ID",
+                "value": "79103246200"
+            },
+            {
+                "attribute": "SGAE ID",
+                "value": "2.060.715"
+            },
+            {
+                "attribute": "SAYCO ID",
+                "value": "702019"
+            },
+            {
+                "attribute": "SAYCE ID",
+                "value": "702019"
+            },
+            {
+                "attribute": "SADAIC ID",
+                "value": "210911"
+            },
+            {
+                "attribute": "SACVEN ID",
+                "value": "3503997"
+            },
+            {
+                "attribute": "SACM ID",
+                "value": "015506511"
+            },
+            {
+                "attribute": "SACEM ID",
+                "value": "64 576 093 11"
+            },
+            {
+                "attribute": "SABAM ID",
+                "value": "000337800"
+            },
+            {
+                "attribute": "PRS tune code",
+                "value": "3053GU"
+            },
+            {
+                "attribute": "ECAD ID",
+                "value": "33904"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "315341"
+            },
+            {
+                "attribute": "COMPASS ID",
+                "value": "8838864"
+            },
+            {
+                "attribute": "BUMA/STEMRA ID",
+                "value": "W-000069213"
+            },
+            {
+                "attribute": "BMI ID",
+                "value": "922183"
+            },
+            {
+                "attribute": "ASCAP ID",
+                "value": "420120505"
+            },
+            {
+                "attribute": "APRA ID",
+                "value": "GW01703253"
+            },
+            {
+                "attribute": "APDAYC ID",
+                "value": "154604"
+            },
+            {
+                "attribute": "APA ID",
+                "value": "2166928"
+            },
+            {
+                "attribute": "AGADU ID",
+                "value": "4970749"
+            },
+            {
+                "attribute": "ACAM ID",
+                "value": "2166928"
+            }
+        ],
+        "artist-relation-list": [
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                "direction": "backward",
+                "begin": "1958",
+                "end": "1962-05",
+                "ended": "true",
+                "artist": {
+                    "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                    "type": "Person",
+                    "name": "John Lennon",
+                    "sort-name": "Lennon, John",
+                    "disambiguation": "The Beatles"
+                }
+            },
+            {
+                "type": "writer",
+                "type-id": "a255bca1-b157-4518-9108-7b147dc3fc68",
+                "target": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                "direction": "backward",
+                "begin": "1958",
+                "end": "1962-05",
+                "ended": "true",
+                "artist": {
+                    "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
+                    "type": "Person",
+                    "name": "Paul McCartney",
+                    "sort-name": "McCartney, Paul",
+                    "disambiguation": "The Beatles"
+                }
+            }
+        ],
+        "label-relation-list": [
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "35f5812b-88d7-4a42-a7ce-70860d34ec8d",
+                "direction": "backward",
+                "label": {
+                    "id": "35f5812b-88d7-4a42-a7ce-70860d34ec8d",
+                    "type": "Publisher",
+                    "name": "Ardmore and Beechwood Ltd.",
+                    "sort-name": "Ardmore and Beechwood Ltd."
+                },
+                "target-credit": "Ardmore & Beechwood Ltd."
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                "direction": "backward",
+                "label": {
+                    "id": "0231562d-dd1b-47b9-8202-5fa5abf8ae5a",
+                    "type": "Publisher",
+                    "name": "Beechwood Music Corp.",
+                    "sort-name": "Beechwood Music Corp."
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "477963a7-581c-4d6e-8e46-3635f6ec5323",
+                "direction": "backward",
+                "label": {
+                    "id": "477963a7-581c-4d6e-8e46-3635f6ec5323",
+                    "type": "Original Production",
+                    "name": "Castle Music",
+                    "sort-name": "Castle Music",
+                    "disambiguation": "AU label of Castle Music Pty. Limited"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "45a4e6b3-2567-4e7d-b872-a412cdf2d0ae",
+                "direction": "backward",
+                "label": {
+                    "id": "45a4e6b3-2567-4e7d-b872-a412cdf2d0ae",
+                    "type": "Publisher",
+                    "name": "EMI Music Publishing",
+                    "sort-name": "EMI Music Publishing",
+                    "disambiguation": "do not use as a release label!"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "fd63c89c-cb1d-49ee-8f22-1c6085d1a958",
+                "direction": "backward",
+                "label": {
+                    "id": "fd63c89c-cb1d-49ee-8f22-1c6085d1a958",
+                    "type": "Publisher",
+                    "name": "Lenono Publishing",
+                    "sort-name": "Lenono Publishing"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "9f46b61c-ce63-45f8-9109-90c0bc7fa1dd",
+                "direction": "backward",
+                "label": {
+                    "id": "9f46b61c-ce63-45f8-9109-90c0bc7fa1dd",
+                    "type": "Publisher",
+                    "name": "McCartney Music",
+                    "sort-name": "McCartney Music"
+                }
+            },
+            {
+                "type": "publishing",
+                "type-id": "05ee6f18-4517-342d-afdf-5897f64276e3",
+                "target": "af5c2b12-4788-4135-8f4c-dc9e2be29264",
+                "direction": "backward",
+                "label": {
+                    "id": "af5c2b12-4788-4135-8f4c-dc9e2be29264",
+                    "type": "Holding",
+                    "name": "MPL Communications Ltd.",
+                    "sort-name": "MPL Communications Ltd.",
+                    "disambiguation": "not for release label use! Paul McCartney-related, London-based company"
+                }
+            }
+        ],
+        "recording-relation-list": [
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b01b3164-d85b-4652-b44f-d61fdc9a6080",
+                "direction": "backward",
+                "begin": "1962-06-06",
+                "end": "1962-06-06",
+                "ended": "true",
+                "recording": {
+                    "id": "b01b3164-d85b-4652-b44f-d61fdc9a6080",
+                    "title": "Love Me Do",
+                    "length": "151760",
+                    "disambiguation": "Anthology 1 version"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f87eb4dd-7e3c-4365-a3c8-f144696f5952",
+                "direction": "backward",
+                "begin": "1962-09-04",
+                "end": "1962-09-04",
+                "ended": "true",
+                "recording": {
+                    "id": "f87eb4dd-7e3c-4365-a3c8-f144696f5952",
+                    "title": "Love Me Do",
+                    "length": "143906",
+                    "disambiguation": "drums: Ringo Starr; original mono studio single mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "049c1880-28da-4af2-a4b1-ba74d0b591bb",
+                "direction": "backward",
+                "begin": "1962-09-04",
+                "end": "1962-09-04",
+                "ended": "true",
+                "recording": {
+                    "id": "049c1880-28da-4af2-a4b1-ba74d0b591bb",
+                    "title": "Love Me Do (take??)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1f518811-7cf9-4bdc-a656-0958e130f312",
+                "direction": "backward",
+                "begin": "1962-09-11",
+                "end": "1962-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "1f518811-7cf9-4bdc-a656-0958e130f312",
+                    "title": "Love Me Do",
+                    "length": "141693",
+                    "disambiguation": "drums: Andy White; original mono studio mix"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7a52b0b-797c-4c36-8900-33b65b089e1a",
+                "direction": "backward",
+                "begin": "1962-09-11",
+                "end": "1962-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "b7a52b0b-797c-4c36-8900-33b65b089e1a",
+                    "title": "Love Me Do (RM take 18)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41509581-c732-473f-b86a-09fc4932b1cb",
+                "direction": "backward",
+                "begin": "1962-09-11",
+                "end": "1962-09-11",
+                "ended": "true",
+                "recording": {
+                    "id": "41509581-c732-473f-b86a-09fc4932b1cb",
+                    "title": "Love Me Do (RM take 18)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b029f886-e86f-41d4-b948-b652bf905c35",
+                "direction": "backward",
+                "begin": "1963-01-22",
+                "end": "1963-01-22",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b029f886-e86f-41d4-b948-b652bf905c35",
+                    "title": "Love Me Do (live at BBC for \u201cSaturday Club\u201d / 26th January, 1963)",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab936696-1198-46e9-91fe-257f6bf47449",
+                "direction": "backward",
+                "begin": "1963-07-10",
+                "end": "1963-07-10",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ab936696-1198-46e9-91fe-257f6bf47449",
+                    "title": "Love Me Do",
+                    "length": "149840",
+                    "disambiguation": "live, 1963\u201007\u201010: Aeolian Hall, London, UK"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ada57cde-240c-4d4f-b260-3d81999c3134",
+                "direction": "backward",
+                "begin": "1963-09-03",
+                "end": "1963-09-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ada57cde-240c-4d4f-b260-3d81999c3134",
+                    "title": "Love Me Do",
+                    "length": "145000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "72f602df-1c15-490d-9ef2-035d020ec49e",
+                "direction": "backward",
+                "begin": "1963-09-03",
+                "end": "1963-09-03",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "72f602df-1c15-490d-9ef2-035d020ec49e",
+                    "title": "Love Me Do (live at BBC for \u201cPop Go The Beatles\u201d / 10th September, 1963)",
+                    "length": "149000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d884f10e-8056-4b68-a9fd-d6355c80d137",
+                "direction": "backward",
+                "begin": "1963-10-16",
+                "end": "1963-10-16",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "d884f10e-8056-4b68-a9fd-d6355c80d137",
+                    "title": "Love Me Do (live at BBC for \u201cEasy Beat\u201d / 20th October, 1963)",
+                    "length": "148741"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6c27d342-7877-4015-b85a-8cf124266a43",
+                "direction": "backward",
+                "begin": "1964-07",
+                "end": "1964-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "6c27d342-7877-4015-b85a-8cf124266a43",
+                    "title": "Love Me Do",
+                    "length": "123000",
+                    "disambiguation": "stereo"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7eb2b123-bfa7-4b76-a08f-418b1684dee6",
+                "direction": "backward",
+                "begin": "1964-07",
+                "end": "1964-07",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7eb2b123-bfa7-4b76-a08f-418b1684dee6",
+                    "title": "Love Me Do",
+                    "length": "123000",
+                    "disambiguation": "mono"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c990c472-d513-4178-b73c-4f0deb18ef99",
+                "ordering-key": "1",
+                "direction": "backward",
+                "begin": "1974-10-20",
+                "end": "1974-10-20",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley",
+                    "partial"
+                ],
+                "recording": {
+                    "id": "c990c472-d513-4178-b73c-4f0deb18ef99",
+                    "title": "Love Me Do / The Jean Genie",
+                    "length": "392000",
+                    "disambiguation": "live, 1974-10-20: The Michigan Palace, Detroit, USA"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    },
+                    {
+                        "type-id": "d2b63be6-91ec-426a-987a-30b47f8aae2d",
+                        "attribute": "partial"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7ac4a8ce-3101-4a59-98e9-57d9d170047a",
+                "direction": "backward",
+                "begin": "2008",
+                "end": "2008",
+                "ended": "true",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "7ac4a8ce-3101-4a59-98e9-57d9d170047a",
+                    "title": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "86dacf06-3fc7-426b-8e69-8e7155a26e9e",
+                "direction": "backward",
+                "begin": "2014-09-22",
+                "end": "2014-09-22",
+                "ended": "true",
+                "attribute-list": [
+                    "cover",
+                    "live"
+                ],
+                "recording": {
+                    "id": "86dacf06-3fc7-426b-8e69-8e7155a26e9e",
+                    "title": "Jean Genie-Love Me Do",
+                    "disambiguation": "live, 2014-09-22: Shepherd\u2019s Bush Empire, London, England"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71006bd0-1532-423c-9048-551db4ce49ff",
+                "direction": "backward",
+                "begin": "2018-12-05",
+                "end": "2018-12-05",
+                "ended": "true",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "71006bd0-1532-423c-9048-551db4ce49ff",
+                    "title": "Love Me Do",
+                    "length": "172773",
+                    "disambiguation": "live, 2018-12-05: Wiener Stadthalle, Wien, Austria"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c023b8cd-b20c-46d0-a8d8-98e7fbbf3f68",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c023b8cd-b20c-46d0-a8d8-98e7fbbf3f68",
+                    "title": "Love Me Do",
+                    "length": "180000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "df315518-e659-45b3-8a9e-988472e6f05c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "df315518-e659-45b3-8a9e-988472e6f05c",
+                    "title": "Love Me Do",
+                    "length": "126000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "03b1834f-977f-4314-bd55-5a1ba7da3445",
+                "direction": "backward",
+                "recording": {
+                    "id": "03b1834f-977f-4314-bd55-5a1ba7da3445",
+                    "title": "Love Me Do",
+                    "length": "139560"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0f9922b2-c84e-42fa-88cb-a26b93de5fb7",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "0f9922b2-c84e-42fa-88cb-a26b93de5fb7",
+                    "title": "Love Me Do",
+                    "length": "41000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9df417f9-3226-47d8-a6d0-a5d9c60140d1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9df417f9-3226-47d8-a6d0-a5d9c60140d1",
+                    "title": "Love Me Do",
+                    "length": "141000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "67ae04a0-2099-4482-8874-3cf67d6980d8",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "67ae04a0-2099-4482-8874-3cf67d6980d8",
+                    "title": "Love Me Do",
+                    "length": "247431"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96ddc9b2-97d2-40cf-88f1-887021eedbee",
+                "direction": "backward",
+                "recording": {
+                    "id": "96ddc9b2-97d2-40cf-88f1-887021eedbee",
+                    "title": "Love Me Do",
+                    "length": "137293"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "11491b8f-0525-4ace-97a6-652619a2dc10",
+                "direction": "backward",
+                "recording": {
+                    "id": "11491b8f-0525-4ace-97a6-652619a2dc10",
+                    "title": "Love Me Do",
+                    "length": "145373"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ba0dc0a4-3823-4245-9e09-e1a6cea76da8",
+                "direction": "backward",
+                "recording": {
+                    "id": "ba0dc0a4-3823-4245-9e09-e1a6cea76da8",
+                    "title": "Love Me Do",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b1a2b265-b895-4b7f-baf4-4dc5f994a07f",
+                "direction": "backward",
+                "recording": {
+                    "id": "b1a2b265-b895-4b7f-baf4-4dc5f994a07f",
+                    "title": "Love Me Do",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "077e689d-ef39-4789-b5ba-aafa120d15a5",
+                "direction": "backward",
+                "recording": {
+                    "id": "077e689d-ef39-4789-b5ba-aafa120d15a5",
+                    "title": "Love Me Do",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c1a2f154-48e1-4464-b7aa-774fd3d07d5c",
+                "direction": "backward",
+                "recording": {
+                    "id": "c1a2f154-48e1-4464-b7aa-774fd3d07d5c",
+                    "title": "Love Me Do"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2cc6696e-8229-4246-840b-a770afc7f8fb",
+                "direction": "backward",
+                "recording": {
+                    "id": "2cc6696e-8229-4246-840b-a770afc7f8fb",
+                    "title": "Love Me Do",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d6a4fe53-b629-4e10-aa96-81506daf00fb",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "d6a4fe53-b629-4e10-aa96-81506daf00fb",
+                    "title": "Love Me Do",
+                    "length": "140592"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "feff130d-9c71-455d-b16a-fe851203ca61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "feff130d-9c71-455d-b16a-fe851203ca61",
+                    "title": "Love Me Do",
+                    "length": "140573"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc530c96-2224-4f60-a352-2c600ab3aca8",
+                "direction": "backward",
+                "recording": {
+                    "id": "fc530c96-2224-4f60-a352-2c600ab3aca8",
+                    "title": "Love Me Do"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2ee5f721-876d-4450-828b-32afd7118eb9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2ee5f721-876d-4450-828b-32afd7118eb9",
+                    "title": "Love Me Do",
+                    "length": "107000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "270e0f7d-1049-4625-acf8-10442fd17e07",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "270e0f7d-1049-4625-acf8-10442fd17e07",
+                    "title": "Love Me Do",
+                    "length": "210000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec6528e3-fbe3-4c45-900d-61de4c218b9f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ec6528e3-fbe3-4c45-900d-61de4c218b9f",
+                    "title": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b9ec7fa9-4c19-49a8-a1b9-988542ea97f9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b9ec7fa9-4c19-49a8-a1b9-988542ea97f9",
+                    "title": "Love Me Do",
+                    "length": "224560"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6a58f51f-d0a0-4b0f-8286-dbb432b8749a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6a58f51f-d0a0-4b0f-8286-dbb432b8749a",
+                    "title": "Love Me Do",
+                    "length": "204533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c480cfb1-2970-4676-ab5b-3c170a6de2ea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "c480cfb1-2970-4676-ab5b-3c170a6de2ea",
+                    "title": "Love Me Do",
+                    "length": "195000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ca840483-c28f-4bb5-98e9-fe52d45036a1",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "ca840483-c28f-4bb5-98e9-fe52d45036a1",
+                    "title": "Love Me Do",
+                    "length": "138000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "689a69a1-afe7-43f1-b55f-e576fd21191f",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "689a69a1-afe7-43f1-b55f-e576fd21191f",
+                    "title": "Love Me Do",
+                    "length": "207000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57e4fcfa-eacb-4eb7-8f3f-23f8d249cebf",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "57e4fcfa-eacb-4eb7-8f3f-23f8d249cebf",
+                    "title": "Love Me Do",
+                    "length": "166506"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1df3355-7efe-47fb-aef7-e9adad816b4a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "a1df3355-7efe-47fb-aef7-e9adad816b4a",
+                    "title": "Love Me Do",
+                    "length": "128906"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "0b22d998-7d1b-4ed5-8628-891d47183782",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "0b22d998-7d1b-4ed5-8628-891d47183782",
+                    "title": "Love Me Do",
+                    "length": "49226"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8eb6f0ba-fc76-4626-a665-8a52dbc0a861",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "8eb6f0ba-fc76-4626-a665-8a52dbc0a861",
+                    "title": "Love Me Do",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "71ec31f1-d13d-4a69-9c36-2b2b1ac4c280",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "71ec31f1-d13d-4a69-9c36-2b2b1ac4c280",
+                    "title": "Love Me Do",
+                    "length": "151000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b96946b2-15de-495f-9030-c103846babec",
+                "direction": "backward",
+                "recording": {
+                    "id": "b96946b2-15de-495f-9030-c103846babec",
+                    "title": "Love Me Do",
+                    "length": "144906"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ab982256-ed08-43ac-b727-09295da4d035",
+                "direction": "backward",
+                "recording": {
+                    "id": "ab982256-ed08-43ac-b727-09295da4d035",
+                    "title": "Love Me Do",
+                    "length": "146160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9910b48d-f61e-452e-b938-4bf322fe6f27",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "9910b48d-f61e-452e-b938-4bf322fe6f27",
+                    "title": "Love Me Do",
+                    "length": "100133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e6cf4a8a-c307-4ee9-a14d-1901353f1a61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "e6cf4a8a-c307-4ee9-a14d-1901353f1a61",
+                    "title": "Love Me Do",
+                    "length": "167933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fd55060a-fa80-4c52-a293-2db7d12662ff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fd55060a-fa80-4c52-a293-2db7d12662ff",
+                    "title": "Love Me Do",
+                    "length": "145000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2b0ece76-53a9-4060-9677-822586cba4d4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "2b0ece76-53a9-4060-9677-822586cba4d4",
+                    "title": "Love Me Do",
+                    "length": "185000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "6165e9c0-e76f-4f35-8d88-e2d564d09912",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "6165e9c0-e76f-4f35-8d88-e2d564d09912",
+                    "title": "Love Me Do",
+                    "length": "157773"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "41d91d54-372f-47b7-9e17-898dde5e8c4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "41d91d54-372f-47b7-9e17-898dde5e8c4d",
+                    "title": "Love Me Do",
+                    "length": "185626"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "3e0b174c-3cc8-4c80-9c75-28cd0ac204cc",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "3e0b174c-3cc8-4c80-9c75-28cd0ac204cc",
+                    "title": "Love Me Do",
+                    "length": "134821"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd0d9b94-216e-4477-ab0b-ae7f48940a3d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "cd0d9b94-216e-4477-ab0b-ae7f48940a3d",
+                    "title": "Love Me Do",
+                    "length": "212000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "17072d16-519c-47ad-a64e-cc030e1a510c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "17072d16-519c-47ad-a64e-cc030e1a510c",
+                    "title": "Love Me Do",
+                    "length": "261000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "2d9b1a90-9dcc-4274-a882-f2b6467cb291",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "2d9b1a90-9dcc-4274-a882-f2b6467cb291",
+                    "title": "Love Me Do",
+                    "length": "167933"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fe03ffbf-741c-4a69-ac5e-dae8389355d5",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "fe03ffbf-741c-4a69-ac5e-dae8389355d5",
+                    "title": "Love Me Do",
+                    "length": "156000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc2ba567-ac3c-4c45-80f0-0ee5e7920f47",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "dc2ba567-ac3c-4c45-80f0-0ee5e7920f47",
+                    "title": "Love Me Do",
+                    "length": "148213"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "4083b1fa-c752-4b55-ab4e-0aa26c76a694",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "live"
+                ],
+                "recording": {
+                    "id": "4083b1fa-c752-4b55-ab4e-0aa26c76a694",
+                    "title": "Love Me Do",
+                    "length": "174000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "436f47cb-2ffc-48a4-8a0a-babf20017fe2",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "436f47cb-2ffc-48a4-8a0a-babf20017fe2",
+                    "title": "Love Me Do",
+                    "length": "154000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "fc96e554-e7f0-45c2-a03e-611405fcbb52",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "fc96e554-e7f0-45c2-a03e-611405fcbb52",
+                    "title": "Love Me Do",
+                    "length": "156640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ec8db54d-1890-470a-a6ab-817fb4ec677a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "ec8db54d-1890-470a-a6ab-817fb4ec677a",
+                    "title": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "677cd94d-1239-4684-9967-88aefe0c98a9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "677cd94d-1239-4684-9967-88aefe0c98a9",
+                    "title": "Love Me Do",
+                    "length": "261173"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "33ff32ba-47d9-4f31-b173-caa5df77e6c6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "33ff32ba-47d9-4f31-b173-caa5df77e6c6",
+                    "title": "Love Me Do",
+                    "length": "197000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90ecbe38-a3e1-4add-89fd-0606ccd2c8a4",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "90ecbe38-a3e1-4add-89fd-0606ccd2c8a4",
+                    "title": "Love Me Do",
+                    "length": "197381"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd2ca086-3578-4f55-a54f-267e826ad763",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd2ca086-3578-4f55-a54f-267e826ad763",
+                    "title": "Love Me Do",
+                    "length": "100000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c65990e0-8b93-4bcb-8b51-7ff36084e1c0",
+                "direction": "backward",
+                "recording": {
+                    "id": "c65990e0-8b93-4bcb-8b51-7ff36084e1c0",
+                    "title": "Love Me Do",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "829bf147-81ed-4181-bfe5-a05ed94ce229",
+                "direction": "backward",
+                "recording": {
+                    "id": "829bf147-81ed-4181-bfe5-a05ed94ce229",
+                    "title": "Love Me Do",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "673e3d79-c444-41cb-82ca-1688b48c3c91",
+                "direction": "backward",
+                "recording": {
+                    "id": "673e3d79-c444-41cb-82ca-1688b48c3c91",
+                    "title": "Love Me Do",
+                    "length": "143613"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a7013d00-d08d-40f3-a80d-402a4e782159",
+                "direction": "backward",
+                "recording": {
+                    "id": "a7013d00-d08d-40f3-a80d-402a4e782159",
+                    "title": "Love Me Do"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7a37b1fe-23ed-4b05-9ae5-0deddbdd1dd6",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "7a37b1fe-23ed-4b05-9ae5-0deddbdd1dd6",
+                    "title": "Love Me Do",
+                    "length": "136000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cd4d358d-5ffa-4214-ac48-9360d37effff",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "cd4d358d-5ffa-4214-ac48-9360d37effff",
+                    "title": "Love Me Do",
+                    "length": "101000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "08a278dd-296d-4153-9605-65c24cb6a252",
+                "direction": "backward",
+                "recording": {
+                    "id": "08a278dd-296d-4153-9605-65c24cb6a252",
+                    "title": "Love Me Do",
+                    "length": "161000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "25460478-c211-4938-b5af-c2aa66cb63a2",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "25460478-c211-4938-b5af-c2aa66cb63a2",
+                    "title": "Love Me Do",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "42235efc-377e-44d1-8852-3c815f41088c",
+                "direction": "backward",
+                "recording": {
+                    "id": "42235efc-377e-44d1-8852-3c815f41088c",
+                    "title": "Love Me Do",
+                    "length": "144106"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "20226e8e-b7d0-4264-bdc9-751bbcc24eb5",
+                "direction": "backward",
+                "recording": {
+                    "id": "20226e8e-b7d0-4264-bdc9-751bbcc24eb5",
+                    "title": "Love Me Do"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e3a6ddf8-9774-47d2-916a-d5c6b6df4ccf",
+                "direction": "backward",
+                "recording": {
+                    "id": "e3a6ddf8-9774-47d2-916a-d5c6b6df4ccf",
+                    "title": "Love Me Do",
+                    "length": "145000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "513bae19-4f7b-41b3-b3ac-9aa16611c5fe",
+                "direction": "backward",
+                "recording": {
+                    "id": "513bae19-4f7b-41b3-b3ac-9aa16611c5fe",
+                    "title": "Love Me Do",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dba1cb97-a9b5-481d-a93a-4e6537b009ae",
+                "direction": "backward",
+                "recording": {
+                    "id": "dba1cb97-a9b5-481d-a93a-4e6537b009ae",
+                    "title": "Love Me Do"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "00575511-5325-4bfd-9f86-17ef84d7b5e5",
+                "direction": "backward",
+                "recording": {
+                    "id": "00575511-5325-4bfd-9f86-17ef84d7b5e5",
+                    "title": "Love Me Do",
+                    "length": "140093"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "de9f9e37-cd1d-42fa-8674-360e11a7764e",
+                "direction": "backward",
+                "recording": {
+                    "id": "de9f9e37-cd1d-42fa-8674-360e11a7764e",
+                    "title": "Love Me Do",
+                    "length": "142040"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9e261257-0ed8-4d1a-9d98-8847e94b659b",
+                "direction": "backward",
+                "recording": {
+                    "id": "9e261257-0ed8-4d1a-9d98-8847e94b659b",
+                    "title": "Love Me Do",
+                    "length": "142066"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "eda0ac0a-1e46-4398-b1f2-8d95cb323aaa",
+                "direction": "backward",
+                "recording": {
+                    "id": "eda0ac0a-1e46-4398-b1f2-8d95cb323aaa",
+                    "title": "Love Me Do",
+                    "length": "144493"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "bbb22c98-417c-465a-a317-acba1e6e02aa",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "bbb22c98-417c-465a-a317-acba1e6e02aa",
+                    "title": "Love Me Do",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "84cf0f8c-dd9f-46ae-8fc7-32111e8c29e8",
+                "direction": "backward",
+                "recording": {
+                    "id": "84cf0f8c-dd9f-46ae-8fc7-32111e8c29e8",
+                    "title": "Love Me Do",
+                    "length": "141786"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c57f6abc-20bf-4cf8-a8ec-50d74588cae4",
+                "direction": "backward",
+                "recording": {
+                    "id": "c57f6abc-20bf-4cf8-a8ec-50d74588cae4",
+                    "title": "Love Me Do",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8dc10d5f-2b21-40ec-b6a2-ac560a12c4ce",
+                "direction": "backward",
+                "recording": {
+                    "id": "8dc10d5f-2b21-40ec-b6a2-ac560a12c4ce",
+                    "title": "Love Me Do",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6803029-2baa-4e17-ac8e-7c9d52a23693",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6803029-2baa-4e17-ac8e-7c9d52a23693",
+                    "title": "Love Me Do",
+                    "length": "144000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "61be6699-8dd6-422a-861c-b7ce652ac142",
+                "direction": "backward",
+                "recording": {
+                    "id": "61be6699-8dd6-422a-861c-b7ce652ac142",
+                    "title": "Love Me Do",
+                    "length": "145000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a1d96191-0565-4f09-b9a8-4d54d148d770",
+                "direction": "backward",
+                "recording": {
+                    "id": "a1d96191-0565-4f09-b9a8-4d54d148d770",
+                    "title": "Love Me Do",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cf97ab0b-735f-4a29-9e97-1079c191673f",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "cf97ab0b-735f-4a29-9e97-1079c191673f",
+                    "title": "Love Me Do",
+                    "length": "165000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "1898030c-6d0c-46eb-a24e-a65b24a90465",
+                "direction": "backward",
+                "recording": {
+                    "id": "1898030c-6d0c-46eb-a24e-a65b24a90465",
+                    "title": "Love Me Do",
+                    "length": "142160"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "8975cbf4-1f1f-46cc-bbf8-fcf264c70a38",
+                "direction": "backward",
+                "recording": {
+                    "id": "8975cbf4-1f1f-46cc-bbf8-fcf264c70a38",
+                    "title": "Love Me Do",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7db1fdb4-159b-4bae-8ea6-aae9c32422e8",
+                "direction": "backward",
+                "recording": {
+                    "id": "7db1fdb4-159b-4bae-8ea6-aae9c32422e8",
+                    "title": "Love Me Do",
+                    "length": "143133"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "068fb8c3-a3ae-4f17-9039-42c5dab0170b",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "068fb8c3-a3ae-4f17-9039-42c5dab0170b",
+                    "title": "Love Me Do",
+                    "length": "146000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "538a6006-cb27-4a3f-8f63-4a8edf59f327",
+                "direction": "backward",
+                "recording": {
+                    "id": "538a6006-cb27-4a3f-8f63-4a8edf59f327",
+                    "title": "Love Me Do",
+                    "length": "141533"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e54c5e7a-ea10-462b-9016-566aeb65d1e6",
+                "direction": "backward",
+                "recording": {
+                    "id": "e54c5e7a-ea10-462b-9016-566aeb65d1e6",
+                    "title": "Love Me Do",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "510c7ae3-3cca-4aca-9a76-0359123d6c9c",
+                "direction": "backward",
+                "recording": {
+                    "id": "510c7ae3-3cca-4aca-9a76-0359123d6c9c",
+                    "title": "Love Me Do",
+                    "length": "139000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d7d971e3-b7d7-4348-97b5-081cf7e40120",
+                "direction": "backward",
+                "recording": {
+                    "id": "d7d971e3-b7d7-4348-97b5-081cf7e40120",
+                    "title": "Love Me Do",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a6447af3-0d90-4f45-8db2-aae30a55070d",
+                "direction": "backward",
+                "recording": {
+                    "id": "a6447af3-0d90-4f45-8db2-aae30a55070d",
+                    "title": "Love Me Do",
+                    "length": "137000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "e7298a1c-5e5e-4d44-9462-35c1fab031a3",
+                "direction": "backward",
+                "recording": {
+                    "id": "e7298a1c-5e5e-4d44-9462-35c1fab031a3",
+                    "title": "Love Me Do",
+                    "length": "129000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f1364b84-60c2-49a6-8840-6e13754e4fbe",
+                "direction": "backward",
+                "recording": {
+                    "id": "f1364b84-60c2-49a6-8840-6e13754e4fbe",
+                    "title": "Love Me Do",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cdbb9906-89fe-4bac-a504-72ce4b3fc7ed",
+                "direction": "backward",
+                "recording": {
+                    "id": "cdbb9906-89fe-4bac-a504-72ce4b3fc7ed",
+                    "title": "Love Me Do",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "96a64efe-8813-4ac3-b6a8-60d40f2f5359",
+                "direction": "backward",
+                "recording": {
+                    "id": "96a64efe-8813-4ac3-b6a8-60d40f2f5359",
+                    "title": "Love Me Do",
+                    "length": "106000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c7923a66-8783-4f26-b06a-44e550cffbec",
+                "direction": "backward",
+                "recording": {
+                    "id": "c7923a66-8783-4f26-b06a-44e550cffbec",
+                    "title": "Love Me Do",
+                    "length": "140000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c69e1b2a-b1c5-4f13-831a-b19a51b7e4bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "c69e1b2a-b1c5-4f13-831a-b19a51b7e4bc",
+                    "title": "Love Me Do",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ebafce2f-0672-4419-8c49-1895ca1dd4c1",
+                "direction": "backward",
+                "recording": {
+                    "id": "ebafce2f-0672-4419-8c49-1895ca1dd4c1",
+                    "title": "Love Me Do",
+                    "length": "143000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d8e0aceb-f3a9-418e-a570-e3993089d89f",
+                "direction": "backward",
+                "recording": {
+                    "id": "d8e0aceb-f3a9-418e-a570-e3993089d89f",
+                    "title": "Love Me Do",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dc71dbdf-e879-40de-97c5-caf92ea4acab",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "dc71dbdf-e879-40de-97c5-caf92ea4acab",
+                    "title": "Love Me Do",
+                    "length": "36000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b45c527f-2818-4c0c-9b70-7f260b36d39d",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "b45c527f-2818-4c0c-9b70-7f260b36d39d",
+                    "title": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef380f20-6592-4bef-891c-44a45cd31204",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "ef380f20-6592-4bef-891c-44a45cd31204",
+                    "title": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "45fc3daf-b7f4-4111-bf59-a2fdba6170bc",
+                "direction": "backward",
+                "recording": {
+                    "id": "45fc3daf-b7f4-4111-bf59-a2fdba6170bc",
+                    "title": "Love Me Do",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "92a054d4-50cd-4dbb-b9c3-2b79ff9228e8",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "92a054d4-50cd-4dbb-b9c3-2b79ff9228e8",
+                    "title": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "d1d09dc2-94c7-49b1-a706-89627f655d1d",
+                "direction": "backward",
+                "recording": {
+                    "id": "d1d09dc2-94c7-49b1-a706-89627f655d1d",
+                    "title": "Love Me Do",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "cc61a490-55f8-4db5-b690-6cba0a709ddb",
+                "direction": "backward",
+                "recording": {
+                    "id": "cc61a490-55f8-4db5-b690-6cba0a709ddb",
+                    "title": "Love Me Do",
+                    "length": "140720"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "99f35b2a-2025-4129-a164-2db4e07571ab",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "99f35b2a-2025-4129-a164-2db4e07571ab",
+                    "title": "Love Me Do",
+                    "length": "172640"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "66c392da-6bb9-4694-85d5-501d99206293",
+                "direction": "backward",
+                "attribute-list": [
+                    "live"
+                ],
+                "recording": {
+                    "id": "66c392da-6bb9-4694-85d5-501d99206293",
+                    "title": "Love Me Do",
+                    "length": "154133"
+                },
+                "attributes": [
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "14ba2d6b-6958-40fe-a1ff-897897e0b88c",
+                "direction": "backward",
+                "recording": {
+                    "id": "14ba2d6b-6958-40fe-a1ff-897897e0b88c",
+                    "title": "Love Me Do",
+                    "length": "146706"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "902ed2ab-7f62-4eef-b99d-4feca1da341e",
+                "direction": "backward",
+                "recording": {
+                    "id": "902ed2ab-7f62-4eef-b99d-4feca1da341e",
+                    "title": "Love Me Do",
+                    "length": "141000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "665ded7d-aa54-420c-a9aa-5d19d6e9596a",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "665ded7d-aa54-420c-a9aa-5d19d6e9596a",
+                    "title": "Love Me Do",
+                    "length": "223000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "af0f87c0-9693-4065-907a-8eeafc4d4f3c",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "af0f87c0-9693-4065-907a-8eeafc4d4f3c",
+                    "title": "Love Me Do",
+                    "length": "154000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5bc1c57-5ce9-4d20-a709-0519f1ad9b61",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "c5bc1c57-5ce9-4d20-a709-0519f1ad9b61",
+                    "title": "Love Me Do",
+                    "length": "172000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "544b27bf-ec46-430d-bf39-fbf9ba2101fa",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "544b27bf-ec46-430d-bf39-fbf9ba2101fa",
+                    "title": "Love Me Do",
+                    "length": "143053"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "dd669fee-b3bf-4bef-b239-b513357d6cea",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "dd669fee-b3bf-4bef-b239-b513357d6cea",
+                    "title": "Love Me Do",
+                    "length": "151533"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "90409179-c277-47c4-bab0-04e4e8b2752a",
+                "direction": "backward",
+                "recording": {
+                    "id": "90409179-c277-47c4-bab0-04e4e8b2752a",
+                    "title": "Love Me Do (5.1 mix)",
+                    "length": "145000",
+                    "video": "true"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "57b22208-eb94-47b2-90d3-a78a7c013838",
+                "direction": "backward",
+                "recording": {
+                    "id": "57b22208-eb94-47b2-90d3-a78a7c013838",
+                    "title": "Love Me Do (acoustic version)",
+                    "length": "84866"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ffb3195f-06fe-4db9-9b56-bfa0391cf1ab",
+                "direction": "backward",
+                "recording": {
+                    "id": "ffb3195f-06fe-4db9-9b56-bfa0391cf1ab",
+                    "title": "Love Me Do (First version)",
+                    "length": "142000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "ef41d655-60be-4405-9bce-08b92e66cc19",
+                "direction": "backward",
+                "recording": {
+                    "id": "ef41d655-60be-4405-9bce-08b92e66cc19",
+                    "title": "Love Me Do (home tape)",
+                    "length": "84840"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "326261c6-8df2-4890-bfe4-1a0f5c686217",
+                "direction": "backward",
+                "attribute-list": [
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "326261c6-8df2-4890-bfe4-1a0f5c686217",
+                    "title": "Love Me Do (karaoke)",
+                    "length": "166000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b7124da2-88ee-4694-b13c-404e479704bd",
+                "direction": "backward",
+                "recording": {
+                    "id": "b7124da2-88ee-4694-b13c-404e479704bd",
+                    "title": "Love Me Do (mono single with Ringo)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "f8b81ec8-e863-4615-8418-397014382b6c",
+                "direction": "backward",
+                "recording": {
+                    "id": "f8b81ec8-e863-4615-8418-397014382b6c",
+                    "title": "Love Me Do (mono)",
+                    "length": "146000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "a8d509ba-6a2c-4ca8-ab69-e37348b6e5de",
+                "direction": "backward",
+                "recording": {
+                    "id": "a8d509ba-6a2c-4ca8-ab69-e37348b6e5de",
+                    "title": "Love Me Do (original single version)",
+                    "length": "135000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "b3a3c70a-3c46-4b97-aec6-fba2e0582870",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover"
+                ],
+                "recording": {
+                    "id": "b3a3c70a-3c46-4b97-aec6-fba2e0582870",
+                    "title": "Love Me Do (reprise)",
+                    "length": "197146"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "13f9f27e-9f8a-4bcc-972b-fe61d65d4a1e",
+                "direction": "backward",
+                "recording": {
+                    "id": "13f9f27e-9f8a-4bcc-972b-fe61d65d4a1e",
+                    "title": "Love Me Do (RM18)"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "40ee57d1-5bd3-4671-a6af-64864c2c3ef6",
+                "direction": "backward",
+                "recording": {
+                    "id": "40ee57d1-5bd3-4671-a6af-64864c2c3ef6",
+                    "title": "Love Me Do (stereo)",
+                    "length": "140426"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "9c1fa0dd-36dd-4ff6-a6ec-977c9f66bdd9",
+                "direction": "backward",
+                "recording": {
+                    "id": "9c1fa0dd-36dd-4ff6-a6ec-977c9f66bdd9",
+                    "title": "Love Me Do (take 18)",
+                    "length": "150000"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "c5bd54b0-05fd-4d92-b987-e5b92908dee8",
+                "direction": "backward",
+                "recording": {
+                    "id": "c5bd54b0-05fd-4d92-b987-e5b92908dee8",
+                    "title": "Love Me Do (with Ringo Starr)",
+                    "length": "145960"
+                }
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "81c4ddca-5884-4d5e-9679-c72223902f4d",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental"
+                ],
+                "recording": {
+                    "id": "81c4ddca-5884-4d5e-9679-c72223902f4d",
+                    "title": "Love Me Do (\u30e9\u30d6\u30fb\u30df\u30fc\u30fb\u30c9\u30a5)",
+                    "length": "163426"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "43718c9f-f62d-4923-a431-b50faf3cd6f6",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "instrumental",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "43718c9f-f62d-4923-a431-b50faf3cd6f6",
+                    "title": "Love Me Do / Eight Days a Week",
+                    "length": "347000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "c031ed4f-c9bb-4394-8cf5-e8ce4db512ae",
+                        "attribute": "instrumental"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "047b28a5-340e-45d4-808c-bf1d8db0611e",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "047b28a5-340e-45d4-808c-bf1d8db0611e",
+                    "title": "Love Me Do / Help"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            },
+            {
+                "type": "performance",
+                "type-id": "a3005666-a872-32c3-ad06-98af558e99b0",
+                "target": "7474f452-d508-4f85-a90b-069f1f288ff9",
+                "direction": "backward",
+                "attribute-list": [
+                    "cover",
+                    "live",
+                    "medley"
+                ],
+                "recording": {
+                    "id": "7474f452-d508-4f85-a90b-069f1f288ff9",
+                    "title": "Love Me Do / Please Please Me / From Me to You / Twist and Shout",
+                    "length": "315000"
+                },
+                "attributes": [
+                    {
+                        "type-id": "1e8536bd-6eda-3822-8e78-1c0f4d3d2113",
+                        "attribute": "cover"
+                    },
+                    {
+                        "type-id": "70007db6-a8bc-46d7-a770-80e6a0bb551a",
+                        "attribute": "live"
+                    },
+                    {
+                        "type-id": "37da3398-5d1b-4acb-be25-df95e33e423c",
+                        "attribute": "medley"
+                    }
+                ]
+            }
+        ],
+        "url-relation-list": [
+            {
+                "type": "lyrics",
+                "type-id": "e38e65aa-75e0-42ba-ace0-072aeb91a538",
+                "target": "https://genius.com/The-beatles-love-me-do-lyrics",
+                "direction": "backward"
+            },
+            {
+                "type": "secondhandsongs",
+                "type-id": "b80dff64-9560-445a-b824-c8b432d77a52",
+                "target": "https://secondhandsongs.com/work/14229",
+                "direction": "backward"
+            },
+            {
+                "type": "songfacts",
+                "type-id": "80402bbc-1aec-41d1-a5be-b599b89bc3c3",
+                "target": "http://www.songfacts.com/detail.php?id=9",
+                "direction": "backward"
+            },
+            {
+                "type": "wikidata",
+                "type-id": "587fdd8f-080e-46a9-97af-6425ebbcb3a2",
+                "target": "https://www.wikidata.org/wiki/Q754877",
+                "direction": "backward"
+            }
+        ],
+        "work-relation-list": [
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "960285db-6d2a-445d-89b9-b06eb3592cf5",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "960285db-6d2a-445d-89b9-b06eb3592cf5",
+                    "type": "Song",
+                    "title": "Da'm da'm d'amur (Love Me Do)",
+                    "language": "roh"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "3582bdad-aa06-4e28-b351-1efd34aa5a6f",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "3582bdad-aa06-4e28-b351-1efd34aa5a6f",
+                    "type": "Song",
+                    "title": "Jung wie Du",
+                    "language": "deu",
+                    "disambiguation": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "9c395f9c-5c71-41d5-baf5-4809290e2295",
+                "direction": "forward",
+                "attribute-list": [
+                    "parody"
+                ],
+                "work": {
+                    "id": "9c395f9c-5c71-41d5-baf5-4809290e2295",
+                    "type": "Song",
+                    "title": "Love the Jews",
+                    "language": "eng"
+                },
+                "attributes": [
+                    {
+                        "type-id": "d73de9d3-934b-419c-8c83-2e48a5773b14",
+                        "attribute": "parody"
+                    }
+                ]
+            },
+            {
+                "type": "other version",
+                "type-id": "7440b539-19ab-4243-8c03-4f5942ca2218",
+                "target": "297781db-51de-4819-8317-e7e400d42eb7",
+                "direction": "forward",
+                "attribute-list": [
+                    "translated"
+                ],
+                "work": {
+                    "id": "297781db-51de-4819-8317-e7e400d42eb7",
+                    "type": "Song",
+                    "title": "J'en suis fou",
+                    "language": "fra",
+                    "disambiguation": "Love Me Do"
+                },
+                "attributes": [
+                    {
+                        "type-id": "ed11fcb1-5a18-4e1d-b12c-633ed19c8ee1",
+                        "attribute": "translated"
+                    }
+                ]
+            }
+        ]
+    }
+}
